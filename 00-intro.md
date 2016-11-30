@@ -33,4 +33,10 @@ One of the key things we need to get out of the way is this spelling issue. In m
 
 Of course, it's got piles of names in different languages. *Stikkem* *Vaggel* *Sacrificium* *RuggerFucker* But what is the correct name of the game?
 
-To answer that I had to track down a sub-librarian. Officially bludbol has been played for a little less than 150 MSec. There are several spurious mythological versions of an origin story trying to fake a connection to gods and demons. That demons and deities play the game now is hard to dispute but it's still a little weird.
+To answer that I had to track down a sub-librarian. Officially bludbol has been played for a little less than 150 MSec. There are several spurious mythological versions of an origin story trying to fake a connection to gods and demons. That demons and deities play the game now is hard to dispute but also a little weird.
+
+The first recorded match was pretty recognizable to modern fans. It was a means of settling a wager between two aristocratic assholes. They gathered a couple of mobs and had them fight. At some point a bristled pig became the focus of attention (it's unclear if the pig was also an aristocrat, but most agreed it was an asshole). There was chasing and capturing and confining of the pig to specified zones. Blah blah blah. By the end one side had controlled the pig enough to become the victor and marginally less blood was shed than if they'd gone ahead with the murder plan they'd arrived in the street with.
+
+This story is, of course, bullshit. It's a fine origin story but has little to do with the game as it is played. Not in Stacksburg, and I'd venture not anywhere else.
+
+Bludbol in the Stacks started and with money, coercion and unchecked aggression.
