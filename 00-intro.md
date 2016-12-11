@@ -16,3 +16,27 @@ So let's talk about bludbol.
 
 # etymology and extracts
 
+`bludbol
+: a physical sport involving moving a ball through a defensive line of opponents into a specifed zone
+: an excuse for bloodshed`
+
+One of the key things we need to get out of the way is this spelling issue. In my interviews I've heard a huge variety of pronunciations and slang terms for the game, but three variants of the 'official' title persist.
+
+1. rhymes with "bubble" but more slobbery
+  This variant is used most by former players. I'm pretty sure it's because of the paucity of teeth former players tend to end up with.
+
+2. "blue-d bowl"
+  You can actually trace the origin of this variant to an upstalk announcer from a generation ago. A real foppish sort, he hated that he had to talk about people trying to bash each other's brains in for a living and never once listened to anyone who knew what they were talking about. (You'll hear more about him later.) Fans are pretty divided on this pronunciation, and saying it, either sincerely or ironically is more of a statement than most casual fans would knowingly like to make.
+
+3. "blood ball"
+  This is the most common pronunciation in Stacksburg regardless of dialect. It's what you'd say most places if you wanted to be understood. Broadcasters tend to use it. Casual fans too. You won't go wrong.
+
+Of course, it's got piles of names in different languages. *Stikkem* *Vaggel* *Sacrificium* *RuggerFucker* But what is the correct name of the game?
+
+To answer that I had to track down a sub-librarian. Officially bludbol has been played for a little less than 150 MSec. There are several spurious mythological versions of an origin story trying to fake a connection to gods and demons. That demons and deities play the game now is hard to dispute but also a little weird.
+
+The first recorded match was pretty recognizable to modern fans. It was a means of settling a wager between two aristocratic assholes. They gathered a couple of mobs and had them fight. At some point a bristled pig became the focus of attention (it's unclear if the pig was also an aristocrat, but most agreed it was an asshole). There was chasing and capturing and confining of the pig to specified zones. Blah blah blah. By the end one side had controlled the pig enough to become the victor and marginally less blood was shed than if they'd gone ahead with the murder plan they'd arrived in the street with.
+
+This story is, of course, bullshit. It's a fine origin story but has little to do with the game as it is played. Not in Stacksburg, and I'd venture not anywhere else.
+
+Bludbol in the Stacks started and with money, coercion and unchecked aggression.
