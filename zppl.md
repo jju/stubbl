@@ -1,4 +1,4 @@
-Kayro Jane [KRJ]
+Kayro Jane [KRJ][]
 
 [KRJ]: the writer of this story
 
