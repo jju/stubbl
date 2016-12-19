@@ -16,11 +16,11 @@ Another crowd might be the abolishment of class that happens without the plannin
 
 I like the idea that KRJ starts to argue the idea that though BB players are exploited, maybe that's something to be gotten rid of through making everyone play. But would that get rid of the class issue? The means of survival? The basic economics?
 
-[1]: Jameson, Fredric. 2016. An American Utopia. *An American Utopia: Dual Power and the Universal Army* ed. Slavoj Zizek. 1-96. Verso.
+[^1]: Jameson, Fredric. 2016. An American Utopia. *An American Utopia: Dual Power and the Universal Army* ed. Slavoj Zizek. 1-96. Verso.
 
-[2]: ibid. 81.
+[^2]: ibid. 81.
 
-[3]: Dean, Jodi. 2016. Dual Power Redux. *An American Utopia: Dual Power and the Universal Army* ed. Slavoj Zizek. 105-132. Verso.
+[^3]: Dean, Jodi. 2016. Dual Power Redux. *An American Utopia: Dual Power and the Universal Army* ed. Slavoj Zizek. 105-132. Verso.
 
 [KRJ]: Kayro Jane, our book's narrator.
 

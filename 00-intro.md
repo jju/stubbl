@@ -39,4 +39,4 @@ The first recorded match was pretty recognizable to modern fans. It was a means 
 
 This story is, of course, bullshit. It's a fine origin story but has little to do with the game as it is played. Not in Stacksburg, and I'd venture not anywhere else.
 
-Bludbol in the Stacks started and with money, coercion and unchecked aggression.
+Bludbol in the Stacks started and with money, coercion and unchecked aggression. Where it ended up is... well I shouldn't use up all my sportswriter clichés just yet.
