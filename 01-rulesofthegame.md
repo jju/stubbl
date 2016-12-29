@@ -30,12 +30,55 @@ Early in the BRL - in the Proving Grounds tournaments at least - each team broug
 
 > Need better anecdote about what was substituted for a ball
 
-"I heard from another ref that one time one of the Kicking Mules brought in an explosive dvice to substitute for a ball. That would have been scary, but mostly if you were right next to it I guess. Usually that didn't happen. I think the Roadkillz [RKG] tried something like that but never in any of my matches."
+"I heard from another ref that one time one of the Kicking Mules brought in an explosive device to substitute for a ball. That would have been scary, but mostly if you were right next to it I guess. Usually that didn't happen. I think the Roadkillz [RKG] tried something like that but never in any of my matches."
 
-Traditionally the bludbol has at least a few spikes on it. "We always provided an option when I was involved. Teams could totally go for a straight up synthetic skin, but barely any team captain would ever ask for it. The practice was that teams had to ask for the spikes. It was a joke default assumption. I think one time BC Drakonika messed up the lineup sheet and had to play unspiked. One of the biggest losses they took (and BC Drakonika [BCD]lost a lot of matches). The macho blockheads thought that the spikes would help it stick in when they were carrying it better. Or they could use it as a weapon. That never happened in my sight. I'd say that the main reason the Wyrms [OWE] do as well as they do is because they never ask for the spikes."
+Traditionally the bludbol has at least a few spikes on it. "We always provided an option when I was involved. Teams could totally go for a straight up synthetic skin, but barely any team captain would ever ask for it. The practice was that teams had to ask for the spikes. It was a joke default assumption. I think one time BC Drakonika messed up the lineup sheet and had to play unspiked. One of the biggest losses they took (and BC Drakonika [BCD] lost a lot of matches). The macho blockheads thought that the spikes would help it stick in when they were carrying it better. Or they could use it as a weapon. That never happened in my sight. I'd say that the main reason the Wyrms [OWE] do as well as they do is because they never ask for the spikes."
 
 > Differences from Bottom Rung to StUBBL: StUBBL needs both teams to opt out of spikes.
 
 ## the field
 
 A full-on bludbol pitch is about 130 m end to end and something like half that from side to side. They tend to be muddy, or brightly synthetically green. They're built with the crowd pressed right up to the edges.
+
+There's a bit of a misconception about how rigged with traps these fields are. Everyone who's watched the sport has heard some blowhard next to them at the bar or in the stands talk about how they were at a match where rats had undermined the entire support structure and the teams started using the tunnels to sneak into the end zones. It's a traditional story. Sometimes it happened in the first Green Cup championship, though that's a bit too close to living memory for most of the gaffers who like to tell "I was there when..." kinds of stories. When they were kids and the only bludbol was being played between smashed transports in an alley and everyone only dreamed of being one of the Colony League stars in a ridiculously futile way.
+
+Before the BRL began though, they did tend to play a more narrowly circumscribed version of the sport in Stacksburg, and there would be more actual obstacles on the concrete pitch. This led to a couple of weird distinctions in how bludbol developed here. A little bit more emphasis on the passing game and having receivers who could avoid the crush of a midblock bottleneck.
+
+Pressing the fans right up to the pitch was a change they made to the BRL when they were trying to become more professional and seek the notice of the Colonial Leagues.
+
+"It's great to be able to get a piece of the players actually in my teeth."
+
+Is it wrong to be that close to the field? Is it dangerous? Yes, of course it is. I mean, maybe not wrong. But definitely dangerous, as the stats can bear out to some degree. Fans are made complicit in the crimes being committed on the pitch and being made part of the sport. I'll argue later about how this universalization of the Stacksburg citizenry through budbol is something social engineers might be wanting to take advantage of.
+
+> stats on crowdsurfing and anecdote about being in the crowd needed
+
+In general though the pitch itself tends to be well regulated. Players and fans complain about uneven surfaces at times as really this is one of the things the CBL really does have an influence over. If the infrastructure can't support a high quality of play then the league won't let Stacksburg in. This legitimacy issue will dog the BRL thorughought and is part of why I am arguing for a StUBBL approach instead.
+
+## the duration
+
+How long does a bludbol match take? They are remarkably quick, all things considered. The usual sequence of play is as follows:
+
+1. Defence sets up
+2. Offence sets up
+3. Defence kicks
+4. Offence scrambles for the ball
+5. Offence attempts to break through defensive line to endzone while Defence attempts to force turnover and scramble for the ball to the opposing endzone (this is known as a Drive)
+6. One of the teams succeeds at step 5 and the sequence is reset with the team that succeeded setting up as Defence.
+7. The halftime whistle interrupts step 5 and the new half begins, with the original roles of Offence and Defence being switched.
+8. The endgame whistle interrupts to end the match.
+9. Draws are allowed, except in championship play, when there would be a sudden death scrimmage (coin flip for who gets to be offence/defence).
+
+But what about time? How long does it take? I would say that this is where the sport is at its best and most interesting. You see, the actual placement of the halftime and endtime whistles can seem almost random. High scoring matches take longer because of all the resetting and between play chats that happen. You can have up to 9 or 10 drives in a match if the defences are utterly flailing `grab an example from the stats` but a 0-0 draw  goes much more quickly, but and this is the important part, only to the casual spectator. 
+
+There is a subjectivity to the sport that is hard to describe to non-aficionados. Most fans walking away from a defensive masterpiece are at least a little nonplussed. "I wanted to see some touchdowns." The games are short and brutish, mostly looking like a tangle that drifted this way and that on the field leaving a bunch of moaning bodies in its wake. The actual amount of time in a high-scoring match is almost exactly the same but it feels more satisfying because there's all this time to sit and think about the passes and runs that led to a scoring play.
+
+To players and amateur strategists though, there is so much going on in every drive, the entire thing feels much more slow and lumbering and strategic. We'll discuss strategies later but the simple creation of a cage, the building block of a ground-based drive, requires a vast number of moving parts all working in concert. Watching a match the way it is meant to be perceived requires a slowing down of perception, a fitting oneself into the rhythms of the sport rather than the patterns of normal life.
+
+I wax faux-eloquent but it's true. There is a clock in bludbol but it is for the players, you can't let it rule you as a fan.
+
+If you haven't watched a match before you'll be wondering when it will all be over. It will be all too quick.
+
+> need a story about a match with a dramatic finale
+
+## the players
+
