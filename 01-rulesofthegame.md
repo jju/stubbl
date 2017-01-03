@@ -74,7 +74,7 @@ There is a subjectivity to the sport that is hard to describe to non-aficionados
 
 To players and amateur strategists though, there is so much going on in every drive, the entire thing feels much more slow and lumbering and strategic. We'll discuss strategies later but the simple creation of a cage, the building block of a ground-based drive, requires a vast number of moving parts all working in concert. Watching a match the way it is meant to be perceived requires a slowing down of perception, a fitting oneself into the rhythms of the sport rather than the patterns of normal life.
 
-I wax faux-eloquent but it's true. There is a clock in bludbol but it is for the players, you can't let it rule you as a fan.
+I wax faux-eloquent but it's true. There is a clock in bludbol but it is for the players, you can't let it rule you as a fan. Watch more slowly than time allows and you'll start to get a sense of the game.
 
 If you haven't watched a match before you'll be wondering when it will all be over. It will be all too quick.
 
@@ -82,3 +82,32 @@ If you haven't watched a match before you'll be wondering when it will all be ov
 
 ## the players
 
+Bludbol is a sport in which the players can become very famous for their heroism/heel-nature.
+
+### playbooks
+
+One of the interesting features of bludbol is the variety of approaches one can take in building a roster. The flexibility - once the raw 11/16/3 numbers are satisfied (see below) - is quite immense. A team owner can assemble a bunch of players with abilities they think will help them win matches and present it to the league. This can be approved or not. Now that isn't to say that just anything will be allowed on the pitch. No one thinks fielding a lineup of 11 receivers will be as effective as a well-balanced roster, but people sometimes try. There are however a series of playbooks which are generally accepted as legitimate roster choices and styles of play in Blood Bowl. 
+
+When a team is started up it's usual to fit the playbook to the play style you wish to run. There are playbooks that emphasize and require more skills and playbooks that emphasize require more strength. In the BRL Dorf teams tend to be built around slow durable players, and don't win a lot of matches (we'll talk about Botsford Dorf and his strategies later). The C-Dorf innovation came later and got some speed into the traidition. The Black Pearl Pirates and the Relentless Cannons were both C-Dorf teams and the Pirates especially had good success.
+
+### rosters and lineups
+
+For a real bludbol match you can have 11 players on the field at any given time. Per team. Rosters max out at 16 for no reason I have been able to discern, but that usually works itself out. That gives a maximum of 5 reserves to make up for injuries or special situations as the match prgresses. One of the issues with the way time is kept in bludbol though means it's possible for a team that has no hope in winning on the scoreboard to keep the match going and crushing bodies everywhere in order to literally be the last people standing. There have been a few BRL matches where a team has been bludgeoned to nothing, where everyone was knocked out at the very least. It generally doesn't last very long but it is possible. More usual is having a couple of not particularly skilled players roaming the pitch being chased by slower bruisers.
+
+Also, a team must field as close to 11 players as they can when a drive begins. Teams like the Ogling Wyrms and the Filthy Tide both had fragile high-value players who the management will usually not want to put on the field if the game is no longer up for grabs. But if they don't have the reserves of vaguely mediocre players to fill things out it can happen that a star receiver might end up on the line of scrimmage at the beginning of a drive. This can have nasty consequences.
+
+If a team is ever reduced by injury to having fewer than three fieldable players (the minimum necessary to start on the line of scrimmage), the team is allowed to concede the match with no further penalty (in other cases a concession leads to forfeiture of some of the gate and general bad mojo from everyone). There have been no concession matches in the BRL.
+
+In due course we'll talk about the economics of hiring and firing bludbol players, but it's worth noting that in the salary capped environs of the BRL, players could not be paid less as their skills declined due to injury/age. This meant that slightly suboptimal players were often cycled through to bring in new players with potential but fewer skills.
+
+### player positions
+
+Generally a bludbol team has at the minimum, three people to stand on the line of scrimmage and take hits - the Line players. These least-skilled (and cheapest) positions can make up the entirety of almost any team regardless of playbook - High Eleven and Eleven Union teams have been known to take this approach when low on funds.
+
+Most of the time there will be a specialist for handling the ball initially (a Thrower or Runner). If the playbook relies on passing rather than running there will be room on the roster for 2-4 Catchers.
+
+Teams reliant on the running game will have a number of Blitzers who are generally a bit tougher and faster than your general Line player. A Blitzer is excellent on offense and defense.
+
+There are also more defensive oriented positions such as a Blocker (usually strong slow and tough) or a more specialized Attacker (strong, fast and fragile). These positions are good at what they do and while owners would love to have whole teams of them, they're usually limited to a supporting role, so only 1-2 per team.
+
+Some teams have petitioned for mutated enormous players to be allowed on the rosters. The union has allowed these Big Guys into the league but generally in limited capacities of 1 per team (there are a couple of exceptions, including Bludbol Club Drakonika).
