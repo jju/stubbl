@@ -110,4 +110,26 @@ Teams reliant on the running game will have a number of Blitzers who are general
 
 There are also more defensive oriented positions such as a Blocker (usually strong slow and tough) or a more specialized Attacker (strong, fast and fragile). These positions are good at what they do and while owners would love to have whole teams of them, they're usually limited to a supporting role, so only 1-2 per team.
 
-Some teams have petitioned for mutated enormous players to be allowed on the rosters. The union has allowed these Big Guys into the league but generally in limited capacities of 1 per team (there are a couple of exceptions, including Bludbol Club Drakonika).
+Some teams have petitioned for mutated enormous players to be allowed on the rosters. The union has allowed these Big Guys into the league but generally in limited capacities of 1 per team (there are a couple of exceptions, including Bludbol Club Drakonika [BDC]). In the big leagues uphive they usually keep these kinds of things out of the sport. They aren't professional enough, not serious. 
+
+In response to that snobbery owner Lem Finkman recruited a full team of Ogres to play as the Serious Gentleman [SGO]. To fill out the rosters they involved a bunch of quasi-sentient mutants which were hucked around the field. They did manage to play a few matches though they were always treated as more of a novelty act than legitimate Bludbol. There was something offputting even to the casual bludbol fan to see these unfortunate people being used so crassly. Similar issues followed the Roadkillz [RKG], the only BRL team with a 0% winning rate.
+
+## field crew
+
+As bludbol professionalizes, more support staff are added to a team. In the last iteration of the BRL it was mandated that teams have the option to pay for a Medic, Assistant Coaches, and Cheerleaders. In the BRL this wasn't seen as a very big deal. Only a few teams avail themselves of extra coaches or cheerleaders (the exception being the Roadkillz [RKG] who need all the help in acquiring fans as they can get). But medics have proven to be a contentious issue.
+
+It's generally accepted that having someone behind the scenes who can help heal your players is a very good thing. It's the humane way of going about the sport. But the CBL has mandated that the medic is only allowed to work on one player in a match. Ostensibly this is "to ensure that the player being attended to receives the utmost care from the medical staff" [bludbol official], but it's clearly a measure to keep the risk factor high and presumably the fans involved in the matches.
+
+Players have argued that hiring more medics would be the better way to go for their protection and safety, but the CBL, BRL and a faction of the Stacksburg owners themselves argue against it. It's one of the clearest cases of the sport working against the people it relies most on.
+
+A few teams have taken very vocal positions against the 1-medic rule and have been penalized by the CBL sanctioning body. Teams like the Carcosan Tatters [CTN], the Cursed [CUD], the Jackson Thrillers [JTN] and (somewhat surprisingly) the Law Dogs [LDN] have adopted a more self-reliant approach. This is the result of a culture focusing on drugs and returning to the match while injured. Each team relies on slightly different distribution patterns of their "health cocktails" so they still suffer a great number of injuries, but there's a chance that more of them will survive matches and seasons. They are also the only teams that have had any real success in recruiting players from other teams, though it's usually after they've suffered a debilitating, career-ending injury when the idea of some sort of long term healthcare becomes much more important.
+
+# salaries
+
+We'll get into the salary cap in more detail when we talk with some of the team owners but the general idea is to keep costs down for the owners. In the BRL days there was a hard payroll limit enforced at the beginning of each season. As the weeks went on and players began to earn more money, the team value could escalate, but if the owner wanted to hire any new players they had to fit below the cap. At the end of the season there was usually a wave of retirements and replacements for the next one.
+
+Some teams are preternaturally good at keeping their payroll down and winning matches. The Carcosan Tatters [CTN] did an amazing job of this in their Green Cup II winning season. Other teams pay too much for veterans with useful skills but also drawbacks.
+
+The one thing the players have made a part of bludbol negotiations is the impossibility of downgrading a player's pay for any reason. There are also mandated salary increases as they achieve certain milestones. This ensures that valuable players are paid something approaching what they are worth to the team.
+
+It doesn't always happen that players are receiving kudos for their actual skills. There are a number of players who coast on fan recognition and weird out-of-sport antics to ensure they are paid better season after season.
