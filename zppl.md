@@ -19,6 +19,9 @@ Lem Finkman [LFM]
 
 : bludbol official from CBL on rules
 
+Greezle Mikhof [GMH]
+: disgraced former CBLer
+
 # teams
 
 Law Dogs [LDN]
