@@ -61,3 +61,43 @@ He says he fought the xenomin back when they tried attacking the spire. Most peo
 But he does have a big pincery head of something that looks an awful lot like one of the xenomin warriorpods mounted on the bar's wall. And no one really remembered Bugs making outlandish claims before that thing showed up. So yes. That's Bugs.
 
 He also, as you'll see, has opinions on the topic of bludbol.
+
+*
+
+So this person who is clearly in the Stacks for the very first time, and is very clearly not a tourist[^2] steps out of the elevator and takes a couple of deep breaths and completely avoids Bugs'. What the hell. You know that the entire point of having a bar attached to the waiting room is to gather people in, to put them in a place where they're going to be slightly bored but have a reason to stay for a moment. Basically a place where a working(?) journalist like yourself has a good chance to get some info out of them.
+
+But now you have to make a move. If you let him head out to the streets you're just another asshole he can ignore, but right here you can become the sage guide and find out what he's doing here. And that's probably a story. It's been too long since you had one to really get into.
+
+[^2]: You can tell because the few tourists who do come downspire for Stacksburg come armed to the teeth, like they're going to be assaulted for their valuable teeth the moment they set foot below the protected shiny realms up above.
+
+"Hey," you say. It's original, but at least the guy stops. "I'm not hitting on you. You know there's a bar right here, right?"
+
+"The place for bugs? Big sign? You're standing in front of it?"
+
+Okay, maybe you don't need a story that badly. No reason to deal with an asshole. Except that everyone's kind of an asshole and you haven't really worked in a while.
+
+"That's the one. It's just kind of weird for a stranger who falutes so highly to skip the stiff drink that helps with breathing our miasma. Is that still term of art in discussing our stink upspire?"
+
+He thinks about it, and you know you'll be able to get somethin out of this asshole.
+
+"I think," he says, "more-popularly-prepared visitors might have been encouraged to pack a respirator, but I think they talked about the vapours. No miasma. Sorry. You been here long?"
+
+Is he referring to the waiting room or Stacksburg?
+
+"Long enough to know you need a drink. I'll get you one. Better than a respirator."
+
+The fucker actually smiles at you. You do your best to keep your gorge down. This hopefully won't last long. It's not hard to whip up something on a stranger coming to town.
+
+*
+
+The person - I'm provisionally tagging her as female - leads me into Bugs, which is a slightly confusing, but eminently useful place for me to be. Confusing because of the smell of rot permeating the place, but also the spaklingly meticulous arrangement. The precision of each item's arrangement is impressive, I'd imagine that the cutlery at each of the booths was mass-balanced to such a degree those tabletops could be resting on the tip of a pin. The lighting is flickeringly tasteful, a few hundred lumens below what you'd really want for reading, but not so shadowy you can't tell who you're talking to.
+
+The bartender was a doughy shortish man, greenish tinge, which probably helps down below here. We don't actually get better light up the spire; that's just propaganda. But we don't worry wuite as much about the random radiation breaking us apart. I don't know exactly why that is. Nothing that different about us and these folks. But I digress.
+
+The woman obviously knew the bartender and we slid into seats at the bar. There was a good video screen behind the tender mirroring us back which was useful for me the rest of the conversation.
+
+She began with standard tourist board questions. How long was a I here for and what were my plans. I did my best to pass myself off as a dilettante richboy tourist. I think that made the most sense. But there was something she wasn't buying about it. Things only really got interesting when I started doing some digging of my own.
+
+*
+
+[talking about bludol]
