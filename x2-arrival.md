@@ -100,4 +100,66 @@ She began with standard tourist board questions. How long was a I here for and w
 
 *
 
-[talking about bludol]
+He's distracted, it's plain to see. The screen flashing a game has his attention, which is a little odd to you. You'd think that after someone had just made a journey of however long it takes to get down the spire (last you'd checked it was in the 60Ksec range) they'd be interested in the things actually happening here rather than a game happening back where they'd come from. But people tend to be dumber than you often give them credit for.
+
+"Miss home already?" you ask. He blinks at you. "You're watching the game. That ain't local."
+
+"Oh. You a fan?"
+
+"Not even a little bit."
+
+"Why not?"
+
+"It's hard to get het up about a bunch of pampered assholes running around in an arena pretending what they're doing means something."
+
+And that's where you got him. It wasn't anything really intentional. You don't really know much about the game he's watching, but it's always worth it at least a little to let your opinions be portrayed a little firmer than you might feel them, just to draw out a firmer response. It can get people who like to explain themselves to explain too much, to be convincing rather than playing anything close to the vest. And it worked. It often does if you don't mind being bored.
+
+"See, that kind of statement lets me know you've never watched a bludbol match in your life."
+
+"I've seen bludbol. Bugs has it on the screen half the year."
+
+"Seen but not watched. What's the point of bludbol?"
+
+"Winning."
+
+"Fine, but how do they do that? What's the mechanism?"
+
+"They get the ball to one of the ends. I don't know if there's a net, maybe just a line on the ground."
+
+"Yes, perfect. So what kind of game does that make this?"
+
+"One where you're trying to get the ball somewhere."
+
+He sighs. "It's a game of territory control. In order to move the ball anywhere you need to be able to protect it. You need to have an area that's safe for it to be in. And that territory moves."
+
+"Is this where you tell me the game is a metaphor for my life, and your lfie and all the shit I've made my career doing?"
+
+"Hell no. I don't know anything about your life. But I do know that bludbol is a game in which every little decision matters, and every little task is performed under such pressure it's impossible not to fuck up at least a bit. So I think it matters. And it's interesting. And you people down here deserve to have a bit of that action happening."
+
+"And this is why you're here? You're bringing the game to us poor benighted masses?" This'll work as a story for tomorrow. You'll write up a dumbass come down to educate the Stacks and everyone'll have a good laugh.
+
+"Oh no. I'm sorry. That's not it at all. You had some of the best bludbol players that never made it big down here. I'm here to bring what you had up the spire."
+
+He looks like a huckster. Of course he does. But maybe this story will be worth something.
+
+"So what do you need? What's your plan?"
+
+"Are you offering to help?" [are you?]
+
+"Let me think about it."
+
+"Well here's the thing. I'm looking for Halfleg Jack. I want him to come out of retirement or wherever he's hiding and I want him to put on some matches and then come up to the Last Colonial League to show them what kind of bludbol can come out of Stacksburg."
+
+"And how do you intend on doing that?"
+
+"I'll ask around until someone knows him. And then we'll make some kind of deal."
+
+"You have a lot of money then?"
+
+"Not a bit. I mean, well, yes I have a bit, but that's not going to be hwat drives him to accept. Once bludbol is in you you can't get rid of it. He'll be dying to come with me."
+
+"And if he's not willing, what do you do then?"
+
+"Oh whatever. There were others down here that were good too. I would love to get in touch with Sardines, but all reports said he died years ago."
+
+"Hm. Well then." Do you want him to
