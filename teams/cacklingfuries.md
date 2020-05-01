@@ -33,13 +33,13 @@ The Cackling Furies aren't an original Green Cup team, but in their second seaso
 | Cackling Furies | Green Cup VII        |    4 |    3 |    9 |     16 |  34.375 |   28 |   34 |   31 |      4 |   -1 |
 | Cackling Furies | Green Cup VIII       |    5 |    0 |   11 |     16 |   31.25 |   23 |   38 |   43 |      8 |   -2 |
 
-In Green Cup III the Furies inflicted 38 Casualties on their way to second place in GCIII.
+In Green Cup III the Furies inflicted 38 Casualties on their way to second place. That season actually saw them get more tournament points than the champion Old Wyrms. A loss when it mattered was the big one.
 
 Their next winning seasons only came in the Open Division in the first two UBBL Challenges. The Furies represented the Green Cup faithful in the final for the UBBL Pennant in UCII after stomping through the B-Side challengers, but fell to the Brutes.
 
 ### Stars & Scrubs
 
-| name        | f_tname      | f_pos_name    | won  | draw | lost | GP   | TD   | Completions | Interceptions | BH   | SI   | Ki   | MVP  | SPP  |
+| Player      | Team         | Position      | won  | draw | lost | GP   | TD   | Cp | Int | BH   | SI   | Ki   | MVP  | SPP  |
 |-------------|--------------|---------------|------|------|------|------|------|-------------|---------------|------|------|------|------|------|
 | Rickon.   | Cackling Furies | Catcher        |   28 |   13 |   35 |   76 |   31 |           1 |             1 |    1 |    0 |    0 |    3 |  113 |
 | Kota.     | Cackling Furies | Catcher        |   10 |    5 |   23 |   38 |   25 |           2 |             0 |    1 |    0 |    0 |    5 |  104 |
@@ -65,3 +65,5 @@ What you immediately notice about the best Furies players is that 11 of the top 
 ### Fans
 
 ### Famous Games
+
+* GCIII Final (no replay available)
