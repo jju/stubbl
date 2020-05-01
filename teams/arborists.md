@@ -1,6 +1,6 @@
 ## Records
 
-| name      | name               | won  | draw | lost | played | win_pct | gf   | ga   | cas  | tcdiff | ff   |
+| Team      | Season             | won  | draw | lost | played | win_pct | gf   | ga   | cas  | tcdiff | ff   |
 |-----------|--------------------|------|------|------|--------|---------|------|------|------|--------|------|
 | Arborists | StUBBL Scramble    |    1 |    0 |    0 |      1 |     100 |    3 |    0 |    1 |      2 |    1 |
 | Arborists | UBBL Challenge III |    6 |    1 |    0 |      7 | 92.8571 |   30 |   14 |   10 |      3 |    2 |
@@ -38,7 +38,7 @@ W-D-L 6-1-0
 
 ### Stars & Scrubs
 
-| name      | f_tname   | f_pos_name | won  | draw | lost | GP   | TD   | Completions | Interceptions | BH   | SI   | Ki   | MVP  | SPP  |
+| Player      | Team   | Position | won  | draw | lost | GP   | TD   | Cp | Int | BH   | SI   | Ki   | MVP  | SPP  |
 |-----------|-----------|------------|------|------|------|------|------|-------------|---------------|------|------|------|------|------|
 | Georgina  | Arborists | Catcher    |   10 |    1 |    5 |   16 |   12 |           7 |             6 |    0 |    0 |    0 |    3 |   70 |
 | Hartwin_  | Arborists | Thrower    |   10 |    1 |    5 |   16 |    0 |          41 |             2 |    0 |    1 |    0 |    1 |   52 |
