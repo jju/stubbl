@@ -1,4 +1,4 @@
-# Darkling Spectres team_id 40
+# Darkling Spectres
 
 ## Records
 
