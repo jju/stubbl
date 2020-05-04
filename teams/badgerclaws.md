@@ -1,3 +1,5 @@
+# Badger Claws
+
 ## Records
 
 | name         | name            | won  | draw | lost | played | win_pct | gf   | ga   | cas  | tcdiff | ff   |
@@ -19,6 +21,8 @@
 
 ## History
 
+Never not had a winning season.
+
 ### Seasons
 
 The Badger Claws did not win the first UBBL Challenge (which you may remember was a bigger affair and was much tougher for challenger teams who had to face two established Green Cup teams in Pool Play), but as the top-finishing challenger they won the right to play the last-place Brutes for their spot in the Green Cup.
@@ -32,6 +36,12 @@ W-D-L 9-2-8
 Green Cup IX went even better for the Claws, but again they were knocked out of the playoffs early.
 
 W-D-L 11-3-4
+
+#### Projection
+
+10-2.5-6
+
+Green Cup Champions or bust (more likely to be conference champs)
 
 ### Stars & Scrubs
 
