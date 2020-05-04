@@ -1,3 +1,5 @@
+# Cackling Furies
+
 ## Records
 
 ### Pro Level Record (W-D-L)
@@ -20,7 +22,7 @@ The Cackling Furies aren't an original Green Cup team, but in their second seaso
 
 ### Seasons
 
-| Team            | Season                 | won  | draw | lost | played | win_pct | gf   | ga   | cas  | tcdiff | ff   |
+| Team            | Season               | won  | draw | lost | played | win_pct | gf   | ga   | cas  | tcdiff | ff   |
 |-----------------|----------------------|------|------|------|--------|---------|------|------|------|--------|------|
 | Cackling Furies | UBBL Challenge II    |    3 |    0 |    1 |      4 |      75 |   11 |    5 |   16 |      5 |    3 |
 | Cackling Furies | Green Cup III        |    9 |    1 |    3 |     13 | 73.0769 |   33 |   23 |    38 |     13 |    1 |
@@ -37,10 +39,16 @@ In Green Cup III the Furies inflicted 38 Casualties on their way to second place
 
 Their next winning seasons only came in the Open Division in the first two UBBL Challenges. The Furies represented the Green Cup faithful in the final for the UBBL Pennant in UCII after stomping through the B-Side challengers, but fell to the Brutes.
 
+#### Projection
+
+5.3-3.3-7.6
+
+Hoping for a divisional title.
+
 ### Stars & Scrubs
 
-| name        | f_tname      | f_pos_name    | won  | draw | lost | GP   | TD   | Completions | Interceptions | BH   | SI   | Ki   | MVP  | SPP  |
-|-------------|--------------|---------------|------|------|------|------|------|-------------|---------------|------|------|------|------|------|
+| Player    | Team            | Position     | won  | draw | lost | GP   | TD   | Cp | Int | BH  | SI   | Ki   | MVP  | SPP |
+|-------------|--------------|---------------|------|------|------|------|------|----|-----|-----|------|------|------|-----|
 | Rickon_   | Cackling Furies | Catcher        |   28 |   13 |   35 |   76 |   31 |           1 |             1 |    1 |    0 |    0 |    3 |  113 |
 | Kota_     | Cackling Furies | Catcher        |   10 |    5 |   23 |   38 |   25 |           2 |             0 |    1 |    0 |    0 |    5 |  104 |
 | Mukabe.   | Cackling Furies | Blitzer        |   15 |    7 |   24 |   46 |    6 |           1 |             0 |   13 |    5 |    1 |    5 |   82 |
@@ -52,16 +60,16 @@ Their next winning seasons only came in the Open Division in the first two UBBL 
 | Bryce.    | Cackling Furies | Blitzer        |   14 |    3 |   26 |   43 |    4 |           1 |             0 |    5 |    2 |    2 |    5 |   56 |
 | Frommik   | Cackling Furies | Lineman        |   21 |   14 |   27 |   62 |    1 |           2 |             1 |    7 |    2 |    2 |    5 |   54 |
 | Ife.      | Cackling Furies | Norse Werewolf |   13 |    8 |   28 |   49 |    0 |           0 |             0 |   11 |    5 |    1 |    3 |   49 |
-| Luanna    | Cackling Furies | Thrower        |    9 |    6 |    4 |   19 |    4 |          31 |             0 |    1 |    0 |    0 |    0 |   45 |
-| Yusra.    | Cackling Furies | Thrower        |    5 |    3 |   11 |   19 |    3 |          21 |             3 |    0 |    1 |    0 |    1 |   43 |
-| Boreal_   | Cackling Furies | Lineman        |   11 |    8 |   24 |   43 |    6 |           2 |             1 |    3 |    3 |    0 |    1 |   39 |
-| Walton.   | Cackling Furies | Lineman        |   30 |   18 |   35 |   83 |    0 |           0 |             1 |    4 |    2 |    1 |    3 |   31 |
-| Fergal.   | Cackling Furies | Lineman        |   11 |    8 |   10 |   29 |    0 |           1 |             0 |    3 |    3 |    3 |    2 |   29 |
 
-What you immediately notice about the best Furies players is that 11 of the top 16 are no longer playing.
+
+Aronne is the star of the future for this team, set to take over Snow's spot in the top 5 Furies as soon as GCX begins.
 
 ### Management
 
 ### Fans
 
 ### Famous Games
+
+The one where Yusra got 3 interceptions in one match and then died.
+
+The UBBL Challenge match with all the casualties.
