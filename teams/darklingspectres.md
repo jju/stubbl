@@ -24,7 +24,7 @@ There've been rumblings that ownership wanted to take their money and run, foldi
 ### Seasons
 
 | name              | name                 | won  | draw | lost | played | win_pct | gf   | ga   | cas  | tcdiff | ff   |
-+-------------------+----------------------+------+------+------+--------+---------+------+------+------+--------+------+
+|-------------------|----------------------|------|------|------|--------|---------|------|------|------|--------|------|
 | Darkling Spectres | UBBL Challenge II    |    2 |    0 |    1 |      3 | 66.6667 |    7 |    8 |    7 |      2 |   -1 |
 | Darkling Spectres | Green Cup Classic 06 |    5 |    3 |    2 |     10 |      65 |   17 |   14 |   10 |     -2 |    3 |
 | Darkling Spectres | UBBL Challenge       |    3 |    0 |    2 |      5 |      60 |   12 |    8 |    7 |      0 |    1 |
