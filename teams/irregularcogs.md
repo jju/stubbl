@@ -12,15 +12,15 @@
 
 ### Prizes
 
-* Green Cup VII - Tough Brake of Alsoran
 * Green Cup I - Green Cup Champions
+* Green Cup VII - Tough Brake of Alsoran
 * Green Cup V Memorial - Old-Era Champs
 
 ## History
 
 The team of history that has never managed to re-live up to it. The Irregular Cogs won the inaugural Green Cup against their archrivals the [Old Wyrms](oldwyrms) in a thrilling 3-2 game. Then a long period of good play but few results. 
 
-In the first unified renaissance Green Cup the Irregular Cogs snuck through the GCVII season, playing well, but without the gaudy win streak of the Machine. They amassed the most tournament points through the regular season and when the Machine was knocked out of the playoffs they looked to be a Green Cup lock. But they were defeated in the Burger Conference final by the Ravenous Eagles and came in third instead.
+In the first unified renaissance Green Cup the Irregular Cogs snuck through the GCVII season, playing well, but without the gaudy win streak of the Machine. They amassed the most tournament points through the regular season and when the Machine was knocked out of the playoffs they looked to be a Green Cup lock. But they were defeated in the Burger Conference final by the [Ravenous Eagles](ravenouseagles) and came in third instead.
 
 Second place for the rookies and the Cogs' best showing in many a season (in a GCV Memorial tournament that doesn't count and was only a cash-grab). The Cogs are mostly happy they did better than the Wyrms in the end.
 
