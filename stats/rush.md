@@ -51,19 +51,7 @@ SELECT pl.f_tname AS team, sum(rushing_distance_leap) + sum(rushing_distance_pus
 | Gargantuan Brutes |           354 |   56 |     6.3214 |
 
 ```
-SELECT 
-	pl.f_tname AS team, 
-	sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches) AS total_touches, 
-	sum(md.td) AS td,
-	(sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches)) / sum(md.td) AS touches_td
-FROM match_data_es AS mx 
-	JOIN match_data AS md 
-		ON mx.f_pid = md.f_player_id AND mx.f_mid = md.f_match_id 
-	JOIN players AS pl 
-		ON mx.f_pid = pl.player_id 
-WHERE md.f_did = 1 
-GROUP BY pl.f_tname 
-ORDER BY touches_td ASC;
+SELECT pl.f_tname AS team, sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches) AS total_touches, sum(md.td) AS td,	(sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches)) / sum(md.td) AS touches_td FROM match_data_es AS mx JOIN match_data AS md ON mx.f_pid = md.f_player_id AND mx.f_mid = md.f_match_id JOIN players AS pl ON mx.f_pid = pl.player_id WHERE md.f_did = 1 GROUP BY pl.f_tname ORDER BY touches_td ASC;
 ```
 
 The Touches stat needs a bit of explanation. In BludBol we count a "touch" of the ball whenever a player picks up, catches, intercepts, or receives a handoff. If every kickoff was caught by a player who then ran it in for a TD then we would get a Touch/TD rate of 1. That's not usually how the game is played, of course.
@@ -84,10 +72,10 @@ It is entirely unsurprising that the [Badger Claws](../teams/badgerclaws) have t
 SELECT  pl.f_tname AS team, tours.name AS season, sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches) AS total_touches,  sum(md.td) AS td, (sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches)) / sum(md.td) AS touches_td FROM match_data_es AS mx  JOIN match_data AS md  ON mx.f_pid = md.f_player_id AND mx.f_mid = md.f_match_id  JOIN players AS pl  ON mx.f_pid = pl.player_id JOIN tours ON mx.f_trid = tours.tour_id WHERE mx.f_did = 1  GROUP BY pl.f_tname, mx.f_trid  ORDER BY touches_td ASC;
 ```
 
-Obviously, it's difficult to keep that sort of thing up over a team's history. The Badger Claws' GCIX season really skews things with its hyper-specialization. This is a phenomenon that seems to correlate with the scoring skill of the teams but not with their overall results (we aren't seeing the [Orbital Machine](../teams/orbitalmachine) or [Gore Farmers](../teams/gorefarmers) even from their championship seasons on th top ten list below). Also of note is that you seem to need a certain number of veteran players to get this sort of ratio as you don't see either of the Season Sixes, when teams were finding their feet in this list.
+Obviously, it's difficult to keep that sort of thing up over a team's history. The Badger Claws' GCIX season really skews things with its hyper-specialization. This is a phenomenon that seems to correlate with the scoring skill of the teams but not with their overall results (we aren't seeing the [Orbital Machine](../teams/orbitalmachine) or [Gore Farmers](../teams/gorefarmers) in the list below. Also of note is that you seem to need a certain number of veteran players to get this sort of ratio as you don't see either of the Season Sixes, when teams were finding their feet in this list.
 
 | team              | season         | total_touches | td   | touches_td |
-+-------------------+----------------+---------------+------+------------+
+|-------------------|----------------|---------------|------|------------|
 | Badger Claws      | Green Cup IX   |           183 |   75 |     2.4400 |
 | Filthy Tide       | Green Cup VII  |           171 |   55 |     3.1091 |
 | Kaiju Dynamo      | Green Cup VIII |           178 |   55 |     3.2364 |
