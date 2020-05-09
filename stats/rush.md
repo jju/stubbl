@@ -25,7 +25,11 @@ When delving into these numbers I actually wouldn't have guessed ahead of time t
 Otherwise, these rankings are pretty much as you'd expect with the teams who just hold onto the ball taking more than 20 squares to get a TD. Also of note: the meandering path the [Ravenous Eagles](../teams/ravenouseagles) take to the end zone is actually more than an entire BludBol pitch length (RE 26.01 squares/TD vs 26 squares)
 
 ```
-SELECT pl.f_tname AS team, sum(rushing_distance_leap) + sum(rushing_distance_push) + sum(rushing_distance_move) + sum(rushing_distance_block) + sum(rushing_distance_shadowing) AS total_rushing, sum(md.td) AS td, (sum(rushing_distance_leap) + sum(rushing_distance_push) + sum(rushing_distance_move) + sum(rushing_distance_block) + sum(rushing_distance_shadowing)) / sum(md.td) AS rush_td FROM match_data_es AS mx JOIN match_data AS md ON mx.f_pid = md.f_player_id AND mx.f_mid = md.f_match_id JOIN players AS pl ON mx.f_pid = pl.player_id WHERE md.f_did = 1 GROUP BY pl.f_tname ORDER BY rush_td ASC;
+SELECT pl.f_tname AS team, sum(rushing_distance_leap) + sum(rushing_distance_push) + sum(rushing_distance_move) + sum(rushing_distance_block) + sum(rushing_distance_shadowing) AS total_rushing, sum(md.td) AS td, (sum(rushing_distance_leap) + sum(rushing_distance_push) + sum(rushing_distance_move) + sum(rushing_distance_block) + sum(rushing_distance_shadowing)) / sum(md.td) AS rush_td 
+FROM match_data_es AS mx JOIN match_data AS md ON mx.f_pid = md.f_player_id AND mx.f_mid = md.f_match_id JOIN players AS pl ON mx.f_pid = pl.player_id 
+WHERE md.f_did = 1 
+GROUP BY pl.f_tname 
+ORDER BY rush_td ASC;
 ```
 
 ## touches and TDs pre-GCX
@@ -51,7 +55,11 @@ SELECT pl.f_tname AS team, sum(rushing_distance_leap) + sum(rushing_distance_pus
 | Gargantuan Brutes |           354 |   56 |     6.3214 |
 
 ```
-SELECT pl.f_tname AS team, sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches) AS total_touches, sum(md.td) AS td,	(sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches)) / sum(md.td) AS touches_td FROM match_data_es AS mx JOIN match_data AS md ON mx.f_pid = md.f_player_id AND mx.f_mid = md.f_match_id JOIN players AS pl ON mx.f_pid = pl.player_id WHERE md.f_did = 1 GROUP BY pl.f_tname ORDER BY touches_td ASC;
+SELECT pl.f_tname AS team, sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches) AS total_touches, sum(md.td) AS td,	(sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches)) / sum(md.td) AS touches_td 
+FROM match_data_es AS mx JOIN match_data AS md ON mx.f_pid = md.f_player_id AND mx.f_mid = md.f_match_id JOIN players AS pl ON mx.f_pid = pl.player_id 
+WHERE md.f_did = 1 
+GROUP BY pl.f_tname 
+ORDER BY touches_td ASC;
 ```
 
 The Touches stat needs a bit of explanation. In BludBol we count a "touch" of the ball whenever a player picks up, catches, intercepts, or receives a handoff. If every kickoff was caught by a player who then ran it in for a TD then we would get a Touch/TD rate of 1. That's not usually how the game is played, of course.
@@ -69,7 +77,11 @@ It is entirely unsurprising that the [Badger Claws](../teams/badgerclaws) have t
 | Filthy Tide | Green Cup VIII       |           191 |   39 |     4.8974 |
 
 ```
-SELECT  pl.f_tname AS team, tours.name AS season, sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches) AS total_touches,  sum(md.td) AS td, (sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches)) / sum(md.td) AS touches_td FROM match_data_es AS mx  JOIN match_data AS md  ON mx.f_pid = md.f_player_id AND mx.f_mid = md.f_match_id  JOIN players AS pl  ON mx.f_pid = pl.player_id JOIN tours ON mx.f_trid = tours.tour_id WHERE mx.f_did = 1  GROUP BY pl.f_tname, mx.f_trid  ORDER BY touches_td ASC;
+SELECT  pl.f_tname AS team, tours.name AS season, sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches) AS total_touches,  sum(md.td) AS td, (sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches)) / sum(md.td) AS touches_td 
+FROM match_data_es AS mx  JOIN match_data AS md  ON mx.f_pid = md.f_player_id AND mx.f_mid = md.f_match_id  JOIN players AS pl  ON mx.f_pid = pl.player_id JOIN tours ON mx.f_trid = tours.tour_id 
+WHERE mx.f_did = 1  
+GROUP BY pl.f_tname, mx.f_trid  
+ORDER BY touches_td ASC;
 ```
 
 Obviously, it's difficult to keep that sort of thing up over a team's history. The Badger Claws' GCIX season really skews things with its hyper-specialization. This is a phenomenon that seems to correlate with the scoring skill of the teams but not with their overall results (we aren't seeing the [Orbital Machine](../teams/orbitalmachine) or [Gore Farmers](../teams/gorefarmers) in the list below. Also of note is that you seem to need a certain number of veteran players to get this sort of ratio as you don't see either of the Season Sixes, when teams were finding their feet in this list.
@@ -88,5 +100,98 @@ Obviously, it's difficult to keep that sort of thing up over a team's history. T
 | Eldritch Fatality | Green Cup IX   |           204 |   56 |     3.6429 |
 
 ```
-SELECT  pl.f_tname AS team, tours.name AS season, sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches) AS total_touches,  sum(md.td) AS td, (sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches)) / sum(md.td) AS touches_td FROM match_data_es AS mx  JOIN match_data AS md  ON mx.f_pid = md.f_player_id AND mx.f_mid = md.f_match_id  JOIN players AS pl  ON mx.f_pid = pl.player_id JOIN tours ON mx.f_trid = tours.tour_id WHERE mx.f_did = 1  GROUP BY pl.f_tname, mx.f_trid  ORDER BY touches_td ASC LIMIT 10;
+SELECT  pl.f_tname AS team, tours.name AS season, sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches) AS total_touches,  sum(md.td) AS td, (sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches)) / sum(md.td) AS touches_td 
+FROM match_data_es AS mx  JOIN match_data AS md  ON mx.f_pid = md.f_player_id AND mx.f_mid = md.f_match_id  JOIN players AS pl  ON mx.f_pid = pl.player_id JOIN tours ON mx.f_trid = tours.tour_id 
+WHERE mx.f_did = 1 
+GROUP BY pl.f_tname, mx.f_trid  
+ORDER BY touches_td ASC 
+LIMIT 10;
+```
+# player stats
+
+| name        | f_tname          | gp | total_touches | sum(md.td) | tds_touch |
+|-------------|------------------|----|---------------|------------|-----------|
+| Aeson_      | Badger Claws     | 37 |           100 |         86 |    0.8600 |
+| Souta.      | Old Wyrms        | 60 |           157 |         65 |    0.4140 |
+| Costache    | Glorious Hounds  | 31 |            75 |         60 |    0.8000 |
+| Yakup.      | Filthy Tide      | 42 |            74 |         55 |    0.7432 |
+| Sabah_      | Kaiju Dynamo     | 41 |            68 |         52 |    0.7647 |
+| Dragos_     | Irregular Cogs   | 53 |            67 |         35 |    0.5224 |
+| Donat_      | Badger Claws     | 33 |            54 |         35 |    0.6481 |
+| Babar_      | Old Wyrms        | 59 |            60 |         29 |    0.4833 |
+| Bahiyya.    | Zensun Vagabonds | 39 |            45 |         29 |    0.6444 |
+| KneeMasher. | Gore Farmers     | 47 |            77 |         28 |    0.3636 |
+
+```
+SELECT pl.name, pl.f_tname, count(DISTINCT md.f_match_id) AS gp, sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches) AS total_touches, sum(md.td), sum(md.td) / (sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches)) AS tds_touch 
+FROM match_data_es AS mx JOIN match_data AS md ON mx.f_pid = md.f_player_id AND mx.f_mid = md.f_match_id JOIN players AS pl ON mx.f_pid = pl.player_id 
+WHERE mx.f_did = 1
+GROUP BY pl.name, pl.f_tname 
+ORDER BY sum(md.td) DESC, gp DESC 
+LIMIT 10;
+```
+
+These are the top scorers in the Pro Circuit, along with their reliability rating. How good is Aeson? 86% of the time he gets the ball, he scores. The only players more "reliable" are bashers who never ever touch the ball but for one spectacular moment.
+
+| name       | f_tname           | gp | total_touches | sum(md.td) | tds_touch |
+|------------|-------------------|----|---------------|------------|-----------|
+| Florrie    | Darkling Spectres | 62 |             1 |          1 |    1.0000 |
+| TallHexer. | Gore Farmers      | 51 |             1 |          1 |    1.0000 |
+| Noir.      | TC Sump Runners   | 49 |             1 |          1 |    1.0000 |
+| Rivet      | Orbital Machine   | 42 |             1 |          1 |    1.0000 |
+| Percy_     | Ravenous Eagles   | 40 |             1 |          1 |    1.0000 |
+| Horymir.   | Filthy Tide       | 19 |             1 |          1 |    1.0000 |
+| Ioana.     | Orbital Machine   | 16 |             2 |          2 |    1.0000 |
+| Odalric    | Orbital Machine   | 16 |             3 |          3 |    1.0000 |
+| Zaira      | Zensun Vagabonds  | 15 |             1 |          1 |    1.0000 |
+| Dene       | Zensun Vagabonds  | 15 |             1 |          1 |    1.0000 |
+| Dian.      | Filthy Tide       | 14 |             1 |          1 |    1.0000 |
+| Tatjana.   | TC Sump Runners   |  7 |             1 |          1 |    1.0000 |
+| Olaug      | Old Wyrms         |  2 |             2 |          2 |    1.0000 |
+| Hachiro    | Gargantuan Brutes |  1 |             2 |          2 |    1.0000 |
+| Phemie.    | Glorious Hounds   |  1 |             2 |          2 |    1.0000 |
+| Chikondi   | Ravenous Eagles   | 48 |            10 |          9 |    0.9000 |
+| Aeson_     | Badger Claws      | 37 |           100 |         86 |    0.8600 |
+| Maren.     | TC Sump Runners   | 10 |             7 |          6 |    0.8571 |
+| Costache   | Glorious Hounds   | 31 |            75 |         60 |    0.8000 |
+| Green.     | Eldritch Fatality |  9 |             5 |          4 |    0.8000 |
+
+
+There are a few players in the Pros who've made a big impact in non-obvious ways. The top 15 players in the above chart are players who, the only times they touched the ball managed to score. Odalric has done it 3 times.
+
+```
+SELECT pl.name, pl.f_tname, count(DISTINCT md.f_match_id) AS gp, sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches) AS total_touches, sum(md.td), sum(md.td) / (sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches)) AS tds_touch 
+FROM match_data_es AS mx JOIN match_data AS md ON mx.f_pid = md.f_player_id AND mx.f_mid = md.f_match_id JOIN players AS pl ON mx.f_pid = pl.player_id 
+WHERE mx.f_did = 1
+GROUP BY pl.name, pl.f_tname 
+ORDER BY tds_touch DESC, gp DESC 
+LIMIT 20;
+```
+
+Conversely, let's look at the players who've touched the ball a whole lot in the Pros but never ever scored.
+
+| player      | team              | gp | total_touches | sum(md.td) | tds_touch |
+|-------------|-------------------|----|---------------|------------|-----------|
+| Cleve_      | Badger Claws      | 36 |           140 |          0 |    0.0000 |
+| Elvis       | Old Wyrms         | 32 |           127 |          0 |    0.0000 |
+| Melchor_    | Vanadium Hunters  | 33 |            89 |          0 |    0.0000 |
+| Evander_    | Old Wyrms         | 32 |            72 |          0 |    0.0000 |
+| Mutasim.    | TC Sump Runners   | 18 |            64 |          0 |    0.0000 |
+| Vlad.       | Gargantuan Brutes | 25 |            57 |          0 |    0.0000 |
+| Jacquetta   | TC Sump Runners   | 16 |            52 |          0 |    0.0000 |
+| Garth.      | TC Sump Runners   | 16 |            52 |          0 |    0.0000 |
+| GutTwister. | Gore Farmers      | 17 |            38 |          0 |    0.0000 |
+| Sinta.      | Gore Farmers      |  7 |            23 |          0 |    0.0000 |
+
+Most of these could find the endzone at some point, but the fact that the [Gargantuan Brutes](../teams/gargantuanbrutes) have now folded makes Vlad's achievement of 25 matches over three seasons and 57 touches the saddest.
+
+```
+SELECT pl.name AS player, pl.f_tname AS team,	count(DISTINCT md.f_match_id) AS gp, sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches) AS total_touches, sum(md.td), sum(md.td) / (sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches)) AS tds_touch 
+FROM match_data_es AS mx JOIN match_data AS md ON mx.f_pid = md.f_player_id AND mx.f_mid = md.f_match_id JOIN players AS pl 
+		ON mx.f_pid = pl.player_id 
+WHERE md.f_did = 1
+GROUP BY pl.name, pl.f_tname 
+HAVING sum(md.td) = 0 AND total_touches >0 
+ORDER BY total_touches DESC 
+limit 10;
 ```
