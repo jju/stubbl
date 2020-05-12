@@ -1,0 +1,2 @@
+Roster rules have been tightened up after the Moirin incident in the GCIX final. Now teams are allowed to have only 4 veterans on the reserve roster. They can still have a stable of journeymen and rookies if they want. Also, any star or better (51+ SPP), will get another payday if moved off and then brought back to the active roster (previously only players who had peaked were "entitled" to the payday (which meant it was used for a very mercenary analysis on ownership's part).
+
