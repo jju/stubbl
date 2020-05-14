@@ -16,3 +16,7 @@ The Sump Runners vs the Arborists is an immediate rematch of the UBBL Challenge 
 We'll also be interested in the Filthy Tide vs Kaiju Dynamo to see if Venus can be the player she was groomed for and if Sabah still has enough left in the tank to lead this Dynamo team.
 
 Everyone else will just be trying to establish themselves and not wind up in too big of a hole.
+
+# recap
+
+The Sump Runners brought a chainsaw and a friggin' giant but couldn't manage to overturn the Arborist offensive juggernaut. The question
