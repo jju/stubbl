@@ -4,32 +4,32 @@ Roster rules have been tightened up after the Moirin incident in the GCIX final.
 
 ### Stacks
 
-* OW 9-2.8-2.9
+* OW 9-3-3
 * FT 6-3-7
 * GF 6-2-9
-* SR 4.8-2.8-8.8
+* SR 5-3-9
 
 ### Outlands
 
-* BC 10-2.5-6
+* BC 10-2-6
 * IC 10-1-6
 * *AR* (replaced GB)
-* CT 7.6-1.6-7.6
+* CT 8-2-8
 
 ## Classic Conference
 
 ### Heaps
 
 * GH 9-2-6
-* KD 9.2-2-6.1
-* OM 8.9-2-4
-* ZV 6.6-3.3-6
+* KD 9-3-6
+* OM 9-2-4
+* ZV 7-3-6
 
 ### Pits
 
 * EF 11-2-6
 * RE 7-2-9
-* CF 5.3-3.3-7.6
+* CF 5-3-8
 * DS 5-3-9
 
 
