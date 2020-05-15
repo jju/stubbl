@@ -4,33 +4,33 @@
 
 ### Stacks
 
-* OW 
-* SR
-* FT 
-* GF 
+* OW 9-2.8-2.9
+* SR 4.8-2.8-8.8
+* FT 6-3-7
+* GF 6-2-9
 
 ### Outlands
 
-* BC
-* IC 
-* CT 
+* BC 10-2.5-6
+* IC 10-1-6
+* CT 11-1-7?
 * *AR* (replaced GB)
 
 ## Classic Conference
 
 ### Heaps
 
-* GH 
-* KD 
-* ZV 
-* OM
+* GH 9-2-6
+* KD 9.2-2-6.1
+* ZV 6.6-3.3-6
+* OM 8.9-2-4
 
 ### Pits
 
-* EF 
-* CF 
-* DS
-* RE 
+* EF 11-2-6
+* CF 5.3-3.3-7.6
+* DS 5-3-9
+* RE 6.8-1.8-8.9
 
 # GCIX
 
