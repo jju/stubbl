@@ -19,4 +19,6 @@ Everyone else will just be trying to establish themselves and not wind up in too
 
 # recap
 
-The Sump Runners brought a chainsaw and a friggin' giant but couldn't manage to overturn the Arborist offensive juggernaut. The question
+The Sump Runners brought a chainsaw and a friggin' giant but couldn't manage to overturn the Arborist offensive juggernaut. SR 0 - AR 5
+
+
