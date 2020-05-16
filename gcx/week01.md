@@ -21,4 +21,4 @@ Everyone else will just be trying to establish themselves and not wind up in too
 
 The Sump Runners brought a chainsaw and a friggin' giant but couldn't manage to overturn the Arborist offensive juggernaut. SR 0 - AR 5
 
-
+The Machine had a long layoff since GCIX but managed to pull out a respectable draw against the Eagles who are a bit more dangerous than people might assume this year. RE 2 - OM 2
