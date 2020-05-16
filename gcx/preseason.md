@@ -4,10 +4,10 @@ Roster rules have been tightened up after the Moirin incident in the GCIX final.
 
 ### Stacks
 
-* OW 9-3-3
+* OW 9-3-5
 * FT 6-3-7
 * GF 6-2-9
-* SR 5-3-9
+* SR 5-3-8
 
 ### Outlands
 
