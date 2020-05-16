@@ -30,25 +30,11 @@ The Fatality are cash-poor right now, which might make their Green Cup quest a b
 
 
 ```
-SELECT 
-	pl.name, 
-	pl.f_tname, 
-	mt.f_tour_id,
-	mt.round, 
-	md.f_match_id, 
-	md.td, 
-	md.cp, 
-	md.intcpt, 
-	md.bh, 
-	md.si, 
-	md.ki, 
-	md.mvp, 
-	(md.td * 3) + md.cp + (md.intcpt * 2) + (md.bh * 2) + (md.si * 2) + (md.ki * 2) + (md.mvp * 5) AS SPP 
+SELECT pl.name, pl.f_tname, mt.f_tour_id, tours.tour_id, mt.round, md.f_match_id, md.td, md.cp, md.intcpt, md.bh, md.si, md.ki, md.mvp, (md.td * 3) + md.cp + (md.intcpt * 2) + (md.bh * 2) + (md.si * 2) + (md.ki * 2) + (md.mvp * 5) AS SPP 
 FROM match_data AS md 
-	JOIN players AS pl 
-		ON md.f_player_id = pl.player_id
-	JOIN matches AS mt
-		ON md.f_match_id = mt.match_id 
+JOIN players AS pl ON md.f_player_id = pl.player_id
+JOIN matches AS mt ON md.f_match_id = mt.match_id 
+JOIN tours ON mt.f_tour_id = tours.tour_id
 WHERE (mt.f_tour_id = 23 OR mt.f_tour_id = 22) AND mt.round = 1
 ORDER BY SPP DESC 
 limit 5;
