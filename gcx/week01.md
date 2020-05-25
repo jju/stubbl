@@ -23,10 +23,21 @@ The Sump Runners brought a chainsaw and a friggin' giant but couldn't manage to 
 
 The Machine had a long layoff since GCIX but managed to pull out a respectable draw against the Eagles who are a bit more dangerous than people might assume this year. RE 2 - OM 2
 
-The Fatality are cash-poor right now, which might make their Green Cup quest a bust from the get-go.
+The Fatality are cash-poor right now, which might make their Green Cup quest a bust from the get-go, but they pulled off a draw in a blizzard against a Tatters team that had a 2-0 lead in the second half (that's probably a bit of a rarity). EF 2 - CT 2
 
-# player of the week
+Clydon was removed from the match before the ball hit the ground, but it's hard to say if he would have been able to help the Vagabonds to victory in a blizzard. The big development was that Aeson was held to a single TD. This might mean trouble for the Claws, or an opportunity to actually develop a more diverse squad. BC 4 - ZV 2
 
+The Spectres are expected to do as little as possible this season, but bursting out the gate with a win against the Hounds seemed like it might happen until late in the second half of this match. A sack near the Hounds end, with a long stretch to Costache gave the Hounds a well-fought draw. GH 3 - DS 3
+
+The Cogs got off to a good start and the Farmers didn't show any signs of their tankiness despite the loss. IC 3 - GF 1
+
+The Wyrms didn't start the way they hope to end, but who is? OW 3 - CF 3
+
+Sabah did his job, as far the Dynamo were concerned, but they just couldn't handle the offensive pressure from the Tide. That they spread the scoring around between 4 receivers (and a lineman) maybe signals a shift from the all-or-nothing approach the Claws have been using (and the Tide themselves pioneered in the Yakup era). FT 6 - KD 3
+
+# players of the week
+
+Sabah and Costache tied  with 9 SPP on 3 TDs in Week 1 of GCX, but Costache gets the edge as her points salvaged a draw while Sabah's were in an entirely losing cause. Of some note, in the first week of the inaugural Orange Goblet tournament Achille scored 4 TDs and got the MVP award for an SPP total of 17.
 
 
 ```
