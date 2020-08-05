@@ -59,7 +59,7 @@ Their GCIX campaign was devastating to a team of such history. They put their ef
 | Tomer_       | Filthy Tide | Gutter Runner |    9 |    5 |   14 |   28 |   12 |    1 |    1 |    0 |    0 |    0 |    3 |   54 |
 | Amandeep.    | Filthy Tide | Gutter Runner |    3 |    3 |    7 |   13 |   10 |    9 |    0 |    0 |    0 |    0 |    3 |   54 |
 
-[[somfuhr|Somfuhr]] inflicted the most casualties of any player in the Pro Division, while for a time Yakup seemed untouchable in his scoring abilities. That they couldn't convert this dynamic duo into more than a third place finish is heartbreaking. 
+[[somfuhr]] inflicted the most casualties of any player in the Pro Division, while for a time Yakup seemed untouchable in his scoring abilities. That they couldn't convert this dynamic duo into more than a third place finish is heartbreaking. 
 
 ### Management
 
