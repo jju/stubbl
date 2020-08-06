@@ -21,3 +21,5 @@ The pro division awards a number of official prizes (plus a Player of the Week a
 | Vanadium Hunters | 4 | 1 | 5
 | *Ravenous Eagles* | 3 | 2 | 5
 | TC Sump Runners | 3 |  | 3
+
+The italicized teams are ones who have won the coveted Green Cup. It is quite common for Eagles fans to parade their championship gear around when other fans (especially those of the Hounds) disparage the Eagles' style of play. As of this writing the Eagles' highest ranked player [Percy] on the SPP tally is in 33rd place.
