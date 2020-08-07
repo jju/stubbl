@@ -47,19 +47,19 @@ Their GCIX campaign was devastating to a team of such history. They put their ef
 
 | Player       | Team        | Position      | won  | draw | lost | GP   | TD   | Comp | Ints | BH   | SI   | Ki   | MVP  | SPP  |
 |--------------|-------------|---------------|------|------|------|------|------|------|------|------|------|------|------|------|
-| Yakup.       | Filthy Tide | Gutter Runner |   27 |    6 |   20 |   53 |   73 |    1 |    0 |    0 |    1 |    0 |    4 |  242 |
-| Somfuhr.     | Filthy Tide | Rat Ogre      |   31 |    9 |   29 |   69 |    0 |    0 |    0 |   42 |   13 |    6 |    6 |  152 |
-| Silas_       | Filthy Tide | Thrower       |   33 |    9 |   30 |   72 |    2 |  121 |    2 |    1 |    0 |    0 |    2 |  143 |
-| Mayu.        | Filthy Tide | Gutter Runner |   28 |    6 |   21 |   55 |   35 |    3 |    2 |    1 |    0 |    0 |    3 |  129 |
-| Madhavi.     | Filthy Tide | Blitzer       |   31 |    9 |   27 |   67 |    4 |    2 |    4 |    9 |    5 |    3 |    7 |   91 |
-| Fikri.       | Filthy Tide | Thrower       |   21 |    5 |   13 |   39 |    4 |   47 |    0 |    2 |    0 |    0 |    2 |   73 |
+| *Yakup*       | Filthy Tide | Gutter Runner |   27 |    6 |   20 |   53 |   73 |    1 |    0 |    0 |    1 |    0 |    4 |  242 |
+| *Somfuhr*     | Filthy Tide | Rat Ogre      |   31 |    9 |   29 |   69 |    0 |    0 |    0 |   42 |   13 |    6 |    6 |  152 |
+| [[Silas]]       | Filthy Tide | Thrower       |   33 |    9 |   30 |   72 |    2 |  121 |    2 |    1 |    0 |    0 |    2 |  143 |
+| *Mayu*        | Filthy Tide | Gutter Runner |   28 |    6 |   21 |   55 |   35 |    3 |    2 |    1 |    0 |    0 |    3 |  129 |
+| *Madhavi*     | Filthy Tide | Blitzer       |   31 |    9 |   27 |   67 |    4 |    2 |    4 |    9 |    5 |    3 |    7 |   91 |
+| *Fikri*       | Filthy Tide | Thrower       |   21 |    5 |   13 |   39 |    4 |   47 |    0 |    2 |    0 |    0 |    2 |   73 |
 | Nicodemus II | Filthy Tide | Gutter Runner |    4 |    2 |    8 |   14 |   18 |    2 |    0 |    0 |    0 |    0 |    2 |   66 |
-| Magali.      | Filthy Tide | Gutter Runner |   23 |    6 |   10 |   39 |   14 |    4 |    0 |    1 |    1 |    0 |    2 |   60 |
+| *Magali*      | Filthy Tide | Gutter Runner |   23 |    6 |   10 |   39 |   14 |    4 |    0 |    1 |    1 |    0 |    2 |   60 |
 | Septimus_    | Filthy Tide | Gutter Runner |   27 |    5 |   35 |   67 |   12 |    5 |    1 |    0 |    0 |    1 |    2 |   55 |
 | Tomer_       | Filthy Tide | Gutter Runner |    9 |    5 |   14 |   28 |   12 |    1 |    1 |    0 |    0 |    0 |    3 |   54 |
-| Amandeep.    | Filthy Tide | Gutter Runner |    3 |    3 |    7 |   13 |   10 |    9 |    0 |    0 |    0 |    0 |    3 |   54 |
+| *Amandeep*    | Filthy Tide | Gutter Runner |    3 |    3 |    7 |   13 |   10 |    9 |    0 |    0 |    0 |    0 |    3 |   54 |
 
-Somfuhr inflicted the most casualties of any player in the Pro Division, while for a time Yakup seemed untouchable in his scoring abilities. That they couldn't convert this dynamic duo into more than a third place finish is heartbreaking. 
+Somfuhr inflicted the most casualties of any player in the Pro Division, while for a time [[Yakup]] seemed untouchable in his scoring abilities. That they couldn't convert this dynamic duo into more than a third place finish is heartbreaking. 
 
 ### Management
 

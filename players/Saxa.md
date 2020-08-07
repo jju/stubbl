@@ -1,1 +1,1 @@
-[[irregularcogs]][[centurion]]
+[[irregularcogs]][[centurion#former]]

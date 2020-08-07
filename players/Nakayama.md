@@ -1,1 +1,1 @@
-[[kaijudynamo]][[centurion]][[halflegaward]]
+[[kaijudynamo]][[centurion#former]][[halflegaward]]

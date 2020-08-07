@@ -1,1 +1,1 @@
-[[eldritchfatality]][[centurion]][[halflegaward]]
+[[eldritchfatality]][[centurion#former]][[halflegaward]]

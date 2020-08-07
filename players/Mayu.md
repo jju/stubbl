@@ -1,1 +1,1 @@
-[[filthytide]][[centurion]]
+[[filthytide]][[centurion#former]]
