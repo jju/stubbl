@@ -1,0 +1,1 @@
+[[glorioushounds]][[firstfatality]]

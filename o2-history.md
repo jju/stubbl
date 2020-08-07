@@ -48,7 +48,7 @@ She gave unsolicited advice to everyone, about the tendencies of competitive pla
 
 That would all be well and good but it wouldn't have changed bludbol in the Stacks, if Gryj wasn't a persistent mofo.
 
-When she started working she didn't want to just coach a team. There was absolutely no money in the shittiness of amateur level bludbol. The sharks of the cast-off ;eagues circled but Gryj could see the problems in dealing with people so hungry to return to the graces of the overleagues. What she needed was a way to bring the skills down to the Stacks.
+When she started working she didn't want to just coach a team. There was absolutely no money in the shittiness of amateur level bludbol. The sharks of the cast-off leagues circled but Gryj could see the problems in dealing with people so hungry to return to the graces of the overleagues. What she needed was a way to bring the skills down to the Stacks.
 
 She pestered and pestered and pestered, asking questions of lawyers about what exactly it was about the cast-offs that made them so unpalatable to the CBL. Was it the gambling? The lack of safety? Too much safety? The lack of name recognition? Did they want a more fungible product that could sell on the screens? Did they need more local connection? It wasn't hard to find examples of all sorts of differences between the cast-offs and the bigs, but none of them was enough to get her the answers she wanted. What she wanted to know was "How do I create an affiliate of your league?"
 
@@ -59,7 +59,7 @@ But then came Gryj's secret. Statistics. With no money and only the help of a pa
 The idea that Gryj's monitoring regimen could help players who'd been through the CBL development ranks was a tenacious one in her mind at least. It had to be as it sustained her for nearly 40 years.
 
 > need stories of how this got applied in the pre-BRL days.
-> hardship? grinding poverty? general bullshit in the intervening times? Maybe this is where Sacksburg, though it had been a good hardworking region starts to get shat upon. we put in our parallel to the titanic sinking and how it bollocks up the development of teams even as the population is exploding and densifying. really we're talking about a slumworld but one with very sharp-eyed undernourished people
+> hardship? grinding poverty? general bullshit in the intervening times? Maybe this is where Stacksburg, though it had been a good hardworking region starts to get shat upon. we put in our parallel to the titanic sinking and how it bollocks up the development of teams even as the population is exploding and densifying. really we're talking about a slumworld but one with very sharp-eyed undernourished people
 
 The first season of the Bottom Rung League had 8 teams. The population of the Stacks around that time was in the low 8 digits, massively overshadowed by the world above, but there was talent. Gryj couldn't get everywhere and amassed a coterie of other coaches and scouts who bought into the techniques of evaluation.
 
