@@ -71,4 +71,20 @@
 [[arborists]] #new #skill #winpct #scoring #passing
 [[badgerclaws]] #new #skill #stars #winpct #scoring #passing 
 
-## style
+## stats
+
+Most Pro-level Wins->[[oldwyrms]]
+Most Pro-level Casualties->[[ravenouseagles]] 
+Most Modern Pro-level TDs->[[glorioushounds]] 
+Most Modern Green Cup Championships->[[gorefarmers]] 
+Biggest Modern Pro-level Casualty differential->[[carcosantatters]] 
+Fewest Pro-level TDs/Match allowed->[[orbitalmachine]] 
+Modern Pro-Level TDs/Match scored [[badgerclaws]]
+Most Pro-Level Handoffs [[kaijudynamo]]
+Most Pro-Level Rushing Distance [[filthytide]]
+Most Pro-level sacks [[eldritchfatality]]
+Most Pro-level player deaths [[zensunvagabonds]]
+Most Pro-level serious injuries inflicted by foul [[cacklingfuries]]
+Most Pro-level kicking [[darklingspectres]]
+Most Pro-Level Big Guy usage [[gargantuanbrutes]]
+
