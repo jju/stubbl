@@ -67,7 +67,7 @@ Outside the Pro Division the Eagles put together a wonderful GCV Memorial season
 
 ### Tactics
 
-The Eagles use the Charging Dragon playbook, which is built on a very rigid division of smash and grab labour. They use slow tacklers on the line to block off the centre, three strong blitzers and a fragile ball-handling corps (which is a faster group than the blockers, but comparatively slow across the league).
+The Eagles use the Charles Dorf playbook, which is built on a very rigid division of smash and grab labour. They use slow tacklers on the line to block off the centre, three strong blitzers and a fragile ball-handling corps (which is a faster group than the blockers, but comparatively slow across the league).
 
 ### Fans
 
@@ -75,7 +75,7 @@ Fans of the Ravenous Eagles glory in their championship titles and especially lo
 
 ### Famous Games
 
-Even in their Green Cup winning season the Ravenous Eagles haven't put up a lot of amazing matches. Their games tend to be built on hits hits and hits. Their winning GCVII season was built on inflicting 53.58 Blocks/match http://68.148.52.218/stbblm/index.php?section=objhandler&type=2&obj=2&pms=1&page=1&sort=mv_inflicted_blocks&dir=d which was 6 more than their Pro division average (47.53). 
+Even in their Green Cup winning season the Ravenous Eagles haven't put up a lot of amazing matches. Their games tend to be built on hits hits and hits. Their winning GCVII season was built on inflicting 53.58 Blocks/match which was 6 more than their Pro division average (47.53). 
 
 #### GCVII Conference Final
 
