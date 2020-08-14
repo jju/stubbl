@@ -1,10 +1,14 @@
 # Ravenous Eagles
 
-The Ravenous Eagles are often referred to as the worst Green Cup Champions, which is all right with the Barbarossa ownership group. 
+The Ravenous Eagles are often referred to as the worst Green Cup Champions, which is all right with the Ossa ownership group as they flaunt their rings. 
+
+## Playbook
+
+The Eagles use the Charles Dorf playbook, which is built on a very rigid division of smash and grab labour. They use slow tacklers on the line to block off the centre, three strong blitzers and a fragile ball-handling corps (which is a faster group than the blockers, but comparatively slow across the league).
 
 ## History
 
-In the old-era B.R. Ossa was a player for a team, the Black Pearl Pirates, that couldn't quite get enough wins together to break into the UBBL (that the Poets did get a crack at the Green Cup and did horribly was even more upsetting to Pirates fans). They were actually poised to enter the Green Cup V tournament, but the interruption happened and they were shut out.
+In the old-era B.R. Ossa was a player for another Charles Dorf team, the Black Pearl Pirates, that couldn't quite get enough wins together to break into the UBBL (that the Poets did get a crack at the Green Cup and did horribly was even more upsetting to Pirates fans). They were actually poised to enter the Green Cup V tournament, but the interruption happened and they were shut out.
 
 After the interruption, B.R. Ossa didn't have enough clout to get his old players back together but their closeness to Green Cup glory was seen as a good storyline for the new-era Green Cup VI. He gathered a bunch of rookies and poised them to become the perfect mix of smash and grab. The only returning player he brought with him was Twig, but that gave them a more than competent QB to get them through the initial weeks with an eye towards renewal and balance. 
 
@@ -67,7 +71,7 @@ Outside the Pro Division the Eagles put together a wonderful GCV Memorial season
 
 ### Tactics
 
-The Eagles use the Charles Dorf playbook, which is built on a very rigid division of smash and grab labour. They use slow tacklers on the line to block off the centre, three strong blitzers and a fragile ball-handling corps (which is a faster group than the blockers, but comparatively slow across the league).
+Block block block hit hit hit.
 
 ### Fans
 

@@ -2,6 +2,10 @@
 
 The Kaiju Dynamo are a frustrating team to cheer for. They always seem right on the cusp of being really good, then it all falls apart, leaving them as almost exactly a .500 team. Being a Dynamo fan means one is long-suffering.
 
+## Playbook
+
+The Dynamo use the Elizabeth Aardman playbook, with strong linemen and a big guy anchoring the centre, while the ball handlers are chosen for speed (rather than skill, strength or durability). The basic idea of the playbook is to cage the fragile ballhandler to a place where they can bolt for the endzone.
+
 ## History
 
 The Kaiju Dynamo started up along with the UBBL, and right from the beginning their role was to be the unconventional playmakers. The old era version of the team started off its history with a third-place finish in GCI, but that was the only prize they managed before the interruption.
