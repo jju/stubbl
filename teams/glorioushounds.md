@@ -2,6 +2,10 @@
 
 The Hounds are all about deep passes to wide open receivers and how that is "the only true way" to play BludBol. They have never quite lived up to their own hype, but it is impossible to deny the prettiness of their game.
 
+## Playbook
+
+The Glorious Hounds use the High Extension playbook, a venerable adaptation of the Hermann technique. Generally to play this style, you need a higher skill level. The playbook uses four receivers but only two blitzers and no big guy option. The idea is usually for the thrower to hang onto the ball longer than in the Excelsior or Drop Eagle playbooks giving the catchers time to get open downfield.
+
 ## Records
 
 ### Pro Level Record (W-D-L)

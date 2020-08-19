@@ -1,5 +1,11 @@
 # Darkling Spectres
 
+While of late the Darkling Spectres have been mired in mediocrity, they can be an effective defensive team. Their ownership sees the team as primarily a profit centre since on-field results have been hard to come by recently.
+
+## Playbook
+
+The Spectres use the traditional Unglewort playbook. They have nigh-unlimited cheap slow fodder for the line that funnel opposition towards the reliable massive blockers. Two blitzers attack opposing ball-carriers, and up to four ball-carriers supply all of the speed, though they are very fragile.
+
 ## Records
 
 ### Pro Level Record (W-D-L)
@@ -44,17 +50,17 @@ There've been rumblings that ownership wanted to take their money and run, foldi
 
 | Player       | Team              | Position   | won  | draw | lost | GP   | TD   | Comp | Ints | BH   | SI   | Ki   | MVP  | SPP  |
 |--------------|-------------------|------------|------|------|------|------|------|------|------|------|------|------|------|------|
-| Tooms II_   | Darkling Spectres | Ghoul      |   27 |    7 |   27 |   61 |   13 |   83 |    1 |    3 |    0 |    0 |    5 |  155 |
-| Simon_       | Darkling Spectres | Mummy      |   16 |    5 |   21 |   42 |    0 |    0 |    0 |   18 |    6 |    4 |    5 |   81 |
-| Hortensius.  | Darkling Spectres | Ghoul      |    9 |    3 |   13 |   25 |   20 |    6 |    0 |    1 |    0 |    0 |    1 |   73 |
-| Olufunmi_    | Darkling Spectres | Ghoul      |   12 |    1 |   16 |   29 |   18 |    3 |    2 |    2 |    0 |    0 |    0 |   65 |
-| Onesiphorus_ | Darkling Spectres | Mummy      |   20 |    5 |   21 |   46 |    0 |    0 |    0 |   11 |   12 |    1 |    3 |   63 |
-| Lamont_      | Darkling Spectres | Wight      |   20 |    4 |   22 |   46 |    3 |    0 |    0 |    5 |    4 |    0 |    6 |   57 |
-| Federica.    | Darkling Spectres | Ghoul      |    8 |    2 |   11 |   21 |   12 |    3 |    0 |    1 |    0 |    0 |    3 |   56 |
-| Eberardo.    | Darkling Spectres | Ghoul      |    7 |    1 |    6 |   14 |   13 |    2 |    0 |    0 |    0 |    0 |    2 |   51 |
-| Bambino.     | Darkling Spectres | Ghoul      |   26 |    8 |   28 |   62 |   11 |    7 |    0 |    2 |    0 |    0 |    1 |   49 |
-| Ray.         | Darkling Spectres | Ghoul      |    7 |    1 |    8 |   16 |    8 |    4 |    0 |    2 |    1 |    0 |    2 |   44 |
-| Aldert.      | Darkling Spectres | Wight      |   26 |    4 |   23 |   53 |    2 |    1 |    0 |    5 |    4 |    1 |    3 |   42 |
+| Tooms II   | Darkling Spectres | Ghoul      |   27 |    7 |   27 |   61 |   13 |   83 |    1 |    3 |    0 |    0 |    5 |  155 |
+| Simon       | Darkling Spectres | Mummy      |   16 |    5 |   21 |   42 |    0 |    0 |    0 |   18 |    6 |    4 |    5 |   81 |
+| *Hortensius*  | Darkling Spectres | Ghoul      |    9 |    3 |   13 |   25 |   20 |    6 |    0 |    1 |    0 |    0 |    1 |   73 |
+| Olufunmi    | Darkling Spectres | Ghoul      |   12 |    1 |   16 |   29 |   18 |    3 |    2 |    2 |    0 |    0 |    0 |   65 |
+| Onesiphorus | Darkling Spectres | Mummy      |   20 |    5 |   21 |   46 |    0 |    0 |    0 |   11 |   12 |    1 |    3 |   63 |
+| Lamont      | Darkling Spectres | Wight      |   20 |    4 |   22 |   46 |    3 |    0 |    0 |    5 |    4 |    0 |    6 |   57 |
+| *Federica*    | Darkling Spectres | Ghoul      |    8 |    2 |   11 |   21 |   12 |    3 |    0 |    1 |    0 |    0 |    3 |   56 |
+| *Eberardo*    | Darkling Spectres | Ghoul      |    7 |    1 |    6 |   14 |   13 |    2 |    0 |    0 |    0 |    0 |    2 |   51 |
+| *Bambino*     | Darkling Spectres | Ghoul      |   26 |    8 |   28 |   62 |   11 |    7 |    0 |    2 |    0 |    0 |    1 |   49 |
+| *Ray*         | Darkling Spectres | Ghoul      |    7 |    1 |    8 |   16 |    8 |    4 |    0 |    2 |    1 |    0 |    2 |   44 |
+| *Aldert*      | Darkling Spectres | Wight      |   26 |    4 |   23 |   53 |    2 |    1 |    0 |    5 |    4 |    1 |    3 |   42 |
 
 This team relies way too much on Tooms II. Tooms is also fragile as hell and should not be back for another round of battery, but they don't have anyone really special in the wings to replace him.
 

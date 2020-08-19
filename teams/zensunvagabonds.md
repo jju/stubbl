@@ -1,5 +1,11 @@
 # Zensun Vagabonds
 
+Usually credited along with the Old Wyrms as the founders of the UBBL, the Vagabonds have a long history of not being great. Which is kind of funny as they did almost win the Green Cup once back in the Old-Era.
+
+## Playbook
+
+The Vagabonds use the Hermann playbook, the original plan for playing BludBol, and the one that every other strategy is an adaptation of. The team has two thrower positions available, 4 catchers, 4 blitzers, a big guy and fills out the rest of the lineup with undistinguished concussion-fodder. Like most Hermann teams, the Vagabonds don't use all their specialist receivers, trusting more to a running game with the blitzers.
+
 ## Records
 
 ### Pro Level Record (W-D-L)
@@ -13,10 +19,6 @@
 ### Prizes
 
 * Green Cup II - Runner-Up
-
-## History
-
-Usually credited along with the Old Wyrms as the founders of the UBBL, the Vagabonds have a long history of not being great. 
 
 ### Seasons
 
@@ -33,6 +35,7 @@ Usually credited along with the Old Wyrms as the founders of the UBBL, the Vagab
 | Zensun Vagabonds | UBBL Challenge     |    0 |    1 |    1 |      2 |      25 |    2 |    3 |    6 |      3 |   -1 |
 | Zensun Vagabonds | Green Cup IV       |    1 |    3 |    6 |     10 |      25 |   20 |   30 |   11 |     -8 |   -2 |
 | Zensun Vagabonds | UBBL Challenge III |    0 |    0 |    1 |      1 |       0 |    2 |    3 |    0 |     -1 |   -1 |
+
 
 ### Stars & Scrubs
 
@@ -51,6 +54,11 @@ Usually credited along with the Old Wyrms as the founders of the UBBL, the Vagab
 | Clydon       | Zensun Vagabonds | Thrower  |    4 |    1 |    6 |   11 |    1 |   17 |    2 |    0 |    0 |    0 |    2 |   34 |
 
 This is a team that just wants to build something of itself. Jonah and Clydon are being forced into the role of faces of the franchise when they are not ready.
+
+
+## History
+
+Usually credited along with the Old Wyrms as the founders of the UBBL, the Vagabonds have a long history of not being great. 
 
 ### Management
 

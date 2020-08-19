@@ -2,6 +2,10 @@
 
 They were once thought to be the future of BludBol in the old era UBBL, and were set to play in Green Cup V before the interruption. They've never lived up to that, though they are good in Open Division play. They lean more on the passing game than most generalist teams do, which can make them more fun to watch than other teams with a similar playbook.
 
+## Playbook
+
+The Sump Runners use the Hermann playbook, the original plan for playing BludBol, and the one that every other strategy is an adaptation of. The team has two thrower positions available, 4 catchers, 4 blitzers, a big guy and fills out the rest of the lineup with undistinguished concussion-fodder. In actuality, most Hermann teams don't use all their specialist receivers, trusting more to a running game with the blitzers. The Sump Runners have some oddities in their lineup including using a specialist thrower as a makeshift blitzer.
+
 ## Records
 
 ### Pro Level Record (W-D-L)

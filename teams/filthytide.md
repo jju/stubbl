@@ -1,10 +1,10 @@
 # Filthy Tide
 
-The Filthy Tide are often called the best team to never win the Green Cup. They're an Original 8 team that has had two of the best scorers in the UBBL [[Yakup]] and [[Sardines]] but has never been able to convert the big win to get their stars a championship.
+The Filthy Tide are often called the best team to never win the Green Cup. They're an Original 8 team that has had two of the best scorers in the UBBL [[Yakup]] and [[Sardines]] but has never been able to convert the big win to get their stars a championship. Now they are in rebuild mode.
 
 ## Playbook
 
-
+The Filthy Tide uses the Scoop Caven playbook which emphasizes speed above all else, especially the health of your own players. With proper training it's possible to have a super-fast scorer onside, which makes the lack of defensive ability easier to overcome.
 
 ## History
 

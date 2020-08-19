@@ -1,6 +1,6 @@
 # Gargantuan Brutes
 
-The Brutes have folded because they could not maintain the 0.333 Winning Percentage required to compete in the UBBL. They were once a feared casualty-inflicting powerhouse, but now there is only nostalgia.
+The Brutes have folded because they could not maintain the 33% Winning Rate required to maintain status in the UBBL. They were once a feared casualty-inflicting powerhouse, but now there is only nostalgia.
 
 ## Records
 

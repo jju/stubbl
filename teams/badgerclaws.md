@@ -1,13 +1,12 @@
 # Badger Claws
 
-## Records
+The Badger Claws fought their way into Green Cup play from the Open Division and have never had a season below .500. They also, as of Green Cup X, have the greatest scorer in UBBL history playing for them.
 
-| name         | name            | won  | draw | lost | played | win_pct | gf   | ga   | cas  | tcdiff | ff   |
-|--------------|-----------------|------|------|------|--------|---------|------|------|------|--------|------|
-| Badger Claws | StUBBL Scramble |    1 |    0 |    0 |      1 |     100 |    5 |    2 |    0 |     -4 |    0 |
-| Badger Claws | UBBL Challenge  |    4 |    1 |    1 |      6 |      75 |   25 |   19 |    5 |      2 |    1 |
-| Badger Claws | Green Cup IX    |   11 |    3 |    4 |     18 | 69.4444 |   75 |   56 |   20 |    -20 |    0 |
-| Badger Claws | Green Cup VIII  |    9 |    2 |    8 |     19 | 52.6316 |   61 |   57 |   15 |    -32 |    4 |
+## Playbook
+
+The Badger Claws use the Scoop Caven playbook which emphasizes speed above all else, especially the health of your own players. With proper training it's possible to have a super-fast scorer onside, which makes the lack of defensive ability easier to overcome.
+
+## Records
 
 ### Pro Level Record (W-D-L)
 
@@ -18,6 +17,15 @@
 25-6-13
 
 ### Prizes
+
+### Seasons
+
+| name         | name            | won  | draw | lost | played | win_pct | gf   | ga   | cas  | tcdiff | ff   |
+|--------------|-----------------|------|------|------|--------|---------|------|------|------|--------|------|
+| Badger Claws | StUBBL Scramble |    1 |    0 |    0 |      1 |     100 |    5 |    2 |    0 |     -4 |    0 |
+| Badger Claws | UBBL Challenge  |    4 |    1 |    1 |      6 |      75 |   25 |   19 |    5 |      2 |    1 |
+| Badger Claws | Green Cup IX    |   11 |    3 |    4 |     18 | 69.4444 |   75 |   56 |   20 |    -20 |    0 |
+| Badger Claws | Green Cup VIII  |    9 |    2 |    8 |     19 | 52.6316 |   61 |   57 |   15 |    -32 |    4 |
 
 ## History
 

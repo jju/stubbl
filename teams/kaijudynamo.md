@@ -81,3 +81,4 @@ No one becomes a fan of the Dynamo because they enjoy the easy life. There are a
 
 The GCVIII Classic Conference final against the [Badger Claws](badgerclaws) is the highest scoring match in UBBL history. That they lost the game because of one little slip-up means there are folk songs about it. http://68.148.52.218/stbblm/index.php?section=matches&type=report&mid=560
 
+#unfinished 

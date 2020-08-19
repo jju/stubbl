@@ -1,5 +1,11 @@
 # Irregular Cogs
 
+The team of history that has never managed to re-live up to it. The Irregular Cogs won the inaugural Green Cup against their archrivals the [Old Wyrms](oldwyrms). Then came a long period of good play but few results.
+
+## Playbook
+
+The Irregular Cogs use the Drop Eagle playbook. It's an adaptation of the Hermann playbook that again requires more skilled players to run it effectively. The strategy dispenses with the catcher position entirely, instead using four skilled blitzers to run the ball, and two dedicated ball-hawks to attack the opposing ball-carriers.  The Cogs have been known to score more of their TDs on defense because of their aggressive style of defending.
+
 ## Records
 
 ### Pro Level Record (W-D-L)
