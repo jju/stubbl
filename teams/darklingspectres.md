@@ -19,7 +19,7 @@
 
 The Spectres have been mired in mediocrity of late, but the rejuvenated UBBL has led them to their best tournament results (even if their Win% remains right around a coin-toss). Their best pro season was the short GCC06 in which The Spectres handily won their division but injuries deprived them of their stars in the Green Cup final. They won the Heaps again in GCVII and then the Classic Conference, but lost to the Eagles in a battle of not that impressive win record teams (fans say they had a lot of heart).
 
-There've been rumblings that ownership wanted to take their money and run, folding the team. Their lacklustre play in UBBL Challenge II lent weight to the idea, but they are returning for the GCX. Watch them to be a prime target for tanking
+There've been rumblings that ownership wanted to take their money and run, folding the team. Their lacklustre play in UBBL Challenge III lent weight to the idea, but they are returning for the GCX. Watch them to be a prime target for tanking.
 
 ### Seasons
 

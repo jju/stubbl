@@ -1,5 +1,7 @@
 # Gargantuan Brutes
 
+The Brutes have folded because they could not maintain the 0.333 Winning Percentage required to compete in the UBBL. They were once a feared casualty-inflicting powerhouse, but now there is only nostalgia.
+
 ## Records
 
 ### Pro Level Record (W-D-L)
@@ -23,7 +25,7 @@ The Brutes inflicted 24 Casualties in 12 matches in the inaugural Green Cup Tour
 ### Seasons
 
 | Team              | Season               | won  | draw | lost | played | win_pct | gf   | ga   | cas  | tcdiff | ff   |
-+-------------------+----------------------+------+------+------+--------+---------+------+------+------+--------+------+
+|-------------------|----------------------|------|------|------|--------|---------|------|------|------|--------|------|
 | Gargantuan Brutes | UBBL Challenge II    |    6 |    1 |    0 |      7 | 92.8571 |   22 |   14 |   20 |     13 |    3 |
 | Gargantuan Brutes | UBBL Challenge III   |    3 |    1 |    1 |      5 |      70 |   14 |   10 |   12 |      3 |    3 |
 | Gargantuan Brutes | Green Cup I          |    4 |    2 |    6 |     12 | 41.6667 |   20 |   29 |   24 |     13 |    1 |

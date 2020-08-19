@@ -1,4 +1,6 @@
-# Carcosan Tatters team_id 16
+# Carcosan Tatters
+
+The Carcosan Tatters have always been a very good team. They're defensive-minded without really flashy stars and can lock a game down to a muddy slog even if the sun is out.
 
 ## Records
 

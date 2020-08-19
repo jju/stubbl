@@ -1,5 +1,7 @@
 # Cackling Furies
 
+The Cackling Furies are an Old-Era expansion team that can cause a lot of injuries, but will take a lot in exchange.
+
 ## Records
 
 ### Pro Level Record (W-D-L)

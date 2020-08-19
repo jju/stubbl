@@ -1,5 +1,7 @@
 # Sump Runners
 
+They were once thought to be the future of BludBol in the old era UBBL, and were set to play in Green Cup V before the interruption. They've never lived up to that, though they are good in Open Division play. They lean more on the passing game than most generalist teams do, which can make them more fun to watch than other teams with a similar playbook.
+
 ## Records
 
 ### Pro Level Record (W-D-L)

@@ -1,5 +1,7 @@
 # Glorious Hounds
 
+The Hounds are all about deep passes to wide open receivers and how that is "the only true way" to play BludBol. They have never quite lived up to their own hype, but it is impossible to deny the prettiness of their game.
+
 ## Records
 
 ### Pro Level Record (W-D-L)
