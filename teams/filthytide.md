@@ -4,7 +4,7 @@ The Filthy Tide are often called the best team to never win the Green Cup. They'
 
 ## Playbook
 
-The Filthy Tide uses the Scoop Caven playbook which emphasizes speed above all else, especially the health of your own players. With proper training it's possible to have a super-fast scorer onside, which makes the lack of defensive ability easier to overcome.
+The Filthy Tide uses the Scrying Avian playbook which emphasizes speed above all else, especially the health of your own players. With proper training it's possible to have a super-fast scorer onside, which makes the lack of defensive ability easier to overcome.
 
 ## History
 

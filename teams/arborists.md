@@ -4,7 +4,7 @@ The Arborists are the newest entries for the Green Cup competition, having won t
 
 ## Playbook
 
-The Arborists use the Wary Eagle playbook, which is very similar to the Scoop Caven technique, but with slightly higher skilled (and more expensive to replace) players. The lineup includes four catchers, two blitzers and throwers that have more of an option of holding back and letting fly once the catchers are in position.
+The Arborists use the Wary Eagle playbook, which is very similar to the Scrying Avian technique, but with slightly higher skilled (and more expensive to replace) players. The lineup includes four catchers, two blitzers and throwers that have more of an option of holding back and letting fly once the catchers are in position.
 
 ## Records
 

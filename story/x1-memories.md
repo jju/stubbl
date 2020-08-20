@@ -1,6 +1,6 @@
 # memories
 
-The gunfire had gone sporadic. More squealing and the buzz of the in yourface weapons dominated. That's the time for you to break cover and start putting together the story. Now everyone involved was either hacking and slashing or keeping an eye out for who'd make it out unscathed. Well, minimally scathed. It's hard to walk away from a knife-fight without a few of your fluids escaping.
+The gunfire had gone sporadic. More squealing and the buzz of the in your face weapons dominated. That's the time for you to break cover and start putting together the story. Now everyone involved was either hacking and slashing or keeping an eye out for who'd make it out unscathed. Well, minimally scathed. It's hard to walk away from a knife-fight without a few of your fluids escaping.
 
 But there you go again, making yourself sound tough. It's an important part of life in the Stacks, but you don't have to like it. You don't actually have to do it either. You're Kayro Jane and you're a fucking professional.
 

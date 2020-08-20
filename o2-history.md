@@ -36,7 +36,7 @@ That was before Gryj the Hun.
 
 Gryj does not look like bludbol. She's not athletic enough to be mistaken for a player, not personable enough to be a cheerleader, not wealthy enough to be an owner, and not even frothy enough to be a fan. But Gryj had a plan.
 
-"The genius of Gryj is that she didn't try and whip up a frenzy. She just asked a lot of questions."
+> "The genius of Gryj is that she didn't try and whip up a frenzy. She just asked a lot of questions."
 
 Gryj grew up in the Stacks and in her (vaguely hagiographical) official biography she is listed as never doubting for a second that she loved the sport of bludbol. A weak lung condition meant she was never very capable at playing, getting winded long before a drive was over even at the pace of the schoolyard. But she was good at watching, and possibly more important she was good at keeping track of things.
 
