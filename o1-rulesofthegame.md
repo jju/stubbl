@@ -10,13 +10,13 @@ I felt it was important to find an expert to talk about the rules of bludbol, bu
 
 > "Usually you wear white out there so the blood shows up okay when you have to do the pronouncements. It's a bit of a pain."
 
-Malika bint Schraiaz [MBS] was a ref for the final three seasons of the BRL. She's still in the Stacks, but it took ages to track her down. Outside the pitch she tried to keep a low profile.
+Malika bin Schraiaz [MBS] was a ref for the final three seasons of the BRL. She's still in the Stacks, but it took ages to track her down. Outside the pitch she tried to keep a low profile.
 
 "You have to wear a mask when you went to a game. It wasn't a big decision for anyone except a few of the blowhards who couldn't forgive the fans for not cheering them."
 
 Gonçalo Mendes was one of those blowhard types. He started off with the Zenser Vagabonds [ZVH] trying to be a Blitzer. He had a good streetbol reputation but the wider field for the real matches proved too much for him. He took a hit from one the big guys on the Git Fuckeders [GFO] and claimed his career was over.
 
-"Yeah Gonçalo was the asshole I meant. I wasn't sure you knew his name." Talking to Malika felt like talking to a teacher who didn't want to answewr too many questions about the exam you were about to sit down for.
+"Yeah Gonçalo was the asshole I meant. I wasn't sure you knew his name." Talking to Malika felt like talking to a teacher who didn't want to answer too many questions about the exam you were about to sit down for.
 
 "So Gonzo starts as a ref. He does the bare minimum that refs did; put on a hood and a number and head out there to make sure too much egregious shit doesn't happen. But when I say bare minimum I mean it. Three matches in he'd stopped wearing a number and sparypainted 'Gonzo' on the back of his shirt. That was what he'd played under so everybody knew who he was. The thing is that nobody cheers for the ref. Doesn't matter if you're good or shit and Gonzo was shit. So he didn't get his rocks off even though he was on the field. So he's super unhappy and that's just a recipe for trouble."
 
