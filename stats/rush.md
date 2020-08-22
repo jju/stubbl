@@ -109,18 +109,18 @@ LIMIT 10;
 ```
 # player stats
 
-| name        | f_tname          | gp | total_touches | sum(md.td) | tds_touch |
+| name        | team          | gp | total_touches | sum(md.td) | tds_touch |
 |-------------|------------------|----|---------------|------------|-----------|
-| Aeson_      | Badger Claws     | 37 |           100 |         86 |    0.8600 |
-| Souta.      | Old Wyrms        | 60 |           157 |         65 |    0.4140 |
+| Aeson      | Badger Claws     | 37 |           100 |         86 |    0.8600 |
+| *Souta*      | Old Wyrms        | 60 |           157 |         65 |    0.4140 |
 | Costache    | Glorious Hounds  | 31 |            75 |         60 |    0.8000 |
-| Yakup.      | Filthy Tide      | 42 |            74 |         55 |    0.7432 |
-| Sabah_      | Kaiju Dynamo     | 41 |            68 |         52 |    0.7647 |
-| Dragos_     | Irregular Cogs   | 53 |            67 |         35 |    0.5224 |
-| Donat_      | Badger Claws     | 33 |            54 |         35 |    0.6481 |
-| Babar_      | Old Wyrms        | 59 |            60 |         29 |    0.4833 |
-| Bahiyya.    | Zensun Vagabonds | 39 |            45 |         29 |    0.6444 |
-| KneeMasher. | Gore Farmers     | 47 |            77 |         28 |    0.3636 |
+| *Yakup*      | Filthy Tide      | 42 |            74 |         55 |    0.7432 |
+| Sabah      | Kaiju Dynamo     | 41 |            68 |         52 |    0.7647 |
+| Dragos     | Irregular Cogs   | 53 |            67 |         35 |    0.5224 |
+| Donat      | Badger Claws     | 33 |            54 |         35 |    0.6481 |
+| Babar      | Old Wyrms        | 59 |            60 |         29 |    0.4833 |
+| *Bahiyya*    | Zensun Vagabonds | 39 |            45 |         29 |    0.6444 |
+| *KneeMasher* | Gore Farmers     | 47 |            77 |         28 |    0.3636 |
 
 ```
 SELECT pl.name, pl.f_tname, count(DISTINCT md.f_match_id) AS gp, sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches) AS total_touches, sum(md.td), sum(md.td) / (sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches)) AS tds_touch 
@@ -133,28 +133,28 @@ LIMIT 10;
 
 These are the top scorers in the Pro Circuit, along with their reliability rating. How good is Aeson? 86% of the time he gets the ball, he scores. The only players more "reliable" are bashers who never ever touch the ball but for one spectacular moment.
 
-| name       | f_tname           | gp | total_touches | sum(md.td) | tds_touch |
+| name       | team           | gp | total_touches | sum(md.td) | tds_touch |
 |------------|-------------------|----|---------------|------------|-----------|
 | Florrie    | Darkling Spectres | 62 |             1 |          1 |    1.0000 |
-| TallHexer. | Gore Farmers      | 51 |             1 |          1 |    1.0000 |
-| Noir.      | TC Sump Runners   | 49 |             1 |          1 |    1.0000 |
+| *TallHexer* | Gore Farmers      | 51 |             1 |          1 |    1.0000 |
+| *Noir*      | TC Sump Runners   | 49 |             1 |          1 |    1.0000 |
 | Rivet      | Orbital Machine   | 42 |             1 |          1 |    1.0000 |
-| Percy_     | Ravenous Eagles   | 40 |             1 |          1 |    1.0000 |
-| Horymir.   | Filthy Tide       | 19 |             1 |          1 |    1.0000 |
-| Ioana.     | Orbital Machine   | 16 |             2 |          2 |    1.0000 |
+| Percy     | Ravenous Eagles   | 40 |             1 |          1 |    1.0000 |
+| *Horymir*   | Filthy Tide       | 19 |             1 |          1 |    1.0000 |
+| *Ioana*     | Orbital Machine   | 16 |             2 |          2 |    1.0000 |
 | Odalric    | Orbital Machine   | 16 |             3 |          3 |    1.0000 |
 | Zaira      | Zensun Vagabonds  | 15 |             1 |          1 |    1.0000 |
 | Dene       | Zensun Vagabonds  | 15 |             1 |          1 |    1.0000 |
-| Dian.      | Filthy Tide       | 14 |             1 |          1 |    1.0000 |
-| Tatjana.   | TC Sump Runners   |  7 |             1 |          1 |    1.0000 |
+| *Dian*      | Filthy Tide       | 14 |             1 |          1 |    1.0000 |
+| *Tatjana*   | TC Sump Runners   |  7 |             1 |          1 |    1.0000 |
 | Olaug      | Old Wyrms         |  2 |             2 |          2 |    1.0000 |
 | Hachiro    | Gargantuan Brutes |  1 |             2 |          2 |    1.0000 |
-| Phemie.    | Glorious Hounds   |  1 |             2 |          2 |    1.0000 |
+| *Phemie*    | Glorious Hounds   |  1 |             2 |          2 |    1.0000 |
 | Chikondi   | Ravenous Eagles   | 48 |            10 |          9 |    0.9000 |
-| Aeson_     | Badger Claws      | 37 |           100 |         86 |    0.8600 |
-| Maren.     | TC Sump Runners   | 10 |             7 |          6 |    0.8571 |
+| Aeson     | Badger Claws      | 37 |           100 |         86 |    0.8600 |
+| *Maren*     | TC Sump Runners   | 10 |             7 |          6 |    0.8571 |
 | Costache   | Glorious Hounds   | 31 |            75 |         60 |    0.8000 |
-| Green.     | Eldritch Fatality |  9 |             5 |          4 |    0.8000 |
+| *Green*     | Eldritch Fatality |  9 |             5 |          4 |    0.8000 |
 
 
 There are a few players in the Pros who've made a big impact in non-obvious ways. The top 15 players in the above chart are players who, the only times they touched the ball managed to score. Odalric has done it 3 times.
@@ -172,16 +172,16 @@ Conversely, let's look at the players who've touched the ball a whole lot in the
 
 | player      | team              | gp | total_touches | sum(md.td) | tds_touch |
 |-------------|-------------------|----|---------------|------------|-----------|
-| Cleve_      | Badger Claws      | 36 |           140 |          0 |    0.0000 |
+| Cleve      | Badger Claws      | 36 |           140 |          0 |    0.0000 |
 | Elvis       | Old Wyrms         | 32 |           127 |          0 |    0.0000 |
-| Melchor_    | Vanadium Hunters  | 33 |            89 |          0 |    0.0000 |
-| Evander_    | Old Wyrms         | 32 |            72 |          0 |    0.0000 |
-| Mutasim.    | TC Sump Runners   | 18 |            64 |          0 |    0.0000 |
-| Vlad.       | Gargantuan Brutes | 25 |            57 |          0 |    0.0000 |
+| Melchor    | Vanadium Hunters  | 33 |            89 |          0 |    0.0000 |
+| Evander    | Old Wyrms         | 32 |            72 |          0 |    0.0000 |
+| *Mutasim*    | TC Sump Runners   | 18 |            64 |          0 |    0.0000 |
+| *Vlad*       | Gargantuan Brutes | 25 |            57 |          0 |    0.0000 |
 | Jacquetta   | TC Sump Runners   | 16 |            52 |          0 |    0.0000 |
-| Garth.      | TC Sump Runners   | 16 |            52 |          0 |    0.0000 |
-| GutTwister. | Gore Farmers      | 17 |            38 |          0 |    0.0000 |
-| Sinta.      | Gore Farmers      |  7 |            23 |          0 |    0.0000 |
+| *Garth*      | TC Sump Runners   | 16 |            52 |          0 |    0.0000 |
+| *GutTwister* | Gore Farmers      | 17 |            38 |          0 |    0.0000 |
+| *Sinta*      | Gore Farmers      |  7 |            23 |          0 |    0.0000 |
 
 Most of these could find the endzone at some point, but the fact that the [Gargantuan Brutes](../teams/gargantuanbrutes) have now folded makes Vlad's achievement of 25 matches over three seasons and 57 touches the saddest.
 

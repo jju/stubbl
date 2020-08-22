@@ -1,5 +1,11 @@
 # Eldritch Fatality
 
+A youngish team, they weren't active in the Green Cup before the Interruption, but have come along as fierce competitors in the Modern Era, never having worse than a 60% win rate.
+
+## Playbook
+
+The Eldritch Fatality use the Drop Eagle playbook. It's an adaptation of the Hermann playbook that again requires more skilled players to run it effectively. The strategy dispenses with the catcher position entirely, instead using four skilled blitzers to run the ball, and two dedicated ball-hawks to attack the opposing ball-carriers. It's an aggressive defense that does as much work as their offense.
+
 ## Records
 
 ### Pro Level Record (W-D-L)

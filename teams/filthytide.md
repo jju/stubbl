@@ -1,4 +1,16 @@
-# Filthy Tide team_id 17
+# Filthy Tide
+
+The Filthy Tide are often called the best team to never win the Green Cup. They're an Original 8 team that has had two of the best scorers in the UBBL [[Yakup]] and [[Sardines]] but has never been able to convert the big win to get their stars a championship. Now they are in rebuild mode.
+
+## Playbook
+
+The Filthy Tide uses the Scrying Avian playbook which emphasizes speed above all else, especially the health of your own players. With proper training it's possible to have a super-fast scorer onside, which makes the lack of defensive ability easier to overcome.
+
+## History
+
+The UBBL pennant is no Green Cup, but the Filthy Tide have been a storied team the entire existence of the league (in its various forms) and had never won anything. This victory whetted their appetite for a Green Cup somewhere in their future. Perhaps merely by playing the most matches, the Filthy Tide inflicted the most casualties in this tournament, 16 (11-5-0).
+
+Their GCIX campaign was devastating to a team of such history. They put their efforts in the GCV Memorial tournament to develop a replacement for Yakup and rather than learning a more conservative style of play to match up with their current team's abilities they are pinning their entire season's fortunes on Venus, a young player who scored a TD and looked fast doing it.
 
 ## Records
 
@@ -16,12 +28,6 @@
 * Green Cup VI - Tough Brake of Alsoran
 * UBBL Challenge - UBBL Pennant
 * UBBL Challenge - Gorefield Honour
-
-## History
-
-The UBBL pennant is no Green Cup, but the Filthy Tide have been a storied team the entire existence of the league (in its various forms) and had never won anything. This victory whetted their appetite for a Green Cup somewhere in their future. Perhaps merely by playing the most matches, the Filthy Tide inflicted the most casualties in this tournament, 16 (11-5-0).
-
-Their GCIX campaign was devastating to a team of such history. They put their efforts in the GCV Memorial tournament to develop a replacement for Yakup and rather than learning a more conservative style of play to match up with their current team's abilities they are pinning their entire season's fortunes on Venus, a young player who scored a TD and looked fast doing it.
 
 ### Seasons
 

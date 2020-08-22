@@ -1,6 +1,10 @@
 # Old Wyrms
 
-Even when they're bad they aren't that bad. And when they're good they're dazzling.
+Even when they're bad they aren't that bad. And when they're good they're dazzling. They are the UBBL's only three-time champions and the only team to have defended a championship.
+
+## Playbook
+
+The Wyrms use what's known as the Excelsior playbook, where a fast fragile receiving corps works together downfield making catches in traffic and getting out of trouble. It's a shorter-passing game than the High Extension playbook used by the [Glorious Hounds](glorioushounds) but when you can avoid injury it's very effective, as the Wyrms have shown.
 
 ## History
 
@@ -53,14 +57,14 @@ They followed that up in the GCV Memorial tournament as the best team in the tou
 | Player   | Team      | Position | won  | draw | lost | GP   | TD   | Comp | Ints | BH   | SI   | Ki   | MVP  | SPP  |
 |----------|-----------|----------|------|------|------|------|------|------|------|------|------|------|------|------|
 | *Souta*   | Old Wyrms | Catcher  |   33 |    9 |   27 |   69 |   72 |   51 |    3 |    2 |    1 |    0 |    4 |  299 |
-| Babar_   | Old Wyrms | Catcher  |   34 |    8 |   23 |   65 |   29 |   13 |    9 |    5 |    0 |    0 |    3 |  143 |
+| Babar   | Old Wyrms | Catcher  |   34 |    8 |   23 |   65 |   29 |   13 |    9 |    5 |    0 |    0 |    3 |  143 |
 | Elvis    | Old Wyrms | Thrower  |   23 |    2 |   13 |   38 |    1 |  109 |    0 |    0 |    0 |    0 |    5 |  137 |
 | Amador   | Old Wyrms | Catcher  |   18 |    1 |   10 |   29 |   20 |   18 |    1 |    2 |    0 |    0 |    4 |  104 |
-| Roni_    | Old Wyrms | Catcher  |   13 |    2 |    9 |   24 |   16 |   13 |    3 |    1 |    0 |    0 |    4 |   89 |
-| Evander_ | Old Wyrms | Thrower  |   12 |    7 |   14 |   33 |    0 |   61 |    0 |    1 |    0 |    0 |    5 |   88 |
+| Roni    | Old Wyrms | Catcher  |   13 |    2 |    9 |   24 |   16 |   13 |    3 |    1 |    0 |    0 |    4 |   89 |
+| Evander | Old Wyrms | Thrower  |   12 |    7 |   14 |   33 |    0 |   61 |    0 |    1 |    0 |    0 |    5 |   88 |
 | *Maelys*  | Old Wyrms | Catcher  |   13 |    4 |    8 |   25 |   14 |   14 |    0 |    0 |    1 |    0 |    1 |   63 |
 | *Bengt*   | Old Wyrms | Blitzer  |   14 |    7 |   14 |   35 |    2 |    0 |    0 |   13 |    2 |    1 |    4 |   58 |
-| Rati_    | Old Wyrms | Blitzer  |   21 |    2 |   11 |   34 |    7 |    4 |    0 |    8 |    1 |    1 |    2 |   55 |
+| Rati    | Old Wyrms | Blitzer  |   21 |    2 |   11 |   34 |    7 |    4 |    0 |    8 |    1 |    1 |    2 |   55 |
 | Moirin   | Old Wyrms | Catcher  |    8 |    5 |    5 |   18 |   10 |    7 |    1 |    0 |    0 |    0 |    3 |   54 |
 | *Chandan* | Old Wyrms | Thrower  |   18 |    8 |   16 |   42 |    1 |   40 |    3 |    0 |    0 |    0 |    1 |   54 |
 
@@ -68,10 +72,10 @@ Having the second-best player the UBBL has ever seen in [[Souta]] is pretty good
 
 ### Tactics
 
-The Wyrms use what's known as the Excelsior playbook, where a fast fragile receiving corps works together downfield making catches in traffic and getting out of trouble. It's a shorter-passing game than the High Extension playbook used by the [Glorious Hounds](glorioushounds) but when you can avoid injury it's very effective, as the Wyrms have shown.
-
 Roster manipulation in the GCIX championship run made for new rules of only allowing 4 veterans in reserve in GCX.
 
 ### Fans
 
 ### Famous Games
+
+#unfinished

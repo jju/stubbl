@@ -1,10 +1,14 @@
 # Ravenous Eagles
 
-The Ravenous Eagles are often referred to as the worst Green Cup Champions, which is all right with the Barbarossa ownership group. 
+The Ravenous Eagles are often referred to as the worst Green Cup Champions, which is all right with the Ossa ownership group as they flaunt their rings. 
+
+## Playbook
+
+The Eagles use the Charles Dorf playbook, which is built on a very rigid division of smash and grab labour. They use slow tacklers on the line to block off the centre, three strong blitzers and a fragile ball-handling corps (which is a faster group than the blockers, but comparatively slow across the league).
 
 ## History
 
-In the old-era B.R. Ossa was a player for a team, the Black Pearl Pirates, that couldn't quite get enough wins together to break into the UBBL (that the Poets did get a crack at the Green Cup and did horribly was even more upsetting to Pirates fans). They were actually poised to enter the Green Cup V tournament, but the interruption happened and they were shut out.
+In the old-era B.R. Ossa was a player for another Charles Dorf team, the Black Pearl Pirates, that couldn't quite get enough wins together to break into the UBBL (that the Poets did get a crack at the Green Cup and did horribly was even more upsetting to Pirates fans). They were actually poised to enter the Green Cup V tournament, but the interruption happened and they were shut out.
 
 After the interruption, B.R. Ossa didn't have enough clout to get his old players back together but their closeness to Green Cup glory was seen as a good storyline for the new-era Green Cup VI. He gathered a bunch of rookies and poised them to become the perfect mix of smash and grab. The only returning player he brought with him was Twig, but that gave them a more than competent QB to get them through the initial weeks with an eye towards renewal and balance. 
 
@@ -67,7 +71,7 @@ Outside the Pro Division the Eagles put together a wonderful GCV Memorial season
 
 ### Tactics
 
-The Eagles use the Charging Dragon playbook, which is built on a very rigid division of smash and grab labour. They use slow tacklers on the line to block off the centre, three strong blitzers and a fragile ball-handling corps (which is a faster group than the blockers, but comparatively slow across the league).
+Block block block hit hit hit.
 
 ### Fans
 
@@ -75,7 +79,7 @@ Fans of the Ravenous Eagles glory in their championship titles and especially lo
 
 ### Famous Games
 
-Even in their Green Cup winning season the Ravenous Eagles haven't put up a lot of amazing matches. Their games tend to be built on hits hits and hits. Their winning GCVII season was built on inflicting 53.58 Blocks/match http://68.148.52.218/stbblm/index.php?section=objhandler&type=2&obj=2&pms=1&page=1&sort=mv_inflicted_blocks&dir=d which was 6 more than their Pro division average (47.53). 
+Even in their Green Cup winning season the Ravenous Eagles haven't put up a lot of amazing matches. Their games tend to be built on hits hits and hits. Their winning GCVII season was built on inflicting 53.58 Blocks/match which was 6 more than their Pro division average (47.53). 
 
 #### GCVII Conference Final
 
@@ -90,3 +94,5 @@ The second half kicked off with a perfect defence by the Eagles. The Cogs headed
 On the kickoff, Frediano headed directly into a cage, knowing that drawing out a long scoring drive was the best way for the Eagles to win. Unlike the first half, the Cogs immediately began to pressure the cage while Dragos headed downfield. The cage ruptured and Frediano started running to his left with Ekua. Venkata came directly after him and got the sack, but Ekua remarkably didn't fumble the ball. The Cogs swarmed him, but he burst out of the cage and headed straight for the endzone for a TD. So much for the long scoring drive. IC 1 - RE 2
 
 On the kickoff, there was a pitch invasion so with Besz down Karsten moved back to get the ball, but he mucked up the pass. Rather than trying to recover the dropped ball, the Eagles mobbed up on the Cogs who were still frozen at the line. Saxa headed downfield, followed by Besz and Karsten. Chikondi tried to sack Besz but she dumped the ball out to Dragos, who was then sacked by Lumusi. The ball went into the crowd, ending up at midfield where Eagles guarded it on the ground, not daring to try pick it up. The Cogs still had loads of time to score and force an overtime. Saxa moved downfield, but Dragos stumbled on his way to get the ball. The Eagles again protected the ball on the ground until the Cogs only had one last shot to grab and tie the match. Adalberto tried to grab it but was tackled going in and the ball made it out to Birgitta, who took a victorious trot downfield knowing the win was the Eagles'! IC 1 - RE 2
+
+#finished

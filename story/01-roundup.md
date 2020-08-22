@@ -1,5 +1,3 @@
-09-zroundup
-
 There was a bludbol match happening, a pickup game in the street. The players were just kids, but Zaac thought that maybe they'd be able to help. Kids on the street always knew where important people lived, right? It's not like up in the spire where that information is jealously guarded. Down in the stacks the people are part of the community. He just needed to connect and tap into that knowledge.
 
 The kids were running scrambly plays. They looked fun and disorganized like people who'd never really held a bludbol before. It kept escaping from their grasp like they were playing with a slicked out skin rather than a ball at all. Run run run skidddd. The play moved on from the girl who'd left half her skin on the street.
