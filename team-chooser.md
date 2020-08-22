@@ -1,25 +1,25 @@
-[[gorefarmers]] #bash #gcchamps #og #streaky 
-[[oldwyrms]] #skill #gcchamps #og #winpct #streaky #passing 
-[[filthytide]] #skill #og #scoring 
-[[sumprunners]] #new #allrounders #losers #passing #bigguys 
+[[gorefarmers]] #t-og #t-re #r-gc #p-ms #p-rt #p-ac #p-ss #bash #gcchamps #og #streaky 
+[[oldwyrms]] #t-og #t-ub #r-gc #p-m #p-rf #p-aa #p-s #s-p #skill #gcchamps #og #winpct #streaky #passing 
+[[filthytide]] #t-og #t-ub #r-uc #p-mf #p-rf #p-a #p-sw #s-r #skill #og #scoring 
+[[sumprunners]] #t-ne #t-ub #r-u2 #p-m #p-r #p-a #p-s #s-p #new #allrounders #losers #passing #bigguys 
 
-[[carcosantatters]] #bash #gcchamps #defence #streaky #generalists 
-[[arborists]] #new #skill #winpct #scoring #passing
-[[badgerclaws]] #new #skill #stars #winpct #scoring #passing 
-[[irregularcogs]] #og #skill #gcchamps 
+[[carcosantatters]] #t-oe #t-ub #r-gc #p-ms #p-r #p-a #p-ss #bash #gcchamps #defence #streaky #generalists 
+[[arborists]] #t-nu #t-ub #r-uc #p-mf #p-rf #p-aa #p-sw #s-p #new #skill #winpct #scoring #passing
+[[badgerclaws]] #t-nu #t-ub #r-cc #p-mf #p-rf #p-a #p-sw #s-r #new #skill #stars #winpct #scoring #passing 
+[[irregularcogs]] #t-og #t-ub #r-gc #p-m #p-r #p-aa #p-s #s-r #og #skill #gcchamps 
 
-[[zensunvagabonds]] #allrounders #og #bigguys 
-[[orbitalmachine]] #gcchamps #bash #new #streaky #defence #bigguys #generalists
-[[kaijudynamo]] #stars #uneven #og #roleplayers #streaky #bigguys 
-[[glorioushounds]] #stars #skill #streaky #scoring #passing 
+[[zensunvagabonds]] #t-og #t-ub #r-cc #p-m #p-r #p-a #p-s #allrounders #og #bigguys 
+[[orbitalmachine]] #t-ne #t-ub #r-gc #p-m #p-rt #p-a #p-ss #gcchamps #bash #new #streaky #defence #bigguys #generalists
+[[kaijudynamo]] #t-og #t-ub #r-dc #p-mf #p-rf #p-ac #p-sw #s-r #stars #uneven #og #roleplayers #streaky #bigguys 
+[[glorioushounds]] #t-oe #t-ub #r-dc #p-m #p-r #p-aa #p-s #s-p #stars #skill #streaky #scoring #passing 
 
-[[ravenouseagles]] #bash #gcchamps #disrespected #roleplayers #defence #bigguys #new 
-[[darklingspectres]] #allrounders #roleplayers #bash 
-[[cacklingfuries]] #bash #roleplayers 
-[[eldritchfatality]] #skill #new #winpct #passing 
+[[ravenouseagles]] #t-ne #t-ub #r-gc #p-ms #p-rt #p-ac #p-ss #bash #gcchamps #disrespected #roleplayers #defence #bigguys #new 
+[[darklingspectres]] #t-oe #t-ub #r-cc #p-ms #p-r #p-ac #p-ss #allrounders #roleplayers #bash 
+[[cacklingfuries]] #t-oe #t-ub #r-u2 #p-m #p-rf #p-a #p-ss #bash #roleplayers 
+[[eldritchfatality]] #t-ne #t-ub #r-cc #p-m #p-r #p-aa #p-s #s-r #skill #new #winpct #passing 
 
-[[gargantuanbrutes]] #bash #bigguys #streaky #losers
-[[vanadiumhunters]] #allrounders #losers #bigguys 
+[[gargantuanbrutes]] #t-og #t-re #r-uc #p-m #p-r #p-a #p-ss #bash #bigguys #streaky #losers
+[[vanadiumhunters]] #t-og #t-re #r-gl #p-m #p-r #p-a #p-s #allrounders #losers #bigguys 
 
 
 # ways to choose
