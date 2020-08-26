@@ -66,6 +66,7 @@ Hoping for a divisional title.
 | *Bryce*    | Cackling Furies | Blitzer        |   14 |    3 |   26 |   43 |    4 |           1 |             0 |    5 |    2 |    2 |    5 |   56 |
 | Frommik   | Cackling Furies | Lineman        |   21 |   14 |   27 |   62 |    1 |           2 |             1 |    7 |    2 |    2 |    5 |   54 |
 | *Ife*      | Cackling Furies | Norse Werewolf |   13 |    8 |   28 |   49 |    0 |           0 |             0 |   11 |    5 |    1 |    3 |   49 |
+| **Rodrik** | Cackling Furies | Catcher | *23* | ?? | ?? | 44 | 39 | 2 | 2 | 0 | 0 | 0 | 3 | 138 |
 
 
 Aronne is the star of the future for this team, set to take over Snow's spot in the top 5 Furies as soon as GCX begins.

@@ -1,0 +1,3 @@
+> At the time, which is not a very long time ago, no one questioned that Go was a path you walk for a lifetime. The life of a Go player was considered similar to a philosopher, a scholar, an artist, or a monk. Although there was a new movement trying to convince people that Go is actually a mind sport and Go players are elite athletes, many Go players harbored more traditional values inside them. The belief was, as a professional player, you explore and endeavor to reach an ever higher level of understanding.
+
+Lee, H. (2020, August 23). Impact of Go AI on the professional Go world. Medium. https://medium.com/@hajinlee/impact-of-go-ai-on-the-professional-go-world-f14cf201c7c2

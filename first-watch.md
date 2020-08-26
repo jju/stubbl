@@ -40,7 +40,18 @@ The Tide lost to a team in red and blue ~~{reveal link: 'EDS', text: 'Irregular 
 
 [if seasonTime === 5]
 
-The Tide lost to a team in red and white ~~{reveal link: 'EDS', text: 'TC Sump Runners'}~~ and the fans are feeling pretty down. The Wyrms tied their match with the Vagabonds.
+The Tide lost to a team in red and white ~~{reveal link: 'EDS', text: 'TC Sump Runners'}~~ and the fans are feeling pretty down. The Wyrms tied their match with the Vagabonds, escaping without any terrible injuries.
+
+At this point you've watched a third of the season and both the Filthy Tide and the Old Wyrms are not doing so hot overall. Though the Wyrms are second place in the Stacks division, they only have one win and three draws, while the Tide have 4 losses to go with their lone win.~~{reveal link: 'EDS', text: 'The Carcosan Tatters are the top of the league with W-D-L 3-1-1.'}~~ 
+
+Do you feel like a BludBol fan yet?
+
+> [[Okay, I can see how this would be fun, but I am not a fan fan.]]
+> [[This is all so pointless.]]
+> [[Yes, I am ready to declare my allegiance to a team and everything.]]
 
 [continue]
-> {back link}
+What will you do next week?
+> [Same as this week. Watch right here.]
+> {back link, label: 'I'll find somewhere else to watch.'}
+> 
