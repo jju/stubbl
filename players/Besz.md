@@ -1,4 +1,4 @@
-[[irregularcogs]][[centurion]][[halflegaward]]
+[[irregularcogs]][[centurion]][[halflegaward]][[oe-veteran]]
 
 Besz is a veteran of the old UBBL, though she joined the Cogs as a replacement for Halfleg Jack and didn't play with the legend. Her Games Played stat is thus inflated beyond its true standing (she had 4 games in the Old-Era so subtract 43 from her currently recorded GPs to get 70).
 

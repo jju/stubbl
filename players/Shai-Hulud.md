@@ -1,4 +1,4 @@
-[[zensunvagabonds]][[fanfavourite]][[carminefist]]
+[[zensunvagabonds]][[fanfavourite]][[carminefist]][[oe-veteran]]
 
 Shai-Hulud is the actual leader in UBBL games played. He was there from the beginning of the Zensun Vagabonds, and from current records it appears he never missed a match. 
 
