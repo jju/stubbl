@@ -66,11 +66,11 @@ This team relies way too much on Tooms II. Tooms is also fragile as hell and sho
 
 ### Management
 
-The Delake family makes a lot of money on this team and will most likely be cashing out at the end of this season.
+The Delake family makes a lot of money on this team and will most likely be cashing out at the end of the tenth Green Cup season.
 
 ### Fans
 
-
+The Spectres have come close to winning the Green Cup a couple of times, but have been thwarted by similarily bashing teams. Fans hate it when the schedule comes up against the [[orbitalmachine]] or the [[gorefarmers]].
 
 ### Famous Games
 

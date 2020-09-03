@@ -84,6 +84,6 @@ Will eventually be a problem that all their good players have peaked and there's
 
 ### Fans
 
-The Badger Claws had a major fan surge (FF +4 over the 9-2-8 season) in their first Green Cup tournament. It (probably peaked)
+The Badger Claws had a major fan surge (FF +4 over the 9-2-8 season) in their first Green Cup tournament. The team has a few rivalries going to sustain it. The [[arborists]] are a natural rival as the new upstart little sibling in the Green Cup world, while their use of the same playbook as the [[filthytide]] make for some natural "Who did it better?" kinds of comparisons. Then there's the [[kaijudynamo]] a team that almost no one takes seriously, but the Claws have consistently had to get through in their playoff runs.
 
 ### Famous Games

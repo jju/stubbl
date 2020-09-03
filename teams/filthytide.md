@@ -61,8 +61,8 @@ Their GCIX campaign was devastating to a team of such history. They put their ef
 | *Fikri*       | Filthy Tide | Thrower       |   21 |    5 |   13 |   39 |    4 |   47 |    0 |    2 |    0 |    0 |    2 |   73 |
 | Nicodemus II | Filthy Tide | Gutter Runner |    4 |    2 |    8 |   14 |   18 |    2 |    0 |    0 |    0 |    0 |    2 |   66 |
 | *Magali*      | Filthy Tide | Gutter Runner |   23 |    6 |   10 |   39 |   14 |    4 |    0 |    1 |    1 |    0 |    2 |   60 |
-| Septimus_    | Filthy Tide | Gutter Runner |   27 |    5 |   35 |   67 |   12 |    5 |    1 |    0 |    0 |    1 |    2 |   55 |
-| Tomer_       | Filthy Tide | Gutter Runner |    9 |    5 |   14 |   28 |   12 |    1 |    1 |    0 |    0 |    0 |    3 |   54 |
+| Septimus    | Filthy Tide | Gutter Runner |   27 |    5 |   35 |   67 |   12 |    5 |    1 |    0 |    0 |    1 |    2 |   55 |
+| Tomer       | Filthy Tide | Gutter Runner |    9 |    5 |   14 |   28 |   12 |    1 |    1 |    0 |    0 |    0 |    3 |   54 |
 | *Amandeep*    | Filthy Tide | Gutter Runner |    3 |    3 |    7 |   13 |   10 |    9 |    0 |    0 |    0 |    0 |    3 |   54 |
 
 Somfuhr inflicted the most casualties of any player in the Pro Division, while for a time [[Yakup]] seemed untouchable in his scoring abilities. That they couldn't convert this dynamic duo into more than a third place finish is heartbreaking. 
@@ -72,6 +72,8 @@ Somfuhr inflicted the most casualties of any player in the Pro Division, while f
 Sentimental fan of counting stats and wouldn't take out players past their prime when they needed to be.
 
 ### Fans
+
+The Filthy Tide have long been in the shadow of the [[oldwyrms]]. They have had great individual players but no team success. Tide fans see Wyrms supporters as arrogant blowhards, but they hate Wyrms management even more for their unsentimental business first approach to winning. Tide fans also see the [[badgerclaws]] as an up and coming rival, and would love to see their star [[Aeson]] retire, preferably without a Green Cup ring.
 
 ### Famous Games
 

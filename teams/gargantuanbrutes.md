@@ -62,4 +62,6 @@ Folded the team.
 
 ### Fans
 
+The Brutes have folded and the fans mostly don their old blue jerseys ironically these days. Many transferred their allegiances to the [[ravenouseagles]], or the Open-Level [[mules]].
+
 ### Famous Games

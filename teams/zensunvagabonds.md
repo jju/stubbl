@@ -67,6 +67,8 @@ Usually credited along with the Old Wyrms as the founders of the UBBL, the Vagab
 
 ### Fans
 
+The Vagabonds' primary rivalry is with the [[oldwyrms]] as the pair of UBBL Founders. They've never been nearly as good as the Wyrms, so a lot of fans see themselves as custodians of tradition instead of victory.
+
 ### Famous Games
 
 This loss, ending the Vagabonds' GCVIII season was [[Shai-Hulud]]'s final match, as well as [[Yakup]]'s. It was a great game.

@@ -72,5 +72,7 @@ Though Pierre is third on the team for SPP, it was in flux until quite late whet
 
 The GCV Memorial tournament was a bad move for the Tatters' fanbase, losing a lot of goodwill built up in GCIX.
 
+The Tatters' main rivals are the [[orbitalmachine]]. They have a similar defensive playbook, but that's the main basis for any animosity. Fans of the Tatters, like the players on the Tatters, don't really care much for what other teams do. Aesthetically, they are near diametric opposites of the [[glorioushounds]] who prefer to make everything graceful and easy looking.
+
 ### Famous Games
 

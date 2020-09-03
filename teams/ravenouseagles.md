@@ -75,7 +75,7 @@ Block block block hit hit hit.
 
 ### Fans
 
-Fans of the Ravenous Eagles glory in their championship titles and especially love getting in the faces of fans of the Glorious Hounds. Their loyalty has been fleeting since the GCVII
+Fans of the Ravenous Eagles glory in their championship titles and especially love getting in the faces of fans of the Glorious Hounds[[glorioushounds]]. Their loyalty has been fleeting since the GCVII
 
 ### Famous Games
 

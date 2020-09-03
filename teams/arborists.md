@@ -78,4 +78,6 @@ Attilla has a slight edge on Georgina for scoring prowess, but so far that's bee
 
 ### Fans
 
+As the Arborists are in their first Pro-Level season they don't have a lot of long-standing rivalries. Among Open-Level teams they bumped heads most with Thorns fans. Coming into GCX though, their natural rivals are the [[badgerclaws]] as the other upstart team in the race to be the first of them to win the coveted Cup.
+
 ### Famous Games

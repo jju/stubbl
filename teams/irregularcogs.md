@@ -80,5 +80,7 @@ Gryj the Hun
 
 The fans are hugely back into the Cogs after GCIX and they are bursting for another championship.
 
+The Cogs and the [[oldwyrms]] are traditional rivals, and the fact the Cogs won the first Green Cup is the bright point for the Cogs in that history. More recently, the [[orbitalmachine]] made the Cogs' shit list in "the Battle of Dungardin" and they're always looking over their shoulders at the [[eldritchfatality]] who use the same playbook.
+
 ### Famous Games
 

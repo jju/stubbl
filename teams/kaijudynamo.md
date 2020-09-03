@@ -77,6 +77,8 @@ The Dynamo use the Elizabeth Duraman playbook, with strong linemen and a big guy
 
 No one becomes a fan of the Dynamo because they enjoy the easy life. There are always injuries to someone critical to the offense, and training up rookies to take the place of linemen that have cycled out of the lineup means every season has more "developmental" games than a fan who wants quick victory will enjoy.
 
+Dynamo fans have been burned in the past by Scrying Avian teams (so the [[badgerclaws]] and [[filthytide]]) and the disparity between their record and number of championships compared to the [[gorefarmers]] always rankles.
+
 ### Famous Games
 
 The GCVIII Classic Conference final against the [Badger Claws](badgerclaws) is the highest scoring match in UBBL history. That they lost the game because of one little slip-up means there are folk songs about it. http://68.148.52.218/stbblm/index.php?section=matches&type=report&mid=560

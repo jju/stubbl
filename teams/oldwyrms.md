@@ -76,6 +76,8 @@ Roster manipulation in the GCIX championship run made for new rules of only allo
 
 ### Fans
 
+As the winningest team in the UBBL, Wyrm fans can be among the most despised. From their end, however, the main rivalries are with the [[zensunvagabonds]] as the two "Founders" of the UBBL, the [[irregularcogs]] (mostly for historical reasons), and the [[gorefarmers]], who have won more Green Cups in the modern era (and share the Stacks division with them).
+
 ### Famous Games
 
 #unfinished

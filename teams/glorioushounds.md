@@ -56,19 +56,21 @@ The Hounds fought and fought in the old-era to gain admission to the Green Cup c
 | Udo       | Glorious Hounds | Catcher  |   10 |    3 |   10 |   23 |   10 |   14 |    0 |    1 |    0 |    0 |    3 |   61 |
 | Iskra.    | Glorious Hounds | Catcher  |    8 |    2 |    8 |   18 |   12 |    3 |    0 |    1 |    0 |    0 |    1 |   46 |
 
-Costache had an injury making her slightly more expensive than her effectiveness warrants, but a better all-round receiver we see only rarely.
+[[Costache]] had an injury making her slightly more expensive than her effectiveness warrants, but a better all-round receiver we see only rarely.
 
-Yosif is the best pure passer the UBBL has seen, and that includes Ozymandias, who has actually (amazingly) seemed to be okay with the eclipsing of his talent.
+[[Yosif]] is the best pure passer the UBBL has seen, and that includes Ozymandias, who has actually (amazingly) seemed to be okay with the eclipsing of his talent.
 
-Oiva was an excellent ball-hawk, but not quite the Green Cup best.
+[[Oiva]] was an excellent ball-hawk, but not quite the Green Cup best.
 
-Past that we start getting into stars that are replaceable within a season.  
+Past that, we start getting into stars that are replaceable within a season.  
 
 ### Management
 
 ### Fans
 
 The team has been on a recent slide with its fanbase, which is kind of weird since they actually pulled off a gain in lovable losers type in GCVI where they only won 3 matches.
+
+Hounds fans generally despise teams that aren't trying to play aesthetically beautiful BludBol, so the [[ravenouseagles]] and [[carcosantatters]] are the most common targets of their ire.
 
 ### Famous Games
 

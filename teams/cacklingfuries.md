@@ -76,6 +76,8 @@ Aronne is the star of the future for this team, set to take over [[Snow]]'s spot
 
 ### Fans
 
+Cackling Furies fans don't have a lot of rivalries, getting in everyone's faces about evenly. They do, however, dislike the [[oldwyrms]] quite vehemently. The Furies' style of play can make them quite dangerous to the (fragile) Wyrms as well.
+
 ### Famous Games
 
 The one where Yusra got 3 interceptions in one match and then died.
