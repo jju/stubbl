@@ -44,7 +44,7 @@ The Tide lost to a team in red and white ~~{reveal link: 'EDS', text: 'TC Sump R
 
 At this point you've watched a third of the season and both the Filthy Tide and the Old Wyrms are not doing so hot overall. Though the Wyrms are second place in the Stacks division, they only have one win and three draws, while the Tide have 4 losses to go with their lone win.~~{reveal link: 'EDS', text: 'The Carcosan Tatters are the top of the league with W-D-L 3-1-1.'}~~ 
 
-Do you feel like a BludBol fan yet?
+A little after the Wyrms match wraps up, a gaggle of hivers in orange and black pile in in a raucous mood. The Gore Farmers won their game against the Spectres and these ones at least
 
 > [[Okay, I can see how this would be fun, but I am not a fan fan.]]
 > [[This is all so pointless.]]
@@ -52,6 +52,6 @@ Do you feel like a BludBol fan yet?
 
 [continue]
 What will you do next week?
-> [Same as this week. Watch right here.]
+> [Same as this week. Watch right here.->]
 > {back link, label: 'I'll find somewhere else to watch.'}
 > 
