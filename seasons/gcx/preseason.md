@@ -33,3 +33,10 @@ All Roster rules have been tightened up after the Moirin incident in the GCIX fi
 * DS 5-3-8
 
 
+| Burger Conference | | Classic Conference | |
+|---------------------|--|------------|----|
+| *Stacks* | *Outlands* | *Heaps* | *Pits* |
+| Old Wyrms | Badger Claws | Glorious Hounds | Eldritch Fatality |
+| Filthy Tide | Irregular Cogs | Kaiju Dynamo | Ravenous Eagles |
+| Gore Farmers | Arborists | Orbital Machine | Cackling Furies |
+| TC Sump Runners | Carcosan Tatters | Zensun Vagabonds | Darkling Spectres |

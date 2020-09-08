@@ -24,7 +24,12 @@ You settle in and watch a game
 
 [if seasonTime === 1]
 
-The Filthy Tide beat the team in pink ~~{reveal link: 'EDS', text: 'Kaiju Dynamo'}~~ and the Wyrms draw with their opponents ~~{reveal link: 'EDS', text: 'Cackling Furies'}~~.
+The Filthy Tide beat the team in pink ~~{reveal link: 'EDS', text: 'Kaiju Dynamo'}~~ handily and the Wyrms got a draw with their opponents ~~{reveal link: 'EDS', text: 'Cackling Furies'}~~.
+
+One of the Tide fans is buying rounds for the bar in celebration. "This is it! This is the year!" they're yelling. There are some smirks and disdain from the Wyrms fans.
+
+> [[Talk to the Tide fans->tidefans-fh]]
+> [[Talk to the Wyrm fans->wyrmfans-fh]]
 
 [if seasonTime === 2]
 

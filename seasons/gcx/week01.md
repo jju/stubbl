@@ -27,13 +27,21 @@ The Fatality are cash-poor right now, which might make their Green Cup quest a b
 
 Clydon was removed from the match before the ball hit the ground, but it's hard to say if he would have been able to help the Vagabonds to victory in a blizzard. The big development was that Aeson was held to a single TD. This might mean trouble for the Claws, or an opportunity to actually develop a more diverse squad. BC 4 - ZV 2
 
-The Spectres are expected to do as little as possible this season, but bursting out the gate with a win against the Hounds seemed like it might happen until late in the second half of this match. A sack near the Hounds end, with a long stretch to Costache gave the Hounds a well-fought draw. GH 3 - DS 3
+**The Spectres are expected to do as little as possible this season, but bursting out the gate with a win against the Hounds seemed like it might happen until late in the second half of this match. A sack near the Hounds end, with a long stretch to Costache gave the Hounds a well-fought draw. GH 3 - DS 3** #recap
 
 The Cogs got off to a good start and the Farmers didn't show any signs of their tankiness despite the loss. IC 3 - GF 1
 
 The Wyrms didn't start the way they hope to end, but who is? OW 3 - CF 3
 
-Sabah did his job, as far the Dynamo were concerned, but they just couldn't handle the offensive pressure from the Tide. That they spread the scoring around between 4 receivers (and a lineman) maybe signals a shift from the all-or-nothing approach the Claws have been using (and the Tide themselves pioneered in the Yakup era). FT 6 - KD 3
+**Sabah did his job, as far the Dynamo were concerned, but they just couldn't handle the offensive pressure from the Tide. That they spread the scoring around between 4 receivers (and a lineman) maybe signals a shift from the all-or-nothing approach the Claws have been using (and the Tide themselves pioneered in the Yakup era). FT 6 - KD 3** #recap
+
+| Stacks |  | Outlands |  | Heaps |  | Pits |  |
+|-------|-----|--|--|------|------|--|--|
+| Filthy Tide | 3 | Arborists | 3 | Glorious Hounds | 1 | Eldritch Fatality | 1 |
+| Old Wyrms | 1 | Badger Claws | 3 | Orbital Machine | 1 | Ravenous Eagles | 1 |
+| Gore Farmers | 0 | Irregular Cogs | 3 | Kaiju Dynamo | 0 | Cackling Furies | 1 |
+| TC Sump Runners | 0 | Carcosan Tatters | 1 | Zensun Vagabonds | 0 | Darkling Spectres | 1 |
+
 
 # players of the week
 
