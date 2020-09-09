@@ -48,22 +48,22 @@ W-D-L 6-1-0
 
 | Player      | Team   | Position | won  | draw | lost | GP   | TD   | Cp | Int | BH   | SI   | Ki   | MVP  | SPP  |
 |-----------|-----------|------------|------|------|------|------|------|-------------|---------------|------|------|------|------|------|
-| Georgina  | Arborists | Catcher    |   10 |    1 |    5 |   16 |   12 |           7 |             6 |    0 |    0 |    0 |    3 |   70 |
-| Hartwin_  | Arborists | Thrower    |   10 |    1 |    5 |   16 |    0 |          41 |             2 |    0 |    1 |    0 |    1 |   52 |
-| Attilla   | Arborists | Catcher    |    9 |    1 |    5 |   15 |   13 |           4 |             0 |    0 |    1 |    0 |    1 |   50 |
-| Sanja     | Arborists | Wardancer  |    9 |    1 |    5 |   15 |    8 |           1 |             0 |    0 |    2 |    0 |    2 |   39 |
-| Kropotkin | Arborists | Wardancer  |    9 |    1 |    2 |   12 |    6 |           0 |             0 |    1 |    3 |    0 |    2 |   36 |
-| Laurel    | Arborists | Catcher    |    5 |    1 |    0 |    6 |    6 |           0 |             1 |    0 |    0 |    0 |    0 |   20 |
-| Chantrea  | Arborists | Lineman    |   10 |    0 |    5 |   15 |    1 |           0 |             0 |    0 |    0 |    0 |    2 |   13 |
-| Iago      | Arborists | Lineman    |   10 |    1 |    5 |   16 |    1 |           4 |             0 |    0 |    0 |    0 |    1 |   12 |
-| Borarinn  | Arborists | Treeman    |    8 |    1 |    1 |   10 |    0 |           0 |             0 |    3 |    1 |    1 |    0 |   10 |
-| Haluk     | Arborists | Lineman    |    9 |    1 |    4 |   14 |    0 |           0 |             0 |    0 |    1 |    1 |    1 |    9 |
-| Nitika    | Arborists | Catcher    |    1 |    0 |    0 |    1 |    3 |           0 |             0 |    0 |    0 |    0 |    0 |    9 |
-| Unnr      | Arborists | Lineman    |   10 |    0 |    5 |   15 |    0 |           1 |             0 |    0 |    0 |    1 |    1 |    8 |
-| Priyanka  | Arborists | Lineman    |   10 |    1 |    5 |   16 |    0 |           0 |             0 |    1 |    0 |    0 |    1 |    7 |
-| Joona     | Arborists | Lineman    |   10 |    1 |    4 |   15 |    0 |           1 |             0 |    0 |    0 |    0 |    1 |    6 |
-| Zelma.    | Arborists | Catcher    |    0 |    0 |    2 |    2 |    0 |           0 |             0 |    0 |    0 |    0 |    0 |    0 |
-| Bishop    | Arborists | Lineman    |    1 |    0 |    2 |    3 |    0 |           0 |             0 |    0 |    0 |    0 |    0 |    0 |
+| **Georgina**  | Arborists | Catcher    |   10 |    1 |    5 |   16 |   12 |           7 |             6 |    0 |    0 |    0 |    3 |   70 |
+| **Hartwin**  | Arborists | Thrower    |   10 |    1 |    5 |   16 |    0 |          41 |             2 |    0 |    1 |    0 |    1 |   52 |
+| **Attilla**   | Arborists | Catcher    |    9 |    1 |    5 |   15 |   13 |           4 |             0 |    0 |    1 |    0 |    1 |   50 |
+| **Sanja**     | Arborists | Wardancer  |    9 |    1 |    5 |   15 |    8 |           1 |             0 |    0 |    2 |    0 |    2 |   39 |
+| **Kropotkin** | Arborists | Wardancer  |    9 |    1 |    2 |   12 |    6 |           0 |             0 |    1 |    3 |    0 |    2 |   36 |
+| **Laurel**    | Arborists | Catcher    |    5 |    1 |    0 |    6 |    6 |           0 |             1 |    0 |    0 |    0 |    0 |   20 |
+| **Chantrea**  | Arborists | Lineman    |   10 |    0 |    5 |   15 |    1 |           0 |             0 |    0 |    0 |    0 |    2 |   13 |
+| **Iago**      | Arborists | Lineman    |   10 |    1 |    5 |   16 |    1 |           4 |             0 |    0 |    0 |    0 |    1 |   12 |
+| **Borarinn**  | Arborists | Treeman    |    8 |    1 |    1 |   10 |    0 |           0 |             0 |    3 |    1 |    1 |    0 |   10 |
+| **Haluk**     | Arborists | Lineman    |    9 |    1 |    4 |   14 |    0 |           0 |             0 |    0 |    1 |    1 |    1 |    9 |
+| **Nitika**    | Arborists | Catcher    |    1 |    0 |    0 |    1 |    3 |           0 |             0 |    0 |    0 |    0 |    0 |    9 |
+| **Unnr**      | Arborists | Lineman    |   10 |    0 |    5 |   15 |    0 |           1 |             0 |    0 |    0 |    1 |    1 |    8 |
+| **Priyanka**  | Arborists | Lineman    |   10 |    1 |    5 |   16 |    0 |           0 |             0 |    1 |    0 |    0 |    1 |    7 |
+| **Joona**     | Arborists | Lineman    |   10 |    1 |    4 |   15 |    0 |           1 |             0 |    0 |    0 |    0 |    1 |    6 |
+| Zelma    | Arborists | Catcher    |    0 |    0 |    2 |    2 |    0 |           0 |             0 |    0 |    0 |    0 |    0 |    0 |
+| **Bishop**    | Arborists | Lineman    |    1 |    0 |    2 |    3 |    0 |           0 |             0 |    0 |    0 |    0 |    0 |    0 |
 
 
 The big three for the team going into GCX are Georgina (Catcher pid 842), Hartwin (Thrower pid 845) and Attilla (Catcher pid 844).

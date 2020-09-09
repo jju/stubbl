@@ -31,6 +31,14 @@ One of the Tide fans is buying rounds for the bar in celebration. "This is it! T
 > [[Talk to the Tide fans->tidefans-fh]]
 > [[Talk to the Wyrm fans->wyrmfans-fh]]
 
+:: tidefans-fh
+
+The people in orange and blue are excited and ebuillent. You get a few beers bought for you as they tell you all about their team. A lot of the time they're talking over each other and there are arguments bursting out as it goes, but generally these aren't horrible people. One glassy-eyed fan gets very serious about how important Sardines was to her personally as a kid and how sad she was when his career ended. You aren't learning a lot about the tactics used in BludBol, but you can see what the game is meaning to them.
+
+compassion = compassion + 1
+
+
+
 [if seasonTime === 2]
 
 The Wyrms beat a green and blue team ~~{reveal link: 'EDS', text: 'Badger Claws'}~~ 4-3. The Tide fans and the Wyrms fans seemed happy about this one, but the Tide lost their match to a team in black and gold ~~{reveal link: 'EDS', text: 'Carcosan Tatters'}~~.
@@ -49,11 +57,16 @@ The Tide lost to a team in red and white ~~{reveal link: 'EDS', text: 'TC Sump R
 
 At this point you've watched a third of the season and both the Filthy Tide and the Old Wyrms are not doing so hot overall. Though the Wyrms are second place in the Stacks division, they only have one win and three draws, while the Tide have 4 losses to go with their lone win.~~{reveal link: 'EDS', text: 'The Carcosan Tatters are the top of the league with W-D-L 3-1-1.'}~~ 
 
-A little after the Wyrms match wraps up, a gaggle of hivers in orange and black pile in in a raucous mood. The Gore Farmers won their game against the Spectres and these ones at least
+A little after the Wyrms match wraps up, a gaggle of hivers in orange and black pile in in a raucous mood. The Gore Farmers won their game against the Spectres and these ones at least seem in the mood for a fight to celebrate. You remember that sound from the beforetimes, when it meant violence was in the air. What's your play here?
 
-> [[Okay, I can see how this would be fun, but I am not a fan fan.]]
-> [[This is all so pointless.]]
-> [[Yes, I am ready to declare my allegiance to a team and everything.]]
+> [Slip out before anything happens. These are just a bunch of idiots.]
+> [Hang out and observe - craft]
+> [Make sure your friends are all right - compassion]
+> [Take charge of the situation - chutzpah]
+
+> [Okay, I can see how this would be fun, but I am not a fan fan.]
+> [This is all so pointless.]
+> [Yes, I am ready to declare my allegiance to a team and everything.]
 
 [continue]
 What will you do next week?
