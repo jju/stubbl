@@ -4,7 +4,7 @@ When the Gore Farmers are good they can be very good, as evidenced by their two 
 
 ## Playbook
 
-The Option-Crush approach to BludBol is traditional, simple, but also somewhat arcane. A team can use 4 strong slow and unskilled linemen, 4 faster attacking blitzers, 2 dedicated ball-handlers, 4 weak slow receivers and a nigh-unlimited supply of tough fodder. The basic idea is to get a ball handler into a cage and grind out a 2-1 win, but there are more options for the team that wishes to develop them. The Gore Farmers, for instance, *mostly* eschew the Big Guy approach.
+The Orville-Crush approach to BludBol is traditional, simple, but also somewhat arcane. A team can use 4 strong slow and unskilled linemen, 4 faster attacking blitzers, 2 dedicated ball-handlers, 4 weak slow receivers and a nigh-unlimited supply of tough fodder. The basic idea is to get a ball handler into a cage and grind out a 2-1 win, but there are more options for the team that wishes to develop them. The Gore Farmers, for instance, *mostly* eschew the Big Guy approach.
 
 ## History
 
@@ -77,6 +77,8 @@ Spleen Hucker has proved to be a savvy leader of the team, but at the expense of
 ### Fans
 
 The current fanbase hates the tanking that went on in GCIX and the Farmers are going to be under the microscope for violations of the spirit of the new rules in GCX.
+
+The Gore Farmers and the [[orbitalmachine]] both won the sixth Green Cup (one Classic and one not) and that dispute over which one should really count fuelled their rivalry. The [[darklingspectres]] at this point are the team the Farmers try their best to fend off, as successfully as they have thus far.
 
 ### Famous Games
 

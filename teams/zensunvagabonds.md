@@ -41,15 +41,18 @@ The Vagabonds use the Hermann playbook, the original plan for playing BludBol, a
 
 | Player       | Team             | Position | won  | draw | lost | GP   | TD   | Comp | Ints | BH   | SI   | Ki   | MVP  | SPP  |
 |--------------|------------------|----------|------|------|------|------|------|------|------|------|------|------|------|------|
-| Rohit.       | Zensun Vagabonds | Blitzer  |   20 |   12 |   19 |   51 |    7 |    1 |    1 |   39 |   12 |    1 |    6 |  158 |
-| Subrahmanya. | Zensun Vagabonds | Thrower  |   21 |   11 |   22 |   54 |    1 |   96 |    0 |    1 |    0 |    0 |    5 |  126 |
-| Lucrece.     | Zensun Vagabonds | Catcher  |   24 |   14 |   24 |   62 |   27 |    3 |    2 |    1 |    1 |    0 |    6 |  122 |
-| Bahiyya.     | Zensun Vagabonds | Blitzer  |   16 |   12 |   14 |   42 |   29 |    1 |    3 |    2 |    2 |    0 |    0 |  102 |
-| Siv.         | Zensun Vagabonds | Catcher  |   18 |    8 |   17 |   43 |   20 |    3 |    1 |    0 |    0 |    0 |    3 |   80 |
-| Ormonde.     | Zensun Vagabonds | Blitzer  |   12 |    9 |    9 |   30 |   12 |    3 |    3 |    1 |    1 |    1 |    2 |   61 |
-| Shai-Hulud.  | Zensun Vagabonds | Ogre     |   30 |   21 |   39 |   90 |    0 |    1 |    0 |   11 |    4 |    2 |    5 |   60 |
-| Badri.       | Zensun Vagabonds | Catcher  |    9 |    6 |    5 |   20 |   16 |    1 |    0 |    0 |    1 |    0 |    1 |   56 |
-| Jayadev.     | Zensun Vagabonds | Thrower  |   11 |   11 |    8 |   30 |    4 |   19 |    0 |    3 |    0 |    0 |    3 |   52 |
+| *Rohit*       | Zensun Vagabonds | Blitzer  |   20 |   12 |   19 |   51 |    7 |    1 |    1 |   39 |   12 |    1 |    6 |  158 |
+| *Subrahmanya* | Zensun Vagabonds | Thrower  |   21 |   11 |   22 |   54 |    1 |   96 |    0 |    1 |    0 |    0 |    5 |  126 |
+| *Lucrece*     | Zensun Vagabonds | Catcher  |   24 |   14 |   24 |   62 |   27 |    3 |    2 |    1 |    1 |    0 |    6 |  122 |
+| *Bahiyya*     | Zensun Vagabonds | Blitzer  |   16 |   12 |   14 |   42 |   29 |    1 |    3 |    2 |    2 |    0 |    0 |  102 |
+| *Shai-Hulud*  | Zensun Vagabonds | Ogre     |   30 |   21 |   39 |   90 |    0 |    1 |    0 |   16 |    10 |    3 |    7 |   94 |
+| **Mahdi** | Zensun Vagabonds | Thrower  | *17* | *1* | *27* | 45 | 4 | 65 | 0 | 0 | 0 | 0 | 3 | 92 |
+| **Paul** | Zensun Vagabonds | Thrower  | *17* | *1* | *27* | 45 | 4 | 25 | 1 | 3 | 1 | 0 | 7 | 82 |
+| **Korba** | Zensun Vagabonds | Catcher  | *15* | *1* | *28* | 44 | 15 | 4 | 0 | 0 | 1 | 0 | 6 | 81 |
+| *Siv*         | Zensun Vagabonds | Catcher  |   18 |    8 |   17 |   43 |   20 |    3 |    1 |    0 |    0 |    0 |    3 |   80 |
+| *Ormonde*     | Zensun Vagabonds | Blitzer  |   12 |    9 |    9 |   30 |   12 |    3 |    3 |    1 |    1 |    1 |    2 |   61 |
+| *Badri*       | Zensun Vagabonds | Catcher  |    9 |    6 |    5 |   20 |   16 |    1 |    0 |    0 |    1 |    0 |    1 |   56 |
+| *Jayadev*     | Zensun Vagabonds | Thrower  |   11 |   11 |    8 |   30 |    4 |   19 |    0 |    3 |    0 |    0 |    3 |   52 |
 | Jonah        | Zensun Vagabonds | Catcher  |    4 |    2 |    6 |   12 |    8 |    5 |    0 |    0 |    0 |    0 |    2 |   39 |
 | Clydon       | Zensun Vagabonds | Thrower  |    4 |    1 |    6 |   11 |    1 |   17 |    2 |    0 |    0 |    0 |    2 |   34 |
 
@@ -64,4 +67,10 @@ Usually credited along with the Old Wyrms as the founders of the UBBL, the Vagab
 
 ### Fans
 
+The Vagabonds' primary rivalry is with the [[oldwyrms]] as the pair of UBBL Founders. They've never been nearly as good as the Wyrms, so a lot of fans see themselves as custodians of tradition instead of victory.
+
 ### Famous Games
+
+This loss, ending the Vagabonds' GCVIII season was [[Shai-Hulud]]'s final match, as well as [[Yakup]]'s. It was a great game.
+
+http://68.148.52.218/stbblm/index.php?section=matches&type=report&mid=553

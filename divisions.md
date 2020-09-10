@@ -39,32 +39,32 @@
 ### Stacks
 
 1. **OW** 
-2. *SR* (conference switch)
-3. *FT*
+2. *SR* (conference switch from Classic-Pits)
+3. *FT* (division switch from Outlands - swap IC)
 4. GF
 
 ### Outlands
 
-1. *BC* (conference switch)
-2. *IC* 
+1. *BC* (conference switch from Classic-Pits - swap RE)
+2. *IC* (division switch from Stacks - swap FT)
 3. CT 
-4. *GB* (replaced VH conference switch)
+4. *GB* (replaced VH & conference switch from Classic-Pits)
 
 ## Classic Conference
 
 ### Heaps
 
-1. *GH* 
+1. *GH* (conference switch from Burger-Stacks)
 2. KD 
-3. *ZV* (conference switch)
-4. *OM*
+3. *ZV* (conference switch from Burger-Outlands)
+4. *OM* (division switch from Pits - swap OM)
 
 ### Pits
  
 1. EF 
-2. *CF* 
-3. *DS*
-4. *RE* (conference switch)
+2. *CF* (division switch from Heaps)
+3. *DS* (division switch from Heaps - swap OM)
+4. *RE* (conference switch from Burger-Outlands - swap BC)
 
 # GCVIII
 

@@ -40,25 +40,28 @@ The Brutes inflicted 24 Casualties in 12 matches in the inaugural Green Cup Tour
 ### Stars & Scrubs
 
 | Player   | Team              | Position          | won  | draw | lost | GP   | TD   | Comp | Ints | BH   | SI   | Ki   | MVP  | SPP  |
-+----------+-------------------+-------------------+------+------+------+------+------+------+------+------+------+------+------+------+
-| Marzhak. | Gargantuan Brutes | Minotaur          |   18 |    9 |   43 |   70 |    0 |    0 |    1 |   35 |   18 |    2 |    6 |  142 |
-| Votyris. | Gargantuan Brutes | Dark Elf Renegade |   17 |   11 |   35 |   63 |   27 |   16 |    3 |    2 |    0 |    1 |    4 |  129 |
-| Alequo.  | Gargantuan Brutes | Goblin Renegade   |   15 |   10 |   37 |   62 |   20 |    0 |    2 |    0 |    0 |    0 |    4 |   84 |
+|----------|-------------------|-------------------|------|------|------|------|------|------|------|------|------|------|------|------|
+| Marzhak | Gargantuan Brutes | Minotaur          |   18 |    9 |   43 |   70 |    0 |    0 |    1 |   35 |   18 |    2 |    6 |  142 |
+| Votyris | Gargantuan Brutes | Dark Elf Renegade |   17 |   11 |   35 |   63 |   27 |   16 |    3 |    2 |    0 |    1 |    4 |  129 |
+| *Lophand* | Gargantuan Brutes | Minotaur          |   ?? |   ?? |   ?? |   32 |    0 |    0 |    0 |   28 |   18 |    5 |    4 |  122 |
+| Alequo  | Gargantuan Brutes | Goblin Renegade   |   15 |   10 |   37 |   62 |   20 |    0 |    2 |    0 |    0 |    0 |    4 |   84 |
 | Ligeia   | Gargantuan Brutes | Marauder          |    8 |    2 |   16 |   26 |    2 |   33 |    2 |    3 |    1 |    0 |    3 |   66 |
-| Vlad.    | Gargantuan Brutes | Marauder          |    8 |    8 |   18 |   34 |    0 |   41 |    0 |    0 |    0 |    0 |    3 |   56 |
-| Bethari. | Gargantuan Brutes | Skaven Renegade   |    6 |    3 |   10 |   19 |   11 |    5 |    1 |    1 |    0 |    0 |    2 |   52 |
+| Vlad    | Gargantuan Brutes | Marauder          |    8 |    8 |   18 |   34 |    0 |   41 |    0 |    0 |    0 |    0 |    3 |   56 |
+| Bethari | Gargantuan Brutes | Skaven Renegade   |    6 |    3 |   10 |   19 |   11 |    5 |    1 |    1 |    0 |    0 |    2 |   52 |
 | Erich    | Gargantuan Brutes | Marauder          |   12 |    8 |   31 |   51 |    1 |    8 |    3 |    3 |    2 |    0 |    4 |   47 |
-| Yorko.   | Gargantuan Brutes | Marauder          |    2 |    6 |   17 |   25 |    8 |    1 |    1 |    1 |    0 |    0 |    2 |   39 |
+| Yorko   | Gargantuan Brutes | Marauder          |    2 |    6 |   17 |   25 |    8 |    1 |    1 |    1 |    0 |    0 |    2 |   39 |
 | Alinafe  | Gargantuan Brutes | Marauder          |    5 |    2 |   12 |   19 |    2 |    1 |    4 |    1 |    1 |    0 |    3 |   34 |
 | Christos | Gargantuan Brutes | Chaos Ogre        |   11 |    3 |   16 |   30 |    0 |    0 |    0 |    4 |    3 |    0 |    3 |   29 |
 | Klik     | Gargantuan Brutes | Skaven Renegade   |    2 |    0 |   13 |   15 |    3 |   14 |    0 |    0 |    0 |    0 |    1 |   28 |
 
-It's a shame Marzhak wasn't on a better team. Players with his profile can be great.
+It's a shame [[Marzhak]] wasn't on a better team. Players with his profile can be great. He was better than his predecessor, [[Lophand]].
 
 ### Management
 
-Folded the team
+Folded the team.
 
 ### Fans
+
+The Brutes have folded and the fans mostly don their old blue jerseys ironically these days. Many transferred their allegiances to the [[ravenouseagles]], or the Open-Level [[mules]].
 
 ### Famous Games

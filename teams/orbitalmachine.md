@@ -59,7 +59,7 @@ The GCIX season was their first in which they did not lead the league in Casualt
 
 ### Fans
 
-Generally on the up.
+Fans of the Machine don't get on especially well with the other main bashing teams in the Pros (the [[carcosantatters]] and [[gorefarmers]]). Adding to the frisson with the Farmers is the disputed nature of the "true winner" of the sixth Green Cup.
 
 ### Famous Games
 
