@@ -54,23 +54,23 @@ Second place for the rookies and the Cogs' best showing in many a season (in a G
 
 | Player     | Team           | Position  | won  | draw | lost | GP   | TD   | Comp | Ints | BH   | SI   | Ki   | MVP  | SPP  |
 |------------|----------------|-----------|------|------|------|------|------|------|------|------|------|------|------|------|
-| *Besz*      | Irregular Cogs | Runner    |   58 |   12 |   43 |  70 |   26 |  119 |    0 |    0 |    1 |    0 |    5 |  224 |
-| **Halfleg** | Irregular Cogs | Runner | *31* | *1* | *19* | 51 | 12 | 89 | 2 | 2 | 0 | 3 | 3 | 154 |
-| **Crobuzon** | Irregular Cogs | Witch Elf | *28* | *0* | *22* | 50 | 33 | 5 | 1 | 6 | 5 | 0 | 4 | 148 |
-| Dragos    | Irregular Cogs | Blitzer   |   36 |    3 |   21 |   60 |   38 |    5 |    2 |    1 |    0 |    0 |    2 |  135 |
-| *Saxa*      | Irregular Cogs | Blitzer   |   22 |    2 |   18 |   42 |   23 |   11 |    4 |    2 |    1 |    0 |    2 |  104 |
-| **BasLag** | Irregular Cogs | Witch Elf | *30* | *1* | *21* | 52 | 18 | 2 | 1 | 6 | 1 | 0 | 4 | 92 |
-| **Yagharek** | Irregular Cogs | Blitzer   | *21* | *0* | *10* | 31 | 13 | 4 | 1 | 2 | 1 | 1 | 5 | 78 |
-| *Melisa*    | Irregular Cogs | Runner    |   16 |    2 |   14 |   32 |    8 |   42 |    2 |    0 |    0 |    0 |    3 |   85 |
-| Adalberto | Irregular Cogs | Blitzer   |   26 |    4 |   22 |   52 |   11 |    4 |    1 |    9 |    4 |    1 |    3 |   82 |
-| *Karsten*   | Irregular Cogs | Blitzer   |   23 |    3 |   15 |   41 |    9 |    7 |    0 |    4 |    1 |    1 |    6 |   76 |
-| Zina       | Irregular Cogs | Blitzer   |   16 |    2 |   14 |   32 |   15 |    1 |    0 |    4 |    1 |    0 |    4 |   76 |
-| Alexandros | Irregular Cogs | Runner    |    9 |    1 |    8 |   18 |    8 |   31 |    0 |    0 |    0 |    0 |    4 |   75 |
-| Erazem    | Irregular Cogs | Witch Elf |   15 |    3 |   15 |   33 |    4 |    2 |    1 |    8 |    1 |    0 |    5 |   59 |
-| Ignat      | Irregular Cogs | Witch Elf |   15 |    2 |   14 |   31 |    7 |    0 |    0 |    0 |    1 |    1 |    5 |   50 |
-| *Abiel*     | Irregular Cogs | Lineman   |   32 |    5 |   21 |   58 |    1 |    1 |    1 |    5 |    1 |    0 |    6 |   48 |
+| Besz      | Irregular Cogs | Runner    |   58 |   12 |   43 |  70 |   26 |  119 |    0 |    0 |    1 |    0 |    5 |  224 |
+| *Halfleg* | Irregular Cogs | Runner | *31* | *1* | *19* | 51 | 12 | 89 | 2 | 2 | 0 | 3 | 3 | 154 |
+| *Crobuzon* | Irregular Cogs | Witch Elf | *28* | *0* | *22* | 50 | 33 | 5 | 1 | 6 | 5 | 0 | 4 | 148 |
+| **Dragos**    | Irregular Cogs | Blitzer   |   36 |    3 |   21 |   60 |   38 |    5 |    2 |    1 |    0 |    0 |    2 |  135 |
+| Saxa      | Irregular Cogs | Blitzer   |   22 |    2 |   18 |   42 |   23 |   11 |    4 |    2 |    1 |    0 |    2 |  104 |
+| *BasLag* | Irregular Cogs | Witch Elf | *30* | *1* | *21* | 52 | 18 | 2 | 1 | 6 | 1 | 0 | 4 | 92 |
+| *Yagharek* | Irregular Cogs | Blitzer   | *21* | *0* | *10* | 31 | 13 | 4 | 1 | 2 | 1 | 1 | 5 | 78 |
+| Melisa    | Irregular Cogs | Runner    |   16 |    2 |   14 |   32 |    8 |   42 |    2 |    0 |    0 |    0 |    3 |   85 |
+| **Adalberto** | Irregular Cogs | Blitzer   |   26 |    4 |   22 |   52 |   11 |    4 |    1 |    9 |    4 |    1 |    3 |   82 |
+| Karsten   | Irregular Cogs | Blitzer   |   23 |    3 |   15 |   41 |    9 |    7 |    0 |    4 |    1 |    1 |    6 |   76 |
+| **Zina**       | Irregular Cogs | Blitzer   |   16 |    2 |   14 |   32 |   15 |    1 |    0 |    4 |    1 |    0 |    4 |   76 |
+| **Alexandros** | Irregular Cogs | Runner    |    9 |    1 |    8 |   18 |    8 |   31 |    0 |    0 |    0 |    0 |    4 |   75 |
+| **Erazem**    | Irregular Cogs | Witch Elf |   15 |    3 |   15 |   33 |    4 |    2 |    1 |    8 |    1 |    0 |    5 |   59 |
+| **Ignat**      | Irregular Cogs | Witch Elf |   15 |    2 |   14 |   31 |    7 |    0 |    0 |    0 |    1 |    1 |    5 |   50 |
+| Abiel     | Irregular Cogs | Lineman   |   32 |    5 |   21 |   58 |    1 |    1 |    1 |    5 |    1 |    0 |    6 |   48 |
 
-[[Besz]] played in the old-era. No one has any proof she didn't play in all the matches she says she did (as an underused backup to Halfleg), but no one quite believes her either. (Updated: Besz played 4 games in the old era. Her stats above now reflect this.) She's still good, and the undisputed heart of the Cogs, though Alexandros is trying to take over the position.
+[[Besz]] played in the old-era. No one has any proof she didn't play in all the matches she says she did (as an underused backup to Halfleg), but no one quite believes her either. (Updated: Besz played 4 games in the old era. Her stats above now reflect this.) She's still good, and the heart of the Cogs, though Alexandros is trying to take over the position.
 
 ### Management
 

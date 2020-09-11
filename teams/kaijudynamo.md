@@ -53,17 +53,22 @@ With Sabah's help the Dynamo finished on top of the GCVIII regular season standi
 
 | Player    | Team         | Position | won  | draw | lost | GP   | TD   | Comp | Ints | BH   | SI   | Ki   | MVP  | SPP  |
 |-----------|--------------|----------|------|------|------|------|------|------|------|------|------|------|------|------|
-| Sabah    | Kaiju Dynamo | Skink    |   26 |    4 |   13 |   43 |   57 |    2 |    0 |    0 |    0 |    0 |    3 |  188 |
-| *Nakayama* | Kaiju Dynamo | Skink    |   24 |    5 |   18 |   47 |   22 |   27 |    1 |    1 |    0 |    1 |    3 |  114 |
-| *Sadaharu* | Kaiju Dynamo | Skink    |   30 |    9 |   22 |   61 |   27 |    3 |    0 |    1 |    0 |    0 |    1 |   91 |
-| Starfin  | Kaiju Dynamo | Skink    |   25 |    8 |   21 |   54 |   11 |   25 |    0 |    1 |    0 |    1 |    1 |   67 |
-| *Galley*   | Kaiju Dynamo | Kroxigor |   20 |    3 |   14 |   37 |    0 |    0 |    1 |   18 |    4 |    2 |    3 |   65 |
-| Marco    | Kaiju Dynamo | Skink    |   22 |    4 |   10 |   36 |   12 |    1 |    1 |    2 |    0 |    0 |    4 |   63 |
-| *Mako*     | Kaiju Dynamo | Skink    |    9 |    5 |   12 |   26 |   12 |   20 |    2 |    0 |    0 |    0 |    0 |   60 |
-| Deepali   | Kaiju Dynamo | Saurus   |   25 |    4 |   12 |   41 |    1 |    0 |    0 |    8 |    2 |    2 |    5 |   52 |
-| *Morgan*   | Kaiju Dynamo | Saurus   |   19 |    7 |   15 |   41 |    0 |    0 |    0 |    4 |    4 |    0 |    7 |   51 |
-| Tijmen    | Kaiju Dynamo | Kroxigor |   14 |    4 |    7 |   25 |    0 |    0 |    0 |    7 |    6 |    0 |    3 |   41 |
-| Gwenda   | Kaiju Dynamo | Skink    |    8 |    3 |    6 |   17 |    9 |    0 |    0 |    0 |    0 |    0 |    2 |   37 |
+| **Sabah**    | Kaiju Dynamo | Skink    |   26 |    4 |   13 |   43 |   57 |    2 |    0 |    0 |    0 |    0 |    3 |  188 |
+| Nakayama | Kaiju Dynamo | Skink    |   24 |    5 |   18 |   47 |   22 |   27 |    1 |    1 |    0 |    1 |    3 |  114 |
+| *Dogolas* | Kaiju Dynamo | Skink | ?? | ?? | ?? | 57 | 20 | 20 | 2 | 0 | 1 | 0 | 5 | 111 |
+| *Godzuki* | Kaiju Dynamo | Skink | ?? | ?? | ?? | 56 | 25 | 1 | 1 | 0 | 0 | 0 | 6 | 108 |
+| Sadaharu | Kaiju Dynamo | Skink    |   30 |    9 |   22 |   61 |   27 |    3 |    0 |    1 |    0 |    0 |    1 |   91 |
+| *Nedry* | Kaiju Dynamo | Skink | ?? | ?? | ?? | 41 | 17 | 7 | 0 | 2 | 0 | 0 | 5 | 87 |
+| *Meganulon* | Kaiju Dynamo | Saurus | ?? | ?? | ?? | 56 | 1 | 0 | 1 | 14 | 9 | 2 | 6 | 85 |
+| *Daghara* | Kaiju Dynamo | Skink | ?? | ?? | ?? | 34 | 11 | 18 | 0 | 0 | 1 | 0 | 5 | 78 |
+| **Starfin**  | Kaiju Dynamo | Skink    |   25 |    8 |   21 |   54 |   11 |   25 |    0 |    1 |    0 |    1 |    1 |   67 |
+| Galley   | Kaiju Dynamo | Kroxigor |   20 |    3 |   14 |   37 |    0 |    0 |    1 |   18 |    4 |    2 |    3 |   65 |
+| **Marco**    | Kaiju Dynamo | Skink    |   22 |    4 |   10 |   36 |   12 |    1 |    1 |    2 |    0 |    0 |    4 |   63 |
+| Mako     | Kaiju Dynamo | Skink    |    9 |    5 |   12 |   26 |   12 |   20 |    2 |    0 |    0 |    0 |    0 |   60 |
+| **Deepali**   | Kaiju Dynamo | Saurus   |   25 |    4 |   12 |   41 |    1 |    0 |    0 |    8 |    2 |    2 |    5 |   52 |
+| Morgan   | Kaiju Dynamo | Saurus   |   19 |    7 |   15 |   41 |    0 |    0 |    0 |    4 |    4 |    0 |    7 |   51 |
+| **Tijmen**    | Kaiju Dynamo | Kroxigor |   14 |    4 |    7 |   25 |    0 |    0 |    0 |    7 |    6 |    0 |    3 |   41 |
+| **Gwenda**   | Kaiju Dynamo | Skink    |    8 |    3 |    6 |   17 |    9 |    0 |    0 |    0 |    0 |    0 |    2 |   37 |
 
 [[Sabah]] was basically the entire strategy of the GCVIII team, and he was great at the time. Now, he's been hit around the head too much and can't be relied upon, so the Dynamo need to develop some other means of getting the ball to the endzone.
 

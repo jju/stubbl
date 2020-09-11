@@ -55,17 +55,17 @@ Outside the Pro Division the Eagles put together a wonderful GCV Memorial season
 
 | Player    | Team            | Position            | won  | draw | lost | GP   | TD   | Comp | Ints | BH   | SI   | Ki   | MVP  | SPP  |
 |-----------|-----------------|---------------------|------|------|------|------|------|------|------|------|------|------|------|------|
-| Percy    | Ravenous Eagles | Minotaur            |   20 |    3 |   18 |   41 |    1 |    0 |    1 |   26 |    7 |    2 |    4 |   95 |
-| Ekua      | Ravenous Eagles | Bull Centaur        |   25 |    7 |   32 |   64 |    6 |    0 |    1 |   15 |    7 |    1 |    4 |   86 |
-| *Frediano* | Ravenous Eagles | Hobgoblin           |   17 |    4 |   17 |   38 |   13 |   20 |    1 |    1 |    0 |    0 |    3 |   78 |
-| Jantine   | Ravenous Eagles | Minotaur            |    6 |    4 |   11 |   21 |    0 |    0 |    0 |   21 |    5 |    1 |    2 |   64 |
-| Chikondi  | Ravenous Eagles | Bull Centaur        |   21 |    4 |   24 |   49 |    9 |    0 |    2 |    3 |    2 |    1 |    4 |   63 |
-| Viltaute | Ravenous Eagles | Hobgoblin           |   19 |    5 |   23 |   47 |   10 |   10 |    0 |    0 |    1 |    0 |    2 |   52 |
-| *Sigfrido* | Ravenous Eagles | Hobgoblin           |   19 |    3 |   20 |   42 |    8 |    4 |    0 |    1 |    1 |    0 |    2 |   42 |
-| Lumusi    | Ravenous Eagles | Chaos Dwarf Blocker |   29 |    6 |   33 |   68 |    0 |    1 |    1 |    4 |    2 |    1 |    5 |   42 |
-| Eliott  | Ravenous Eagles | Hobgoblin           |   17 |    2 |   16 |   35 |    5 |    1 |    0 |    2 |    1 |    1 |    3 |   39 |
-| Humbert   | Ravenous Eagles | Hobgoblin           |    7 |    3 |    9 |   19 |    8 |   12 |    0 |    1 |    0 |    0 |    0 |   38 |
-| *Mahendra* | Ravenous Eagles | Chaos Dwarf Blocker |   34 |    7 |   32 |   73 |    0 |    0 |    3 |    4 |    3 |    1 |    3 |   37 |
+| **Percy**    | Ravenous Eagles | Minotaur            |   20 |    3 |   18 |   41 |    1 |    0 |    1 |   26 |    7 |    2 |    4 |   95 |
+| **Ekua**      | Ravenous Eagles | Bull Centaur        |   25 |    7 |   32 |   64 |    6 |    0 |    1 |   15 |    7 |    1 |    4 |   86 |
+| Frediano | Ravenous Eagles | Hobgoblin           |   17 |    4 |   17 |   38 |   13 |   20 |    1 |    1 |    0 |    0 |    3 |   78 |
+| **Jantine**   | Ravenous Eagles | Minotaur            |    6 |    4 |   11 |   21 |    0 |    0 |    0 |   21 |    5 |    1 |    2 |   64 |
+| **Chikondi**  | Ravenous Eagles | Bull Centaur        |   21 |    4 |   24 |   49 |    9 |    0 |    2 |    3 |    2 |    1 |    4 |   63 |
+| **Viltaute** | Ravenous Eagles | Hobgoblin           |   19 |    5 |   23 |   47 |   10 |   10 |    0 |    0 |    1 |    0 |    2 |   52 |
+| Sigfrido | Ravenous Eagles | Hobgoblin           |   19 |    3 |   20 |   42 |    8 |    4 |    0 |    1 |    1 |    0 |    2 |   42 |
+| **Lumusi**    | Ravenous Eagles | Chaos Dwarf Blocker |   29 |    6 |   33 |   68 |    0 |    1 |    1 |    4 |    2 |    1 |    5 |   42 |
+| **Eliott**  | Ravenous Eagles | Hobgoblin           |   17 |    2 |   16 |   35 |    5 |    1 |    0 |    2 |    1 |    1 |    3 |   39 |
+| **Humbert**   | Ravenous Eagles | Hobgoblin           |    7 |    3 |    9 |   19 |    8 |   12 |    0 |    1 |    0 |    0 |    0 |   38 |
+| Mahendra | Ravenous Eagles | Chaos Dwarf Blocker |   34 |    7 |   32 |   73 |    0 |    0 |    3 |    4 |    3 |    1 |    3 |   37 |
 
 [[Jantine]] and [[Percy]] have been the biggest stars of the Eagles, who haven't been trying to dominate as much as get into position to put a little run together like they did in GCVII. 
 

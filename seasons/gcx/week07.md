@@ -1,13 +1,13 @@
 # schedule
 
-* Badger Claws - Carcosan Tatters
-* Filthy Tide - Old Wyrms
-* Eldritch Fatality - Irregular Cogs
-* TC Sump Runners - Gore Farmers  
-* Glorious Hounds - Kaiju Dynamo
-* Zensun Vagabonds - Darkling Spectres
-* Orbital Machine - Arborists
-* Ravenous Eagles - Cackling Furies
+* Glorious Hounds - Badger Claws
+* Old Wyrms - Orbital Machine
+* Eldritch Fatality - Zensun Vagabonds
+* TC Sump Runners - Ravenous Eagles  
+* Kaiju Dynamo - Darkling Spectres
+* Irregular Cogs - Arborists
+* Filthy Tide - Cackling Furies
+* Gore Farmers - Carcosan Tatters
 
 ## matches to watch
 

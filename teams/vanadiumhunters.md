@@ -38,18 +38,26 @@ The Hunters have never managed to achieve a winning season. They are generally a
 
 | Player     | Team             | Position | won  | draw | lost | GP   | TD   | Comp | Ints | BH   | SI   | Ki   | MVP  | SPP  |
 |------------|------------------|----------|------|------|------|------|------|------|------|------|------|------|------|------|
-| Melchor   | Vanadium Hunters | Thrower  |    8 |    9 |   25 |   42 |    0 |   51 |    0 |    2 |    0 |    0 |    5 |   80 |
-| *Marta*     | Vanadium Hunters | Blitzer  |   11 |   14 |   19 |   44 |    7 |    0 |    3 |    6 |    6 |    2 |    2 |   65 |
-| Daley     | Vanadium Hunters | Blitzer  |    5 |    4 |   16 |   25 |   12 |    0 |    0 |    2 |    1 |    1 |    3 |   59 |
-| *Majken*    | Vanadium Hunters | Catcher  |    8 |    9 |   18 |   35 |   10 |    3 |    0 |    0 |    0 |    0 |    5 |   58 |
-| *Leibniz*   | Vanadium Hunters | Blitzer  |   10 |   14 |   18 |   42 |    9 |    1 |    0 |    2 |    2 |    1 |    4 |   58 |
-| *Tycho*     | Vanadium Hunters | Catcher  |    5 |    9 |   12 |   26 |   14 |    2 |    1 |    0 |    0 |    0 |    0 |   46 |
-| *Baz*       | Vanadium Hunters | Thrower  |    6 |    6 |   11 |   23 |    2 |   28 |    0 |    1 |    0 |    0 |    2 |   46 |
-| Charles   | Vanadium Hunters | Thrower  |    3 |    6 |    8 |   17 |    1 |   16 |    0 |    0 |    1 |    0 |    4 |   41 |
-| Boguslaw  | Vanadium Hunters | Ogre     |    8 |   13 |   16 |   37 |    0 |    0 |    0 |   12 |    5 |    0 |    1 |   39 |
-| Aikaterini | Vanadium Hunters | Catcher  |    5 |    9 |   14 |   28 |    7 |    4 |    0 |    1 |    0 |    0 |    2 |   37 |
-| Mayflower  | Vanadium Hunters | Lineman  |   20 |   15 |   39 |   74 |    0 |    2 |    2 |    3 |    0 |    1 |    4 |   34 |
+| *HalfJack* | Vanadium Hunters | Thrower |  ?? | ?? | ?? | 51 | 5 | 84 | 0 | 1 | 1 | 0 | 5 | 128 |
+| *Moseh* | Vanadium Hunters | Blitzer |  ?? | ?? | ?? | 51 | 25 | 9 | 2 | 6 | 1 | 0 | 4 | 122 |
+| *Nyazi* | Vanadium Hunters | Blitzer | ?? | ?? | ?? | 51 | 28 | 5 | 1 | 7 | 3 | 0 | 2 | 121 |
+| *Gabriel* | Vanadium Hunters | Thrower | ?? | ?? | ?? | 49 | 1 | 62 | 0 | 1 | 1 | 0 | 6 | 99 |
+| *Kikin* | Vanadium Hunters | Catcher |  ?? | ?? | ?? | 46 | 22 | 5 | 0 | 0 | 0 | 5 | 98 |
+| *Vrej* | Vanadium Hunters | Blitzer | ?? | ?? | ?? | 40 | 6 | 1 | 0 | 10 | 11 | 1 | 6 | 93 |
+| *Teague* | Vanadium Hunters | Blitzer |  ?? | ?? | ?? | 51 | 7 | 0 | 1 | 7 | 5 | 5 | 6 | 87 |
+| **Melchor**   | Vanadium Hunters | Thrower  |    8 |    9 |   25 |   42 |    0 |   51 |    0 |    2 |    0 |    0 |    5 |   80 |
+| Marta     | Vanadium Hunters | Blitzer  |   11 |   14 |   19 |   44 |    7 |    0 |    3 |    6 |    6 |    2 |    2 |   65 |
+| **Daley**     | Vanadium Hunters | Blitzer  |    5 |    4 |   16 |   25 |   12 |    0 |    0 |    2 |    1 |    1 |    3 |   59 |
+| Majken    | Vanadium Hunters | Catcher  |    8 |    9 |   18 |   35 |   10 |    3 |    0 |    0 |    0 |    0 |    5 |   58 |
+| Leibniz   | Vanadium Hunters | Blitzer  |   10 |   14 |   18 |   42 |    9 |    1 |    0 |    2 |    2 |    1 |    4 |   58 |
+| Tycho     | Vanadium Hunters | Catcher  |    5 |    9 |   12 |   26 |   14 |    2 |    1 |    0 |    0 |    0 |    0 |   46 |
+| Baz       | Vanadium Hunters | Thrower  |    6 |    6 |   11 |   23 |    2 |   28 |    0 |    1 |    0 |    0 |    2 |   46 |
+| **Charles**   | Vanadium Hunters | Thrower  |    3 |    6 |    8 |   17 |    1 |   16 |    0 |    0 |    1 |    0 |    4 |   41 |
+| **Boguslaw**  | Vanadium Hunters | Ogre     |    8 |   13 |   16 |   37 |    0 |    0 |    0 |   12 |    5 |    0 |    1 |   39 |
+| **Aikaterini** | Vanadium Hunters | Catcher  |    5 |    9 |   14 |   28 |    7 |    4 |    0 |    1 |    0 |    0 |    2 |   37 |
+| **Mayflower**  | Vanadium Hunters | Lineman  |   20 |   15 |   39 |   74 |    0 |    2 |    2 |    3 |    0 |    1 |    4 |   34 |
 
+[[Vrej]] came back from a fine retirement to play in the Green Cup V Memorial tournament and while that was enough to push him up the all-time Hunters hall of fame, it also cost him his life.
 
 ### Management
 
