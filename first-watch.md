@@ -37,6 +37,9 @@ The people in orange and blue are excited and ebuillent. You get a few beers bou
 
 compassion = compassion + 1
 
+:: wyrmfans-fh
+
+The fans in green and yellow are arguing with each other. Most of the chatter is about who is to blame for not completely humiliating their opponents, the Furies. Trying to elbow your way into a conversation where everyone is a self-proclaimed expert ends up with you getting initially yelled at and subsequently ignored. It looks like they are not a super-welcoming if you are asking questions rather than listing the ways the Wyrms are actually the best.
 
 
 [if seasonTime === 2]
@@ -71,5 +74,6 @@ A little after the Wyrms match wraps up, a gaggle of hivers in orange and black 
 [continue]
 What will you do next week?
 > [Same as this week. Watch right here.->]
+> [I've got the gist of this. I can just watch on the EDS]
 > {back link, label: 'I'll find somewhere else to watch.'}
 > 
