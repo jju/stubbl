@@ -25,7 +25,7 @@ The Sump Runners went into this match without their muscle, hoping to play a fin
 
 Sabah, star of the Dynamo, the lynchpin of their offense, was taken out by a blitz before the ball hit the ground, but they managed to bring a 2-0 lead into halftime. By midway through the second half the Hounds were reduced to a 5-player lineup. The final score does not indicate what a laugher this one was, but if this is a playoff matchup the Dynamo might not get so lucky. GH 2 - KD 3
 
-The Spectres and Vagabonds traded TDs throughout and it came down to a matter of possession timing that put the Vagabonds on top in one of their best matches in recent memory. ZV 5 - DS 4 
+The Spectres and Vagabonds traded TDs throughout and it came down to a matter of possession timing that put the Vagabonds on top in one of their best matches in recent memory. The Vagabonds are having their best offensive season ever with a TD/GP rate over pi. ZV 5 - DS 4 
 
 OM - AR Win for either puts them on top of their division
 
