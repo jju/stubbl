@@ -15,7 +15,7 @@ This week is one that has a lot of good storylines. The Arborists try to regroup
 
 ## recap
 
-BC - CT Battling for tops in the Outlands
+Battling for tops in the Outlands and the entire league. The Claws received the kick and Aeson scored, then the Tatters drew out the rest of the half to score, but most of their injuries were only minor and the Badger Claws' medical staff got everyone back out on the field to start the second half. The Tatters managed to play the long game, and scored as late as possible to take the lead, putting all the pressure on Aeson to tie up the match in the dying seconds. Aeson succumbed to the pressure and made a rare stumble and the Tatters won. BC 1 - CT 2
 
 Going into this match the Tide didn't have the money to hide Venus when the defense took the field. The first half went for the Tide, giving them a 2-2 draw going into the second, but then a perfect defensive read stopped Venus from traipsing down the sidelines and on the ensuing kick Aleksy fumbled the pickup, giving the Wyrms a 2-TD lead after they broke Venus' leg (she should be okay). Just a gut-punch of a match for the Filthy faithful, and a real boost for the Wyrms. Also of note, a Sump Runner win starts to leave the Tide out of the playoff picture entirely (UPDATE: the Sump Runners lost). FT 3 - OW 4 [[gcx-wk06-ftow]]
 
@@ -27,7 +27,7 @@ Sabah, star of the Dynamo, the lynchpin of their offense, was taken out by a bli
 
 The Spectres and Vagabonds traded TDs throughout and it came down to a matter of possession timing that put the Vagabonds on top in one of their best matches in recent memory. The Vagabonds are having their best offensive season ever with a TD/GP rate over pi. ZV 5 - DS 4 
 
-OM - AR Win for either puts them on top of their division
+OM - AR Win for either would have put them on top of their divisions, but the draw leaves them in the middle of the fray 
 
 The fight for first in the Pits was won in the first half when the Eagles' defense swallowed up the Furies attack. After that it was mostly just a case of defending until Humbert could make a timely endzone run. (There were a few palpitations before that, but we always gloss over a bit.) RE 2 - CF 1
 
@@ -35,8 +35,8 @@ The fight for first in the Pits was won in the first half when the Eagles' defen
 
 | Stacks |  | Outlands |  | Heaps |  | Pits |  |
 |-------|-----|--|--|------|------|--|--|
-| Gore Farmers | 12 | Carcosan Tatters | 10 | Orbital Machine | 8 | Ravenous Eagles | 10 |
-| Old Wyrms | 9 | Arborists | 9 | Zensun Vagabonds | 8 | Darkling Spectres | 7 |
-| TC Sump Runners | 6 | Badger Claws | 9 | Kaiju Dynamo | 10 | Cackling Furies | 6 |
+| Gore Farmers | 12 | Carcosan Tatters | 13 | Zensun Vagabonds | 11 | Ravenous Eagles | 10 |
+| Old Wyrms | 9 | Arborists | 10 |  Kaiju Dynamo | 10 | Darkling Spectres | 7 |
+| TC Sump Runners | 6 | Badger Claws | 9 | Orbital Machine | 9 | Cackling Furies | 6 |
 | Filthy Tide | 3 | Irregular Cogs | 9 | Glorious Hounds | 5 | Eldritch Fatality | 5 |
 
