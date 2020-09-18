@@ -15,6 +15,21 @@ A less exciting week than number six, but we do get to see the league's 2 top te
 
 ## recap
 
+FT - CF
+
+EF - ZV Vagabonds could claim first place overall with a win until the GF - CT match resolves.
+
+GH - BC The Badger Claws really don't want to lose this match to an almost last-place team, not twith the demands of the Outlands division upon them.
+
+SR - RE The Eagles will hold first in the Pits regardless, but putting pressure on the Wyrms and staying clear of the Tide is going to be very important for the Sump Runners.
+
+KD - DS The Spectres had an off week in 6 but match up well against the Dynamo normally. As usual, things depend on Sabah.
+
+OW - OM The Machine had a tough match against a speedy scoring team in week 6, and hope to do a better job bashing the Wyrms into submission, while they look to claim first in the Stacks for the first time this season.
+
+IC - AR One point separates these two in the Stacks, and while the season won't be lost here whoever loses the match could start having troubles, especially if the Badger Claws get their expected win.
+
+GF - CT A battle for first place overall and a Green Cup VI rematch. Hope you like hitting.
 
 
 ## standings

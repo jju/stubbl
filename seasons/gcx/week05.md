@@ -23,7 +23,7 @@ Sabah didn't make any gains in the Sardines chase, but they did manage to hand t
 
 The Hounds finally got into the Win column. RE 1 - GH 2
 
-The Tatters got too aggressive and it cost them control of the first half. Catchup ios never their strength. CT 0 - CF 2
+The Tatters got too aggressive and it cost them control of the first half. Catchup is never their strength. CT 0 - CF 2
 
 A founders' match that turned out a draw. The Wyrms aren't crawling out to glory yet, but the fans were happy there weren't any injuries. ZV 3 - OW 3
 

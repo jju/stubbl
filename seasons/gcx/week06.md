@@ -27,7 +27,7 @@ Sabah, star of the Dynamo, the lynchpin of their offense, was taken out by a bli
 
 The Spectres and Vagabonds traded TDs throughout and it came down to a matter of possession timing that put the Vagabonds on top in one of their best matches in recent memory. The Vagabonds are having their best offensive season ever with a TD/GP rate over pi. ZV 5 - DS 4 
 
-OM - AR Win for either would have put them on top of their divisions, but the draw leaves them in the middle of the fray 
+A win for either would have put them on top of their divisions, but the draw leaves them in the middle of the fray. It looks like the Arborists do better against bashing teams so far.  OM 2 - AR 2
 
 The fight for first in the Pits was won in the first half when the Eagles' defense swallowed up the Furies attack. After that it was mostly just a case of defending until Humbert could make a timely endzone run. (There were a few palpitations before that, but we always gloss over a bit.) RE 2 - CF 1
 
