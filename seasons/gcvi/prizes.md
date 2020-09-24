@@ -2,7 +2,7 @@
 
 * [[mvp]] - [[Daividh]]
 * [[sardinecrown]] - [[Yakup]]
-* [[carminefist]] - [[Shai-Hulud]]
+* [[carminefist]] - [[Hulud]]
 * [[softhands]] - [[Souta]]
 * [[relentlesscannon]] - [[Evander]]
 * [[halflegaward]] - [[Besz]]

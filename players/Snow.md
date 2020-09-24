@@ -2,6 +2,8 @@
 
 Games Played were inflated by 27 from miscounting Old Era stats. Stat line in stbblm is also missing the below numbers.
 
+Birthdate: 1261.341
+
 ## Career Stats
 | won  | draw | lost | GP   | TD   | Cp | Int | BH  | SI   | Ki   | MVP  | SPP |
 |------|------|------|------|------|----|-----|-----|------|------|------|-----|

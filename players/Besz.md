@@ -6,6 +6,10 @@ That said, records of the old-era UBBL are spotty but we're pretty sure she achi
 
 This is an ongoing dispute with the Irregular Cogs' management.
 
+Soft retirement before GCX at 1.173GSec old (~37yo).
+
+Birthdate 1261.541-575:537
+
 ### Old-Era Stats
 
 | GP | Cp | TD | Int | Cas | BH | SI | Ki | MVP | SPP |

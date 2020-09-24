@@ -46,9 +46,9 @@ The Vagabonds use the Hermann playbook, the original plan for playing BludBol, a
 | Lucrece     | Zensun Vagabonds | Catcher  |   24 |   14 |   24 |   62 |   27 |    3 |    2 |    1 |    1 |    0 |    6 |  122 |
 | Bahiyya     | Zensun Vagabonds | Blitzer  |   16 |   12 |   14 |   42 |   29 |    1 |    3 |    2 |    2 |    0 |    0 |  102 |
 | Shai-Hulud  | Zensun Vagabonds | Ogre     |   30 |   21 |   39 |   90 |    0 |    1 |    0 |   16 |    10 |    3 |    7 |   94 |
-| *Mahdi* | Zensun Vagabonds | Thrower  | *17* | *1* | *27* | 45 | 4 | 65 | 0 | 0 | 0 | 0 | 3 | 92 |
-| *Paul* | Zensun Vagabonds | Thrower  | *17* | *1* | *27* | 45 | 4 | 25 | 1 | 3 | 1 | 0 | 7 | 82 |
-| *Korba* | Zensun Vagabonds | Catcher  | *15* | *1* | *28* | 44 | 15 | 4 | 0 | 0 | 1 | 0 | 6 | 81 |
+| *Mahdi* | Zensun Vagabonds | Thrower  | ?? | ?? | ?? | 45 | 4 | 65 | 0 | 0 | 0 | 0 | 3 | 92 |
+| *Paul* | Zensun Vagabonds | Thrower  | ?? | ?? | ?? | 45 | 4 | 25 | 1 | 3 | 1 | 0 | 7 | 82 |
+| *Korba* | Zensun Vagabonds | Catcher  | ?? | ?? | ?? | 44 | 15 | 4 | 0 | 0 | 1 | 0 | 6 | 81 |
 | Siv         | Zensun Vagabonds | Catcher  |   18 |    8 |   17 |   43 |   20 |    3 |    1 |    0 |    0 |    0 |    3 |   80 |
 | Ormonde     | Zensun Vagabonds | Blitzer  |   12 |    9 |    9 |   30 |   12 |    3 |    3 |    1 |    1 |    1 |    2 |   61 |
 | Badri       | Zensun Vagabonds | Catcher  |    9 |    6 |    5 |   20 |   16 |    1 |    0 |    0 |    1 |    0 |    1 |   56 |
@@ -71,6 +71,6 @@ The Vagabonds' primary rivalry is with the [[oldwyrms]] as the pair of UBBL Foun
 
 ### Famous Games
 
-This loss, ending the Vagabonds' GCVIII season was [[Shai-Hulud]]'s final match, as well as [[Yakup]]'s. It was a great game.
+This loss, ending the Vagabonds' GCVIII season was [[Hulud]]'s final match, as well as [[Yakup]]'s. It was a great game.
 
 http://68.148.52.218/stbblm/index.php?section=matches&type=report&mid=553

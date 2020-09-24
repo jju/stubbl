@@ -33,9 +33,22 @@ One of the Tide fans is buying rounds for the bar in celebration. "This is it! T
 
 :: tidefans-fh
 
+[if seasonTime === 1]
+
 The people in orange and blue are excited and ebuillent. You get a few beers bought for you as they tell you all about their team. A lot of the time they're talking over each other and there are arguments bursting out as it goes, but generally these aren't horrible people. One glassy-eyed fan gets very serious about how important Sardines was to her personally as a kid and how sad she was when his career ended. You aren't learning a lot about the tactics used in BludBol, but you can see what the game is meaning to them.
 
 compassion = compassion + 1
+
+> [[Come back and watch with the Tide fans next week->tidefans-fh]]
+> [[Keep to yourself at FH's next week]]
+> [[Stay home and watch on the EDS]]
+> 
+
+
+[if seasonTime === 2]
+
+This week you joined up to watch with the Filthy Tide fans in Fazel and Hiver's. They played against the Carcosan Tatters and lost. A skinny young receiver named Venus was injured in the match and the rest of the conversation in the bar was about how worried they were for her. There was a lot of grouching about how the Tatters cheat. You also heard some cheering from the other end of the bar, where the Wyrms seem to have won their match.
+
 
 :: wyrmfans-fh
 

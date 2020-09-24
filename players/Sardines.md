@@ -1,5 +1,7 @@
 [[mvp]]
 
+Birthdate: 1261.221
+
 ### Old-Era Stats
 
 | GP | Cp | TD | Int | Cas | BH | SI | Ki | MVP | SPP |

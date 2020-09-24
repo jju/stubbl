@@ -12,7 +12,7 @@
 
 ## gcvii
 
-[[Shai-Hulud]]
+[[Hulud]]
 
 ## gcviii
 

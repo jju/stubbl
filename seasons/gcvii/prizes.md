@@ -8,4 +8,4 @@
 * [[halflegaward]] - [[Yakup]]
 * [[hunteraward]] - [[Venkata]]
 * [[dervishaward]] - [[Percy]]
-* [[fanfavourite]] - [[Shai-Hulud]]
+* [[fanfavourite]] - [[Hulud]]

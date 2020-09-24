@@ -1,5 +1,7 @@
 [[carcosantatters]][[oe-veteran]]
 
+Birthdate: 1261.654
+
 ## Career Stats
 
 | won  | draw | lost | GP   | TD   | Cp | Int | BH  | SI   | Ki   | MVP  | SPP |
@@ -11,3 +13,4 @@
 | GP | Cp | TD | Int | Cas | BH | SI | Ki | MVP | SPP |
 | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | 
 | 49 | 0 | 0 | 0 | 18 | 12 | 4 | 2 | 5 | 61 |
+

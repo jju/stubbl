@@ -6,7 +6,7 @@
 
 ## gcvi
 
-[[Shai-Hulud]]
+[[Hulud]]
 
 ## gcc06
 
