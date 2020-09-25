@@ -25,18 +25,18 @@ The Eagles hold first in the Pits with a grinding defensive draw, while the Sump
 
 The Spectres had an off week in 6 but match up well against the Dynamo normally. As usual, things depend on Sabah. When Sabah was crowdsurfed by Channing in the dying moments of the first half, Dynamo fans everywhere shattered. The rest of the match didn't even need to happen (and the Spectres gladly scooped up the win) as now the team is going to be forced into a rebuild. KD 2 - DS 4 
 
-OW - OM The Machine had a tough match against a speedy scoring team in week 6, and hope to do a better job bashing the Wyrms into submission, while they look to claim first in the Stacks for the first time this season.
+The Machine had a tough match against a speedy scoring team in week 6, and hoped to do a better job bashing the Wyrms into submission. They didn't succeed and the Wyrms are looking more like defending champions by the round. 
 
-IC - AR One point separates these two in the Stacks, and while the season won't be lost here whoever loses the match could start having troubles, especially if the Badger Claws get their expected win.
+One point separates these two in the Stacks, and while the season won't be lost here whoever loses the match could start having troubles. The Arborists came close to giving this one up, but managed to get a draw, leaving the Outlands in pretty much the same state as the week started. IC 3 - AR 3 
 
-GF - CT A battle for first place overall and a Green Cup VI rematch. Hope you like hitting.
+That could have been our preview of the Burger Conference final, and was exactly the battle for first-place overall that we should have been expecting. The Gore Farmers and Carcosan Tatters traded blows and though the Farmers had a chance at the very end to crack it open, they couldn't capitalize and we end up with a draw. 
 
 
 ## standings
 
 | Stacks |  | Outlands |  | Heaps |  | Pits |  |
 |-------|-----|--|--|------|------|--|--|
-| Gore Farmers | 12 | Carcosan Tatters | 13 | Zensun Vagabonds | 14 | Ravenous Eagles | 11 |
-| Old Wyrms | 9 | Arborists | 10 |  Kaiju Dynamo | 10 | Darkling Spectres | 10 |
+| Gore Farmers | 13 | Carcosan Tatters | 14 | Zensun Vagabonds | 14 | Ravenous Eagles | 11 |
+| Old Wyrms | 12 | Arborists | 11 |  Kaiju Dynamo | 10 | Darkling Spectres | 10 |
 | TC Sump Runners | 7 | Badger Claws | 10 | Orbital Machine | 9 | Cackling Furies | 9 |
-| Filthy Tide | 3 | Irregular Cogs | 9 | Glorious Hounds | 6 | Eldritch Fatality | 5 |
+| Filthy Tide | 3 | Irregular Cogs | 10 | Glorious Hounds | 6 | Eldritch Fatality | 5 |
