@@ -1,3 +1,5 @@
+[[gcx]]
+
 The crunch should have been audible if the camera was the sort that transmitted properly. But that wasn't what got her. She stayed by the sidelines and wobbled. And then the crowd got her. For at least a season now Sabah had been wobbly, needing to take a stand take a breath, and often enough to have cost her team wins. But she'd still been collecting wobbly wins.
 
 Then the wobble took her into the crowd.

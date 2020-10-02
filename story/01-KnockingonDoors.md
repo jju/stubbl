@@ -8,5 +8,5 @@ The grand romance of the game is something you can tell Zaac is trying to market
 
 "Oh no, the deaths are hugely important. In the Colonial League we get a lot more of them than the BRL ever put together. If there wasn't the risk of a career ending injury why even watch?"
 
-There are lots of reasons of course and we'll be getting some of them later. But the end of the career of Halfleg Jack was a story to be told. (killed by Nut Masher in a foul week 10 of season04, GF went on to win th next week's match as well, but was lnocked out in the first round of the playoffs)
+There are lots of reasons of course and we'll be getting some of them later. But the end of the career of Halfleg Jack was a story to be told. (killed by Nut Masher in a foul week 10 of season04, GF went on to win the next week's match as well, but was lnocked out in the first round of the playoffs)
 

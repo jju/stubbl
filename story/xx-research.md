@@ -4,7 +4,7 @@
 
 I would like to explore the politics of Stacksburg, including how bludbol may have obliterated the political sphere. If the sport is all-encompassing, along the lines of conscription into a dual society kind of thing, then we need to get into how it has taken over from the gangs as the way civil society is organized a la Fredric Jameson[^1].
 
-[KRJ][] could be lamenting the rise of the collective as a way of dealing with problems. She's coming at it from an essentially individualistic point of view, though recognizing this is better than the feral all agaianst all, but why does it have to be this way?
+[KRJ] could be lamenting the rise of the collective as a way of dealing with problems. She's coming at it from an essentially individualistic point of view, though recognizing this is better than the feral all agaianst all, but why does it have to be this way?
 
 To be fair, this can't be a full conscription Universal Army sort of thing. But it has that kind of pull to it, to be recruited into fandom if you can't play, to need to have an opinion on the matter.
 

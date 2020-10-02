@@ -63,3 +63,5 @@ You don't hear any footsteps; the kid is fast and silent but the pressure is gon
 After a couple of moments the sounds of fighting start up some ways down the pipe. A few gunshots. A few screams. But the knife isn't in your guts. Good job.
 
 It's too bad though. There's no story here. Just a couple of bands of jerks blowing off steam, looking for a useless prize.
+
+[[gcvi]]
