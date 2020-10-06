@@ -55,6 +55,24 @@ The GCIX season was their first in which they did not lead the league in Casualt
 | **Mate**     | Orbital Machine | Chaos Warrior |   16 |    3 |   16 |   35 |    1 |    0 |    0 |    5 |    1 |    1 |    5 |   42 |
 | **Bolt**     | Orbital Machine | Chaos Warrior |   26 |    4 |   13 |   43 |    1 |    1 |    0 |    6 |    1 |    4 |    3 |   41 |
 
+#### Cup Winners
+
+Lars 06
+Ozzy 06
+Heep 06
+Lucio 06
+Leppard 06
+Rivet 06
+Bolt 06
+Collar 06
+Priest 06
+Def 06
+Anvil 06
+Spinal 06
+Judas 06
+Stino 06
+Crue - dead
+
 ### Management
 
 ### Fans

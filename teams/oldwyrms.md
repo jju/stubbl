@@ -77,6 +77,38 @@ They followed that up in the GCV Memorial tournament as the best team in the tou
 
 Having the second-best player the UBBL has ever seen in [[Souta]] has gone pretty well for the Wyrms. That she wasn't used in the GCIX final is one of the things BludBol fans will always have an opinion on.
 
+#### Cup Winners
+
+Souta - off Finals roster
+Babar
+Kelemann
+Moirin - only played in GCIX Final
+Seosamh - off playoff roster
+Andela
+Martti
+Roni
+Amador
+Maelys - off playoff roster
+Rati
+Elvis
+Jia
+Otakar - dead
+Olaug - off playoff roster
+Eimilios - off playoff roster
+Modest - off playoff roster
+Elisavet
+Tereza
+Lucius
+Coluim - off playoff roster
+Lakshmana - dead
+Ingolf - off playoff roster
+Manju - off playoff roster
+Phette - dead
+Shelach - dead
+Vilma - off playoff roster
+Yasmani - only played in the GCIX Final
+Zipfruder - off playoff roster
+
 ### Tactics
 
 Roster manipulation in the GCIX championship run made for new rules of only allowing 4 veterans in reserve in GCX.

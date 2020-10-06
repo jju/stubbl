@@ -69,6 +69,25 @@ Outside the Pro Division the Eagles put together a wonderful GCV Memorial season
 
 [[Jantine]] and [[Percy]] have been the biggest stars of the Eagles, who haven't been trying to dominate as much as get into position to put a little run together like they did in GCVII. 
 
+#### Cup Winners
+
+Ekua VII
+Chikondi VII
+Frediano VII
+Mahendra VII
+Percy VII
+Toma VII
+Bahij VII
+Dijana VII
+Lumusi VII
+Viltaute VII
+Shalev VII
+Warren VII
+Sigfrido VII
+Eliott VII
+Twig VII
+Birgitta VII
+
 ### Tactics
 
 Block block block hit hit hit.

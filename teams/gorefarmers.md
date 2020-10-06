@@ -69,6 +69,33 @@ Sadly for lovers of pure competition, Spleen Hucker was also one of the first to
 
 That the Gore Farmers have won two modern-era Green Cups with only one legitimate superstar (who is now retired - [[KneeMasher]]) is an impressive testament to the power of a solid line and the traditional caging methods of play. [[GutTwister]] retired after GCVI as a veteran of the old-era UBBL. He says he was glad to get a ring, but felt sidelined despite his abilities.
 
+#### Cup Winners
+
+KneeMasher VI, VIII
+BeardPuller VI, VIII
+GrimThrasher VI, VIII
+ToothGrinder VI, VIII
+TallHexer VI, VIII
+SpaceFiller VI, VIII
+GutTwister VI
+KnuckleBiter VI
+Mashee VI
+StoneLicker VI
+RibCracker VI
+TuskOfGruumsh VI
+CakeStomper VI
+HobNailer VI
+JunkKicker VI
+SkyTripper VIII
+RockLobber VIII
+Elric VIII
+Fang VIII
+Belenus VIII
+Nuru VIII
+TinyDancer VIII
+Eulaylia VIII
+Helmuth VIII
+
 ### Tactics
 
 As noted above, the Gore Farmers play a traditional bashing, caging style of BludBol. What has made them a good team has been having options to deviate from that plan. When [[KneeMasher]] was still active he was a terror to passing teams and had the raw abilities to power the ball to TD himself on the other side of the field from the cage. [[Mashee]] has not been as prolific and usually only takes the field when her role is crystal clear, but that has included some of the Farmers' biggest games.
