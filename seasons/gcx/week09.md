@@ -15,17 +15,17 @@ Rivalry match between the bottom-dwelling Tide and the good Claws could be high 
 
 ## recap
 
-FT - BC (BC+) 723.1
+The Tide won the coin-toss and scored. Then the Claws scored, then the Tide, then Consolo messed up a pass, allowing the Tide to score again, going up by 2 (and messing up the possibility of the 16-16 draw). At halftime (after killing Avani and Wilda of the Claws), the Tide remained in the lead 5-4, which put them in the catbird seat with final possession looming. A Badger Claw blitz in the fourth quarter almost evened up the edge, but the Tide calmly got the ball back to Venus to keep control of things. Then Haman botched a pass, and that cost the Claws the chance at the draw, but gave the Tide the opportunity to get a double-digit final score. In all, a massive upset win for the last-place team. FT 10 - BC 8 (BC+) 723.1 
 
-OM - SR (Even) 723.2
+The Sump Runners made sure the Tide's historic win earlier in the round wasn't wasted, by losing their quite pedestrian match. When the Machine abandoned their conservative gameplan, they almost let go of this one, but couldn't. OM 1 - SR 0 (Even) 723.2
 
-DS - EF (EF+) 723.3
+Two first-half blitzes helped push the Spectres into a 4-0 halftime lead. They needed every bit of it to maintain the upset as the Fatality did their best to come back and escape the cellar in the second. Atte appears to be out of the Sardines race for the season so the Fatality scoring was spread around a bit better than it has been. DS 4 - EF 3 (EF+) 723.3
 
-AR - GH (AR) 723.4
+The Glorious Hounds did their part to encourage the Arborist skid to the bottom of the Outlands by beating on their fragility and spreading their own scoring around. AR 3 - GH 4 (AR) 723.4
 
-CF - IC (IC+) 723.5
+The Cogs took their time warming up, with a 2-2 draw going into halftime, but a blitz after taking the lead got them on track to get the win they expected. CF 2 - IC 4 (IC+) 723.5
 
-GF - KD (Even) 723.6
+The Dynamo's lacklustre lineup showed that they are ready to reinvent themselves this season as a defensive interfering roadblock, now that scoring is going to be more difficult. The Farmers definitely didn't seem prepared for a team that wasn't just going to roll over. GF 0 - KD 2 (Even) 723.6
 
 ZV - RE (Even) 723.7
 
@@ -36,7 +36,7 @@ CT - OW (OW) 723.8
 | Stacks |  | Outlands |  | Heaps |  | Pits |  |
 |-------|-----|--|--|------|------|--|--|
 | Gore Farmers | 13 | Carcosan Tatters | 17 | Zensun Vagabonds | 17 | Ravenous Eagles | 11 |
-| Old Wyrms | 12 | Irregular Cogs | 13 | Kaiju Dynamo | 10 | Darkling Spectres | 10 |
-| TC Sump Runners | 10 | Badger Claws | 13 | Glorious Hounds | 9 | Cackling Furies | 9 |
-| Filthy Tide | 6 |  Arborists | 11 | Orbital Machine | 9 | Eldritch Fatality | 8 |
+| Old Wyrms | 12 | Irregular Cogs | 16 | Kaiju Dynamo | 13 | Darkling Spectres | 13 |
+| TC Sump Runners | 10 | Badger Claws | 13 | Glorious Hounds | 12 | Cackling Furies | 9 |
+| Filthy Tide | 9 |  Arborists | 11 | Orbital Machine | 12 | Eldritch Fatality | 8 |
 
