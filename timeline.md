@@ -16,6 +16,7 @@ Age in GSec
 Unless specified, we're dealing with the 1262 epoch.
 
 * beginning of hostilities 1260.431-190:420
+* Kayro Jane Born 1261.173-500:958
 * Mass elevator 1261.873-199:591
 * GCI 1262.073-050:539 (073.05)
 * GCII 1262.103-311:990 (103.3)

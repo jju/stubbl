@@ -82,4 +82,4 @@ The Filthy Tide have long been in the shadow of the [[oldwyrms]]. They have had 
 
 ### Famous Games
 
-The UBBL Challenge semifinal with all the scoring.
+The UBBL Challenge semifinal with all the scoring. GCX Week 9 with even more scoring.

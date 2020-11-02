@@ -27,16 +27,16 @@ The Cogs took their time warming up, with a 2-2 draw going into halftime, but a 
 
 The Dynamo's lacklustre lineup showed that they are ready to reinvent themselves this season as a defensive interfering roadblock, now that scoring is going to be more difficult. The Farmers definitely didn't seem prepared for a team that wasn't just going to roll over. GF 0 - KD 2 (Even) 723.6
 
-ZV - RE (Even) 723.7
+The Eagles had the chance to take a first half lead, but got greedy in their desire to get a bit more bashing in, allowing the Vagabonds a chance for the sack and strip to convert to a whole-field TD. The Vagabonds had a couple of scares in the end, and the medical team was so focused on keeping Zaira's career alive, Aishath fell by the wayside, but they maintained their top spot in the season. ZV 2 - RE 0 (Even) 723.7
 
-CT - OW (OW) 723.8
+The projections never think the Tatters are going to do well, and sometimes they're right. But not today. The Wyrms tied the match up at halftime and had control, but the relentless physical dominance proved too much for them and they now have a severely depleted lineup going into Week 10. CT 3 - OW 1 (OW) 723.8
 
 ## standings
 
 | Stacks |  | Outlands |  | Heaps |  | Pits |  |
 |-------|-----|--|--|------|------|--|--|
-| Gore Farmers | 13 | Carcosan Tatters | 17 | Zensun Vagabonds | 17 | Ravenous Eagles | 11 |
-| Old Wyrms | 12 | Irregular Cogs | 16 | Kaiju Dynamo | 13 | Darkling Spectres | 13 |
+| Gore Farmers | 13 | Carcosan Tatters | 20 | Zensun Vagabonds | 20 | Darkling Spectres | 13 |
+| Old Wyrms | 12 | Irregular Cogs | 16 | Kaiju Dynamo | 13 | Ravenous Eagles | 11 |
 | TC Sump Runners | 10 | Badger Claws | 13 | Glorious Hounds | 12 | Cackling Furies | 9 |
 | Filthy Tide | 9 |  Arborists | 11 | Orbital Machine | 12 | Eldritch Fatality | 8 |
 
