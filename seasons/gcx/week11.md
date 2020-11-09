@@ -37,7 +37,7 @@ The Cogs gave up a match they could have had, but not because of lacklustre play
 | Stacks |  | Outlands |  | Heaps |  | Pits |  |
 |-------|-----|--|--|------|------|--|--|
 | Old Wyrms | 18 | Carcosan Tatters | 20 | Zensun Vagabonds | 23 | Ravenous Eagles | 17 |
-| Gore Farmers | 16 | Irregular Cogs | 16 | Kaiju Dynamo | 17 | Darkling Spectres | 16 |
+| Gore Farmers | 16 | Irregular Cogs | 19 | Kaiju Dynamo | 17 | Darkling Spectres | 16 |
 | Filthy Tide | 12 | Arborists | 14 | Orbital Machine | 15 | Cackling Furies | 15 |
 | TC Sump Runners | 11 | Badger Claws | 13 |  Glorious Hounds | 12 | Eldritch Fatality | 11 |
 
