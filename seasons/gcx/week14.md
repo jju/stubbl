@@ -38,14 +38,17 @@ The Machine pulled off a dramatic last-second draw, eliminating the Glorious Hou
 
 The Claws had some issues early but just barely eked out a win, keeping their playoff hopes alive. RE 1 - BC 2
 
+The Wyrms cemented first in the Stacks and the point from the draw put the Spectres' playoff hopes entirely in their own hands next week. OW 3 - DS 3
 
+Honestly the fact that the Dynamo have been playing so much better since losing Sabah speaks volumes about the team nature of BludBol. KD 2 - CF 1
+
+With the Tide's playoff spot guaranteed already it might have been smarter to sit Venus out and protect her for the postseason, but Aeson had tied up the Sardines race, so she argued her way onto the field and got two TDs. There weren't any major injuries and the Tide even got the win before they rematch in the first round. FT 3 - GF 1
 
 ## standings
 
 | Stacks |  | Outlands |  | Heaps |  | Pits |  |
 |-------|-----|--|--|------|------|--|--|
-| Old Wyrms | 22 | Irregular Cogs | 25 | Zensun Vagabonds | 26 | Cackling Furies | 21 |
-| Gore Farmers | 16 | Carcosan Tatters | 23 | Kaiju Dynamo | 21 | Ravenous Eagles | 19 |
-| Filthy Tide | 15 | Arborists | 20 | Orbital Machine | 22 | Darkling Spectres | 16 |
+| Old Wyrms | 23 | Irregular Cogs | 26 | Zensun Vagabonds | 26 | Cackling Furies | 21 |
+| Filthy Tide | 18 | Carcosan Tatters | 24 | Kaiju Dynamo | 24 | Ravenous Eagles | 19 |
+| Gore Farmers | 16 | Arborists | 20 | Orbital Machine | 22 | Darkling Spectres | 17 |
 | TC Sump Runners | 11 | Badger Claws | 19 |  Glorious Hounds | 16 | Eldritch Fatality | 14 |
-
