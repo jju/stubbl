@@ -38,6 +38,7 @@ There've been rumblings that ownership wanted to take their money and run, foldi
 | Darkling Spectres | Green Cup VII        |   10 |    0 |    9 |     19 | 52.6316 |   36 |   39 |   33 |     14 |    1 |
 | Darkling Spectres | Green Cup IX         |    5 |    3 |    8 |     16 |  40.625 |   32 |   45 |   27 |     -3 |   -2 |
 | Darkling Spectres | Green Cup III        |    3 |    2 |    5 |     10 |      40 |   21 |   24 |   25 |     13 |    2 |
+| Darkling Spectres | Green Cup X          |    5 |    2 |    9 |     16 |    37.5 |   35 |   45 |   24 |     -1 |    0 |
 | Darkling Spectres | Green Cup VIII       |    5 |    2 |   10 |     17 | 35.2941 |   30 |   42 |   42 |     23 |   -1 |
 | Darkling Spectres | Green Cup V Memorial |    2 |    1 |    7 |     10 |      25 |    9 |   19 |   17 |      6 |   -1 |
 | Darkling Spectres | UBBL Challenge III   |    0 |    0 |    1 |      1 |       0 |    0 |    4 |    2 |     -3 |   -1 |

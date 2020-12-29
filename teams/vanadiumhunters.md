@@ -22,6 +22,7 @@ The Hunters have never managed to achieve a winning season. They are generally a
 
 | Team             | Season               | won  | draw | lost | played | win_pct | gf   | ga   | cas  | tcdiff | ff   |
 |------------------|----------------------|------|------|------|--------|---------|------|------|------|--------|------|
+| Vanadium Hunters | Orange Goblet        |    7 |    1 |    4 |     12 |    62.5 |   26 |   21 |   21 |      6 |    4 |
 | Vanadium Hunters | UBBL Challenge       |    1 |    1 |    1 |      3 |      50 |    8 |    7 |    7 |      2 |    0 |
 | Vanadium Hunters | Green Cup V Memorial |    4 |    3 |    5 |     12 | 45.8333 |   18 |   21 |   14 |     -4 |    2 |
 | Vanadium Hunters | Green Cup IV         |    4 |    2 |    5 |     11 | 45.4545 |   31 |   25 |   40 |     30 |   -1 |
@@ -32,6 +33,7 @@ The Hunters have never managed to achieve a winning season. They are generally a
 | Vanadium Hunters | Green Cup VIII       |    4 |    2 |   10 |     16 |   31.25 |   28 |   40 |   16 |    -13 |   -1 |
 | Vanadium Hunters | UBBL Challenge II    |    0 |    1 |    2 |      3 | 16.6667 |    4 |    8 |    2 |     -6 |   -1 |
 | Vanadium Hunters | UBBL Challenge III   |    0 |    0 |    3 |      3 |       0 |    5 |   10 |    1 |     -1 |   -2 |
+
 
 
 ### Stars & Scrubs

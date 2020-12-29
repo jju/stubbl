@@ -34,6 +34,7 @@ The Cackling Furies aren't an original Green Cup team, but in their second seaso
 | Cackling Furies | Green Cup III        |    9 |    1 |    3 |     13 | 73.0769 |   33 |   23 |    38 |     13 |    1 |
 | Cackling Furies | UBBL Challenge       |    2 |    1 |    1 |      4 |    62.5 |   12 |    8 |    9 |     12 |    2 |
 | Cackling Furies | Green Cup IX         |    7 |    7 |    3 |     17 | 61.7647 |   38 |   34 |   24 |     -3 |    4 |
+| Cackling Furies | Green Cup X          |    7 |    4 |    6 |     17 | 52.9412 |   41 |   30 |   27 |     -1 |    0 |
 | Cackling Furies | Green Cup II         |    4 |    2 |    5 |     11 | 45.4545 |   20 |   19 |    33 |     10 |   -1 |
 | Cackling Furies | Green Cup IV         |    3 |    2 |    5 |     10 |      40 |   18 |   25 |    34 |     16 |   -2 |
 | Cackling Furies | Green Cup Classic 06 |    1 |    4 |    3 |      8 |    37.5 |   11 |   15 |   15 |      0 |    1 |

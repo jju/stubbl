@@ -41,6 +41,7 @@ With Sabah's help the Dynamo finished on top of the GCVIII regular season standi
 | Kaiju Dynamo | UBBL Challenge       |    5 |    0 |    2 |      7 | 71.4286 |   12 |   10 |   14 |     11 |    2 |
 | Kaiju Dynamo | Green Cup I          |    6 |    2 |    4 |     12 | 58.3333 |   29 |   28 |   21 |     10 |    2 |
 | Kaiju Dynamo | Green Cup IX         |    8 |    3 |    6 |     17 | 55.8824 |   50 |   45 |   23 |      0 |   -3 |
+| Kaiju Dynamo | Green Cup X          |    8 |    3 |    6 |     17 | 55.8824 |   36 |   39 |   29 |     13 |    2 |
 | Kaiju Dynamo | Green Cup III        |    4 |    2 |    5 |     11 | 45.4545 |   26 |   25 |   14 |    -11 |    0 |
 | Kaiju Dynamo | Green Cup Classic 06 |    2 |    4 |    3 |      9 | 44.4444 |   20 |   19 |    9 |      0 |    1 |
 | Kaiju Dynamo | Green Cup VII        |    7 |    1 |    9 |     17 | 44.1176 |   33 |   44 |   34 |      1 |    1 |

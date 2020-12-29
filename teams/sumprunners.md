@@ -36,6 +36,8 @@ They were once thought to be the future of BludBol in the old era UBBL. They've 
 | TC Sump Runners | Green Cup IX         |    5 |    4 |    7 |     16 |   43.75 |   37 |   38 |   33 |      7 |   -2 |
 | TC Sump Runners | Green Cup VII        |    5 |    2 |    9 |     16 |    37.5 |   35 |   39 |   24 |      7 |    2 |
 | TC Sump Runners | Green Cup VIII       |    4 |    2 |   10 |     16 |   31.25 |   29 |   40 |   31 |      5 |   -2 |
+| TC Sump Runners | Green Cup X          |    3 |    2 |   11 |     16 |      25 |   23 |   46 |   28 |     -4 |   -4 |
+
 
 ### Stars & Scrubs
 

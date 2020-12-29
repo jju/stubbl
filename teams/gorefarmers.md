@@ -40,6 +40,7 @@ Sadly for lovers of pure competition, Spleen Hucker was also one of the first to
 | Gore Farmers | UBBL Challenge       |    2 |    0 |    2 |      4 |      50 |    7 |    8 |    7 |     -2 |    2 |
 | Gore Farmers | Green Cup III        |    5 |    1 |    5 |     11 |      50 |   16 |   17 |   32 |     20 |   -1 |
 | Gore Farmers | Green Cup V Memorial |    3 |    5 |    3 |     11 |      50 |   11 |   14 |   15 |      5 |    1 |
+| Gore Farmers | Green Cup X          |    6 |    2 |    9 |     17 | 41.1765 |   30 |   35 |   32 |     15 |    2 |
 | Gore Farmers | Green Cup VII        |    5 |    0 |   11 |     16 |   31.25 |   22 |   40 |   24 |     -9 |   -2 |
 | Gore Farmers | Green Cup I          |    2 |    2 |    6 |     10 |      30 |   12 |   22 |   18 |     10 |   -1 |
 | Gore Farmers | Green Cup IX         |    1 |    4 |   11 |     16 |   18.75 |   17 |   34 |   28 |     14 |   -6 |

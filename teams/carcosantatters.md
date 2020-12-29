@@ -36,6 +36,7 @@ The Tatters have always been a very good team. Defensive-minded without really f
 | Carcosan Tatters | Green Cup VI         |   11 |    1 |    5 |     17 | 67.6471 |   20 |   15 |   23 |     10 |    5 |
 | Carcosan Tatters | UBBL Challenge       |    2 |    0 |    1 |      3 | 66.6667 |    4 |    3 |    7 |      3 |    1 |
 | Carcosan Tatters | Green Cup VIII       |   12 |    0 |    6 |     18 | 66.6667 |   23 |   21 |   39 |     22 |    1 |
+| Carcosan Tatters | Green Cup X          |    8 |    3 |    5 |     16 |  59.375 |   25 |   21 |   39 |     29 |    0 |
 | Carcosan Tatters | Green Cup IX         |    8 |    3 |    5 |     16 |  59.375 |   25 |   24 |   37 |     25 |    6 |
 | Carcosan Tatters | Green Cup IV         |    5 |    3 |    3 |     11 | 59.0909 |   17 |   17 |   35 |     28 |   -4 |
 | Carcosan Tatters | Green Cup V Memorial |    4 |    1 |    6 |     11 | 40.9091 |    9 |   14 |   14 |      5 |   -3 |

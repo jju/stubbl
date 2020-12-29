@@ -24,6 +24,8 @@
 
 ## gcx
 
+[[Aeson]]
+
 # old-era
 
 ## gci

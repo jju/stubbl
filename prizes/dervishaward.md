@@ -24,6 +24,8 @@
 
 ## gcx
 
+[[Deepali]]
+
 # old-era
 
 ## gci

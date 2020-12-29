@@ -40,6 +40,7 @@ Their GCIX campaign was devastating to a team of such history. They put their ef
 | Filthy Tide | Green Cup VI         |    7 |    2 |    7 |     16 |      50 |   46 |   35 |   33 |      3 |    2 |
 | Filthy Tide | Green Cup III        |    6 |    0 |    6 |     12 |      50 |   30 |   29 |   12 |    -27 |    0 |
 | Filthy Tide | Green Cup VIII       |    7 |    2 |    8 |     17 | 47.0588 |   39 |   40 |   42 |     -4 |   -4 |
+| Filthy Tide | Green Cup X          |    7 |    0 |    9 |     16 |   43.75 |   50 |   51 |   19 |    -25 |    3 |
 | Filthy Tide | Green Cup IV         |    5 |    0 |    7 |     12 | 41.6667 |   32 |   38 |   11 |    -32 |    1 |
 | Filthy Tide | Green Cup V Memorial |    4 |    1 |    6 |     11 | 40.9091 |   21 |   20 |   15 |     -3 |   -1 |
 | Filthy Tide | Green Cup IX         |    4 |    3 |   10 |     17 | 32.3529 |   45 |   57 |   16 |    -23 |   -1 |

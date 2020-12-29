@@ -34,6 +34,7 @@ The Hounds fought and fought in the old-era to gain admission to the Green Cup c
 | Glorious Hounds | Green Cup IV         |    7 |    0 |    6 |     13 | 53.8462 |   39 |   35 |   14 |     -9 |    0 |
 | Glorious Hounds | Green Cup IX         |    8 |    3 |    7 |     18 | 52.7778 |   58 |   49 |   14 |    -22 |   -1 |
 | Glorious Hounds | UBBL Challenge       |    2 |    0 |    2 |      4 |      50 |   11 |   12 |    2 |     -8 |    1 |
+| Glorious Hounds | Green Cup X          |    4 |    4 |    8 |     16 |    37.5 |   40 |   46 |   13 |    -25 |   -3 |
 | Glorious Hounds | Green Cup VI         |    3 |    4 |    8 |     15 | 33.3333 |   30 |   33 |   15 |    -13 |    1 |
 
 #### Projection

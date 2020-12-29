@@ -38,6 +38,7 @@ Second place for the rookies and the Cogs' best showing in many a season (in a G
 | Irregular Cogs | Green Cup VII        |   13 |    0 |    5 |     18 | 72.2222 |   51 |   32 |   12 |    -19 |    2 |
 | Irregular Cogs | Green Cup I          |    7 |    3 |    2 |     12 | 70.8333 |   36 |   27 |   14 |    -10 |    2 |
 | Irregular Cogs | Green Cup IX         |   11 |    1 |    5 |     17 | 67.6471 |   49 |   36 |   15 |    -12 |    7 |
+| Irregular Cogs | Green Cup X          |   10 |    2 |    5 |     17 | 64.7059 |   49 |   35 |   18 |     -4 |    0 |
 | Irregular Cogs | UBBL Challenge       |    2 |    1 |    1 |      4 |    62.5 |    9 |    8 |    5 |     -2 |   -1 |
 | Irregular Cogs | Green Cup IV         |    5 |    2 |    4 |     11 | 54.5455 |   29 |   26 |   11 |     -9 |    0 |
 | Irregular Cogs | Green Cup II         |    6 |    1 |    5 |     12 | 54.1667 |   32 |   28 |   17 |    -11 |   -3 |

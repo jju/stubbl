@@ -13,7 +13,9 @@ The Arborists use the Wary Eagle playbook, which is very similar to the Scrying 
 | Arborists | StUBBL Scramble    |    1 |    0 |    0 |      1 |     100 |    3 |    0 |    1 |      2 |    1 |
 | Arborists | UBBL Challenge III |    6 |    1 |    0 |      7 | 92.8571 |   30 |   14 |   10 |      3 |    2 |
 | Arborists | UBBL Challenge II  |    3 |    0 |    2 |      5 |      60 |   14 |    7 |    6 |     -5 |    1 |
+| Arborists | Green Cup X        |    6 |    2 |    8 |     16 |   43.75 |   41 |   51 |   15 |    -15 |   -3 |
 | Arborists | UBBL Challenge     |    0 |    0 |    3 |      3 |       0 |    3 |    7 |    0 |     -6 |    0 |
+
 
 
 ### Pro Level Record (W-D-L)

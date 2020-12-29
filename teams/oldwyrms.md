@@ -47,14 +47,15 @@ The Tenth Green Cup championship also went to the Old Wyrms, though it wasn't th
 | Old Wyrms | Green Cup IX         |   15 |    1 |    3 |     19 | 81.5789 |   72 |   46 |   20 |    -17 |    2 |
 | Old Wyrms | UBBL Challenge       |    3 |    0 |    1 |      4 |      75 |   10 |    7 |    4 |    -10 |    2 |
 | Old Wyrms | Green Cup III        |    8 |    3 |    2 |     13 | 73.0769 |   43 |   25 |   11 |    -17 |    2 |
-| Old Wyrms | Green Cup X | 11 | 5 | 3 |19 |  71.05 | 61 | 49 | 14 | -30 | ?? |
+| Old Wyrms | Green Cup X          |   11 |    5 |    3 |     19 | 71.0526 |   61 |   49 |   14 |    -30 |    2 |
 | Old Wyrms | Green Cup V Memorial |    7 |    1 |    3 |     11 | 68.1818 |   23 |   12 |    9 |     -9 |   -3 |
 | Old Wyrms | Green Cup IV         |    7 |    3 |    3 |     13 | 65.3846 |   39 |   32 |   13 |    -27 |    2 |
 | Old Wyrms | Green Cup II         |    6 |    2 |    3 |     11 | 63.6364 |   37 |   21 |    2 |    -41 |    0 |
 | Old Wyrms | Green Cup I          |    7 |    1 |    4 |     12 |    62.5 |   40 |   28 |    6 |    -12 |    0 |
 | Old Wyrms | Green Cup VII        |    6 |    5 |    5 |     16 |  53.125 |   45 |   44 |   18 |    -39 |   -2 |
-| Old Wyrms | Green Cup VI         |    6 |    2 |    8 |     16 |   43.75 |   37 |   42 |   15 |    -21 |    3 |
 | Old Wyrms | Green Cup VIII       |    6 |    2 |    8 |     16 |   43.75 |   38 |   39 |   14 |    -21 |   -1 |
+| Old Wyrms | Green Cup VI         |    6 |    2 |    8 |     16 |   43.75 |   37 |   42 |   15 |    -21 |    3 |
+
 
 ### Stars & Scrubs
 

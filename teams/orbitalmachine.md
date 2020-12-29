@@ -36,8 +36,10 @@ The GCIX season was their first in which they did not lead the league in Casualt
 | Orbital Machine | Green Cup VII        |   11 |    3 |    3 |     17 | 73.5294 |   29 |   17 |   42 |     33 |   -1 |
 | Orbital Machine | Green Cup Classic 06 |    6 |    1 |    3 |     10 |      65 |   18 |   15 |   16 |      8 |    5 |
 | Orbital Machine | Green Cup VIII       |    9 |    0 |    7 |     16 |   56.25 |   27 |   27 |   49 |     27 |    1 |
+| Orbital Machine | Green Cup X          |    7 |    4 |    5 |     16 |   56.25 |   27 |   27 |   40 |     26 |   -1 |
 | Orbital Machine | Green Cup IX         |    6 |    3 |    7 |     16 |  46.875 |   21 |   26 |   31 |     20 |   -1 |
 | Orbital Machine | UBBL Challenge       |    1 |    0 |    2 |      3 | 33.3333 |    5 |    6 |    4 |     -1 |   -1 |
+
 
 ### Stars & Scrubs
 
