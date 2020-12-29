@@ -18,15 +18,17 @@ After a lackluster few renaissance-era seasons (only 6 wins in each 16 game seas
 
 They followed that up in the GCV Memorial tournament as the best team in the tournament until they entered the playoffs, losing to the 8th place [Hunters](vanadiumhunters).
 
+The Tenth Green Cup championship also went to the Old Wyrms, though it wasn't the same kind of dominating season as the year before. The early weeks were filled with draws and their final record shows their offense was 10 TDs worse than previously, but their defense limited the damage. By the end they didn't need to be perfect, just better than their opponents, which they were.
+
 ## Records
 
 ### Pro Level Record (W-D-L)
 
-61-19-36
+72-24-39
 
 ### UBBL Record (W-D-L)
 
-71-20-40
+82-25-43
 
 ### Prizes
 
@@ -36,6 +38,7 @@ They followed that up in the GCV Memorial tournament as the best team in the tou
 * Green Cup IV - Green Cup Champions
 * Green Cup IX - Green Cup IX Champions
 * Green Cup V Memorial - Picked-Off Primer
+* Green Cup X - Green Cup X Champions
 
 ### Seasons
 
@@ -44,6 +47,7 @@ They followed that up in the GCV Memorial tournament as the best team in the tou
 | Old Wyrms | Green Cup IX         |   15 |    1 |    3 |     19 | 81.5789 |   72 |   46 |   20 |    -17 |    2 |
 | Old Wyrms | UBBL Challenge       |    3 |    0 |    1 |      4 |      75 |   10 |    7 |    4 |    -10 |    2 |
 | Old Wyrms | Green Cup III        |    8 |    3 |    2 |     13 | 73.0769 |   43 |   25 |   11 |    -17 |    2 |
+| Old Wyrms | Green Cup X | 11 | 5 | 3 |19 |  71.05 | 61 | 49 | 14 | -30 | ?? |
 | Old Wyrms | Green Cup V Memorial |    7 |    1 |    3 |     11 | 68.1818 |   23 |   12 |    9 |     -9 |   -3 |
 | Old Wyrms | Green Cup IV         |    7 |    3 |    3 |     13 | 65.3846 |   39 |   32 |   13 |    -27 |    2 |
 | Old Wyrms | Green Cup II         |    6 |    2 |    3 |     11 | 63.6364 |   37 |   21 |    2 |    -41 |    0 |
@@ -79,35 +83,44 @@ Having the second-best player the UBBL has ever seen in [[Souta]] has gone prett
 
 #### Cup Winners
 
-Souta - off Finals roster
-Babar
-Kelemann
-Moirin - only played in GCIX Final
-Seosamh - off playoff roster
-Andela
-Martti
-Roni
-Amador
-Maelys - off playoff roster
-Rati
-Elvis
-Jia
-Otakar - dead
-Olaug - off playoff roster
-Eimilios - off playoff roster
-Modest - off playoff roster
-Elisavet
-Tereza
-Lucius
-Coluim - off playoff roster
-Lakshmana - dead
-Ingolf - off playoff roster
-Manju - off playoff roster
-Phette - dead
-Shelach - dead
-Vilma - off playoff roster
-Yasmani - only played in the GCIX Final
-Zipfruder - off playoff roster
+Kelemann - GCIX, GCX
+Amador - GCIX, GCX
+Rati - GCIX, GCX
+Elvis - GCIX, GCX
+Jia - GCIX, GCX
+Elisavet - GCIX, GCX
+Moirin - GCIX (Final only), GCX
+Seosamh - GCIX off playoff roster, GCX
+Belmont - GCX
+Journee - GCX
+Katina - GCX
+Leilani - GCX
+Alva - GCX
+Menachem - GCX
+Teresia - GCX
+Modest - GCIX off playoff roster, GCX
+Babar - GCIX, GCX off playoff roster
+Andela - GCIX
+Martti - GCIX
+Roni - GCIX
+Tereza - GCIX
+Lucius - GCIX
+Yasmani - GCIX (Final only)
+Maelys - GCIX off playoff roster
+Otakar - GCIX dead
+Olaug - GCIX off playoff roster, GCX off playoff roster
+Eimilios - GCIX off playoff roster, GCX off playoff roster
+Coluim - GCIX off playoff roster
+Lakshmana - GCIX dead
+Ingolf - GCIX off playoff roster
+Manju - GCIX off playoff roster
+Phette - GCIX dead
+Shelach - GCIX dead
+Vilma - GCIX off playoff roster
+Zipfruder - GCIX off playoff roster, GCX off playoff roster
+Kasimir - GCX off playoff roster
+Souta - GCIX off Finals roster
+
 
 ### Tactics
 

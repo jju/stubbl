@@ -9,7 +9,7 @@ A match of skill vs brawn between two former champions. Earlier in the season wh
 
 ## recap
 
-
+The Wyrms didn't dominate and the Eagles kept the ball in a scrum for most of the match, or at least as long as they could. In overtime the defense looked like it was going to force a turnover and give the Eagles a second underdog Green Cup, but Seosamh dodged their way to the end zone and victory.
 
 ## standings
 

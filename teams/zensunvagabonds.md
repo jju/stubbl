@@ -10,20 +10,22 @@ The Vagabonds use the Hermann playbook, the original plan for playing BludBol, a
 
 ### Pro Level Record (W-D-L)
 
-38-23-47
+49-25-52
 
 ### UBBL Record (W-D-L)
 
-39-24-50
+50-26-55
 
 ### Prizes
 
 * Green Cup II - Runner-Up
+* Green Cup X - Tough Brake of Alsoran
 
 ### Seasons
 
 | Team             | Season             | won  | draw | lost | played | win_pct | gf   | ga   | cas  | tcdiff | ff   |
 |------------------|--------------------|------|------|------|--------|---------|------|------|------|--------|------|
+| Zensun Vagabonds | Green Cup X  | 11 | 2 | 5 | 18 | 66.6667 | 46 | 33 | 29 | 3 | ? |
 | Zensun Vagabonds | Green Cup VII      |    7 |    6 |    3 |     16 |    62.5 |   47 |   32 |   38 |     -1 |    1 |
 | Zensun Vagabonds | Green Cup IX       |    7 |    3 |    6 |     16 |  53.125 |   32 |   40 |   19 |    -10 |    1 |
 | Zensun Vagabonds | UBBL Challenge II  |    1 |    0 |    1 |      2 |      50 |    4 |    4 |    3 |     -3 |    0 |
