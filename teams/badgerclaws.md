@@ -56,30 +56,26 @@ Green Cup Champions or bust (more likely to be conference champs)
 
 | Player      | Team         | position      | won  | draw | lost | GP   | TD   | Cp | Int | BH   | SI   | Ki   | MVP  | SPP  |
 |-------------|--------------|---------------|------|------|------|------|------|-------------|---------------|------|------|------|------|------|
-| **Aeson**      | Badger Claws | Gutter Runner |   25 |    6 |   13 |   44 |  105 |           3 |             0 |    0 |    0 |    0 |    7 |  353 |
-| Cleve      | Badger Claws | Thrower       |   25 |    6 |   12 |   43 |    0 |         114 |             0 |    0 |    0 |    0 |    3 |  129 |
-| Donat      | Badger Claws | Gutter Runner |   19 |    5 |   12 |   36 |   35 |           2 |             0 |    1 |    0 |    0 |    0 |  109 |
-| Avani      | Badger Claws | Gutter Runner |   22 |    5 |   12 |   39 |    5 |           4 |             1 |    3 |    0 |    0 |    5 |   52 |
-| **Barukh**     | Badger Claws | Gutter Runner |   13 |    4 |    9 |   26 |    3 |          12 |             1 |    0 |    0 |    0 |    3 |   38 |
-| **Haman**       | Badger Claws | Thrower       |   11 |    2 |    7 |   20 |    1 |          12 |             1 |    2 |    0 |    1 |    2 |   33 |
-| **Iris**        | Badger Claws | Blitzer       |   11 |    3 |    3 |   17 |    0 |           1 |             0 |    3 |    0 |    0 |    4 |   27 |
-| **Pippin**      | Badger Claws | Rat Ogre      |   10 |    3 |    1 |   14 |    0 |           0 |             0 |    3 |    3 |    1 |    2 |   24 |
-| **Wilda**       | Badger Claws | Blitzer       |   13 |    3 |    6 |   22 |    1 |           0 |             0 |    3 |    1 |    1 |    2 |   23 |
-| Comgan     | Badger Claws | Blitzer       |    9 |    2 |    5 |   16 |    1 |           0 |             0 |    3 |    2 |    0 |    2 |   23 |
-| **Olanrewaju**  | Badger Claws | Gutter Runner |    5 |    1 |    1 |    7 |    3 |           4 |             1 |    0 |    0 |    0 |    1 |   20 |
-| Fatsani    | Badger Claws | Gutter Runner |    3 |    1 |    0 |    4 |    6 |           1 |             0 |    0 |    0 |    0 |    0 |   19 |
-| Synnove    | Badger Claws | Lineman       |   12 |    3 |    7 |   22 |    0 |           1 |             0 |    1 |    0 |    0 |    3 |   18 |
-| Emperatriz | Badger Claws | Blitzer       |    9 |    2 |    5 |   16 |    1 |           0 |             2 |    2 |    0 |    1 |    1 |   18 |
-| **Katrine**     | Badger Claws | Lineman       |   12 |    3 |    5 |   20 |    0 |           0 |             0 |    2 |    0 |    1 |    2 |   16 |
-| Ea         | Badger Claws | Lineman       |   11 |    3 |    7 |   21 |    1 |           1 |             1 |    0 |    0 |    0 |    2 |   16 |
+| **Aeson**      | Badger Claws | Gutter Runner |   34 |    7 |   20 |   61 |  157 |    3 |    0 |    0 |    0 |    0 |   10 |  524 |
+| **Cleve**      | Badger Claws | Thrower       |   30 |    6 |   15 |   51 |    0 |  121 |    1 |    0 |    0 |    0 |    3 |  138 |
+| Donat     | Badger Claws | Gutter Runner |   19 |    5 |   12 |   36 |   35 |    2 |    0 |    1 |    0 |    0 |    0 |  109 |
+| **Consolo**    | Badger Claws | Thrower       |   10 |    1 |    8 |   19 |    0 |   33 |    1 |    0 |    0 |    0 |    4 |   55 |
+| Avani     | Badger Claws | Gutter Runner |   23 |    5 |   13 |   41 |    5 |    4 |    1 |    3 |    0 |    0 |    5 |   52 |
+| **Pippin**     | Badger Claws | Rat Ogre      |   18 |    4 |    9 |   31 |    0 |    0 |    0 |    9 |    4 |    3 |    3 |   47 |
+| Barukh    | Badger Claws | Gutter Runner |   14 |    5 |   12 |   31 |    5 |   12 |    1 |    0 |    0 |    0 |    3 |   44 |
+| Haman     | Badger Claws | Thrower       |   15 |    3 |   11 |   29 |    1 |   20 |    1 |    2 |    0 |    1 |    2 |   41 |
+| **Iris**       | Badger Claws | Blitzer       |   20 |    4 |   11 |   35 |    0 |    1 |    0 |    6 |    1 |    0 |    5 |   40 |
+| **Olanrewaju** | Badger Claws | Gutter Runner |   14 |    2 |    6 |   22 |    6 |    7 |    3 |    0 |    0 |    0 |    1 |   36 |
+| **Sunny**      | Badger Claws | Gutter Runner |   12 |    1 |    9 |   22 |    8 |    2 |    1 |    0 |    0 |    0 |    1 |   33 |
 
 
-Obviously when we talk about the Badger Claws we have to talk about the best player the UBBL has ever seen, Aeson. Aeson's SPP total in GCIX alone eclipse hundreds.
-Aeson and Donat started out similarly but Donat got a serious concussion and development slowed
+Obviously when we talk about the Badger Claws we have to talk about the best player the UBBL has ever seen, [[Aeson]]. Aeson's SPP total in GCIX alone eclipse hundreds.
 
-Cleve top of touches without TD
+Aeson and [[Donat]] started out similarly but Donat got a serious concussion and development slowed
 
-Will eventually be a problem that all their good players have peaked and there's not a lot of skill waiting in the wings. GCX is do or die time for the Claws so they don't turn into the Filthy Tide who wasted the Yakup years.
+[[Cleve]] top of touches without TD
+
+Will eventually be a problem that all their good players have peaked and there's not a lot of skill waiting in the wings. GCX is do or die time for the Claws so they don't turn into the Filthy Tide who wasted the [[Yakup]] years.
 
 ### Management
 
