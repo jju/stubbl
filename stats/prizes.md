@@ -40,7 +40,7 @@ The italicized teams are ones who have won the coveted Green Cup. It is quite co
 
 First, second, third place and the most casualties are the four team awards given in each Pro season.
 
-* [[greencup]]
-* [[conferencechamp]]
-* [[toughbrake]]
-* [[ironfist]]
+* [[champion]]
+* [[runnerup]]
+* [[thirdplace]]
+* [[casualties]]
