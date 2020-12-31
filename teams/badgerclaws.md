@@ -10,11 +10,11 @@ The Badger Claws use the Scrying Avian playbook which emphasizes speed above all
 
 ### Pro Level Record (W-D-L)
 
-20-5-12
+29-6-20
 
 ### UBBL Record (W-D-L)
 
-25-6-13
+34-7-21
 
 ### Prizes
 
@@ -46,7 +46,7 @@ Green Cup IX went even better for the Claws, but again they were knocked out of 
 
 W-D-L 11-3-4
 
-#### Projection
+#### Projection GCX
 
 10-2.5-6
 

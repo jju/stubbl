@@ -10,11 +10,11 @@ The Eldritch Fatality use the Drop Eagle playbook. It's an adaptation of the Her
 
 ### Pro Level Record (W-D-L)
 
-36-8-19
+40-10-29
 
 ### UBBL Record (W-D-L)
 
-39-8-20
+43-10-30
 
 ### Prizes
 

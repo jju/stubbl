@@ -10,11 +10,11 @@ The Tatters use the Nergal playbook, some (especially fans of pretty BludBol) sa
 
 ### Pro Level Record (W-D-L)
 
-52-14-35
+60-17-40
 
 ### UBBL Record (W-D-L)
 
-58-15-42
+66-18-47
 
 ### Prizes
 
@@ -48,24 +48,23 @@ The Tatters have always been a very good team. Defensive-minded without really f
 | Player             | Team             | Position        | won  | draw | lost | GP   | TD   | Cp | Int | BH   | SI   | Ki   | MVP  | SPP  |
 |--------------------|------------------|-----------------|------|------|------|------|------|-------------|---------------|------|------|------|------|------|
 | *BSEncef* | Carcosan Tatters | Pestigor        |   ?? |   ?? |   ?? |   49 |   23 |           31 |             2 |    1 |    0 |    0 |    3 |   121 |
+| Gention           | Carcosan Tatters | Pestigor        |   32 |    6 |   19 |   57 |   10 |    4 |    0 |   16 |    8 |    2 |    7 |  121 |
 | *Scrapie* | Carcosan Tatters | Pestigor | ?? | ?? | ?? | 49 | 18 | 0 | 1 | 10 | 4 | 3 | 4 | 110 |
-| **Gention**           | Carcosan Tatters | Pestigor        |   26 |    4 |   17 |   47 |   10 |           3 |             0 |    9 |    4 |    2 |    7 |   98 |
-| **Orna**               | Carcosan Tatters | Pestigor        |   26 |    4 |   18 |   48 |   16 |           3 |             0 |    4 |    2 |    0 |    4 |   83 |
-| Adeno | Carcosan Tatters | Nurgle Warrior | ?? | ?? | ?? | 77 | 0 | 0 | 1 | 15 | 3 | 4 | 6 | 76 |
-| **Pierre**             | Carcosan Tatters | Beast of Nurgle |   21 |    1 |   21 |   43 |    0 |           0 |             0 |   12 |    5 |    1 |    5 |   61 |
-| **MaskedPain**        | Carcosan Tatters | Pestigor        |   18 |    1 |   17 |   36 |   11 |           3 |             0 |    4 |    0 |    0 |    3 |   59 |
-| **Sparrow**            | Carcosan Tatters | Pestigor        |    8 |    3 |    5 |   16 |   13 |           1 |             1 |    1 |    0 |    0 |    2 |   54 |
-| **Marley**            | Carcosan Tatters | Pestigor        |   18 |    3 |    8 |   29 |    8 |           3 |             1 |    5 |    1 |    1 |    2 |   53 |
-| **LastForsakenVenom** | Carcosan Tatters | Nurgle Warrior  |   20 |    1 |   21 |   42 |    0 |           0 |             0 |    3 |    4 |    1 |    7 |   51 |
-| RavenousOblivion  | Carcosan Tatters | Nurgle Warrior  |   34 |    5 |   26 |   65 |    0 |           0 |             0 |    8 |    2 |    1 |    5 |   47 |
-| **Tycho**              | Carcosan Tatters | Rotter          |   18 |    3 |    8 |   29 |    4 |          20 |             0 |    1 |    1 |    0 |    1 |   41 |
-| SavageGemstone    | Carcosan Tatters | Pestigor        |   14 |    1 |   13 |   28 |    7 |           3 |             0 |    3 |    1 |    0 |    1 |   37 |
-| **OreSmitingMaster**   | Carcosan Tatters | Nurgle Warrior  |   23 |    3 |   13 |   39 |    0 |           0 |             1 |    5 |    1 |    0 |    4 |   34 |
+| **Sparrow**            | Carcosan Tatters | Pestigor        |   16 |    6 |   10 |   32 |   23 |    2 |    1 |    2 |    2 |    1 |    3 |   98 |
+| **Orna**               | Carcosan Tatters | Pestigor        |   34 |    7 |   23 |   64 |   19 |    4 |    0 |    5 |    3 |    0 |    4 |   97 |
+| **Pierre**             | Carcosan Tatters | Beast of Nurgle |   29 |    4 |   26 |   59 |    0 |    0 |    0 |   16 |    8 |    2 |    6 |   82 |
+| **Tycho**             | Carcosan Tatters | Rotter          |   26 |    6 |   13 |   45 |    4 |   33 |    2 |    1 |    1 |    0 |    3 |   68 |
+| **Marley**             | Carcosan Tatters | Pestigor        |   19 |    4 |   11 |   34 |    9 |    3 |    1 |    5 |    1 |    1 |    3 |   61 |
+| MaskedPain        | Carcosan Tatters | Pestigor        |   18 |    1 |   17 |   36 |   11 |    3 |    0 |    4 |    0 |    0 |    3 |   59 |
+| **Arya**               | Carcosan Tatters | Pestigor        |   11 |    4 |   10 |   25 |   12 |    1 |    0 |    2 |    0 |    0 |    3 |   56 |
+| LastForsakenVenom | Carcosan Tatters | Nurgle Warrior  |   20 |    1 |   21 |   42 |    0 |    0 |    0 |    3 |    4 |    1 |    7 |   51 |
+| RavenousOblivion  | Carcosan Tatters | Nurgle Warrior  |   34 |    5 |   26 |   65 |    0 |    0 |    0 |    8 |    2 |    1 |    5 |   47 |
+| **OreSmitingMaster**   | Carcosan Tatters | Nurgle Warrior  |   31 |    6 |   18 |   55 |    0 |    0 |    1 |    8 |    2 |    0 |    4 |   42 |
 
 
 The Tatters thrive on teamwork and defense, neither of which lends itself well to big flashy stars taking over a match. Back in the Old-Era BSEncef (now the team's manager) was a big flashy star, but he hasn't tried to develop that kind of mindset in the current players. Gention has been holding things down as the best player for the last couple of tournaments (since the awful GCVII campaign in which there was a major redevelopment), but Sparrow will soon be taking her place and may emerge as the next superstar.
 
-Though Pierre is third on the team for SPP, it was in flux until quite late whether he would suit up for the GCX season. Also of note, [[Adeno]] was an old veteran who didn't do much in the revitalization but has played for the team by far the longest.
+pre-GCX: Though Pierre is third on the team for SPP, it was in flux until quite late whether he would suit up for the GCX season. Also of note, [[Adeno]] was an old veteran who didn't do much in the revitalization but has played for the team by far the longest.
 
 ### Management
 
