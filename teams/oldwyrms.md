@@ -1,6 +1,6 @@
 # Old Wyrms
 
-Even when they're bad they aren't that bad. And when they're good they're dazzling. They are the UBBL's only three-time champions and the only team to have defended a championship.
+Even when they're bad they aren't that bad. And when they're good they're dazzling. They are the UBBL's only four-time champions and the only team to have defended a championship (twice).
 
 ## Playbook
 
