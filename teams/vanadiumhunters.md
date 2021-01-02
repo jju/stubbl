@@ -8,7 +8,7 @@
 
 ### UBBL Record (W-D-L)
 
-24-20-48
+31-21-52
 
 ### Prizes
 
@@ -16,7 +16,7 @@
 
 ## History
 
-The Hunters have never managed to achieve a winning season. They are generally a bad team, but they did achieve a Doom Fist in the old-era UBBL.
+They are generally a bad team at the pro level, but they did achieve a Doom Fist in the old-era UBBL. The Hunters had never managed to achieve a winning season before the inaugural Open Division Orange Goblet. 
 
 ### Seasons
 
@@ -43,21 +43,22 @@ The Hunters have never managed to achieve a winning season. They are generally a
 | *HalfJack* | Vanadium Hunters | Thrower |  ?? | ?? | ?? | 51 | 5 | 84 | 0 | 1 | 1 | 0 | 5 | 128 |
 | *Moseh* | Vanadium Hunters | Blitzer |  ?? | ?? | ?? | 51 | 25 | 9 | 2 | 6 | 1 | 0 | 4 | 122 |
 | *Nyazi* | Vanadium Hunters | Blitzer | ?? | ?? | ?? | 51 | 28 | 5 | 1 | 7 | 3 | 0 | 2 | 121 |
+| **Melchor**   | Vanadium Hunters | Thrower  |   15 |   10 |   29 |   54 |    0 |   66 |    0 |    2 |    0 |    0 |    7 |  105 |
 | *Gabriel* | Vanadium Hunters | Thrower | ?? | ?? | ?? | 49 | 1 | 62 | 0 | 1 | 1 | 0 | 6 | 99 |
 | *Kikin* | Vanadium Hunters | Catcher |  ?? | ?? | ?? | 46 | 22 | 5 | 0 | 0 | 0 | 5 | 98 |
 | *Vrej* | Vanadium Hunters | Blitzer | ?? | ?? | ?? | 40 | 6 | 1 | 0 | 10 | 11 | 1 | 6 | 93 |
 | *Teague* | Vanadium Hunters | Blitzer |  ?? | ?? | ?? | 51 | 7 | 0 | 1 | 7 | 5 | 5 | 6 | 87 |
-| **Melchor**   | Vanadium Hunters | Thrower  |    8 |    9 |   25 |   42 |    0 |   51 |    0 |    2 |    0 |    0 |    5 |   80 |
-| Marta     | Vanadium Hunters | Blitzer  |   11 |   14 |   19 |   44 |    7 |    0 |    3 |    6 |    6 |    2 |    2 |   65 |
-| **Daley**     | Vanadium Hunters | Blitzer  |    5 |    4 |   16 |   25 |   12 |    0 |    0 |    2 |    1 |    1 |    3 |   59 |
-| Majken    | Vanadium Hunters | Catcher  |    8 |    9 |   18 |   35 |   10 |    3 |    0 |    0 |    0 |    0 |    5 |   58 |
-| Leibniz   | Vanadium Hunters | Blitzer  |   10 |   14 |   18 |   42 |    9 |    1 |    0 |    2 |    2 |    1 |    4 |   58 |
-| Tycho     | Vanadium Hunters | Catcher  |    5 |    9 |   12 |   26 |   14 |    2 |    1 |    0 |    0 |    0 |    0 |   46 |
-| Baz       | Vanadium Hunters | Thrower  |    6 |    6 |   11 |   23 |    2 |   28 |    0 |    1 |    0 |    0 |    2 |   46 |
-| **Charles**   | Vanadium Hunters | Thrower  |    3 |    6 |    8 |   17 |    1 |   16 |    0 |    0 |    1 |    0 |    4 |   41 |
-| **Boguslaw**  | Vanadium Hunters | Ogre     |    8 |   13 |   16 |   37 |    0 |    0 |    0 |   12 |    5 |    0 |    1 |   39 |
-| **Aikaterini** | Vanadium Hunters | Catcher  |    5 |    9 |   14 |   28 |    7 |    4 |    0 |    1 |    0 |    0 |    2 |   37 |
-| **Mayflower**  | Vanadium Hunters | Lineman  |   20 |   15 |   39 |   74 |    0 |    2 |    2 |    3 |    0 |    1 |    4 |   34 |
+| **Marta**     | Vanadium Hunters | Blitzer  |   17 |   15 |   22 |   54 |    8 |    0 |    3 |   11 |    7 |    2 |    2 |   80 |
+| Daley    | Vanadium Hunters | Blitzer  |    6 |    4 |   17 |   27 |   12 |    0 |    1 |    2 |    1 |    1 |    3 |   61 |
+| Majken   | Vanadium Hunters | Catcher  |    8 |    9 |   18 |   35 |   10 |    3 |    0 |    0 |    0 |    0 |    5 |   58 |
+| Leibniz  | Vanadium Hunters | Blitzer  |   10 |   14 |   18 |   42 |    9 |    1 |    0 |    2 |    2 |    1 |    4 |   58 |
+| **Boguslaw**  | Vanadium Hunters | Ogre     |   15 |   14 |   18 |   47 |    0 |    1 |    0 |   16 |    6 |    0 |    2 |   55 |
+| **Charles**   | Vanadium Hunters | Thrower  |   10 |    7 |   11 |   28 |    1 |   22 |    0 |    1 |    2 |    0 |    4 |   51 |
+| **Mohan**     | Vanadium Hunters | Blitzer  |   12 |   11 |   17 |   40 |    8 |    2 |    0 |    4 |    1 |    0 |    3 |   51 |
+| **Baz**       | Vanadium Hunters | Thrower  |    6 |    6 |   12 |   24 |    2 |   29 |    0 |    2 |    0 |    0 |    2 |   49 |
+| **Gautstafr** | Vanadium Hunters | Catcher  |    7 |    1 |    8 |   16 |   14 |    2 |    2 |    0 |    0 |    0 |    0 |   48 |
+| **Mayflower** | Vanadium Hunters | Lineman  |   27 |   16 |   43 |   86 |    0 |    2 |    2 |    5 |    0 |    1 |    6 |   48 |
+| Tycho    | Vanadium Hunters | Catcher  |    5 |    9 |   12 |   26 |   14 |    2 |    1 |    0 |    0 |    0 |    0 |   46 |
 
 [[Vrej]] came back from a fine retirement to play in the Green Cup V Memorial tournament and while that was enough to push him up the all-time Hunters hall of fame, it also cost him his life.
 

@@ -20,7 +20,7 @@ The Brutes have folded because they could not maintain the 33% Winning Rate requ
 
 ## History
 
-The Brutes inflicted 24 Casualties in 12 matches in the inaugural Green Cup Tournament. The Brutes went undefeated in the second UBBL Challenge earning the right to get back into the Green Cup division for GCIX. Along with winning the tournament, the Brutes inflicted 20 Casualties (12-5-3). They folded after a disastrous GCIX and UBBL Challenge III where, despite playing nearly as well as they ever had, they were unseated by the Arborists. Since their Win% is below the 33% seen as the bare minimum of acceptability Goliath folded the team rather than facing the indignity of trying to claw their way up again.
+The Brutes inflicted 24 Casualties in 12 matches in the inaugural Green Cup Tournament. The Brutes went undefeated in the second UBBL Challenge earning the right to get back into the Green Cup division for GCIX. Along with winning the tournament, the Brutes inflicted 20 Casualties (12-5-3). They folded after a disastrous GCIX and UBBL Challenge III where, despite playing nearly as well as they ever had, they were unseated by the Arboreal Menace. Since their Win% is below the 33% seen as the bare minimum of acceptability Goliath folded the team rather than facing the indignity of trying to claw their way up again.
 
 ### Seasons
 

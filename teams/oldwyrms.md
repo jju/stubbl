@@ -62,23 +62,24 @@ The Tenth Green Cup championship also went to the Old Wyrms, though it wasn't th
 | Player   | Team      | Position | won  | draw | lost | GP   | TD   | Comp | Ints | BH   | SI   | Ki   | MVP  | SPP  |
 |----------|-----------|----------|------|------|------|------|------|------|------|------|------|------|------|------|
 | Souta   | Old Wyrms | Catcher  |   33 |    9 |   27 |   69 |   72 |   51 |    3 |    2 |    1 |    0 |    4 |  299 |
+| **Elvis**    | Old Wyrms | Thrower  |   34 |    7 |   16 |   57 |    1 |  146 |    0 |    0 |    1 |    0 |    7 |  186 |
 | *Tony* | Old Wyrms | Catcher | ?? | ?? | ?? | 33 | 39 | 9 | 2 | 2 | 0 | 0 | 4 | 154 |
-| **Babar**   | Old Wyrms | Catcher  |   34 |    8 |   23 |   65 |   29 |   13 |    9 |    5 |    0 |    0 |    3 |  143 |
-| **Elvis**    | Old Wyrms | Thrower  |   23 |    2 |   13 |   38 |    1 |  109 |    0 |    0 |    0 |    0 |    5 |  137 |
+| **Amador**   | Old Wyrms | Catcher  |   29 |    6 |   13 |   48 |   27 |   40 |    1 |    2 |    0 |    0 |    4 |  147 |
+| Babar   | Old Wyrms | Catcher  |   34 |    8 |   23 |   65 |   29 |   13 |    9 |    5 |    0 |    0 |    3 |  143 |
 | *Carl* | Old Wyrms | Thrower | ?? | ?? | ?? | 54 | 2 | 97 | 0 | 1 | 0 | 0 | 3 | 120 |
-| **Amador**   | Old Wyrms | Catcher  |   18 |    1 |   10 |   29 |   20 |   18 |    1 |    2 |    0 |    0 |    4 |  104 |
 | *Joey* | Old Wyrms | Catcher | ?? | ?? | ?? | 31 | 23 | 21 | 3 | 2 | 1 | 0 | 2 | 112 |
-| **Roni**    | Old Wyrms | Catcher  |   13 |    2 |    9 |   24 |   16 |   13 |    3 |    1 |    0 |    0 |    4 |   89 |
-| **Evander** | Old Wyrms | Thrower  |   12 |    7 |   14 |   33 |    0 |   61 |    0 |    1 |    0 |    0 |    5 |   88 |
 | *Hems* | Old Wyrms | Thrower | ?? | ?? | ?? | 47 | 0 | 76 | 1 | 0 | 0 | 0 | 2 | 88 |
 | *Ocho* | Old Wyrms | Catcher | ?? | ?? | ?? | 22 | 17 | 9 | 5 | 1 | 0 | 0 | 4 | 94 |
+| Roni    | Old Wyrms | Catcher  |   13 |    2 |    9 |   24 |   16 |   13 |    3 |    1 |    0 |    0 |    4 |   89 |
+| Evander | Old Wyrms | Thrower  |   12 |    7 |   14 |   33 |    0 |   61 |    0 |    1 |    0 |    0 |    5 |   88 |
 | *HoJu* | Old Wyrms | Catcher | ?? | ?? | ?? | 29 | 18 | 15 | 3 | 0 | 0 | 0 | 2 | 85 |
+| **Seosamh**  | Old Wyrms | Catcher  |   13 |    5 |    3 |   21 |   19 |    3 |    2 |    1 |    1 |    0 |    3 |   83 |
 | *Newb* | Old Wyrms | Catcher | ?? | ?? | ?? | 22 | 22 | 6 | 0 | 0 | 0 | 0 | 2 | 82 |
-| Maelys  | Old Wyrms | Catcher  |   13 |    4 |    8 |   25 |   14 |   14 |    0 |    0 |    1 |    0 |    1 |   63 |
-| Bengt   | Old Wyrms | Blitzer  |   14 |    7 |   14 |   35 |    2 |    0 |    0 |   13 |    2 |    1 |    4 |   58 |
-| **Rati**    | Old Wyrms | Blitzer  |   21 |    2 |   11 |   34 |    7 |    4 |    0 |    8 |    1 |    1 |    2 |   55 |
-| **Moirin**   | Old Wyrms | Catcher  |    8 |    5 |    5 |   18 |   10 |    7 |    1 |    0 |    0 |    0 |    3 |   54 |
-| Chandan | Old Wyrms | Thrower  |   18 |    8 |   16 |   42 |    1 |   40 |    3 |    0 |    0 |    0 |    1 |   54 |
+| **Kelemann** | Old Wyrms | Blitzer  |   22 |    6 |    6 |   34 |   12 |    3 |    2 |    2 |    1 |    0 |    6 |   79 |
+| **Moirin**   | Old Wyrms | Catcher  |   13 |    6 |    5 |   24 |   14 |   11 |    2 |    0 |    0 |    0 |    4 |   77 |
+| **Modest**   | Old Wyrms | Catcher  |   12 |    5 |    3 |   20 |   15 |    5 |    0 |    0 |    0 |    0 |    3 |   65 |
+| **Rati**     | Old Wyrms | Blitzer  |   25 |    3 |   11 |   39 |    9 |    4 |    0 |    8 |    2 |    1 |    2 |   63 |
+
 
 Having the second-best player the UBBL has ever seen in [[Souta]] has gone pretty well for the Wyrms. That she wasn't used in the GCIX final is one of the things BludBol fans will always have an opinion on.
 
@@ -129,7 +130,7 @@ Roster manipulation in the GCIX championship run made for new rules of only allo
 
 ### Fans
 
-As the winningest team in the UBBL, Wyrm fans can be among the most despised. From their end, however, the main rivalries are with the [[zensunvagabonds]] as the two "Founders" of the UBBL, the [[irregularcogs]] (mostly for historical reasons), and the [[gorefarmers]], who have won more Green Cups in the modern era (and share the Stacks division with them).
+As the winningest team in the UBBL, Wyrm fans can be among the most despised. From their end, however, the main rivalries are with the [[zensunvagabonds]] as the two "Founders" of the UBBL, the [[irregularcogs]] (mostly for historical reasons), and the [[gorefarmers]], who have won as many Green Cups in the modern era (and share the Stacks division with them).
 
 ### Famous Games
 

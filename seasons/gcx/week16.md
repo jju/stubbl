@@ -27,5 +27,5 @@ The Tide forced overtime after a series of Venus' missteps, but they couldn't st
 | Old Wyrms | 29 | Irregular Cogs | 32 | Zensun Vagabonds | 32 | Cackling Furies | 25 |
 | *Filthy Tide* | 21 | *Carcosan Tatters* | 27 | Kaiju Dynamo | 27 | Ravenous Eagles | 22 |
 | Gore Farmers | 20 | Badger Claws | 25 | *Orbital Machine* | 25 | *Darkling Spectres* | 17 |
-| *TC Sump Runners* | 11 | *Arborists* | 20 |  *Glorious Hounds* | 16 | *Eldritch Fatality* | 14 |
+| *TC Sump Runners* | 11 | *Arboreal Menace* | 20 |  *Glorious Hounds* | 16 | *Eldritch Fatality* | 14 |
 

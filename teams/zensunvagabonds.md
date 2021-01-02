@@ -49,15 +49,16 @@ The Vagabonds use the Hermann playbook, the original plan for playing BludBol, a
 | Lucrece     | Zensun Vagabonds | Catcher  |   24 |   14 |   24 |   62 |   27 |    3 |    2 |    1 |    1 |    0 |    6 |  122 |
 | Bahiyya     | Zensun Vagabonds | Blitzer  |   16 |   12 |   14 |   42 |   29 |    1 |    3 |    2 |    2 |    0 |    0 |  102 |
 | Shai-Hulud  | Zensun Vagabonds | Ogre     |   30 |   21 |   39 |   90 |    0 |    1 |    0 |   16 |    10 |    3 |    7 |   94 |
+| **Padma**        | Zensun Vagabonds | Blitzer  |   11 |    2 |    5 |   18 |   22 |    1 |    0 |    3 |    2 |    0 |    3 |   92 |
 | *Mahdi* | Zensun Vagabonds | Thrower  | ?? | ?? | ?? | 45 | 4 | 65 | 0 | 0 | 0 | 0 | 3 | 92 |
+| **Jonah**        | Zensun Vagabonds | Catcher  |   14 |    4 |   10 |   28 |   19 |   10 |    0 |    0 |    0 |    0 |    3 |   82 |
 | *Paul* | Zensun Vagabonds | Thrower  | ?? | ?? | ?? | 45 | 4 | 25 | 1 | 3 | 1 | 0 | 7 | 82 |
 | *Korba* | Zensun Vagabonds | Catcher  | ?? | ?? | ?? | 44 | 15 | 4 | 0 | 0 | 1 | 0 | 6 | 81 |
 | Siv         | Zensun Vagabonds | Catcher  |   18 |    8 |   17 |   43 |   20 |    3 |    1 |    0 |    0 |    0 |    3 |   80 |
 | Ormonde     | Zensun Vagabonds | Blitzer  |   12 |    9 |    9 |   30 |   12 |    3 |    3 |    1 |    1 |    1 |    2 |   61 |
 | Badri       | Zensun Vagabonds | Catcher  |    9 |    6 |    5 |   20 |   16 |    1 |    0 |    0 |    1 |    0 |    1 |   56 |
-| Jayadev     | Zensun Vagabonds | Thrower  |   11 |   11 |    8 |   30 |    4 |   19 |    0 |    3 |    0 |    0 |    3 |   52 |
-| **Jonah**        | Zensun Vagabonds | Catcher  |    4 |    2 |    6 |   12 |    8 |    5 |    0 |    0 |    0 |    0 |    2 |   39 |
-| **Clydon**       | Zensun Vagabonds | Thrower  |    4 |    1 |    6 |   11 |    1 |   17 |    2 |    0 |    0 |    0 |    2 |   34 |
+| **Clydon**       | Zensun Vagabonds | Thrower  |   14 |    3 |   11 |   28 |    1 |   27 |    2 |    1 |    0 |    0 |    4 |   56 |
+| **Betuel**       | Zensun Vagabonds | Thrower  |   11 |    2 |    4 |   17 |    2 |   32 |    0 |    1 |    0 |    0 |    3 |   55 |
 
 This is a team that just wants to build something of itself. Jonah and Clydon are being forced into the role of faces of the franchise when they are not ready.
 

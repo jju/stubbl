@@ -1,7 +1,7 @@
 # schedule
 
 * Old Wyrms - Eldritch Fatality
-* Filthy Tide - Arborists
+* Filthy Tide - Arboreal Menace
 * Cackling Furies - Badger Claws
 * Kaiju Dynamo - TC Sump Runners
 * Gore Farmers - Ravenous Eagles
@@ -18,7 +18,7 @@ The round definitely builds up to the battle for first-place overall between the
 
 The Wyrms were punished throughout the match physically, but connected the ball to the endzone enough times to take the lead in the Stacks. OW 4 - EF 2 (Even) 724.1
 
-The Filthy Tide are turning their ship around. Another big win against a favoured team and this time they spread the scoring around. They also crushed the Arborists physically, giving them a much more difficult path to being more than a flash in the pan Green Cup team. FT - AR (AR) 724.2
+The Filthy Tide are turning their ship around. Another big win against a favoured team and this time they spread the scoring around. They also crushed the Arboreal Menace physically, giving them a much more difficult path to being more than a flash in the pan Green Cup team. FT - AR (AR) 724.2
 
 The Badger Claws had a tough go of it in this match and lost their old faithful thrower, while the Furies got some daylight in their quest for a playoff spot. CF 4 - BC 2 (BC) 724.3
 
@@ -39,5 +39,5 @@ The Vagabonds came in with an understrength lineup, but managed to score twice i
 | Old Wyrms | 15 | Carcosan Tatters | 20 | Zensun Vagabonds | 23 | Ravenous Eagles | 14 |
 | Gore Farmers | 13 | Irregular Cogs | 16 | Orbital Machine | 15 | Darkling Spectres | 13 |
 | Filthy Tide | 12 | Badger Claws | 13 |  Kaiju Dynamo | 14 | Cackling Furies | 12 |
-| TC Sump Runners | 11 | Arborists | 11 |Glorious Hounds | 12 | Eldritch Fatality | 8 |
+| TC Sump Runners | 11 | Arboreal Menace | 11 |Glorious Hounds | 12 | Eldritch Fatality | 8 |
 

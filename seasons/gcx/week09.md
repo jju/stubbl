@@ -2,7 +2,7 @@
 
 * Darkling Spectres - Eldritch Fatality
 * Orbital Machine - TC Sump Runners
-* Arborists - Glorious Hounds
+* Arboreal Menace - Glorious Hounds
 * Cackling Furies - Irregular Cogs  
 * Gore Farmers - Kaiju Dynamo
 * Carcosan Tatters- Old Wyrms
@@ -11,7 +11,7 @@
 
 ## matches to watch
 
-Rivalry match between the bottom-dwelling Tide and the good Claws could be high scoring, even if the Claws should dominate. It just takes one bad bounce and we'll be off the 16-16 scoring pace. (The record number of TDs in a single UBBL match is 15.) Though the Arborists are faltering a bit they're still favoured to defeat the Glorious Hounds. At this point in the season, I might need to be paid to watch a Kaiju Dynamo match, but some people think they have a shot against the Gore Farmers.
+Rivalry match between the bottom-dwelling Tide and the good Claws could be high scoring, even if the Claws should dominate. It just takes one bad bounce and we'll be off the 16-16 scoring pace. (The record number of TDs in a single UBBL match is 15.) Though the Arboreal Menace are faltering a bit they're still favoured to defeat the Glorious Hounds. At this point in the season, I might need to be paid to watch a Kaiju Dynamo match, but some people think they have a shot against the Gore Farmers.
 
 ## recap
 
@@ -38,5 +38,5 @@ The projections never think the Tatters are going to do well, and sometimes they
 | Gore Farmers | 13 | Carcosan Tatters | 20 | Zensun Vagabonds | 20 | Darkling Spectres | 13 |
 | Old Wyrms | 12 | Irregular Cogs | 16 | Kaiju Dynamo | 13 | Ravenous Eagles | 11 |
 | TC Sump Runners | 10 | Badger Claws | 13 | Glorious Hounds | 12 | Cackling Furies | 9 |
-| Filthy Tide | 9 |  Arborists | 11 | Orbital Machine | 12 | Eldritch Fatality | 8 |
+| Filthy Tide | 9 |  Arboreal Menace | 11 | Orbital Machine | 12 | Eldritch Fatality | 8 |
 

@@ -5,13 +5,13 @@
 * Filthy Tide - Zensun Vagabonds 
 * Orbital Machine - Badger Claws 
 * Gore Farmers - Old Wyrms 
-* Arborists - Ravenous Eagles  
+* Arboreal Menace - Ravenous Eagles  
 * Kaiju Dynamo - Irregular Cogs
 * Darkling Spectres - TC Sump Runners
 
 ## matches to watch
 
-The Arborists have kept their winning going, so now we're definitely watching their matchup with the Eagles with great interest.  It will also be good to see if the Badger Claws can bounce back from a tough week previous, and a Farmers-Wyrms matchup of the multiple champions is often entertaining.
+The Arboreal Menace have kept their winning going, so now we're definitely watching their matchup with the Eagles with great interest.  It will also be good to see if the Badger Claws can bounce back from a tough week previous, and a Farmers-Wyrms matchup of the multiple champions is often entertaining.
 
 ## recap
 
@@ -27,7 +27,7 @@ The Hounds are having more issues this season than I'm sure they wanted, while t
 
 **The Gore Farmers pulled off the win to bring the standings tighter, despite an excellent bit of gamesmanship by the Wyrms. Kelemann's TD at the end of the first half is an exquisite bit of work that deserves to be replayed over and over. GF 4 - OW 1** #recap
 
-Humbert tried to win the game all by himself but couldn't stop the Arborists. AR 4 - RE 2
+Humbert tried to win the game all by himself but couldn't stop the Arboreal Menace. AR 4 - RE 2
 
 The Dynamo established themselves early on defence and despite muffing one possible TD that could have opened the match up even wider, they didn't panic and didn't rely solely on Sabah. KD 4 - IC 1
 
@@ -36,7 +36,7 @@ The Dynamo established themselves early on defence and despite muffing one possi
 
 | Stacks |  | Outlands |  | Heaps |  | Pits |  |
 |-------|-----|--|--|------|------|--|--|
-| Old Wyrms | 4 | Arborists | 9 | Zensun Vagabonds | 6 |  Darkling Spectres | 7 |
+| Old Wyrms | 4 | Arboreal Menace | 9 | Zensun Vagabonds | 6 |  Darkling Spectres | 7 |
 | TC Sump Runners | 3 |  Carcosan Tatters | 7 |  Orbital Machine | 4 | Ravenous Eagles | 4 |
 | Filthy Tide | 3 | Badger Claws | 6 | Kaiju Dynamo | 3 | Cackling Furies | 2 |
 | Gore Farmers | 3 | Irregular Cogs | 3 | Glorious Hounds | 1 | Eldritch Fatality | 2 |

@@ -1,5 +1,5 @@
 # green cup teams (733.9)
-* [[arborists]]
+* [[arborealmenace]]
 * [[badgerclaws]]
 * [[cacklingfuries]]
 * [[carcosantatters]]
@@ -43,7 +43,7 @@
 | Vanadium Hunters  | Pro  |          19 |           15 |           37 |             71 |  37.47159067789713 |        148 |        171 |           126 |             18 |          1 |
 | TC Sump Runners   | Pro  |          19 |           14 |           39 |             72 |               37.5 |        140 |        178 |           133 |             15 |         -9 |
 | Gargantuan Brutes | Pro  |          10 |           10 |           42 |             62 | 25.208333587646486 |         88 |        177 |           128 |             33 |         -2 |
-| Arborists         | Pro  |           6 |            2 |            8 |             16 |              43.75 |         41 |         51 |            17 |            -15 |         -3 |
+| Arboreal Menace         | Pro  |           6 |            2 |            8 |             16 |              43.75 |         41 |         51 |            17 |            -15 |         -3 |
 | Poets             | Pro  |           1 |            1 |            8 |             10 |                 15 |         11 |         31 |            14 |             -7 |         -1 |
 
 # overall records
@@ -70,7 +70,7 @@
 | Mules             | Open   |          17 |            2 |           10 |             29 |  60.14102478027344 |         45 |         37 |            68 |             36 |          6 |
 | Gladiolas         | Open   |          17 |            3 |            7 |             27 |  64.58333206176758 |         80 |         56 |            30 |            -34 |          5 |
 | Thorns            | Open   |          16 |            2 |            9 |             27 |  69.87179412841797 |         76 |         51 |            37 |             -5 |          4 |
-| Arborists         | Pro    |          16 |            3 |           13 |             32 |  59.32142791748047 |         91 |         79 |            37 |            -21 |          1 |
+| Arboreal Menace         | Pro    |          16 |            3 |           13 |             32 |  59.32142791748047 |         91 |         79 |            37 |            -21 |          1 |
 | Deep Dreamers     | Open   |          10 |            0 |           13 |             23 | 34.424241638183595 |         43 |         49 |            20 |             -9 |          4 |
 | Particulates      | Open   |           9 |            2 |           11 |             22 |             49.375 |         37 |         43 |            27 |            -35 |          2 |
 | Geometers         | Open   |           9 |            2 |           12 |             23 |             45.625 |         30 |         38 |            37 |             18 |          2 |
