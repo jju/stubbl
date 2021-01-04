@@ -10,6 +10,10 @@ This fight didn't need to happen though, and the sound of the yelling sounds mor
 
 But that's the problem. You're doing it again, the thinking you know how it works down here. People scrabbling in the dark for scraps and offcuts. And thinking without looking, without seeing is how you get a knife pressed to your kidney.
 
+> Play it nice and calm->[[ratdreamO]]
+> The best defense is a good offense->[[ratdreamH]]
+> Use your bag of tricks->[[ratdreamR]]
+
 :: ratdreamO
 
 "I'm noncombat," you say. Your hands don't move. It's always important to let them have the power, to surprise no one. "Kayro Jane. Media."
@@ -27,6 +31,8 @@ The flask is removed but the knife stays steady.
 "Can I turn around?" After a couple of moments it's obvious the sounds of the up-close fighting have ended. Mostly just regrouping calls and whistles now. And the knife isn't in your guts. Good job.
 
 It's too bad though. There's no story here. Just a couple of bands of jerks blowing off steam, looking for a useless prize.
+
+[[01-gcvi-00]]
 
 :: ratdreamH
 
@@ -46,6 +52,8 @@ After a couple of moments it's obvious the sounds of the up-close fighting have 
 
 It's too bad though. There's no story here. Just a couple of bands of jerks blowing off steam, looking for a useless prize.
 
+[[01-gcvi-00]]
+
 :: ratdreamR
 
 "Do you know who I am?" you ask. Your hands waggle. It's always important to keep the people with the weapons thinking about too many things at once when you're lying to them. "Kayro Jane. I'm friends with your boss."
@@ -64,4 +72,4 @@ After a couple of moments the sounds of fighting start up some ways down the pip
 
 It's too bad though. There's no story here. Just a couple of bands of jerks blowing off steam, looking for a useless prize.
 
-[[gcvi]]
+[[01-gcvi-00]]
