@@ -32,7 +32,7 @@ The flask is removed but the knife stays steady.
 
 It's too bad though. There's no story here. Just a couple of bands of jerks blowing off steam, looking for a useless prize.
 
-[[01-gcvi-00]]
+[[01-gcvi-00-intro]]
 
 :: ratdreamH
 
@@ -52,7 +52,7 @@ After a couple of moments it's obvious the sounds of the up-close fighting have 
 
 It's too bad though. There's no story here. Just a couple of bands of jerks blowing off steam, looking for a useless prize.
 
-[[01-gcvi-00]]
+[[01-gcvi-00-intro]]
 
 :: ratdreamR
 
@@ -72,4 +72,4 @@ After a couple of moments the sounds of fighting start up some ways down the pip
 
 It's too bad though. There's no story here. Just a couple of bands of jerks blowing off steam, looking for a useless prize.
 
-[[01-gcvi-00]]
+[[01-gcvi-00-intro]]
