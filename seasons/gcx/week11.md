@@ -7,18 +7,18 @@
 * Gore Farmers - Zensun Vagabonds
 * Cackling Furies - Orbital Machine
 * Irregular Cogs - Ravenous Eagles
-* Carcosan Tatters - Arborists
+* Carcosan Tatters - Arboreal Menace
 
 
 ## matches to watch
 
-We get to see the new-look offense of the Glorious Hounds right off the bat in a battle of last-place teams trying to make the playoffs. The Arborists need to pull the division back into reach, but have a hard row to hoe against the Tatters.
+We get to see the new-look offense of the Glorious Hounds right off the bat in a battle of last-place teams trying to make the playoffs. The Arboreal Menace need to pull the division back into reach, but have a hard row to hoe against the Tatters.
 
 ## recap
 
 The Fatality got their win and kept Ziba from affecting the outcome too badly, so the Hounds are quite disappointed, and have given their Heaps competitors breathing room to expand their leads. EF 5 - GH 3 (EF) 725.2
 
-The Arborists got their win, keeping the Outlands tight and by far the best division in the tournament. CT 1 - AR 2 (Even) 725.3
+The Arboreal Menace got their win, keeping the Outlands tight and by far the best division in the tournament. CT 1 - AR 2 (Even) 725.3
 
 Another first vs last place battle, but this one was won by the favourite. OW - SR (OW+) 725.4
 
@@ -38,6 +38,6 @@ The Cogs gave up a match they could have had, but not because of lacklustre play
 |-------|-----|--|--|------|------|--|--|
 | Old Wyrms | 18 | Carcosan Tatters | 20 | Zensun Vagabonds | 23 | Ravenous Eagles | 17 |
 | Gore Farmers | 16 | Irregular Cogs | 19 | Kaiju Dynamo | 17 | Darkling Spectres | 16 |
-| Filthy Tide | 12 | Arborists | 14 | Orbital Machine | 15 | Cackling Furies | 15 |
+| Filthy Tide | 12 | Arboreal Menace | 14 | Orbital Machine | 15 | Cackling Furies | 15 |
 | TC Sump Runners | 11 | Badger Claws | 13 |  Glorious Hounds | 12 | Eldritch Fatality | 11 |
 

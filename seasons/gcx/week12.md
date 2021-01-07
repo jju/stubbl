@@ -3,7 +3,7 @@
 * TC Sump Runners - Eldritch Fatality
 * Filthy Tide - Glorious Hounds
 * Badger Claws - Irregular Cogs
-* Arborists - Cackling Furies
+* Arboreal Menace - Cackling Furies
 * Orbital Machine - Gore Farmers
 * Darkling Spectres - Carcosan Tatters
 * Zensun Vagabonds - Kaiju Dynamo
@@ -23,7 +23,7 @@ The Tide never got Venus going properly in this match. She ended up with two TDs
 
 Venus was ecstatic to watch her main rival for the Sardines prize have a scoreless match, and the Cogs made it that much harder for either of the Outlands lower-ranked teams to be able to un crab bucket themselves. BC 0 - IC 4 (BC)
 
-The Furies tore into the heavily-favoured Arborists and claimed first place in the Pits (at least for the moment) AR 1 - CF 5 (AR+)
+The Furies tore into the heavily-favoured Arboreal Menace and claimed first place in the Pits (at least for the moment) AR 1 - CF 5 (AR+)
 
 A gruelling smasher left the Gore Farmers without a point again. This opens the door for the Wyrms to take a real lead in the Stacks. OM 1 - GF 0 (GF)
 
@@ -39,6 +39,6 @@ The Dynamo are really stepping into their spoiler role with a pivotal divisional
 |-------|-----|--|--|------|------|--|--|
 | Old Wyrms | 19 | Carcosan Tatters | 23 | Zensun Vagabonds | 23 | Cackling Furies | 18 |
 | Gore Farmers | 16 | Irregular Cogs | 22 | Kaiju Dynamo | 20 | Ravenous Eagles | 18 |
-| Filthy Tide | 12 | Arborists | 14 | Orbital Machine | 18 | Darkling Spectres | 16 |
+| Filthy Tide | 12 | Arboreal Menace | 14 | Orbital Machine | 18 | Darkling Spectres | 16 |
 | TC Sump Runners | 11 | Badger Claws | 13 |  Glorious Hounds | 15 | Eldritch Fatality | 14 |
 

@@ -6,12 +6,12 @@
 * TC Sump Runners - Gore Farmers  
 * Glorious Hounds - Kaiju Dynamo
 * Zensun Vagabonds - Darkling Spectres
-* Orbital Machine - Arborists
+* Orbital Machine - Arboreal Menace
 * Ravenous Eagles - Cackling Furies
 
 ## matches to watch
 
-This week is one that has a lot of good storylines. The Arborists try to regroup and win against bashing after a couple of speedy opponents. The Filthy Tide and the Old Wyrms have an important divisional match that could keep everything knotted up or really open up the Stacks. The Cogs and the Fatality are both in their divisional basements and now have to claw at each other using the same playbook. And the Vagabonds-Spectres match might be an interesting case of under-regarded second-place teams having an exciting match.
+This week is one that has a lot of good storylines. The Arboreal Menace try to regroup and win against bashing after a couple of speedy opponents. The Filthy Tide and the Old Wyrms have an important divisional match that could keep everything knotted up or really open up the Stacks. The Cogs and the Fatality are both in their divisional basements and now have to claw at each other using the same playbook. And the Vagabonds-Spectres match might be an interesting case of under-regarded second-place teams having an exciting match.
 
 ## recap
 
@@ -27,7 +27,7 @@ Sabah, star of the Dynamo, the lynchpin of their offense, was taken out by a bli
 
 The Spectres and Vagabonds traded TDs throughout and it came down to a matter of possession timing that put the Vagabonds on top in one of their best matches in recent memory. The Vagabonds are having their best offensive season ever with a TD/GP rate over pi. ZV 5 - DS 4 
 
-A win for either would have put them on top of their divisions, but the draw leaves them in the middle of the fray. It looks like the Arborists do better against bashing teams so far.  OM 2 - AR 2
+A win for either would have put them on top of their divisions, but the draw leaves them in the middle of the fray. It looks like the Arboreal Menace do better against bashing teams so far.  OM 2 - AR 2
 
 The fight for first in the Pits was won in the first half when the Eagles' defense swallowed up the Furies attack. After that it was mostly just a case of defending until Humbert could make a timely endzone run. (There were a few palpitations before that, but we always gloss over a bit.) RE 2 - CF 1
 
@@ -36,7 +36,7 @@ The fight for first in the Pits was won in the first half when the Eagles' defen
 | Stacks |  | Outlands |  | Heaps |  | Pits |  |
 |-------|-----|--|--|------|------|--|--|
 | Gore Farmers | 12 | Carcosan Tatters | 13 | Zensun Vagabonds | 11 | Ravenous Eagles | 10 |
-| Old Wyrms | 9 | Arborists | 10 |  Kaiju Dynamo | 10 | Darkling Spectres | 7 |
+| Old Wyrms | 9 | Arboreal Menace | 10 |  Kaiju Dynamo | 10 | Darkling Spectres | 7 |
 | TC Sump Runners | 6 | Badger Claws | 9 | Orbital Machine | 9 | Cackling Furies | 6 |
 | Filthy Tide | 3 | Irregular Cogs | 9 | Glorious Hounds | 5 | Eldritch Fatality | 5 |
 

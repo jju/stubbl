@@ -1,7 +1,7 @@
 # schedule
 
 * TC Sump Runners - Zensun Vagabonds
-* Eldritch Fatality - Arborists
+* Eldritch Fatality - Arboreal Menace
 * Filthy Tide - Gore Farmers
 * Glorious Hounds - Orbital Machine
 * Old Wyrms - Darkling Spectres
@@ -14,7 +14,7 @@
 
 The Sump Runners require a win against the Vagabonds, who have been slipping. If they get that win, then the Tide will require a win to make the playoffs, but if the Sump Runners lose they're out.
 
-If the Fatality lose to the Arborists (likely) and the Spectres beat the Wyrms (unlikely) the Fatality season is over. A Fatality win keeps the Pits in play to week 16.
+If the Fatality lose to the Arboreal Menace (likely) and the Spectres beat the Wyrms (unlikely) the Fatality season is over. A Fatality win keeps the Pits in play to week 16.
 
 A Filthy Tide win in Week 14 or 15 secures their playoff berth, but they would love to move up to second place in the Stacks with a win against the Gore Farmers.
 
@@ -22,7 +22,7 @@ The Hounds are the furthest out from a playoff spot, but they have a head-to-hea
 
 The Old Wyrms practically have their first-round bye sewn up, and facing the relatively weak (but surprising) Spectres this week gives them a chance for a developmental match.
 
-The Badger Claws need a win this week (and more if the Arborists get points) to make the playoffs.
+The Badger Claws need a win this week (and more if the Arboreal Menace get points) to make the playoffs.
 
 The Dynamo could miss the playoffs if they lose and the Hounds win this week and next. A win or draw secures their postseason berth.
 
@@ -32,7 +32,7 @@ The Cogs and Tatters is a fight for first-place overall and for that Outlands by
 
 The Vagabonds played a good effective game putting them back in first place overall (at least for the moment) while the Sump Runners' season is effectively over. The question for them is now how to replace Selma and how effective they can hope to be in the upcoming UBBL Challenge IV. SR 0 - ZV 3
 
-The Arborists put the screws to the Fatality though a surge through the second half almost put a draw within reach. The win also puts pressure on the Badger Claws to win if they want to see the postseason. EF 2 - AR 3
+The Arboreal Menace put the screws to the Fatality though a surge through the second half almost put a draw within reach. The win also puts pressure on the Badger Claws to win if they want to see the postseason. EF 2 - AR 3
 
 The Machine pulled off a dramatic last-second draw, eliminating the Glorious Hounds from playoff contention. GH 3 - OM 3
 
@@ -50,5 +50,5 @@ With the Tide's playoff spot guaranteed already it might have been smarter to si
 |-------|-----|--|--|------|------|--|--|
 | Old Wyrms | 23 | Irregular Cogs | 26 | Zensun Vagabonds | 26 | Cackling Furies | 21 |
 | Filthy Tide | 18 | Carcosan Tatters | 24 | Kaiju Dynamo | 24 | Ravenous Eagles | 19 |
-| Gore Farmers | 16 | Arborists | 20 | Orbital Machine | 22 | Darkling Spectres | 17 |
+| Gore Farmers | 16 | Arboreal Menace | 20 | Orbital Machine | 22 | Darkling Spectres | 17 |
 | TC Sump Runners | 11 | Badger Claws | 19 |  Glorious Hounds | 16 | Eldritch Fatality | 14 |

@@ -3,7 +3,7 @@
 * Filthy Tide - Kaiju Dynamo
 * Badger Claws - Zensun Vagabonds
 * Ravenous Eagles -	Orbital Machine
-* TC Sump Runners -	Arborists
+* TC Sump Runners -	Arboreal Menace
 * Glorious Hounds -	Darkling Spectres
 * Eldritch Fatality - Carcosan Tatters
 * Old Wyrms -	Cackling Furies
@@ -11,7 +11,7 @@
 
 ## matches to watch
 
-The Sump Runners vs the Arborists is an immediate rematch of the UBBL Challenge III title bout. The Arborists drubbed the Runners last time and the Runners don't have a good replacement lineup ready.
+The Sump Runners vs the Arboreal Menace is an immediate rematch of the UBBL Challenge III title bout. The Arboreal Menace drubbed the Runners last time and the Runners don't have a good replacement lineup ready.
 
 We'll also be interested in the Filthy Tide vs Kaiju Dynamo to see if Venus can be the player she was groomed for and if Sabah still has enough left in the tank to lead this Dynamo team.
 
@@ -37,7 +37,7 @@ The Wyrms didn't start the way they hope to end, but who is? OW 3 - CF 3
 
 | Stacks |  | Outlands |  | Heaps |  | Pits |  |
 |-------|-----|--|--|------|------|--|--|
-| Filthy Tide | 3 | Arborists | 3 | Glorious Hounds | 1 | Eldritch Fatality | 1 |
+| Filthy Tide | 3 | Arboreal Menace | 3 | Glorious Hounds | 1 | Eldritch Fatality | 1 |
 | Old Wyrms | 1 | Badger Claws | 3 | Orbital Machine | 1 | Ravenous Eagles | 1 |
 | Gore Farmers | 0 | Irregular Cogs | 3 | Kaiju Dynamo | 0 | Cackling Furies | 1 |
 | TC Sump Runners | 0 | Carcosan Tatters | 1 | Zensun Vagabonds | 0 | Darkling Spectres | 1 |

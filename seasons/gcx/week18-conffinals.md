@@ -23,4 +23,4 @@ It was a harrowing first half for Vagabond fans, but when Padma finally scored a
 | Old Wyrms | 35 | *Irregular Cogs* | 32 | *Zensun Vagabonds* | 35 | Ravenous Eagles | 28 |
 | *Filthy Tide* | 21 | *Badger Claws* | 28 | *Kaiju Dynamo* | 27 | *Cackling Furies* | 25 |
 | *Gore Farmers* | 20 | *Carcosan Tatters* | 27 | *Orbital Machine* | 25 | *Darkling Spectres* | 17 |
-| *TC Sump Runners* | 11 | *Arborists* | 20 |  *Glorious Hounds* | 16 | *Eldritch Fatality* | 14 |
+| *TC Sump Runners* | 11 | *Arboreal Menace* | 20 |  *Glorious Hounds* | 16 | *Eldritch Fatality* | 14 |

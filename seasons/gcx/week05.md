@@ -4,7 +4,7 @@
 * Badger Claws - Eldritch Fatality 
 * Filthy Tide - TC Sump Runners
 * Darkling Spectres - Gore Farmers  
-* Arborists - Kaiju Dynamo
+* Arboreal Menace - Kaiju Dynamo
 * Zensun Vagabonds - Old Wyrms
 * Orbital Machine  - Irregular Cogs
 * Ravenous Eagles - Glorious Hounds
@@ -19,7 +19,7 @@ While the Tide are happy with the continuing development of Venus, this intradiv
 
 A burner of barns that hasn't settled the early stage of the Sardines Award between Atte and Aeson (though Sabah has been put on notice for Week 5), but did get the Fatality a much needed win to cycle from the basement of the standings (a place they are not accustomed to). BC 4 - EF 5
 
-Sabah didn't make any gains in the Sardines chase, but they did manage to hand the Arborists their second loss in a row (which hasn't happened since the first UBBL Challenge) AR 3 - KD 4
+Sabah didn't make any gains in the Sardines chase, but they did manage to hand the Arboreal Menace their second loss in a row (which hasn't happened since the first UBBL Challenge) AR 3 - KD 4
 
 The Hounds finally got into the Win column. RE 1 - GH 2
 
@@ -38,7 +38,7 @@ Player of the Week Atte with 12 SPP
 | Stacks |  | Outlands |  | Heaps |  | Pits |  |
 |-------|-----|--|--|------|------|--|--|
 | Gore Farmers | 9 | Carcosan Tatters | 10 | Orbital Machine | 8 | Ravenous Eagles | 7 |
-| Old Wyrms | 6 | Arborists | 9 | Zensun Vagabonds | 8 | Darkling Spectres | 7 |
+| Old Wyrms | 6 | Arboreal Menace | 9 | Zensun Vagabonds | 8 | Darkling Spectres | 7 |
 | TC Sump Runners | 6 | Badger Claws | 9 | Kaiju Dynamo | 7 | Cackling Furies | 6 |
 | Filthy Tide | 3 | Irregular Cogs | 6 | Glorious Hounds | 5 | Eldritch Fatality | 5 |
 

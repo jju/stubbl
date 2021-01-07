@@ -18,11 +18,11 @@ Sadly for lovers of pure competition, Spleen Hucker was also one of the first to
 
 ### Pro Level Record (W-D-L)
 
-41-15-44
+47-17-53
 
 ### UBBL Record (W-D-L)
 
-46-20-49
+52-22-58
 
 ### Prizes
 
@@ -55,47 +55,48 @@ Sadly for lovers of pure competition, Spleen Hucker was also one of the first to
 |---------------|--------------|-------------------|------|------|------|------|------|------|------|------|------|------|------|------|
 | KneeMasher   | Gore Farmers | Blitzer           |   26 |    7 |   19 |   52 |   31 |   10 |    8 |    5 |    0 |    0 |    2 |  139 |
 | *AxeEater* | Gore Farmers | Blitzer | ?? | ?? | ?? | 50 | 24 | 2 | 0 | 12 | 3 | 0 | 2 | 114 |
+| **SkyTripper**    | Gore Farmers | Thrower           |   23 |    5 |   26 |   54 |    4 |   56 |    1 |    0 |    0 |    0 |    4 |   90 |
 | *GutTwister* | Gore Farmers | Thrower | ?? | ?? | ?? | 53 | 13 | 18 | 0 | 4 | 0 | 0 | 4 | 85 |
+| **Mashee**        | Gore Farmers | Goblin            |   27 |    5 |   28 |   60 |   20 |    1 |    3 |    0 |    0 |    0 |    3 |   82 |
 | *SpleenHucker* | Gore Farmers | Thrower | ?? | ?? | ?? | 45 | 11 | 23 | 0 | 1 | 1 | 0 | 4 | 80 |
-| **Mashee**       | Gore Farmers | Catcher            |   23 |    3 |   20 |   46 |   18 |    1 |    2 |    0 |    0 |    0 |    3 |   74 |
+| **Aemulus**       | Gore Farmers | Blitzer           |    7 |    6 |   13 |   26 |   16 |    6 |    2 |    2 |    0 |    0 |    3 |   77 |
 | KnuckleBiter | Gore Farmers | Thrower           |   15 |    5 |   15 |   35 |    5 |   45 |    1 |    1 |    0 |    0 |    1 |   69 |
-| **SkyTripper**   | Gore Farmers | Thrower           |   18 |    3 |   18 |   39 |    4 |   41 |    0 |    0 |    0 |    0 |    3 |   68 |
-| **GrimThrasher**  | Gore Farmers | Blocker |   28 |    6 |   25 |   59 |    0 |    0 |    0 |    5 |    9 |    3 |    5 |   59 |
-| TallHexer    | Gore Farmers | Blocker |   27 |    6 |   22 |   55 |    1 |    0 |    0 |    5 |    0 |    0 |    8 |   53 |
+| **Nuru**          | Gore Farmers | Goblin            |   13 |    4 |   16 |   33 |   15 |    1 |    0 |    0 |    0 |    0 |    4 |   66 |
+| **RockLobber**    | Gore Farmers | Black Orc Blocker |   23 |    5 |   30 |   58 |    0 |    0 |    1 |   12 |    5 |    1 |    5 |   63 |
+| GrimThrasher | Gore Farmers | Black Orc Blocker |   28 |    6 |   25 |   59 |    0 |    0 |    0 |    5 |    9 |    3 |    5 |   59 |
+| **Ros**           | Gore Farmers | Thrower           |    7 |    3 |   11 |   21 |    2 |   33 |    0 |    1 |    0 |    1 |    2 |   53 |
+| TallHexer    | Gore Farmers | Black Orc Blocker |   27 |    6 |   22 |   55 |    1 |    0 |    0 |    5 |    0 |    0 |    8 |   53 |
 | StoneLicker  | Gore Farmers | Blitzer           |   17 |    4 |   16 |   37 |    6 |    0 |    0 |   12 |    5 |    0 |    0 |   52 |
-| **Belenus**       | Gore Farmers | Blocker |   13 |    2 |    7 |   22 |    0 |    0 |    0 |    4 |    2 |    0 |    7 |   47 |
-| ToothGrinder | Gore Farmers | Blitzer           |   19 |    5 |   16 |   40 |    7 |    0 |    0 |    3 |    3 |    1 |    2 |   45 |
-| **RockLobber**    | Gore Farmers | Blocker |   17 |    3 |   21 |   41 |    0 |    0 |    1 |    6 |    3 |    1 |    4 |   42 |
-| Fang         | Gore Farmers | Blitzer           |    9 |    6 |    8 |   23 |    5 |    1 |    0 |    3 |    3 |    3 |    1 |   39 |
+
 
 That the Gore Farmers have won two modern-era Green Cups with only one legitimate superstar (who is now retired - [[KneeMasher]]) is an impressive testament to the power of a solid line and the traditional caging methods of play. [[GutTwister]] retired after GCVI as a veteran of the old-era UBBL. He says he was glad to get a ring, but felt sidelined despite his abilities.
 
 #### Cup Winners
 
-KneeMasher VI, VIII
-BeardPuller VI, VIII
-GrimThrasher VI, VIII
-ToothGrinder VI, VIII
-TallHexer VI, VIII
-SpaceFiller VI, VIII
-GutTwister VI
-KnuckleBiter VI
-Mashee VI
-StoneLicker VI
-RibCracker VI
-TuskOfGruumsh VI
-CakeStomper VI
-HobNailer VI
-JunkKicker VI
-SkyTripper VIII
-RockLobber VIII
-Elric VIII
-Fang VIII
-Belenus VIII
-Nuru VIII
-TinyDancer VIII
-Eulaylia VIII
-Helmuth VIII
+* KneeMasher VI, VIII
+* BeardPuller VI, VIII
+* GrimThrasher VI, VIII
+* ToothGrinder VI, VIII
+* TallHexer VI, VIII
+* SpaceFiller VI, VIII
+* GutTwister VI
+* KnuckleBiter VI
+* Mashee VI
+* StoneLicker VI
+* RibCracker VI
+* TuskOfGruumsh VI
+* CakeStomper VI
+* HobNailer VI
+* JunkKicker VI
+* SkyTripper VIII
+* RockLobber VIII
+* Elric VIII
+* Fang VIII
+* Belenus VIII
+* Nuru VIII
+* TinyDancer VIII
+* Eulaylia VIII
+* Helmuth VIII
 
 ### Tactics
 

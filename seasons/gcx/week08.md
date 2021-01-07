@@ -2,7 +2,7 @@
 
 * Darkling Spectres - Badger Claws
 * Filthy Tide - Orbital Machine
-* Arborists - Zensun Vagabonds
+* Arboreal Menace - Zensun Vagabonds
 * Cackling Furies - TC Sump Runners  
 * Kaiju Dynamo - Eldritch Fatality
 * Irregular Cogs - Old Wyrms
@@ -11,7 +11,7 @@
 
 ## matches to watch
 
-The rivalry match between the Irregular Cogs and the Old Wyrms is probably the most anticipated match of the week, although a lot of people are interested in how the Dynamo will respond to losing Sabah, their legendary offensive star. And the Spectres are taking on Aeson's heavily favoured Badger Claws this week. I'm sure the Claws' medical staff is ready to prevent a repeat of what happened to Sabah. Then there's the issue of whether the Vagabonds can hold onto first overall while the Arborists are hellbent on returning to the win column. (They are now projected to finish first in the Heaps, even if they lose this match for whatever that's worth.)
+The rivalry match between the Irregular Cogs and the Old Wyrms is probably the most anticipated match of the week, although a lot of people are interested in how the Dynamo will respond to losing Sabah, their legendary offensive star. And the Spectres are taking on Aeson's heavily favoured Badger Claws this week. I'm sure the Claws' medical staff is ready to prevent a repeat of what happened to Sabah. Then there's the issue of whether the Vagabonds can hold onto first overall while the Arboreal Menace are hellbent on returning to the win column. (They are now projected to finish first in the Heaps, even if they lose this match for whatever that's worth.)
 
 ## recap
 
@@ -38,5 +38,5 @@ Padma seemed to want to do it all herself in the first half, but a series of mis
 | Gore Farmers | 13 | Carcosan Tatters | 17 | Zensun Vagabonds | 17 | Ravenous Eagles | 11 |
 | Old Wyrms | 12 | Irregular Cogs | 13 | Kaiju Dynamo | 10 | Darkling Spectres | 10 |
 | TC Sump Runners | 10 | Badger Claws | 13 | Glorious Hounds | 9 | Cackling Furies | 9 |
-| Filthy Tide | 6 |  Arborists | 11 | Orbital Machine | 9 | Eldritch Fatality | 8 |
+| Filthy Tide | 6 |  Arboreal Menace | 11 | Orbital Machine | 9 | Eldritch Fatality | 8 |
 

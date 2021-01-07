@@ -14,7 +14,7 @@ The mass elevator carries ebbs around so the blood can flow.
 
 *
 
-The least massive part of the mass elevator is the passenger dock, and that's where you have spent far too long sitting. The waiting room wasn't put together in a fit of optimism. It was created by bureaucrats who knew that anyone coming down from the core wouldn't be spending long in the room, that they wouldn't have anyone of any imprtance waiting to greet them, and that practically nobody from the Stacks would be able to afford to leave. There wasn't a lot of point to making the space comfortable.
+The least massive part of the mass elevator is the passenger dock, and that's where you have spent far too long sitting. The waiting room wasn't put together in a fit of optimism. It was created by bureaucrats who knew that anyone coming down from the core wouldn't be spending long in the room, that they wouldn't have anyone of any importance waiting to greet them, and that practically nobody from the Stacks would be able to afford to leave. There wasn't a lot of point to making the space comfortable.
 
 Though it makes sense, that doesn't make hanging around here avoiding your responsibilities any more pleasant.
 

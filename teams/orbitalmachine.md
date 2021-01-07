@@ -10,11 +10,11 @@ The Orbital Machine uses the Chariot playbook. This involves four massive player
 
 ### Pro Level Record (W-D-L)
 
-32-7-20
+39-11-25
 
 ### UBBL Record (W-D-L)
 
-33-7-22
+40-11-27
 
 ### Prizes
 
@@ -45,17 +45,17 @@ The GCIX season was their first in which they did not lead the league in Casualt
 
 | Player   | Team            | Position      | won  | draw | lost | GP   | TD   | Comp | Ints | BH   | SI   | Ki   | MVP  | SPP  |
 |----------|-----------------|---------------|------|------|------|------|------|------|------|------|------|------|------|------|
-| Heep    | Orbital Machine | Beastman      |   26 |    4 |   12 |   42 |   28 |    5 |    4 |    6 |    1 |    0 |    2 |  121 |
-| **Leppard** | Orbital Machine | Beastman      |   31 |    7 |   20 |   58 |   11 |   16 |    2 |    3 |    2 |    2 |    6 |   97 |
-| Lars    | Orbital Machine | Minotaur      |   18 |    4 |    7 |   29 |    1 |    0 |    2 |   11 |    6 |    1 |    6 |   73 |
-| Ioana   | Orbital Machine | Minotaur      |    9 |    1 |    9 |   19 |    2 |    0 |    2 |    8 |    2 |    2 |    5 |   59 |
-| Priest  | Orbital Machine | Beastman      |   25 |    4 |   10 |   39 |    8 |   24 |    1 |    0 |    0 |    0 |    1 |   55 |
-| Ozzy    | Orbital Machine | Beastman      |   20 |    4 |    9 |   33 |   11 |   11 |    1 |    3 |    1 |    0 |    0 |   54 |
-| **Def**     | Orbital Machine | Beastman      |   26 |    4 |   13 |   43 |    3 |    2 |    2 |    5 |    3 |    1 |    4 |   53 |
-| **Lucio**   | Orbital Machine | Beastman      |   28 |    6 |   17 |   51 |    6 |    5 |    0 |    2 |    1 |    1 |    4 |   51 |
-| **Jothi**    | Orbital Machine | Chaos Warrior |    6 |    3 |    7 |   16 |    3 |    2 |    2 |    3 |    1 |    0 |    4 |   43 |
-| **Mate**     | Orbital Machine | Chaos Warrior |   16 |    3 |   16 |   35 |    1 |    0 |    0 |    5 |    1 |    1 |    5 |   42 |
-| **Bolt**     | Orbital Machine | Chaos Warrior |   26 |    4 |   13 |   43 |    1 |    1 |    0 |    6 |    1 |    4 |    3 |   41 |
+| Heep   | Orbital Machine | Beastman      |   26 |    4 |   12 |   42 |   28 |    5 |    4 |    6 |    1 |    0 |    2 |  121 |
+| **Leppard** | Orbital Machine | Beastman      |   38 |   11 |   25 |   74 |   14 |   26 |    2 |    3 |    4 |    2 |    6 |  120 |
+| Lars   | Orbital Machine | Minotaur      |   18 |    4 |    7 |   29 |    1 |    0 |    2 |   11 |    6 |    1 |    6 |   73 |
+| **Uli**     | Orbital Machine | Minotaur      |   13 |    6 |   11 |   30 |    0 |    0 |    0 |   17 |    5 |    1 |    4 |   66 |
+| **Ruslan**  | Orbital Machine | Beastman      |   13 |    6 |   12 |   31 |    9 |    5 |    1 |    6 |    1 |    0 |    3 |   63 |
+| Ioana  | Orbital Machine | Minotaur      |    9 |    1 |    9 |   19 |    2 |    0 |    2 |    8 |    2 |    2 |    5 |   59 |
+| **Odalric** | Orbital Machine | Chaos Warrior |   14 |    7 |   14 |   35 |    3 |    0 |    0 |    8 |    1 |    1 |    6 |   59 |
+| **Jothi**   | Orbital Machine | Chaos Warrior |   13 |    6 |   12 |   31 |    3 |    2 |    2 |    7 |    1 |    0 |    5 |   56 |
+| Priest | Orbital Machine | Beastman      |   25 |    4 |   10 |   39 |    8 |   24 |    1 |    0 |    0 |    0 |    1 |   55 |
+| Ozzy   | Orbital Machine | Beastman      |   20 |    4 |    9 |   33 |   11 |   11 |    1 |    3 |    1 |    0 |    0 |   54 |
+| Def    | Orbital Machine | Beastman      |   28 |    5 |   13 |   46 |    3 |    2 |    2 |    5 |    3 |    1 |    4 |   53 |
 
 #### Cup Winners
 
