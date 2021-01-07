@@ -1,7 +1,12 @@
-Do no real research. Learn about Bludbol on the fly.
+You know you don't actually have to do this, right? Since the Mass Elevator came in the Spire has been very interested in keeping all of you scrabblers down here fed and happy. Well, maybe not happy, but docile at least. A few troops on the street and loads of Spire-production-value feeds to scroll through and no real need to go out and work the way you used to.
 
+It doesn't take long between telenovelas to figure out that EDS will show all the games in this tournament for what they're calling the sixth green cup. You got a bit confused because these look a lot different from the Upper Colonial League match feeds which are coming down the Spire. Currently, the green cup feeds are all just test patterns, not talking heads.
+
+Whatever.
+
+> Maybe some research wouldn't hurt.->[[01-research]]
 > Watch all the games on EDS.
-> Pick a team and watch their games on EDS.[[01-gcvi-00-teamselect]]
+> Pick a team and just watch their games on EDS.[[01-gcvi-00-teamselect]]
 
 :: watch them all
 
