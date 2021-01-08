@@ -9,7 +9,7 @@ You pull up the list of teams that will be playing in a couple of weeks. There a
 [if $research === 'tactics']
 After spending some time researching, you've got some notes on team playbooks (and styles of play those playbooks recommend).
 [continue]
-[if $research === 'history' || 'statistics']
+[if $research === ('history' || 'statistics')]
 After spending some time researching, you've got some notes on what these teams did the last time there was bludbol down in the Stacks. (The time after the Mass Elevator but before the Interruption is generally being called the old-era UBBL and they played four and a half Green Cups.)
 [continue]
 The teams are arranged in a couple of divisions: the Stacks and the Outlands.
@@ -73,45 +73,18 @@ The Ravenous Eagles' fans are pretty hyped up online, and the Gore Farmers' are 
 [if $research === 'tactics']
 The Ravenous Eagles' fans are pretty hyped up online, and the Gore Farmers' are pretty grouchy about who they're sharing a division with (it sounds like being surrounded by teams that are good at scoring might make life difficult). But whatever.
 [continue]
-[if $research === 'history' || 'statistics']
+[if $research === ('history' || 'statistics')]
 It's probably important to remember that the new teams bearing these names aren't coming back with old-school rosters, just whichever stars could be enticed.
+[continue]
+[if $research === 'none']
+It's hard to care just based on a name so you might as well choose randomly. 
 [continue]
 One thing jumping out at you is the Carcosan Tatters team name. Back before the mass elevator there was a Tatters gang. There must be a connection there, right?
 
 Other than that, assuming those divisions are vaguely spatial, the Outlands teams are probably closer to your cube. 
 
 
-
-So if you're going to be watching and following a team for, geez, 18 MSeconds, what kind of team do you want to spend time with? It's probably important to remember that the new teams bearing these names aren't coming back with old-school rosters, just whichever stars could be enticed.
-
-Apart from the sporting history, one thing jumping out at you is the Carcosan Tatters' team name. Back before the mass elevator there was a Tatters gang. There must be a connection there, right?
-
-Other than that, assuming those divisions are vaguely spatial, the Outlands teams are probably closer to your cube. The Ravenous Eagles' fans are pretty hyped up online, and the Gore Farmers' are pretty grouchy about who they're sharing a division with. But whatever.
-
-[else]
-
-All right. With no knowledge of anything regarding bludbol you can pull up a list of teams that will be playing in a couple of weeks. They're arranged in a couple of divisions: the Stacks and the Outlands.
-
-## Stacks
-
-* Carcosan Tatters
-* Filthy Tide
-* Ravenous Eagles
-* Zensun Vagabonds
-
-## Outlands
-
-* Glorious Hounds
-* Gore Farmers
-* Irregular Cogs
-* Old Wyrms
-
-The first thing jumping out at you is the Carcosan Tatters team name. Back before the mass elevator there was a gang called that. There must be a connection there, right? Are they just mining nostalgia? But the gangland Tatters were full of mutants and creeps. This can't be the same bunch, can it?
-
-Other than that, it's hard to care just based on a name so you might as well choose randomly. Assuming those divisions are vaguely spatial, the Outlands teams are probably closer to your cube.
-
-[continue]
-
+> Don't just follow one team. Watch all the games on EDS.
 > Follow the Carcosan Tatters->[[01-gcvi-01-ct]]
 > Follow the Filthy Tide->[[01-gcvi-01-ft]]
 > Follow the Glorious Hounds->[[01-gcvi-01-gh]]
@@ -120,4 +93,4 @@ Other than that, it's hard to care just based on a name so you might as well cho
 > Follow the Old Wyrms->[[01-gcvi-01-ow]]
 > Follow the Ravenous Eagles->[[01-gcvi-01-re]]
 > Follow the Zensun Vagabonds->[[01-gcvi-01-zv]]
-> Just watch all the games on EDS.
+
