@@ -15,7 +15,7 @@ After spending some time researching, you've got some notes on what these teams 
 The teams are arranged in a couple of divisions: the Stacks and the Outlands.
 
 ## Stacks
-[if $research === 'basic' || 'none']
+[if $research === ('basic' || 'none')]
 * Carcosan Tatters
 * Filthy Tide
 * Ravenous Eagles
@@ -38,6 +38,12 @@ The teams are arranged in a couple of divisions: the Stacks and the Outlands.
 * Filthy Tide - 49% Wins, 2.55 TD/game, 0.73 Casualties/Game
 * Ravenous Eagles - 71% Wins (non-Pro), 1.47 TD/game, 2.53 Casualties/Game
 * Zensun Vagabonds - 39% Wins, 1.98 TD/game, 1.53 Casualties/Game
+[continue]
+[if $research === 'business']
+* Carcosan Tatters - Big budget. Die-hard fans only.
+* Filthy Tide - Low budget. Interested fanbase.
+* Ravenous Eagles - Mid-range budget. Full bandwagon of fans.
+* Zensun Vagabonds - No budget. Die-hard fans only.
 [continue]
 ## Outlands
 [if $research === 'basic']
@@ -64,10 +70,16 @@ The teams are arranged in a couple of divisions: the Stacks and the Outlands.
 * Irregular Cogs - 60% Wins, 2.78 TD/game, 0.87 Casualties/Game, 1 Championship
 * Old Wyrms - 65% Wins, 3.25 TD/game, 0.43 Casualties/Game, 2 Championships
 [continue]
+[if $research === 'business']
+* Glorious Hounds - Mid-range budget. Engaged fanbase.
+* Gore Farmers - Big budget. Die-hard fans only.
+* Irregular Cogs - Low budget. Excited fanbase.
+* Old Wyrms - Mid-range budget. Engaged fanbase.
+[continue]
 [if $research !== 'basic']
 So if you're going to be watching and following a team for, geez, 18 MSeconds, what kind of team do you want to spend time with?
 [continue]
-[if $research === 'basic']
+[if $research === ('basic' || 'business')]
 The Ravenous Eagles' fans are pretty hyped up online, and the Gore Farmers' are pretty grouchy about who they're sharing a division with. But whatever.
 [continue]
 [if $research === 'tactics']
@@ -76,13 +88,15 @@ The Ravenous Eagles' fans are pretty hyped up online, and the Gore Farmers' are 
 [if $research === ('history' || 'statistics')]
 It's probably important to remember that the new teams bearing these names aren't coming back with old-school rosters, just whichever stars could be enticed.
 [continue]
+[if $research === 'business']
+It's hard to say what influence the money question is going to have, but everything you know about the world says that the more money an organization has, the less luck they will need to deal with adversity, while less-flush organizations have a thinner margin.
+[continue]
 [if $research === 'none']
 It's hard to care just based on a name so you might as well choose randomly. 
 [continue]
 One thing jumping out at you is the Carcosan Tatters team name. Back before the mass elevator there was a Tatters gang. There must be a connection there, right?
 
 Other than that, assuming those divisions are vaguely spatial, the Outlands teams are probably closer to your cube. 
-
 
 > Don't just follow one team. Watch all the games on EDS.
 > Follow the Carcosan Tatters->[[01-gcvi-01-ct]]

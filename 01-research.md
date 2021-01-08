@@ -68,3 +68,18 @@ Old-era UBBL stats are hard to find in any great detail. The very basics of what
 [continue]
 > Pick a team to follow.->[[01-gcvi-00-teamselect]]
 > Watch all the games on EDS.
+
+:: researchBusiness
+
+$research: 'business'
+$time: $time+4
+
+--
+
+Old-era UBBL was a very amateurish affair. A little bit of learning online sees the current teams are all being run by former players. There seems to be a bit of money left over from the old-era UBBL and these owners have been trying to entice a few more of their old colleagues to join up on the field.
+
+[unless $time > 570]
+> Do some more research.->[[01-research]]
+[continue]
+> Pick a team to follow.->[[01-gcvi-00-teamselect]]
+> Watch all the games on EDS.
