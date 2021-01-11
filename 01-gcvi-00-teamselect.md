@@ -46,7 +46,7 @@ The teams are arranged in a couple of divisions: the Stacks and the Outlands.
 * Zensun Vagabonds - No budget. Die-hard fans only.
 [continue]
 ## Outlands
-[if $research === 'basic']
+[if $research === ('basic' || 'none')]
 * Glorious Hounds
 * Gore Farmers
 * Irregular Cogs
@@ -98,7 +98,7 @@ One thing jumping out at you is the Carcosan Tatters team name. Back before the 
 
 Other than that, assuming those divisions are vaguely spatial, the Outlands teams are probably closer to your cube. 
 
-> Don't just follow one team. Watch all the games on EDS.
+> Don't just follow one team. Watch all the games on EDS.->[[01-gcvi-01-burger]]
 > Follow the Carcosan Tatters->[[01-gcvi-01-ct]]
 > Follow the Filthy Tide->[[01-gcvi-01-ft]]
 > Follow the Glorious Hounds->[[01-gcvi-01-gh]]
