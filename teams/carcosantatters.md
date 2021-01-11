@@ -47,19 +47,19 @@ The Tatters have always been a very good team. Defensive-minded without really f
 
 | Player             | Team             | Position        | won  | draw | lost | GP   | TD   | Cp | Int | BH   | SI   | Ki   | MVP  | SPP  |
 |--------------------|------------------|-----------------|------|------|------|------|------|-------------|---------------|------|------|------|------|------|
-| *BSEncef* | Carcosan Tatters | Pestigor        |   ?? |   ?? |   ?? |   49 |   23 |           31 |             2 |    1 |    0 |    0 |    3 |   121 |
-| Gention           | Carcosan Tatters | Pestigor        |   32 |    6 |   19 |   57 |   10 |    4 |    0 |   16 |    8 |    2 |    7 |  121 |
-| *Scrapie* | Carcosan Tatters | Pestigor | ?? | ?? | ?? | 49 | 18 | 0 | 1 | 10 | 4 | 3 | 4 | 110 |
-| **Sparrow**            | Carcosan Tatters | Pestigor        |   16 |    6 |   10 |   32 |   23 |    2 |    1 |    2 |    2 |    1 |    3 |   98 |
-| **Orna**               | Carcosan Tatters | Pestigor        |   34 |    7 |   23 |   64 |   19 |    4 |    0 |    5 |    3 |    0 |    4 |   97 |
-| **Pierre**             | Carcosan Tatters | Beast of Nurgle |   29 |    4 |   26 |   59 |    0 |    0 |    0 |   16 |    8 |    2 |    6 |   82 |
-| **Tycho**             | Carcosan Tatters | Rotter          |   26 |    6 |   13 |   45 |    4 |   33 |    2 |    1 |    1 |    0 |    3 |   68 |
-| **Marley**             | Carcosan Tatters | Pestigor        |   19 |    4 |   11 |   34 |    9 |    3 |    1 |    5 |    1 |    1 |    3 |   61 |
-| MaskedPain        | Carcosan Tatters | Pestigor        |   18 |    1 |   17 |   36 |   11 |    3 |    0 |    4 |    0 |    0 |    3 |   59 |
-| **Arya**               | Carcosan Tatters | Pestigor        |   11 |    4 |   10 |   25 |   12 |    1 |    0 |    2 |    0 |    0 |    3 |   56 |
-| LastForsakenVenom | Carcosan Tatters | Nurgle Warrior  |   20 |    1 |   21 |   42 |    0 |    0 |    0 |    3 |    4 |    1 |    7 |   51 |
-| RavenousOblivion  | Carcosan Tatters | Nurgle Warrior  |   34 |    5 |   26 |   65 |    0 |    0 |    0 |    8 |    2 |    1 |    5 |   47 |
-| **OreSmitingMaster**   | Carcosan Tatters | Nurgle Warrior  |   31 |    6 |   18 |   55 |    0 |    0 |    1 |    8 |    2 |    0 |    4 |   42 |
+| *BSEncef* | Carcosan Tatters | Blitzer        |   ?? |   ?? |   ?? |   49 |   23 |           31 |             2 |    1 |    0 |    0 |    3 |   121 |
+| Gention           | Carcosan Tatters | Blitzer        |   32 |    6 |   19 |   57 |   10 |    4 |    0 |   16 |    8 |    2 |    7 |  121 |
+| *Scrapie* | Carcosan Tatters | Blitzer | ?? | ?? | ?? | 49 | 18 | 0 | 1 | 10 | 4 | 3 | 4 | 110 |
+| **Sparrow**            | Carcosan Tatters | Blitzer        |   16 |    6 |   10 |   32 |   23 |    2 |    1 |    2 |    2 |    1 |    3 |   98 |
+| **Orna**               | Carcosan Tatters | Blitzer        |   34 |    7 |   23 |   64 |   19 |    4 |    0 |    5 |    3 |    0 |    4 |   97 |
+| **Pierre**             | Carcosan Tatters | Big Guy |   29 |    4 |   26 |   59 |    0 |    0 |    0 |   16 |    8 |    2 |    6 |   82 |
+| **Tycho**             | Carcosan Tatters | Line          |   26 |    6 |   13 |   45 |    4 |   33 |    2 |    1 |    1 |    0 |    3 |   68 |
+| **Marley**             | Carcosan Tatters | Blitzer        |   19 |    4 |   11 |   34 |    9 |    3 |    1 |    5 |    1 |    1 |    3 |   61 |
+| MaskedPain        | Carcosan Tatters | Blitzer        |   18 |    1 |   17 |   36 |   11 |    3 |    0 |    4 |    0 |    0 |    3 |   59 |
+| **Arya**               | Carcosan Tatters | Blitzer        |   11 |    4 |   10 |   25 |   12 |    1 |    0 |    2 |    0 |    0 |    3 |   56 |
+| LastForsakenVenom | Carcosan Tatters | Blocker  |   20 |    1 |   21 |   42 |    0 |    0 |    0 |    3 |    4 |    1 |    7 |   51 |
+| RavenousOblivion  | Carcosan Tatters | Blocker  |   34 |    5 |   26 |   65 |    0 |    0 |    0 |    8 |    2 |    1 |    5 |   47 |
+| **OreSmitingMaster**   | Carcosan Tatters | Blocker  |   31 |    6 |   18 |   55 |    0 |    0 |    1 |    8 |    2 |    0 |    4 |   42 |
 
 
 The Tatters thrive on teamwork and defense, neither of which lends itself well to big flashy stars taking over a match. Back in the Old-Era BSEncef (now the team's manager) was a big flashy star, but he hasn't tried to develop that kind of mindset in the current players. Gention has been holding things down as the best player for the last couple of tournaments (since the awful GCVII campaign in which there was a major redevelopment), but Sparrow will soon be taking her place and may emerge as the next superstar.

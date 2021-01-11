@@ -1,4 +1,4 @@
-[[carcosantatters]][[oe-veteran]]
+[[carcosantatters]][[oe-veteran]][[gcvi]][[blocker]]
 
 Birthdate: 1261.654
 

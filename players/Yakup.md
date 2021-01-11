@@ -1,4 +1,4 @@
-[[filthytide]][[mvp]][[bestsinglematch]][[sardinecrown]][[halflegaward]][[centurion]]
+[[filthytide]][[mvp]][[bestsinglematch]][[sardinecrown]][[halflegaward]][[centurion]][[gcvi]][[catcher]][[runner]]
 
 Upon his retirement at the end of GCVIII Yakup had amassed 227 SPP with 178 SPP in Green Cup seasons VI-VIII. His final line score for Green Cup matches reads 55 TDs (+13 in the Open Division), 1 Completion, 0 Interceptions, 1 Casualty (0-1-0) and 2 MVP awards (+2 in the Open Division). The TD and SPP records were not, perhaps, unbreakable but they are pretty legendary.
 
