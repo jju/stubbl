@@ -6,9 +6,9 @@ $time: 570.6
 
 --
 
-So you settle into the EDS to watch the Tatters play some bludbol. Their first match is against the Ravenous Eagles.
+So you settle into the EDS to watch the {$followingTeam} play some bludbol. Their first match is against the Zensun Vagabonds.
 
-The game is actually a lot slower than you expected, and it's really hard to tell exactly what's going on. It looks like the feeds are just security footage from cameras suspended at weird angles over the field. Everything is washed out and blurry or overblown when the players end up just under a light. At some point the roiling mass of players regrouped and you assume there was some sort of scoring that happened, but without any explanation on the screen and barely any sound, the whole thing was weirdly unsatisfying.
+The game is faster than you expected, and it's really hard to tell exactly what's going on. It looks like the feeds are just security footage from cameras suspended at weird angles over the field. Everything is washed out and blurry or overblown when the players end up just under a light. The team in the washed out orange and blue you figured out were the Tide players and you also figured out pretty quickly that they  and you assume there was some sort of scoring that happened, but without any explanation on the screen and barely any sound, the whole thing was weirdly unsatisfying.
 
 Apparently the Carcosan Tatters won 1-0, though you had to look it up on the message boards afterwards. 
 
@@ -48,7 +48,7 @@ What now?
 
 > Keep watching the Tatters on the EDS.->[[01-gcvi-08-ct]]
 > Choose a different team to follow.->[[01-gcvi-08-teamselect]]
-> Watch one of these new teams.->[[02-gcc6-00]]
+> Watch one of these new teams.->[[02-gcc6-00-teamselect]]
 
 
 :: 01-gcvi-08-ct
@@ -74,12 +74,10 @@ The Tatters started off the second half with a 3-0 loss to the Irregular Cogs th
 
 | Stacks | Pts | Outlands | Pts |
 |-------|-----|--|--|
-| Old Wyrms | 29 | Carcosan Tatters | 27 |
-| Glorious Hounds | 21 | Zensun Vagabonds |  |
-| Gore Farmers | 20 | Filthy Tide | 25 | 
-| Irregular Cogs | 32 | Ravenous Eagles | 20 |
-
-
+| Gore Farmers | 24 | Carcosan Tatters | 29 |
+| Irregular Cogs | 20 | Filthy Tide | 20 |
+| Old Wyrms | 17 | Zensun Vagabonds | 19 |
+| Glorious Hounds | 13 | Ravenous Eagles | 17 |
 
 At the end of the regular season they had the best W-D-L record in the tournament at 9-1-4. They won the Outlands division and were awarded a 1-0 win against the 4th place Ravenous Eagles for the first round of the playoffs.
 

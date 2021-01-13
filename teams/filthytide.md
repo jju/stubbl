@@ -54,22 +54,22 @@ Their GCIX campaign was devastating to a team of such history. They put their ef
 
 | Player       | Team        | Position      | won  | draw | lost | GP   | TD   | Comp | Ints | BH   | SI   | Ki   | MVP  | SPP  |
 |--------------|-------------|---------------|------|------|------|------|------|------|------|------|------|------|------|------|
-| Yakup           | Filthy Tide | Gutter Runner |   27 |    6 |   20 |   53 |   73 |    1 |    0 |    0 |    1 |    0 |    4 |  242 |
-| Somfuhr         | Filthy Tide | Rat Ogre      |   31 |    9 |   29 |   69 |    0 |    0 |    0 |   42 |   13 |    6 |    6 |  152 |
+| Yakup           | Filthy Tide | Catcher |   27 |    6 |   20 |   53 |   73 |    1 |    0 |    0 |    1 |    0 |    4 |  242 |
+| Somfuhr         | Filthy Tide | Big Guy      |   31 |    9 |   29 |   69 |    0 |    0 |    0 |   42 |   13 |    6 |    6 |  152 |
 | Silas           | Filthy Tide | Thrower       |   33 |    9 |   30 |   72 |    2 |  121 |    2 |    1 |    0 |    0 |    2 |  143 |
-| *Despereaux* | Filthy Tide | Gutter Runner | ?? | ?? | ?? | 43 | 31 | 10 | 1 | 1 | 0 | 0 | 5 | 132 |
-| Mayu            | Filthy Tide | Gutter Runner |   28 |    6 |   21 |   55 |   35 |    3 |    2 |    1 |    0 |    0 |    3 |  129 |
-| **Venus**            | Filthy Tide | Gutter Runner |    7 |    0 |    8 |   15 |   36 |    0 |    0 |    0 |    0 |    0 |    4 |  128 |
-| *Sardines* | Filthy Tide | Gutter Runner | ?? | ?? | ?? | 27 | 39 | 2 | 0 | 0 | 0 | 0 | 1 | 124 |
+| *Despereaux* | Filthy Tide | Catcher | ?? | ?? | ?? | 43 | 31 | 10 | 1 | 1 | 0 | 0 | 5 | 132 |
+| Mayu            | Filthy Tide | Catcher |   28 |    6 |   21 |   55 |   35 |    3 |    2 |    1 |    0 |    0 |    3 |  129 |
+| **Venus**            | Filthy Tide | Catcher |    7 |    0 |    8 |   15 |   36 |    0 |    0 |    0 |    0 |    0 |    4 |  128 |
+| *Sardines* | Filthy Tide | Catcher | ?? | ?? | ?? | 27 | 39 | 2 | 0 | 0 | 0 | 0 | 1 | 124 |
 | *Nadaz* | Filthy Tide | Thrower | ?? | ?? | ?? | 55 | 1 | 86 | 1 | 1 | 0 | 0 | 3 | 119 |
 | Madhavi         | Filthy Tide | Blitzer       |   31 |    9 |   27 |   67 |    4 |    2 |    4 |    9 |    5 |    3 |    7 |   91 |
-| *Asmodeus* | Filthy Tide | Gutter Runner | ?? | ?? | ?? | 55 | 19 | 7 | 3 | 1 | 0 | 0 | 3 | 87 |
+| *Asmodeus* | Filthy Tide | Catcher | ?? | ?? | ?? | 55 | 19 | 7 | 3 | 1 | 0 | 0 | 3 | 87 |
 | **Aleksy**           | Filthy Tide | Thrower       |   10 |    3 |   17 |   30 |    2 |   51 |    0 |    1 |    1 |    0 |    4 |   81 |
-| *Nicodemus* | Filthy Tide | Gutter Runner | ?? | ?? | ?? | 55 | 14 | 9 | 2 | 2 | 0 | 0 | 4 | 79 | 
-| **Septimus**         | Filthy Tide | Gutter Runner |   32 |    5 |   41 |   78 |   16 |    7 |    2 |    1 |    0 |    1 |    2 |   73 |
+| *Nicodemus* | Filthy Tide | Catcher | ?? | ?? | ?? | 55 | 14 | 9 | 2 | 2 | 0 | 0 | 4 | 79 | 
+| **Septimus**         | Filthy Tide | Catcher |   32 |    5 |   41 |   78 |   16 |    7 |    2 |    1 |    0 |    1 |    2 |   73 |
 | Fikri           | Filthy Tide | Thrower       |   21 |    5 |   13 |   39 |    4 |   47 |    0 |    2 |    0 |    0 |    2 |   73 |
-| Nicodemus II   | Filthy Tide | Gutter Runner |    6 |    2 |    8 |   16 |   18 |    2 |    0 |    0 |    0 |    0 |    3 |   71 |
-| **Tomer**            | Filthy Tide | Gutter Runner |   13 |    5 |   18 |   36 |   13 |    3 |    1 |    1 |    0 |    0 |    4 |   66 |
+| Nicodemus II   | Filthy Tide | Catcher |    6 |    2 |    8 |   16 |   18 |    2 |    0 |    0 |    0 |    0 |    3 |   71 |
+| **Tomer**            | Filthy Tide | Catcher |   13 |    5 |   18 |   36 |   13 |    3 |    1 |    1 |    0 |    0 |    4 |   66 |
 
 
 Somfuhr inflicted the most casualties of any player in the Pro Division, while for a time [[Yakup]] seemed untouchable in his scoring abilities. That they couldn't convert this dynamic duo into more than a third place finish is heartbreaking. The new hope is [[Venus]], who after one pro season has more SPP than Sardines did.

@@ -1,4 +1,4 @@
-$research: 'basic'
+$bbrules: $bbrules + 0.5
 $time: $time + 1
 
 --
@@ -23,7 +23,8 @@ You can look up a lot of stuff on EDS. What are you focusing on once you get the
 
 :: researchtactics
 
-$research: 'tactics'
+$bbtactics: $bbtactics + 1
+$bbrules: $bbrules + 0.5
 $time: $time+3
 
 --
@@ -42,7 +43,8 @@ There are playbooks based around scoring on the run, long passing, short passing
 
 :: researchhistory
 
-$research: 'history'
+$bbhistory: $bbhistory + 1
+$bbrules: $bbrules + 0.5
 $time: $time+1
 
 --
@@ -56,7 +58,8 @@ The original UBBL (Underground BludBol League) began when the Old Wyrms and Zens
 
 :: researchStatistics
 
-$research: 'statistics'
+$bbstats: $bbstats + 1
+$bbrules: $bbrules + 0.5
 $time: $time+4
 
 --
@@ -71,7 +74,8 @@ Old-era UBBL stats are hard to find in any great detail. The very basics of what
 
 :: researchBusiness
 
-$research: 'business'
+$bbbusiness: $bbbusiness + 1
+$bbrules: $bbrules + 0.5
 $time: $time+4
 
 --
