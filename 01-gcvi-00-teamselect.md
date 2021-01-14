@@ -76,19 +76,15 @@ The teams are arranged in a couple of divisions: the Stacks and the Outlands.
 * Irregular Cogs - Low budget. Excited fanbase.
 * Old Wyrms - Mid-range budget. Engaged fanbase.
 [continue]
-[if $bbrules > 0]
+[if $bbrules]
 So if you're going to be watching and following a team for, geez, 18 MSeconds, what kind of team do you want to spend time with?
 [else]
 It's hard to care just based on a name so you might as well choose randomly. 
 [continue]
-[if ($bbrules > 0)]
-The Ravenous Eagles' fans are pretty hyped up online, and the Gore Farmers' are pretty grouchy about who they're sharing a division with
-{
-[if $bbtactics > 0]
-(it sounds like being surrounded by teams that are good at scoring might make life difficult)
+[if $bbtactics]
+The Ravenous Eagles' fans are pretty hyped up online, and the Gore Farmers' are pretty grouchy about who they're sharing a division with (it sounds like being surrounded by teams that are good at scoring might make life difficult). But whatever.
 [continue]
-}
-. But whatever.
+[if !$bbtactics && $bbrules]
 [continue]
 [if ($bbhistory || $bbstats) > 0]
 It's probably important to remember that the new teams bearing these names aren't coming back with old-school rosters, just whichever stars could be enticed.
