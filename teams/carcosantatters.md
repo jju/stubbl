@@ -18,10 +18,10 @@ The Tatters use the Nergal playbook, some (especially fans of pretty BludBol) sa
 
 ### Prizes
 
-* Green Cup VI - Outlands Champion                      |
 * Green Cup II - Green Cup Champions
 * Green Cup II - Doom Fist
 * Green Cup III - Tough Brake of Alsoran
+* Green Cup VI - Outlands Champion
 
 ## History
 
@@ -52,7 +52,7 @@ The Tatters have always been a very good team. Defensive-minded without really f
 | *Scrapie* | Carcosan Tatters | Blitzer | ?? | ?? | ?? | 49 | 18 | 0 | 1 | 10 | 4 | 3 | 4 | 110 |
 | **Sparrow**            | Carcosan Tatters | Blitzer        |   16 |    6 |   10 |   32 |   23 |    2 |    1 |    2 |    2 |    1 |    3 |   98 |
 | **Orna**               | Carcosan Tatters | Blitzer        |   34 |    7 |   23 |   64 |   19 |    4 |    0 |    5 |    3 |    0 |    4 |   97 |
-| **Pierre**             | Carcosan Tatters | Big Guy |   29 |    4 |   26 |   59 |    0 |    0 |    0 |   16 |    8 |    2 |    6 |   82 |
+| **Pierre**             | Carcosan Tatters | Heavy |   29 |    4 |   26 |   59 |    0 |    0 |    0 |   16 |    8 |    2 |    6 |   82 |
 | **Tycho**             | Carcosan Tatters | Line          |   26 |    6 |   13 |   45 |    4 |   33 |    2 |    1 |    1 |    0 |    3 |   68 |
 | **Marley**             | Carcosan Tatters | Blitzer        |   19 |    4 |   11 |   34 |    9 |    3 |    1 |    5 |    1 |    1 |    3 |   61 |
 | MaskedPain        | Carcosan Tatters | Blitzer        |   18 |    1 |   17 |   36 |   11 |    3 |    0 |    4 |    0 |    0 |    3 |   59 |

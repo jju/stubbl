@@ -19,7 +19,7 @@ It sounds like these are going to be the most interesting players to watch, or a
 * [[MaskedPain]] - rookie Blitzer
 * [[Pierre]] - Big Guy (started late?)
 
-So that was a week of bludbol. What now?
+So that was a week of bludbol. The {$followingTeam} are 1-0-0. What now?
 
 > Keep watching the Tatters on the EDS.->[[01-gcvi-02-ct]]
 > Pick a different team.->[[01-gcvi-02-teamselect]]
@@ -42,9 +42,16 @@ You watch 6 more weeks of terrible video-quality Carcosan Tatters bludbol on the
 
 They beat the Zensun Vagabonds 1-0 in week two, then had a 1-1 draw with the Old Wyrms in week 3. After another 1-0 win against the Filthy Tide, they started to score a bit more and got 2-1 wins against the Irregular Cogs and Glorious Hounds. You just finished watching them beat the Gore Farmers 1-0.
 
+| Stacks | W-D-L | Outlands | W-D-L |
+|-------|-----|--|--|
+| Gore Farmers | 3-3-1 | Carcosan Tatters | 6-1-0 |
+| Irregular Cogs | 6-2-6 | Filthy Tide | 3-1-3 |
+| Old Wyrms | 5-2-7 | Zensun Vagabonds | 5-4-5 |
+| Glorious Hounds | 2-1-4 | Ravenous Eagles | 5-2-7 |
+
 Now there's word that another BludBol league is starting up in Stacksburg. Some of the other old-era teams that had been left out of this tournament are organizing to play for the "real" green cup.
 
-What now?
+The team you're following is 6-1-0. What now?
 
 > Keep watching the Tatters on the EDS.->[[01-gcvi-08-ct]]
 > Choose a different team to follow.->[[01-gcvi-08-teamselect]]
@@ -72,12 +79,12 @@ The Tatters started off the second half with a 3-0 loss to the Irregular Cogs th
 
 ## standings
 
-| Stacks | Pts | Outlands | Pts |
+| Stacks | W-D-L | Outlands | W-D-L |
 |-------|-----|--|--|
-| Gore Farmers | 24 | Carcosan Tatters | 29 |
-| Irregular Cogs | 20 | Filthy Tide | 20 |
-| Old Wyrms | 17 | Zensun Vagabonds | 19 |
-| Glorious Hounds | 13 | Ravenous Eagles | 17 |
+| Gore Farmers | 7-3-4 | Carcosan Tatters | 9-1-4 |
+| Irregular Cogs | 6-2-6 | Filthy Tide | 6-2-6 |
+| Old Wyrms | 5-2-7 | Zensun Vagabonds | 5-4-5 |
+| Glorious Hounds | 3-4-7 | Ravenous Eagles | 5-2-7 |
 
 At the end of the regular season they had the best W-D-L record in the tournament at 9-1-4. They won the Outlands division and were awarded a 1-0 win against the 4th place Ravenous Eagles for the first round of the playoffs.
 

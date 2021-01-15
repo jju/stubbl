@@ -21,7 +21,7 @@ It sounds like these are going to be the most interesting players to watch, or a
 * [[Iapheth]] - Catcher
 * [[Silas]] - Thrower
 
-So that was a week of bludbol. What now?
+So that was a week of bludbol. The {$followingTeam} are 1-0-0. What now?
 
 > Keep watching the Tide on the EDS.->[[01-gcvi-02-ft]]
 > Pick a different team.->[[01-gcvi-02-teamselect]]
@@ -44,9 +44,16 @@ You watch 6 more weeks of terrible video-quality {$followingTeam} bludbol on the
 
 They beat the Glorious Hounds 3-2 in week two and the Ravenous Eagles 4-1, before losing 1-0 to the Carcosan Tatters. They got a 2-2 draw with the Vagabonds and lost 3-2 to the Gore Farmers before losing 3-2 to the Old Wyrms to close out the first half of the season.
 
+| Stacks | W-D-L | Outlands | W-D-L |
+|-------|-----|--|--|
+| Gore Farmers | 3-3-1 | Carcosan Tatters | 6-1-0 |
+| Irregular Cogs | 6-2-6 | Filthy Tide | 3-1-3 |
+| Old Wyrms | 5-2-7 | Zensun Vagabonds | 5-4-5 |
+| Glorious Hounds | 2-1-4 | Ravenous Eagles | 5-2-7 |
+
 Now there's word that another BludBol league is starting up in Stacksburg. Some of the other old-era teams that had been left out of this tournament are organizing to play for the "real" green cup.
 
-What now?
+The team you're following is 3-1-3. What now?
 
 > Keep watching the Tatters on the EDS.->[[01-gcvi-08-ft]]
 > Choose a different team to follow.->[[01-gcvi-08-teamselect]]
@@ -70,17 +77,17 @@ $time: 583.5
 
 And that's the season.
 
-The Tatters started off the second half with a 3-0 loss to the Irregular Cogs then scored the most you'd ever seen with a 3-0 win against the Old Wyrms. A grinding 1-0 loss to the Ravenous Eagles was followed by a 2-1 win against the Glorious Hounds. Then they had a big 4-0 loss to the Zensun Vagabonds, and a 2-1 loss to the Filthy Tide. A 3-0 win against the Gore Farmers finished off the season.
+The {$followingTeam} started off the second half with a 4-3 loss to the Zensun Vagabonds then turned around with a 4-1 win against the Ravenous Eagles. A second win against the Irregular Cogs (this time by a 4-2 score) was followed by a 2-1 loss to the Gore Farmers. They tied the Glorious Hounds 3-3 before beating the Carcosan Tatters 2-1. A 7-5 loss to the Old Wyrms finished off the season.
 
 ## standings
 
-| Stacks | Pts | Outlands | Pts |
+| Stacks | W-D-L | Outlands | W-D-L |
 |-------|-----|--|--|
-| Gore Farmers | 24 | Carcosan Tatters | 29 |
-| Irregular Cogs | 20 | Filthy Tide | 20 |
-| Old Wyrms | 17 | Zensun Vagabonds | 19 |
-| Glorious Hounds | 13 | Ravenous Eagles | 17 |
+| Gore Farmers | 7-3-4 | Carcosan Tatters | 9-1-4 |
+| Irregular Cogs | 6-2-6 | Filthy Tide | 6-2-6 |
+| Old Wyrms | 5-2-7 | Zensun Vagabonds | 5-4-5 |
+| Glorious Hounds | 3-4-7 | Ravenous Eagles | 5-2-7 |
 
-At the end of the regular season they had the best W-D-L record in the tournament at 9-1-4. They won the Outlands division and were awarded a 1-0 win against the 4th place Ravenous Eagles for the first round of the playoffs.
+At the end of the regular season the Filthy Tide had a W-D-L record of 6-2-6, which was good enough for second place in the Outlands Division. They will host the Zensun Vagabonds (a team they have not beaten this season) in the first round of the playoffs.
 
 > Playoff time.->[[01-gcvi-15-playoffs]]

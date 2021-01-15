@@ -72,7 +72,7 @@ Their GCIX campaign was devastating to a team of such history. They put their ef
 | **Tomer**            | Filthy Tide | Catcher |   13 |    5 |   18 |   36 |   13 |    3 |    1 |    1 |    0 |    0 |    4 |   66 |
 
 
-Somfuhr inflicted the most casualties of any player in the Pro Division, while for a time [[Yakup]] seemed untouchable in his scoring abilities. That they couldn't convert this dynamic duo into more than a third place finish is heartbreaking. The new hope is [[Venus]], who after one pro season has more SPP than Sardines did.
+Somfuhr inflicted the most casualties of any player in the Pro Division, while for a time [[Yakup]] seemed untouchable in his scoring abilities. That they couldn't convert this dynamic duo into more than a third place finish is heartbreaking. The new hope is [[Venus]], who after one pro season has more SPP than [[Sardines]] did.
 
 ### Management
 

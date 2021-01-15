@@ -57,15 +57,15 @@ Sadly for lovers of pure competition, Spleen Hucker was also one of the first to
 | *AxeEater* | Gore Farmers | Blitzer | ?? | ?? | ?? | 50 | 24 | 2 | 0 | 12 | 3 | 0 | 2 | 114 |
 | **SkyTripper**    | Gore Farmers | Thrower           |   23 |    5 |   26 |   54 |    4 |   56 |    1 |    0 |    0 |    0 |    4 |   90 |
 | *GutTwister* | Gore Farmers | Thrower | ?? | ?? | ?? | 53 | 13 | 18 | 0 | 4 | 0 | 0 | 4 | 85 |
-| **Mashee**        | Gore Farmers | Goblin            |   27 |    5 |   28 |   60 |   20 |    1 |    3 |    0 |    0 |    0 |    3 |   82 |
+| **Mashee**        | Gore Farmers | Catcher            |   27 |    5 |   28 |   60 |   20 |    1 |    3 |    0 |    0 |    0 |    3 |   82 |
 | *SpleenHucker* | Gore Farmers | Thrower | ?? | ?? | ?? | 45 | 11 | 23 | 0 | 1 | 1 | 0 | 4 | 80 |
 | **Aemulus**       | Gore Farmers | Blitzer           |    7 |    6 |   13 |   26 |   16 |    6 |    2 |    2 |    0 |    0 |    3 |   77 |
 | KnuckleBiter | Gore Farmers | Thrower           |   15 |    5 |   15 |   35 |    5 |   45 |    1 |    1 |    0 |    0 |    1 |   69 |
-| **Nuru**          | Gore Farmers | Goblin            |   13 |    4 |   16 |   33 |   15 |    1 |    0 |    0 |    0 |    0 |    4 |   66 |
-| **RockLobber**    | Gore Farmers | Black Orc Blocker |   23 |    5 |   30 |   58 |    0 |    0 |    1 |   12 |    5 |    1 |    5 |   63 |
-| GrimThrasher | Gore Farmers | Black Orc Blocker |   28 |    6 |   25 |   59 |    0 |    0 |    0 |    5 |    9 |    3 |    5 |   59 |
+| **Nuru**          | Gore Farmers | Catcher            |   13 |    4 |   16 |   33 |   15 |    1 |    0 |    0 |    0 |    0 |    4 |   66 |
+| **RockLobber**    | Gore Farmers | Blocker |   23 |    5 |   30 |   58 |    0 |    0 |    1 |   12 |    5 |    1 |    5 |   63 |
+| GrimThrasher | Gore Farmers | Blocker |   28 |    6 |   25 |   59 |    0 |    0 |    0 |    5 |    9 |    3 |    5 |   59 |
 | **Ros**           | Gore Farmers | Thrower           |    7 |    3 |   11 |   21 |    2 |   33 |    0 |    1 |    0 |    1 |    2 |   53 |
-| TallHexer    | Gore Farmers | Black Orc Blocker |   27 |    6 |   22 |   55 |    1 |    0 |    0 |    5 |    0 |    0 |    8 |   53 |
+| TallHexer    | Gore Farmers | Blocker |   27 |    6 |   22 |   55 |    1 |    0 |    0 |    5 |    0 |    0 |    8 |   53 |
 | StoneLicker  | Gore Farmers | Blitzer           |   17 |    4 |   16 |   37 |    6 |    0 |    0 |   12 |    5 |    0 |    0 |   52 |
 
 
