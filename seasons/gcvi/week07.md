@@ -43,6 +43,7 @@ This is the week [[Yakup]] began to be the player we'd later know.
 | Chandan. | Old Wyrms       |    0 |   26 |   10 |       -2 |       1 |    0 |      3 |     1 |    0 |   12 |
 
 ## rushing
+
 | Player            | Team             | TDs  | Rush | Cp   | PassDist | Caughts | Cas  | Blocks | Sacks | MVPs | SPP  |
 |-------------------|------------------|------|------|------|----------|---------|------|--------|-------|------|------|
 | Dementia. | Carcosan Tatters |    3 |  121 |    0 |        0 |       1 |    3 |     23 |     2 |    0 |   17 |
