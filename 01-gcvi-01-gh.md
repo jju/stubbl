@@ -48,9 +48,9 @@ They lost to the Filthy Tide 3-2 in week two and then achieved a 3-3 draw with t
 | Stacks | W-D-L | Outlands | W-D-L |
 |-------|-----|--|--|
 | Gore Farmers | 3-3-1 | Carcosan Tatters | 6-1-0 |
-| Irregular Cogs | 6-2-6 | Filthy Tide | 3-1-3 |
-| Old Wyrms | 5-2-7 | Zensun Vagabonds | 5-4-5 |
-| Glorious Hounds | 2-1-4 | Ravenous Eagles | 5-2-7 |
+| Irregular Cogs | 2-2-3 | Filthy Tide | 3-1-3 |
+| Old Wyrms | 2-2-3 | Ravenous Eagles | 2-1-4 |
+| Glorious Hounds | 2-1-4 | Zensun Vagabonds | 1-3-3 |
 
 Now there's word that another BludBol league is starting up in Stacksburg. Some of the other old-era teams that had been left out of this tournament are organizing to play for the "real" green cup.
 
@@ -89,6 +89,6 @@ The {$followingTeam} started off the second half with a 2-1 loss to the Gore Far
 | Old Wyrms | 5-2-7 | Zensun Vagabonds | 5-4-5 |
 | Glorious Hounds | 3-4-7 | Ravenous Eagles | 5-2-7 |
 
-At the end of the regular season the Glorious Hounds had a W-D-L record of 3-4-7, which was last in the league. As the last-place team they're awarded a 1-0 loss against the Gore Farmers in the Round of 16, depressing their official record even further.
+At the end of the regular season the Glorious Hounds had a W-D-L record of 3-4-7, which was last in the league. As the last-place team they're awarded a 1-0 loss against the Gore Farmers in the first round of the playoffs, depressing their official record even further.
 
 > Playoff time.->[[01-gcvi-15-playoffs]]

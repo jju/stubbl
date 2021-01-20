@@ -6,11 +6,11 @@ $time: 570.6
 
 --
 
-So you settle into the EDS to watch the {$followingTeam} play some bludbol. Their first match is against the Zensun Vagabonds.
+So you settle into the EDS to watch the {$followingTeam} play some bludbol. Their first match is against the Ravenous Eagles.
 
-The game is faster than you expected, and it's really hard to tell exactly what's going on. It looks like the feeds are just security footage from cameras suspended at weird angles over the field. Everything is washed out and blurry or overblown when the players end up just under a light. The team in the washed out orange and blue you figured out were the Tide players and you also figured out pretty quickly that they  and you assume there was some sort of scoring that happened, but without any explanation on the screen and barely any sound, the whole thing was weirdly unsatisfying.
+The game goes slower than you expected, and it's really hard to tell exactly what's going on. It looks like the feeds are just security footage from cameras suspended at weird angles over the field. Everything is washed out and blurry or overblown when the players end up just under a light. 
 
-Apparently the Carcosan Tatters won 1-0, though you had to look it up on the message boards afterwards. 
+Apparently the {$followingTeam} won 1-0, though you had to look it up on the message boards afterwards. 
 
 It sounds like these are going to be the most interesting players to watch, or at least the ones the message-boarders are most excited about.
 
@@ -45,9 +45,9 @@ They beat the Zensun Vagabonds 1-0 in week two, then had a 1-1 draw with the Old
 | Stacks | W-D-L | Outlands | W-D-L |
 |-------|-----|--|--|
 | Gore Farmers | 3-3-1 | Carcosan Tatters | 6-1-0 |
-| Irregular Cogs | 6-2-6 | Filthy Tide | 3-1-3 |
-| Old Wyrms | 5-2-7 | Zensun Vagabonds | 5-4-5 |
-| Glorious Hounds | 2-1-4 | Ravenous Eagles | 5-2-7 |
+| Irregular Cogs | 2-2-3 | Filthy Tide | 3-1-3 |
+| Old Wyrms | 2-2-3 | Ravenous Eagles | 2-1-4 |
+| Glorious Hounds | 2-1-4 | Zensun Vagabonds | 1-3-3 |
 
 Now there's word that another BludBol league is starting up in Stacksburg. Some of the other old-era teams that had been left out of this tournament are organizing to play for the "real" green cup.
 

@@ -1,5 +1,14 @@
 This is the week [[Yakup]] began to be the player we'd later know.
 
+## standings
+
+| Stacks | W-D-L | Outlands | W-D-L |
+|-------|-----|--|--|
+| Gore Farmers | 3-3-1 | Carcosan Tatters | 6-1-0 |
+| Irregular Cogs | 2-2-3 | Filthy Tide | 3-1-3 |
+| Old Wyrms | 2-2-3 | Ravenous Eagles | 2-1-4 |
+| Glorious Hounds | 2-1-4 | Zensun Vagabonds | 1-3-3 |
+
 ## player of the week standings
 
 | Player      | Team             | TDs  | Rush | Cp   | PassDist | Caughts | Cas  | Blocks | Sacks | MVPs | SPP  |
@@ -34,7 +43,7 @@ This is the week [[Yakup]] began to be the player we'd later know.
 | Mayu.    | Filthy Tide     |    6 |   47 |    1 |       -1 |       9 |    0 |      6 |     0 |    0 |   19 |
 | Daividh. | Glorious Hounds |    6 |   61 |    1 |        8 |       6 |    0 |      6 |     0 |    2 |   29 |
 
-### Cps
+### passing
 
 | Player            | Team             | TDs  | Rush | Cp   | PassDist | Caughts | Cas  | Blocks | Sacks | MVPs | SPP  |
 |-------------------|------------------|------|------|------|----------|---------|------|--------|-------|------|------|
@@ -42,7 +51,7 @@ This is the week [[Yakup]] began to be the player we'd later know.
 | Silas.   | Filthy Tide     |    1 |   85 |   11 |       38 |       3 |    1 |     12 |     2 |    1 |   23 |
 | Chandan. | Old Wyrms       |    0 |   26 |   10 |       -2 |       1 |    0 |      3 |     1 |    0 |   12 |
 
-## rushing
+### rushing
 
 | Player            | Team             | TDs  | Rush | Cp   | PassDist | Caughts | Cas  | Blocks | Sacks | MVPs | SPP  |
 |-------------------|------------------|------|------|------|----------|---------|------|--------|-------|------|------|
@@ -66,7 +75,6 @@ This is the week [[Yakup]] began to be the player we'd later know.
 | Shai-Hulud. | Zensun Vagabonds |    0 |    0 |    0 |        0 |       0 |    5 |     64 |     4 |    0 |   10 |
 | Eloquence.  | Glorious Hounds  |    1 |   10 |    0 |        0 |       2 |    3 |     45 |     2 |    0 |    9 |
 
-
 ### sacks
 
 | Player            | Team             | TDs  | Rush | Cp   | PassDist | Caughts | Cas  | Blocks | Sacks | MVPs | SPP  |
@@ -75,7 +83,6 @@ This is the week [[Yakup]] began to be the player we'd later know.
 | Shai-Hulud.  | Zensun Vagabonds |    0 |    0 |    0 |        0 |       0 |    5 |     64 |     4 |    0 |   10 |
 | BeardPuller. | Gore Farmers     |    2 |   15 |    0 |        0 |       0 |    0 |     36 |     3 |    0 |    8 |
 
-
 ### blocks
 
 | Player            | Team             | TDs  | Rush | Cp   | PassDist | Caughts | Cas  | Blocks | Sacks | MVPs | SPP  |
@@ -83,7 +90,6 @@ This is the week [[Yakup]] began to be the player we'd later know.
 | Louse.      | Carcosan Tatters |    0 |   12 |    0 |        0 |       0 |    1 |     66 |     0 |    0 |    2 |
 | Shai-Hulud. | Zensun Vagabonds |    0 |    0 |    0 |        0 |       0 |    5 |     64 |     4 |    0 |   10 |
 | Arzu.       | Irregular Cogs   |    0 |    4 |    0 |        0 |       0 |    2 |     63 |     3 |    2 |   14 |
-
 
 ### mvps
 

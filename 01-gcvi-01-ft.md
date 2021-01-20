@@ -48,8 +48,8 @@ They beat the Glorious Hounds 3-2 in week two and the Ravenous Eagles 4-1, befor
 |-------|-----|--|--|
 | Gore Farmers | 3-3-1 | Carcosan Tatters | 6-1-0 |
 | Irregular Cogs | 2-2-3 | Filthy Tide | 3-1-3 |
-| Old Wyrms | 5-2-7 | Zensun Vagabonds | 5-4-5 |
-| Glorious Hounds | 2-1-4 | Ravenous Eagles | 5-2-7 |
+| Old Wyrms | 2-2-3 | Ravenous Eagles | 2-1-4 |
+| Glorious Hounds | 2-1-4 | Zensun Vagabonds | 1-3-3 |
 
 Now there's word that another BludBol league is starting up in Stacksburg. Some of the other old-era teams that had been left out of this tournament are organizing to play for the "real" green cup.
 

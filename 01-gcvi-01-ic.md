@@ -24,17 +24,17 @@ It sounds like these are going to be the most interesting players to watch, or a
 
 So that was a week of bludbol. The {$followingTeam} are 0-0-1. What now?
 
-> Keep watching the Hounds on the EDS.->[[01-gcvi-02-ic]]
+> Keep watching the Cogs on the EDS.->[[01-gcvi-02-ic]]
 > Pick a different team.->[[01-gcvi-02-teamselect]]
 
-:: 01-gcvi-02-gh
+:: 01-gcvi-02-ic
 
 $followingTeam: 'Irregular Cogs'
 $watchedIC: $watchedIC + 6
 $watchedGH: $watchedGH + 1
 $watchedOW: $watchedOW + 1
 $watchedRE: $watchedRE + 1
-$watchedCT: $watchedICT + 1
+$watchedCT: $watchedCT + 1
 $watchedZV: $watchedZV + 1
 $watchedGF: $watchedGF + 1
 $time: 576.5
@@ -49,8 +49,8 @@ They beat the Old Wyrms 3-0 in week 2, then got a couple of draws against the Gl
 |-------|-----|--|--|
 | Gore Farmers | 3-3-1 | Carcosan Tatters | 6-1-0 |
 | Irregular Cogs | 2-2-3 | Filthy Tide | 3-1-3 |
-| Old Wyrms | 5-2-7 | Zensun Vagabonds | 5-4-5 |
-| Glorious Hounds | 2-1-4 | Ravenous Eagles | 5-2-7 |
+| Old Wyrms | 2-2-3 | Ravenous Eagles | 2-1-4 |
+| Glorious Hounds | 2-1-4 | Zensun Vagabonds | 1-3-3 |
 
 Now there's word that another BludBol league is starting up in Stacksburg. Some of the other old-era teams that had been left out of this tournament are organizing to play for the "real" green cup.
 
@@ -63,7 +63,7 @@ The team you're following is 2-2-3 but [[Karsten]] is leading the MVP race with 
 
 :: 01-gcvi-08-ic
 
-$followingTeam: 'Irregular Cogss'
+$followingTeam: 'Irregular Cogs'
 $watchedIC: $watchedIC + 7
 $watchedZV: $watchedZV + 1
 $watchedOW: $watchedOW + 1
