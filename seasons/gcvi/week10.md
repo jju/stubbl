@@ -1,0 +1,18 @@
+Irregular Cogs L Filthy Tide 2 4
+Gore Farmers W Old Wyrms 2 1
+Carcosan Tatters L Ravenous Eagles 0 1
+Zensun Vagabonds D Glorious Hounds 4 4
+
+## standings
+
+| Stacks | W-D-L | Outlands | W-D-L |
+|-------|-----|--|--|
+| Gore Farmers | 5-3-2 | Carcosan Tatters | 7-1-2 |
+| Irregular Cogs | 4-2-4 | Filthy Tide | 5-1-4 |
+| Old Wyrms | 2-2-6 | Ravenous Eagles | 4-1-5 |
+| Glorious Hounds | 2-2-6 | Zensun Vagabonds | 3-4-3 |
+
+## player of the week standings
+
+| Player      | Team             | TDs  | Rush | Cp   | PassDist | Caughts | Cas  | Blocks | Sacks | MVPs | SPP  |
+|-------------|------------------|------|------|------|----------|---------|------|--------|-------|------|------|
