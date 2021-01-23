@@ -15,6 +15,7 @@ After spending some time researching, you've got some notes on what these teams 
 The teams are arranged in a couple of divisions: the Stacks and the Outlands.
 
 ## Stacks
+
 [if $bbrules < 1]
 * Carcosan Tatters
 * Filthy Tide
