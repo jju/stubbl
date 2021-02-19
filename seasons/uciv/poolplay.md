@@ -1,0 +1,7 @@
+The fourth UBBL Challenge saw a return to a wider invitation format, due to the Orange Goblet taking over as the premiere showcase of non-Pro level talent. The top teams of the previous Orange Goblet and Green Cup seasons were not invited and the bottom teams from each were facing relegation in a quick pool play, leading into a single elimination tournament.
+
+With each team playing only two matches, every play was vital. 
+
+All the Green Cup teams facing relegation (the Eldritch Fatality, Arboreal Menace, Glorious Hounds and TC Sump Runners) got at least one win in pool play and avoided outright send-down. The Glorious Hounds put together a ludicrous 8-0 display against the Gentlefolk, but because they lost their second match they are not recorded as the best team in pool play. The Hoods and Particulates weren't so lucky and will be replaced in the next Orange Goblet tournament (the Geometers held onto their spot) by either the Carrion Pickers, Raptors or New Cursed, depending on how the rest of the tournament goes.
+
+The TC Sump Runners could still be replaced in Green Cup XI as they were the last place team in GCX and the winner of the UC can take that spot if they're an Open Division team.

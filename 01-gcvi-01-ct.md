@@ -21,10 +21,10 @@ It sounds like these are going to be the most interesting players to watch, or a
 
 So that was a week of bludbol. The {$followingTeam} are 1-0-0. What now?
 
-> Keep watching the Tatters on the EDS.->[[01-gcvi-02-ct]]
+> Keep watching the Tatters on the EDS.->[[01-gcvi-07-ct]]
 > Pick a different team.->[[01-gcvi-02-teamselect]]
 
-:: 01-gcvi-02-ct
+:: 01-gcvi-07-ct
 
 $followingTeam: 'Carcosan Tatters'
 $watchedCT: $watchedCT + 6
@@ -53,12 +53,12 @@ Now there's word that another BludBol league is starting up in Stacksburg. Some 
 
 The team you're following is 6-1-0. What now?
 
-> Keep watching the Tatters on the EDS.->[[01-gcvi-08-ct]]
-> Choose a different team to follow.->[[01-gcvi-08-teamselect]]
+> Keep watching the Tatters on the EDS.->[[01-gcvi-14-ct]]
+> Choose a different team to follow.->[[01-gcvi-00-teamselect]]
 > Watch one of these new teams.->[[02-gcc6-00-teamselect]]
 
 
-:: 01-gcvi-08-ct
+:: 01-gcvi-14-ct
 
 $followingTeam: 'Carcosan Tatters'
 $watchedCT: $watchedCT + 7
