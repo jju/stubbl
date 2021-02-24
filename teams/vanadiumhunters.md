@@ -33,6 +33,7 @@ They are generally a bad team at the pro level, but they did achieve a Doom Fist
 | Vanadium Hunters | Green Cup VIII       |    4 |    2 |   10 |     16 |   31.25 |   28 |   40 |   16 |    -13 |   -1 |
 | Vanadium Hunters | UBBL Challenge II    |    0 |    1 |    2 |      3 | 16.6667 |    4 |    8 |    2 |     -6 |   -1 |
 | Vanadium Hunters | UBBL Challenge III   |    0 |    0 |    3 |      3 |       0 |    5 |   10 |    1 |     -1 |   -2 |
+| Vanadium Hunters | UBBL Challenge IV    |    0 |    0 |    2 |      2 |       0 |    2 |    8 |    0 |     -2 |   -1 |
 
 
 

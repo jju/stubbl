@@ -36,11 +36,12 @@ Sadly for Fatality fans they followed up GCIX with an abysmal last-in-the-Pits f
 | Eldritch Fatality | Green Cup Classic 06 |    4 |    4 |    1 |      9 | 66.6667 |   24 |   17 |   10 |      1 |    2 |
 | Eldritch Fatality | Green Cup VII        |   11 |    0 |    7 |     18 | 61.1111 |   47 |   40 |   15 |    -11 |    2 |
 | Eldritch Fatality | Green Cup IX         |   11 |    1 |    7 |     19 | 60.5263 |   57 |   40 |   22 |      1 |   -1 |
+| Eldritch Fatality | UBBL Challenge IV    |    2 |    0 |    2 |      4 |      50 |   12 |    9 |    8 |     -1 |    2 |
 | Eldritch Fatality | Green Cup X          |    4 |    2 |   10 |     16 |   31.25 |   38 |   43 |   17 |     -7 |   -2 |
 
 #### GCX Projection
 
-11-2-6 Green Cup Champions
+11-2-6 Green Cup Champions - actual result: last place
 
 ### Stars & Scrubs
 

@@ -51,6 +51,7 @@ Outside the Pro Division the Eagles put together a wonderful GCV Memorial season
 | Ravenous Eagles | Green Cup VI         |    5 |    2 |    8 |     15 |      40 |   18 |   26 |   23 |     10 |    3 |
 | Ravenous Eagles | Green Cup VIII       |    6 |    0 |   10 |     16 |    37.5 |   16 |   24 |   34 |     14 |   -4 |
 | Ravenous Eagles | Green Cup IX         |    3 |    3 |   10 |     16 |  28.125 |   14 |   28 |   43 |     27 |   -4 |
+| Ravenous Eagles | Champions Circuit    |    0 |    0 |    1 |      1 |       0 |    1 |    2 |    2 |      0 |   -1 |
 
 
 

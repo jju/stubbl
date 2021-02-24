@@ -28,6 +28,7 @@ The Hounds fought and fought in the old-era to gain admission to the Green Cup c
 
 | Team            | Season               | won  | draw | lost | played | win_pct | gf   | ga   | cas  | tcdiff | ff   |
 |-----------------|----------------------|------|------|------|--------|---------|------|------|------|--------|------|
+| Glorious Hounds | UBBL Challenge IV    |    5 |    0 |    1 |      6 | 83.3333 |   22 |    7 |    6 |    -10 |    4 |
 | Glorious Hounds | Green Cup VIII       |   11 |    1 |    5 |     17 | 67.6471 |   51 |   27 |   11 |    -20 |    2 |
 | Glorious Hounds | Green Cup VII        |   10 |    1 |    6 |     17 | 61.7647 |   60 |   37 |   16 |    -18 |    3 |
 | Glorious Hounds | Green Cup V Memorial |    5 |    3 |    4 |     12 | 54.1667 |   23 |   16 |   14 |     -6 |   -2 |

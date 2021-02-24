@@ -32,6 +32,7 @@ They were once thought to be the future of BludBol in the old era UBBL. They've 
 | TC Sump Runners | UBBL Challenge III   |    3 |    0 |    1 |      4 |      75 |   12 |    8 |    8 |     -2 |    3 |
 | TC Sump Runners | UBBL Challenge II    |    4 |    0 |    2 |      6 | 66.6667 |   15 |    9 |   11 |      2 |    3 |
 | TC Sump Runners | Green Cup Classic 06 |    2 |    4 |    2 |      8 |      50 |   16 |   15 |   11 |      0 |   -3 |
+| TC Sump Runners | UBBL Challenge IV    |    2 |    0 |    2 |      4 |      50 |   10 |    9 |    3 |     -5 |    2 |
 | TC Sump Runners | UBBL Challenge       |    2 |    0 |    2 |      4 |      50 |    8 |   10 |    4 |      0 |   -1 |
 | TC Sump Runners | Green Cup IX         |    5 |    4 |    7 |     16 |   43.75 |   37 |   38 |   33 |      7 |   -2 |
 | TC Sump Runners | Green Cup VII        |    5 |    2 |    9 |     16 |    37.5 |   35 |   39 |   24 |      7 |    2 |

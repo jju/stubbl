@@ -40,6 +40,7 @@ The Cackling Furies aren't an original Green Cup team, but in their second seaso
 | Cackling Furies | Green Cup Classic 06 |    1 |    4 |    3 |      8 |    37.5 |   11 |   15 |   15 |      0 |    1 |
 | Cackling Furies | Green Cup V Memorial |    3 |    1 |    6 |     10 |      35 |   11 |   21 |   19 |      0 |   -3 |
 | Cackling Furies | Green Cup VII        |    4 |    3 |    9 |     16 |  34.375 |   28 |   34 |   31 |      4 |   -1 |
+| Cackling Furies | UBBL Challenge IV    |    1 |    0 |    2 |      3 | 33.3333 |    5 |    6 |    5 |      1 |   -1 |
 | Cackling Furies | Green Cup VIII       |    5 |    0 |   11 |     16 |   31.25 |   23 |   38 |   43 |      8 |   -2 |
 
 In Green Cup III the Furies inflicted 38 Casualties on their way to second place in GCIII.

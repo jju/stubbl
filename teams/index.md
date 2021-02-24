@@ -16,11 +16,29 @@
 * [[sumprunners]]
 * [[zensunvagabonds]]
 
-# former green cup teams
+## former green cup teams
 * [[gargantuanbrutes]]
 * [[vanadiumhunters]]
 * [[poets]]
 
+# orange goblet teams
+
+* [[mules]]
+* [[thorns]]
+* [[gladiolas]]
+* [[thrillers]]
+* [[warthogs]]
+* [[deepdreamers]]
+* [[gentlefolk]]
+* [[geometers]]
+* [[raptors]]
+* [[carrionpickers]]
+* [[vanadiumhunters]]
+
+## former orange goblet teams
+
+* [[particulates]]
+* [[hoods]]
 
 # pro records
 

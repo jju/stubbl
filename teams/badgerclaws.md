@@ -22,8 +22,8 @@ The Badger Claws use the Scrying Avian playbook which emphasizes speed above all
 
 | name         | name            | won  | draw | lost | played | win_pct | gf   | ga   | cas  | tcdiff | ff   |
 |--------------|-----------------|------|------|------|--------|---------|------|------|------|--------|------|
-| Badger Claws | StUBBL Scramble |    1 |    0 |    0 |      1 |     100 |    5 |    2 |    0 |     -4 |    0 |
 | Badger Claws | UBBL Challenge  |    4 |    1 |    1 |      6 |      75 |   25 |   19 |    5 |      2 |    1 |
+| Badger Claws | StUBBL Scramble |    1 |    1 |    0 |      2 |      75 |    5 |    2 |    0 |     -4 |    0 |
 | Badger Claws | Green Cup IX    |   11 |    3 |    4 |     18 | 69.4444 |   75 |   56 |   20 |    -20 |    0 |
 | Badger Claws | Green Cup X     |    9 |    1 |    8 |     18 | 52.7778 |   64 |   58 |   21 |     -8 |    1 |
 | Badger Claws | Green Cup VIII  |    9 |    2 |    8 |     19 | 52.6316 |   61 |   57 |   15 |    -32 |    4 |

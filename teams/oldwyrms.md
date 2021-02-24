@@ -55,6 +55,7 @@ The Tenth Green Cup championship also went to the Old Wyrms, though it wasn't th
 | Old Wyrms | Green Cup VII        |    6 |    5 |    5 |     16 |  53.125 |   45 |   44 |   18 |    -39 |   -2 |
 | Old Wyrms | Green Cup VIII       |    6 |    2 |    8 |     16 |   43.75 |   38 |   39 |   14 |    -21 |   -1 |
 | Old Wyrms | Green Cup VI         |    6 |    2 |    8 |     16 |   43.75 |   37 |   42 |   15 |    -21 |    3 |
+| Old Wyrms | Champions Circuit    |    0 |    0 |    1 |      1 |       0 |    1 |    2 |    1 |     -2 |   -1 |
 
 
 ### Stars & Scrubs

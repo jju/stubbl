@@ -25,6 +25,7 @@ The Vagabonds use the Hermann playbook, the original plan for playing BludBol, a
 
 | Team             | Season             | won  | draw | lost | played | win_pct | gf   | ga   | cas  | tcdiff | ff   |
 |------------------|--------------------|------|------|------|--------|---------|------|------|------|--------|------|
+| Zensun Vagabonds | Champions Circuit  |    1 |    0 |    0 |      1 |     100 |    3 |    2 |    3 |      2 |    0 |
 | Zensun Vagabonds | Green Cup X        |   11 |    2 |    5 |     18 | 66.6667 |   46 |   33 |   29 |      3 |    5 |
 | Zensun Vagabonds | Green Cup VII      |    7 |    6 |    3 |     16 |    62.5 |   47 |   32 |   38 |     -1 |    1 |
 | Zensun Vagabonds | Green Cup IX       |    7 |    3 |    6 |     16 |  53.125 |   32 |   40 |   19 |    -10 |    1 |

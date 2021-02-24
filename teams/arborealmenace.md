@@ -12,6 +12,7 @@ The Arboreal Menace use the Wary Eagle playbook, which is very similar to the Sc
 |-----------|--------------------|------|------|------|--------|---------|------|------|------|--------|------|
 | Arboreal Menace | StUBBL Scramble    |    1 |    0 |    0 |      1 |     100 |    3 |    0 |    1 |      2 |    1 |
 | Arboreal Menace | UBBL Challenge III |    6 |    1 |    0 |      7 | 92.8571 |   30 |   14 |   10 |      3 |    2 |
+| Arboreal Menace | UBBL Challenge IV  |    3 |    0 |    1 |      4 |      75 |   12 |    5 |    2 |     -5 |    3 |
 | Arboreal Menace | UBBL Challenge II  |    3 |    0 |    2 |      5 |      60 |   14 |    7 |    6 |     -5 |    1 |
 | Arboreal Menace | Green Cup X        |    6 |    2 |    8 |     16 |   43.75 |   41 |   51 |   15 |    -15 |   -3 |
 | Arboreal Menace | UBBL Challenge     |    0 |    0 |    3 |      3 |       0 |    3 |    7 |    0 |     -6 |    0 |

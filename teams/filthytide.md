@@ -34,6 +34,7 @@ Their GCIX campaign was devastating to a team of such history. They put their ef
 | Team        | Season               | won  | draw | lost | played | win_pct | gf   | ga   | cas  | tcdiff | ff   |
 |-------------|----------------------|------|------|------|--------|---------|------|------|------|--------|------|
 | Filthy Tide | UBBL Challenge       |    6 |    0 |    1 |      7 | 85.7143 |   30 |   15 |   16 |      7 |    2 |
+| Filthy Tide | UBBL Challenge IV    |    2 |    0 |    1 |      3 | 66.6667 |    9 |    5 |    6 |      1 |    1 |
 | Filthy Tide | Green Cup VII        |    9 |    3 |    5 |     17 | 61.7647 |   56 |   37 |   21 |     -3 |    0 |
 | Filthy Tide | Green Cup I          |    6 |    0 |    5 |     11 | 54.5455 |   31 |   26 |   13 |     -9 |    0 |
 | Filthy Tide | Green Cup II         |    5 |    2 |    4 |     11 | 54.5455 |   36 |   32 |   11 |    -17 |    0 |
