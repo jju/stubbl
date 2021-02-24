@@ -53,12 +53,12 @@ They are generally a bad team at the pro level, but they did achieve a Doom Fist
 | Daley    | Vanadium Hunters | Blitzer  |    6 |    4 |   17 |   27 |   12 |    0 |    1 |    2 |    1 |    1 |    3 |   61 |
 | Majken   | Vanadium Hunters | Catcher  |    8 |    9 |   18 |   35 |   10 |    3 |    0 |    0 |    0 |    0 |    5 |   58 |
 | Leibniz  | Vanadium Hunters | Blitzer  |   10 |   14 |   18 |   42 |    9 |    1 |    0 |    2 |    2 |    1 |    4 |   58 |
-| **Boguslaw**  | Vanadium Hunters | Ogre     |   15 |   14 |   18 |   47 |    0 |    1 |    0 |   16 |    6 |    0 |    2 |   55 |
+| **Boguslaw**  | Vanadium Hunters | Heavy     |   15 |   14 |   18 |   47 |    0 |    1 |    0 |   16 |    6 |    0 |    2 |   55 |
 | **Charles**   | Vanadium Hunters | Thrower  |   10 |    7 |   11 |   28 |    1 |   22 |    0 |    1 |    2 |    0 |    4 |   51 |
 | **Mohan**     | Vanadium Hunters | Blitzer  |   12 |   11 |   17 |   40 |    8 |    2 |    0 |    4 |    1 |    0 |    3 |   51 |
 | **Baz**       | Vanadium Hunters | Thrower  |    6 |    6 |   12 |   24 |    2 |   29 |    0 |    2 |    0 |    0 |    2 |   49 |
 | **Gautstafr** | Vanadium Hunters | Catcher  |    7 |    1 |    8 |   16 |   14 |    2 |    2 |    0 |    0 |    0 |    0 |   48 |
-| **Mayflower** | Vanadium Hunters | Lineman  |   27 |   16 |   43 |   86 |    0 |    2 |    2 |    5 |    0 |    1 |    6 |   48 |
+| **Mayflower** | Vanadium Hunters | Line  |   27 |   16 |   43 |   86 |    0 |    2 |    2 |    5 |    0 |    1 |    6 |   48 |
 | Tycho    | Vanadium Hunters | Catcher  |    5 |    9 |   12 |   26 |   14 |    2 |    1 |    0 |    0 |    0 |    0 |   46 |
 
 [[Vrej]] came back from a fine retirement to play in the Green Cup V Memorial tournament and while that was enough to push him up the all-time Hunters hall of fame, it also cost him his life.

@@ -14,7 +14,7 @@ The Sump Runners use the Hermann playbook, the original plan for playing BludBol
 
 ### UBBL Record (W-D-L)
 
-28-14-44
+30-14-46
 
 ### Prizes
 
@@ -44,7 +44,7 @@ They were once thought to be the future of BludBol in the old era UBBL. They've 
 
 | Player     | Team            | Position | won  | draw | lost | GP   | TD   | Comp | Ints | BH   | SI   | Ki   | MVP  | SPP  |
 |------------|-----------------|----------|------|------|------|------|------|------|------|------|------|------|------|------|
-| **Jacquetta**  | TC Sump Runners | Lineman  |   15 |    6 |   21 |   42 |    2 |   79 |    2 |    1 |    0 |    1 |    7 |  128 |
+| **Jacquetta**  | TC Sump Runners | Line  |   15 |    6 |   21 |   42 |    2 |   79 |    2 |    1 |    0 |    1 |    7 |  128 |
 | **Shay**       | TC Sump Runners | Thrower  |   11 |    6 |   17 |   34 |   15 |   40 |    4 |    0 |    0 |    1 |    4 |  115 |
 | Desmond   | TC Sump Runners | Blitzer  |   17 |    8 |   26 |   51 |    9 |    1 |    2 |   16 |   10 |    1 |    2 |   96 |
 | Edwin     | TC Sump Runners | Blitzer  |   22 |   10 |   27 |   59 |   11 |    1 |    0 |   13 |    8 |    3 |    2 |   92 |
@@ -52,10 +52,10 @@ They were once thought to be the future of BludBol in the old era UBBL. They've 
 | Persimmon | TC Sump Runners | Thrower  |   16 |    8 |   20 |   44 |   15 |   27 |    0 |    2 |    0 |    0 |    3 |   91 |
 | Stultz    | TC Sump Runners | Catcher  |   17 |    7 |   29 |   53 |   17 |    1 |    1 |    1 |    0 |    0 |    2 |   66 |
 | Tine      | TC Sump Runners | Catcher  |   19 |    9 |   30 |   58 |   13 |    2 |    0 |    1 |    0 |    0 |    4 |   63 |
-| **Hoss**       | TC Sump Runners | Lineman  |   28 |   14 |   41 |   83 |    3 |    0 |    1 |    5 |    0 |    2 |    6 |   55 |
-| Noir      | TC Sump Runners | Ogre     |   22 |    9 |   28 |   59 |    1 |    0 |    1 |   10 |    5 |    0 |    4 |   55 |
+| **Hoss**       | TC Sump Runners | Line  |   28 |   14 |   41 |   83 |    3 |    0 |    1 |    5 |    0 |    2 |    6 |   55 |
+| Noir      | TC Sump Runners | Heavy     |   22 |    9 |   28 |   59 |    1 |    0 |    1 |   10 |    5 |    0 |    4 |   55 |
 | Branka    | TC Sump Runners | Catcher  |    9 |    4 |   16 |   29 |    9 |    1 |    1 |    1 |    0 |    0 |    3 |   47 |
-| **Edgar**      | TC Sump Runners | Lineman  |   25 |   14 |   39 |   78 |    0 |    4 |    2 |    5 |    5 |    1 |    3 |   45 |
+| **Edgar**      | TC Sump Runners | Line  |   25 |   14 |   39 |   78 |    0 |    4 |    2 |    5 |    5 |    1 |    3 |   45 |
 
 The Sump Runners play a slightly unorthodox version of the traditional allrounder strategy. Jacquetta actually plays the role of a traditional Thrower, while Shay is more like a Blitzer.
 

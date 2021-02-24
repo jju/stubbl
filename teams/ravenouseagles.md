@@ -26,11 +26,11 @@ Outside the Pro Division the Eagles put together a wonderful GCV Memorial season
 
 ### Pro Level Record (W-D-L)
 
-33-11-41
+33-11-42
 
 ### UBBL Record (W-D-L)
 
-45-12-46
+45-12-47
 
 ### Prizes
 
@@ -59,17 +59,17 @@ Outside the Pro Division the Eagles put together a wonderful GCV Memorial season
 
 | Player    | Team            | Position            | won  | draw | lost | GP   | TD   | Comp | Ints | BH   | SI   | Ki   | MVP  | SPP  |
 |-----------|-----------------|---------------------|------|------|------|------|------|------|------|------|------|------|------|------|
-| **Ekua**      | Ravenous Eagles | Bull Centaur        |   33 |   11 |   39 |   83 |    8 |    0 |    1 |   23 |   12 |    3 |    4 |  122 |
-| **Jantine**   | Ravenous Eagles | Minotaur            |   14 |    8 |   18 |   40 |    0 |    0 |    1 |   38 |   12 |    1 |    2 |  114 |
-| **Percy**     | Ravenous Eagles | Minotaur            |   20 |    3 |   18 |   41 |    1 |    0 |    1 |   26 |    7 |    2 |    4 |   95 |
-| **Humbert**   | Ravenous Eagles | Hobgoblin           |   15 |    7 |   15 |   37 |   12 |   34 |    1 |    1 |    0 |    0 |    3 |   89 |
-| Frediano | Ravenous Eagles | Hobgoblin           |   17 |    4 |   17 |   38 |   13 |   20 |    1 |    1 |    0 |    0 |    3 |   78 |
-| **Chikondi**  | Ravenous Eagles | Bull Centaur        |   29 |    8 |   31 |   68 |    9 |    0 |    2 |    4 |    2 |    1 |    4 |   65 |
-| **Niko**      | Ravenous Eagles | Hobgoblin           |   11 |    7 |   15 |   33 |   12 |    1 |    0 |    3 |    0 |    0 |    4 |   63 |
-| **Bates**     | Ravenous Eagles | Hobgoblin           |    8 |    4 |    9 |   21 |   13 |    4 |    0 |    1 |    0 |    0 |    2 |   55 |
-| Viltaute | Ravenous Eagles | Hobgoblin           |   19 |    5 |   23 |   47 |   10 |   10 |    0 |    0 |    1 |    0 |    2 |   52 |
-| Lumusi   | Ravenous Eagles | Chaos Dwarf Blocker |   34 |   10 |   38 |   82 |    0 |    1 |    1 |    6 |    3 |    1 |    5 |   48 |
-| Sigfrido | Ravenous Eagles | Hobgoblin           |   19 |    3 |   20 |   42 |    8 |    4 |    0 |    1 |    1 |    0 |    2 |   42 |
+| **Ekua**      | Ravenous Eagles | Blitzer        |   33 |   11 |   39 |   83 |    8 |    0 |    1 |   23 |   12 |    3 |    4 |  122 |
+| **Jantine**   | Ravenous Eagles | Heavy            |   14 |    8 |   18 |   40 |    0 |    0 |    1 |   38 |   12 |    1 |    2 |  114 |
+| **Percy**     | Ravenous Eagles | Heavy            |   20 |    3 |   18 |   41 |    1 |    0 |    1 |   26 |    7 |    2 |    4 |   95 |
+| **Humbert**   | Ravenous Eagles | Line           |   15 |    7 |   15 |   37 |   12 |   34 |    1 |    1 |    0 |    0 |    3 |   89 |
+| Frediano | Ravenous Eagles | Line           |   17 |    4 |   17 |   38 |   13 |   20 |    1 |    1 |    0 |    0 |    3 |   78 |
+| **Chikondi**  | Ravenous Eagles | Blitzer        |   29 |    8 |   31 |   68 |    9 |    0 |    2 |    4 |    2 |    1 |    4 |   65 |
+| **Niko**      | Ravenous Eagles | Line           |   11 |    7 |   15 |   33 |   12 |    1 |    0 |    3 |    0 |    0 |    4 |   63 |
+| **Bates**     | Ravenous Eagles | Line           |    8 |    4 |    9 |   21 |   13 |    4 |    0 |    1 |    0 |    0 |    2 |   55 |
+| Viltaute | Ravenous Eagles | Line           |   19 |    5 |   23 |   47 |   10 |   10 |    0 |    0 |    1 |    0 |    2 |   52 |
+| Lumusi   | Ravenous Eagles | Blocker |   34 |   10 |   38 |   82 |    0 |    1 |    1 |    6 |    3 |    1 |    5 |   48 |
+| Sigfrido | Ravenous Eagles | Line           |   19 |    3 |   20 |   42 |    8 |    4 |    0 |    1 |    1 |    0 |    2 |   42 |
 
 [[Jantine]] and [[Percy]] have been the biggest stars of the Eagles, who haven't been trying to dominate as much as get into position to put a little run together like they did in GCVII. 
 

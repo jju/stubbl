@@ -14,7 +14,7 @@ The Orbital Machine uses the Chariot playbook. This involves four massive player
 
 ### UBBL Record (W-D-L)
 
-40-11-27
+40-11-29
 
 ### Prizes
 

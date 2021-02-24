@@ -14,7 +14,7 @@ The Glorious Hounds use the High Extension playbook, a venerable adaptation of t
 
 ### UBBL Record (W-D-L)
 
-50-16-46
+55-16-47
 
 ### Prizes
 
@@ -40,7 +40,7 @@ The Hounds fought and fought in the old-era to gain admission to the Green Cup c
 
 #### Projection
 
-9-2-6 Division Champion
+9-2-6 Division Champion - Reality: Last place in division
 
 ### Stars & Scrubs
 
@@ -59,7 +59,7 @@ The Hounds fought and fought in the old-era to gain admission to the Green Cup c
 | Berry    | Glorious Hounds | Blitzer  |   25 |    6 |   16 |   47 |   14 |    2 |    0 |    4 |    1 |    2 |    4 |   78 |
 | Baraz    | Glorious Hounds | Catcher  |   13 |    4 |   12 |   29 |   14 |    3 |    2 |    1 |    1 |    1 |    4 |   75 |
 | **Florinda**  | Glorious Hounds | Blitzer  |   23 |    8 |   15 |   46 |    2 |    2 |    2 |    5 |    2 |    2 |    8 |   70 |
-|           | Glorious Hounds | Lineman  |   24 |    4 |   24 |   52 |    8 |    9 |    0 |    1 |    1 |    1 |    6 |   69 |
+|           | Glorious Hounds | Line  |   24 |    4 |   24 |   52 |    8 |    9 |    0 |    1 |    1 |    1 |    6 |   69 |
 | Mandawuy | Glorious Hounds | Catcher  |   17 |    2 |   10 |   29 |   18 |    5 |    1 |    1 |    0 |    0 |    1 |   68 |
 
 

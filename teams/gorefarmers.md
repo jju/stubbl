@@ -22,7 +22,7 @@ Sadly for lovers of pure competition, Spleen Hucker was also one of the first to
 
 ### UBBL Record (W-D-L)
 
-52-22-58
+52-22-60
 
 ### Prizes
 

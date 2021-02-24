@@ -14,7 +14,7 @@ The Spectres use the traditional Unglewort playbook. They have nigh-unlimited ch
 
 ### UBBL Record (W-D-L)
 
-46-15-58
+48-15-59
 
 ### Prizes
 
@@ -52,19 +52,19 @@ There've been rumblings that ownership wanted to take their money and run, foldi
 
 | Player       | Team              | Position   | won  | draw | lost | GP   | TD   | Comp | Ints | BH   | SI   | Ki   | MVP  | SPP  |
 |--------------|-------------------|------------|------|------|------|------|------|------|------|------|------|------|------|------|
-| Tooms II   | Darkling Spectres | Ghoul    |   28 |    8 |   28 |   64 |   13 |   86 |    1 |    3 |    0 |    0 |    5 |  158 |
-| *Qualls* | Darkling Spectres | Ghoul | ?? | ?? | ?? | 37 | 22 | 30 | 1 | 0 | 1 | 0 | 3 | 115 |
-| **Simon**        | Darkling Spectres | Mummy    |   16 |    5 |   21 |   42 |    0 |    0 |    0 |   18 |    6 |    4 |    5 |   81 |
-| *Tutankhamun* | Darkling Spectres | Mummy | ?? | ?? | ?? | 38 |  0 | 0 | 2 | 16 | 9 | 4 | 3 | 76 |
-| **Channing**     | Darkling Spectres | Ghoul    |    9 |    4 |   15 |   28 |   18 |   10 |    0 |    1 |    0 |    0 |    2 |   76 |
-| Hortensius  | Darkling Spectres | Ghoul    |    9 |    3 |   13 |   25 |   20 |    6 |    0 |    1 |    0 |    0 |    1 |   73 |
-| **Gojko**        | Darkling Spectres | Ghoul    |    5 |    2 |   11 |   18 |    8 |   23 |    1 |    0 |    0 |    0 |    4 |   69 |
-| **Olufunmi**     | Darkling Spectres | Ghoul    |   12 |    1 |   17 |   30 |   18 |    3 |    2 |    2 |    0 |    0 |    0 |   65 |
-| Onesiphorus | Darkling Spectres | Mummy    |   20 |    5 |   21 |   46 |    0 |    0 |    0 |   11 |   12 |    1 |    3 |   63 |
-| **Lamont**       | Darkling Spectres | Wight    |   20 |    4 |   23 |   47 |    3 |    0 |    0 |    5 |    4 |    0 |    6 |   57 |
-| Federica    | Darkling Spectres | Ghoul    |    8 |    2 |   11 |   21 |   12 |    3 |    0 |    1 |    0 |    0 |    3 |   56 |
-| Eberardo    | Darkling Spectres | Ghoul    |    7 |    1 |    6 |   14 |   13 |    2 |    0 |    0 |    0 |    0 |    2 |   51 |
-| Bambino     | Darkling Spectres | Ghoul    |   26 |    8 |   28 |   62 |   11 |    7 |    0 |    2 |    0 |    0 |    1 |   49 |
+| Tooms II   | Darkling Spectres | Runner    |   28 |    8 |   28 |   64 |   13 |   86 |    1 |    3 |    0 |    0 |    5 |  158 |
+| *Qualls* | Darkling Spectres | Runner | ?? | ?? | ?? | 37 | 22 | 30 | 1 | 0 | 1 | 0 | 3 | 115 |
+| **Simon**        | Darkling Spectres | Blocker    |   16 |    5 |   21 |   42 |    0 |    0 |    0 |   18 |    6 |    4 |    5 |   81 |
+| *Tutankhamun* | Darkling Spectres | Blocker | ?? | ?? | ?? | 38 |  0 | 0 | 2 | 16 | 9 | 4 | 3 | 76 |
+| **Channing**     | Darkling Spectres | Runner    |    9 |    4 |   15 |   28 |   18 |   10 |    0 |    1 |    0 |    0 |    2 |   76 |
+| Hortensius  | Darkling Spectres | Runner    |    9 |    3 |   13 |   25 |   20 |    6 |    0 |    1 |    0 |    0 |    1 |   73 |
+| **Gojko**        | Darkling Spectres | Runner    |    5 |    2 |   11 |   18 |    8 |   23 |    1 |    0 |    0 |    0 |    4 |   69 |
+| **Olufunmi**     | Darkling Spectres | Runner    |   12 |    1 |   17 |   30 |   18 |    3 |    2 |    2 |    0 |    0 |    0 |   65 |
+| Onesiphorus | Darkling Spectres | Blocker    |   20 |    5 |   21 |   46 |    0 |    0 |    0 |   11 |   12 |    1 |    3 |   63 |
+| **Lamont**       | Darkling Spectres | Blitzer    |   20 |    4 |   23 |   47 |    3 |    0 |    0 |    5 |    4 |    0 |    6 |   57 |
+| Federica    | Darkling Spectres | Runner    |    8 |    2 |   11 |   21 |   12 |    3 |    0 |    1 |    0 |    0 |    3 |   56 |
+| Eberardo    | Darkling Spectres | Runner    |    7 |    1 |    6 |   14 |   13 |    2 |    0 |    0 |    0 |    0 |    2 |   51 |
+| Bambino     | Darkling Spectres | Runner    |   26 |    8 |   28 |   62 |   11 |    7 |    0 |    2 |    0 |    0 |    1 |   49 |
 
 This team relies way too much on Tooms II. Tooms is also fragile as hell and should not be back for another round of battery, but they don't have anyone really special in the wings to replace him.
 

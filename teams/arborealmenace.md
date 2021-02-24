@@ -25,7 +25,7 @@ The Arboreal Menace use the Wary Eagle playbook, which is very similar to the Sc
 
 ### UBBL Record (W-D-L)
 
-16-3-13
+19-3-14
 
 ### Prizes
 
@@ -55,13 +55,13 @@ W-D-L 6-1-0
 | Hartwin  | Arboreal Menace | Thrower   |   13 |    3 |    9 |   25 |    0 |   65 |    2 |    0 |    1 |    0 |    2 |   81 |
 | **Laurel**    | Arboreal Menace | Catcher   |   11 |    2 |    8 |   21 |   17 |    0 |    1 |    0 |    0 |    0 |    2 |   63 |
 | **Attilla**   | Arboreal Menace | Catcher   |   15 |    3 |   13 |   31 |   16 |    6 |    0 |    0 |    1 |    0 |    1 |   61 |
-| **Sanja**     | Arboreal Menace | Wardancer |   14 |    2 |   13 |   29 |   12 |    2 |    0 |    0 |    4 |    0 |    2 |   56 |
-| **Kropotkin** | Arboreal Menace | Wardancer |   15 |    3 |   10 |   28 |    6 |    0 |    0 |    2 |    4 |    0 |    3 |   45 |
+| **Sanja**     | Arboreal Menace | Blitzer |   14 |    2 |   13 |   29 |   12 |    2 |    0 |    0 |    4 |    0 |    2 |   56 |
+| **Kropotkin** | Arboreal Menace | Blitzer |   15 |    3 |   10 |   28 |    6 |    0 |    0 |    2 |    4 |    0 |    3 |   45 |
 | **Nitika**    | Arboreal Menace | Catcher   |    7 |    2 |    8 |   17 |   13 |    2 |    1 |    0 |    0 |    0 |    0 |   43 |
-| **Borarinn**  | Arboreal Menace | Treeman   |   14 |    3 |    9 |   26 |    0 |    0 |    0 |    9 |    2 |    1 |    2 |   34 |
-| **Chantrea**  | Arboreal Menace | Lineman   |   16 |    2 |   13 |   31 |    1 |    0 |    0 |    1 |    1 |    0 |    5 |   32 |
+| **Borarinn**  | Arboreal Menace | Heavy   |   14 |    3 |    9 |   26 |    0 |    0 |    0 |    9 |    2 |    1 |    2 |   34 |
+| **Chantrea**  | Arboreal Menace | Line   |   16 |    2 |   13 |   31 |    1 |    0 |    0 |    1 |    1 |    0 |    5 |   32 |
 | **Susila**    | Arboreal Menace | Thrower   |    4 |    2 |    8 |   14 |    0 |   21 |    0 |    0 |    0 |    0 |    1 |   26 |
-| **Iago**      | Arboreal Menace | Lineman   |   14 |    3 |   13 |   30 |    2 |    4 |    0 |    0 |    0 |    0 |    2 |   20 |
+| **Iago**      | Arboreal Menace | Line   |   14 |    3 |   13 |   30 |    2 |    4 |    0 |    0 |    0 |    0 |    2 |   20 |
 
 
 The big three for the team going into GCX are Georgina (Catcher pid 842), Hartwin (Thrower pid 845) and Attilla (Catcher pid 844).

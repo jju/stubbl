@@ -14,7 +14,7 @@ The Tatters use the Nergal playbook, some (especially fans of pretty BludBol) sa
 
 ### UBBL Record (W-D-L)
 
-66-18-47
+67-18-49
 
 ### Prizes
 

@@ -10,11 +10,11 @@ The Vagabonds use the Hermann playbook, the original plan for playing BludBol, a
 
 ### Pro Level Record (W-D-L)
 
-49-25-52
+50-25-52
 
 ### UBBL Record (W-D-L)
 
-50-26-55
+51-26-55
 
 ### Prizes
 
@@ -49,7 +49,7 @@ The Vagabonds use the Hermann playbook, the original plan for playing BludBol, a
 | Subrahmanya | Zensun Vagabonds | Thrower  |   21 |   11 |   22 |   54 |    1 |   96 |    0 |    1 |    0 |    0 |    5 |  126 |
 | Lucrece     | Zensun Vagabonds | Catcher  |   24 |   14 |   24 |   62 |   27 |    3 |    2 |    1 |    1 |    0 |    6 |  122 |
 | Bahiyya     | Zensun Vagabonds | Blitzer  |   16 |   12 |   14 |   42 |   29 |    1 |    3 |    2 |    2 |    0 |    0 |  102 |
-| Shy Hulud  | Zensun Vagabonds | Big Guy     |   30 |   21 |   39 |   90 |    0 |    1 |    0 |   16 |    10 |    3 |    7 |   94 |
+| Shy Hulud  | Zensun Vagabonds | Heavy    |   30 |   21 |   39 |   90 |    0 |    1 |    0 |   16 |    10 |    3 |    7 |   94 |
 | **Padma**        | Zensun Vagabonds | Blitzer  |   11 |    2 |    5 |   18 |   22 |    1 |    0 |    3 |    2 |    0 |    3 |   92 |
 | *Mahdi* | Zensun Vagabonds | Thrower  | ?? | ?? | ?? | 45 | 4 | 65 | 0 | 0 | 0 | 0 | 3 | 92 |
 | **Jonah**        | Zensun Vagabonds | Catcher  |   14 |    4 |   10 |   28 |   19 |   10 |    0 |    0 |    0 |    0 |    3 |   82 |

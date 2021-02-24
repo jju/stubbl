@@ -24,11 +24,11 @@ The Tenth Green Cup championship also went to the Old Wyrms, though it wasn't th
 
 ### Pro Level Record (W-D-L)
 
-72-24-39
+72-24-40
 
 ### UBBL Record (W-D-L)
 
-82-25-43
+82-25-44
 
 ### Prizes
 
@@ -77,7 +77,7 @@ The Tenth Green Cup championship also went to the Old Wyrms, though it wasn't th
 | **Seosamh**  | Old Wyrms | Catcher  |   13 |    5 |    3 |   21 |   19 |    3 |    2 |    1 |    1 |    0 |    3 |   83 |
 | *Newb* | Old Wyrms | Catcher | ?? | ?? | ?? | 22 | 22 | 6 | 0 | 0 | 0 | 0 | 2 | 82 |
 | **Kelemann** | Old Wyrms | Blitzer  |   22 |    6 |    6 |   34 |   12 |    3 |    2 |    2 |    1 |    0 |    6 |   79 |
-| **Moirin**   | Old Wyrms | Catcher  |   13 |    6 |    5 |   24 |   14 |   11 |    2 |    0 |    0 |    0 |    4 |   77 |
+| Moirin   | Old Wyrms | Catcher  |   13 |    6 |    5 |   24 |   14 |   11 |    2 |    0 |    0 |    0 |    4 |   77 |
 | **Modest**   | Old Wyrms | Catcher  |   12 |    5 |    3 |   20 |   15 |    5 |    0 |    0 |    0 |    0 |    3 |   65 |
 | **Rati**     | Old Wyrms | Blitzer  |   25 |    3 |   11 |   39 |    9 |    4 |    0 |    8 |    2 |    1 |    2 |   63 |
 

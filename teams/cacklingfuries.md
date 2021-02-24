@@ -14,7 +14,7 @@ The Furies use the Norton playbook, which is mostly a way to get less skilled pl
 
 ### UBBL Record (W-D-L)
 
-48-25-53
+49-25-55
 
 ### Prizes
 
@@ -63,12 +63,12 @@ Hoping for a divisional title.
 | **Luanna**    | Cackling Furies | Thrower        |   15 |   10 |   10 |   35 |    5 |   72 |    0 |    3 |    0 |    0 |    3 |  108 |
 | *Benjen* | Cackling Furies | Blitzer | ?? | ?? | ?? | 44 | 6 | 1 | 0 | 19 | 13 | 6 | 2 | 105 |
 | Kota     | Cackling Furies | Catcher        |   10 |    5 |   23 |   38 |   25 |           2 |             0 |    1 |    0 |    0 |    5 |  104 |
-| Snow     | Cackling Furies | Yhetee         |   31 |   13 |   36 |   53 |    0 |       0 |             0 |   24 |    5 |    3 |    5 |   89 |
+| Snow     | Cackling Furies | Heavy         |   31 |   13 |   36 |   53 |    0 |       0 |             0 |   24 |    5 |    3 |    5 |   89 |
 | Mukabe   | Cackling Furies | Blitzer        |   15 |    7 |   24 |   46 |    6 |           1 |             0 |   13 |    5 |    1 |    5 |   82 |
 | Fawcett  | Cackling Furies | Thrower        |   20 |   14 |   24 |   58 |    1 |          69 |             3 |    1 |    1 |    0 |    0 |   82 |
 | *Artos* | Cackling Furies | Blitzer | ?? | ?? | ?? | 35 | 16 | 3 | 1 | 1 | 1 | 2 | 4 | 81 |
 | **Shashi**    | Cackling Furies | Catcher        |    7 |    4 |    6 |   17 |   21 |    0 |    0 |    0 |    0 |    1 |    3 |   80 |
-| **Sophronia** | Cackling Furies | Norse Werewolf |   24 |   14 |   28 |   66 |    0 |    0 |    1 |   14 |    7 |    2 |  78 |
+| **Sophronia** | Cackling Furies | Attacker |   24 |   14 |   28 |   66 |    0 |    0 |    1 |   14 |    7 |    2 |  78 |
 | Borghild | Cackling Furies | Catcher        |    8 |    7 |    4 |   19 |   18 |           2 |             0 |    0 |    1 |    1 |    0 |   60 |
 | **Danr**      | Cackling Furies | Blitzer        |   13 |   11 |    7 |   31 |    9 |    2 |    1 |    3 |    2 |    0 |    3 |   56 |
 

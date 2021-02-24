@@ -14,7 +14,7 @@ The Irregular Cogs use the Drop Eagle playbook. It's an adaptation of the Herman
 
 ### UBBL Record (W-D-L)
 
-79-17-52
+80-17-53
 
 ### Prizes
 
@@ -58,18 +58,18 @@ Second place for the rookies and the Cogs' best showing in many a season (in a G
 |------------|----------------|-----------|------|------|------|------|------|------|------|------|------|------|------|------|
 | Besz      | Irregular Cogs | Runner    |   ?? |   ?? |   ?? |  70 |   22 |  110 |    0 |    0 |    1 |    0 |    5 |  203 |
 | *Halfleg* | Irregular Cogs | Runner | ?? | ?? | ?? | 51 | 12 | 89 | 2 | 2 | 0 | 3 | 3 | 154 |
-| *Crobuzon* | Irregular Cogs | Witch Elf | ?? | ?? | ?? | 50 | 33 | 5 | 1 | 6 | 5 | 0 | 4 | 148 |
+| *Crobuzon* | Irregular Cogs | Attacker | ?? | ?? | ?? | 50 | 33 | 5 | 1 | 6 | 5 | 0 | 4 | 148 |
 | Dragos    | Irregular Cogs | Blitzer   |   36 |    3 |   21 |   60 |   38 |    5 |    2 |    1 |    0 |    0 |    2 |  135 |
 | Saxa      | Irregular Cogs | Blitzer   |   22 |    2 |   18 |   42 |   23 |   11 |    4 |    2 |    1 |    0 |    2 |  104 |
 | **Alexandros** | Irregular Cogs | Runner    |   19 |    3 |   13 |   35 |    8 |   54 |    1 |    0 |    0 |    0 |    4 |  100 |
-| *BasLag* | Irregular Cogs | Witch Elf | ?? | ?? | ?? | 52 | 18 | 2 | 1 | 6 | 1 | 0 | 4 | 92 |
+| *BasLag* | Irregular Cogs | Attacker | ?? | ?? | ?? | 52 | 18 | 2 | 1 | 6 | 1 | 0 | 4 | 92 |
 | *Yagharek* | Irregular Cogs | Blitzer   | ?? | ?? | ?? | 31 | 13 | 4 | 1 | 2 | 1 | 1 | 5 | 78 |
 | Melisa    | Irregular Cogs | Runner    |   16 |    2 |   14 |   32 |    8 |   42 |    2 |    0 |    0 |    0 |    3 |   85 |
 | **Zina**       | Irregular Cogs | Blitzer   |   26 |    4 |   19 |   49 |   16 |    2 |    0 |    5 |    2 |    0 |    4 |   84 |
 | Adalberto | Irregular Cogs | Blitzer   |   26 |    4 |   22 |   52 |   11 |    4 |    1 |    9 |    4 |    1 |    3 |   82 |
 | **Mackenzie**  | Irregular Cogs | Blitzer   |   18 |    2 |   11 |   31 |   17 |    4 |    0 |    1 |    0 |    0 |    4 |   77 |
 | Karsten   | Irregular Cogs | Blitzer   |   23 |    3 |   15 |   41 |    9 |    7 |    0 |    4 |    1 |    1 |    6 |   76 |
-| **Ignat**      | Irregular Cogs | Witch Elf |   25 |    4 |   19 |   48 |    8 |    1 |    1 |    4 |    2 |    1 |    7 |   76 |
+| **Ignat**      | Irregular Cogs | Attacker |   25 |    4 |   19 |   48 |    8 |    1 |    1 |    4 |    2 |    1 |    7 |   76 |
 | **Merlyn**     | Irregular Cogs | Runner    |   10 |    2 |    5 |   17 |    9 |   24 |    1 |    0 |    0 |    0 |    3 |   68 |
 
 

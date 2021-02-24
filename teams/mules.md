@@ -8,7 +8,7 @@ The Mules use the Darvati Dorf playbook, which is built on a lineup slow tackler
 
 ## History
 
-
+The Mules were never a part of the original era UBBL, though after the interruption they were clamouring to get in. They were snakebit in direct elimination in the first three UBBL Challenge tournaments though they did not play badly. So when the Orange Goblet tournament was organized in an effort to give the not-quite Green Cup ready teams a venue for more regular play, the PicoCorp entity rushed at it (faster than most of their lineup can, went the joke). That the Mules managed to win the inaugural season was impressive (especially since they played as the lesser team through all three playoff matches), but the legend of the Mules began with their beating of the Old Wyrms in the first round of the Champions Circuit, a result no one expected, especially as the Mules' star runner [[Nkosana]] was injured.
 
 ## Records
 
@@ -42,40 +42,20 @@ The Mules use the Darvati Dorf playbook, which is built on a lineup slow tackler
 
 | Player    | Team            | Position            | won  | draw | lost | GP   | TD   | Comp | Ints | BH   | SI   | Ki   | MVP  | SPP  |
 |-----------|-----------------|---------------------|------|------|------|------|------|------|------|------|------|------|------|------|
-| **Ekua**      | Ravenous Eagles | Bull Centaur        |   33 |   11 |   39 |   83 |    8 |    0 |    1 |   23 |   12 |    3 |    4 |  122 |
-| **Jantine**   | Ravenous Eagles | Minotaur            |   14 |    8 |   18 |   40 |    0 |    0 |    1 |   38 |   12 |    1 |    2 |  114 |
-| **Percy**     | Ravenous Eagles | Minotaur            |   20 |    3 |   18 |   41 |    1 |    0 |    1 |   26 |    7 |    2 |    4 |   95 |
-| **Humbert**   | Ravenous Eagles | Hobgoblin           |   15 |    7 |   15 |   37 |   12 |   34 |    1 |    1 |    0 |    0 |    3 |   89 |
-| Frediano | Ravenous Eagles | Hobgoblin           |   17 |    4 |   17 |   38 |   13 |   20 |    1 |    1 |    0 |    0 |    3 |   78 |
-| **Chikondi**  | Ravenous Eagles | Bull Centaur        |   29 |    8 |   31 |   68 |    9 |    0 |    2 |    4 |    2 |    1 |    4 |   65 |
-| **Niko**      | Ravenous Eagles | Hobgoblin           |   11 |    7 |   15 |   33 |   12 |    1 |    0 |    3 |    0 |    0 |    4 |   63 |
-| **Bates**     | Ravenous Eagles | Hobgoblin           |    8 |    4 |    9 |   21 |   13 |    4 |    0 |    1 |    0 |    0 |    2 |   55 |
-| Viltaute | Ravenous Eagles | Hobgoblin           |   19 |    5 |   23 |   47 |   10 |   10 |    0 |    0 |    1 |    0 |    2 |   52 |
-| Lumusi   | Ravenous Eagles | Chaos Dwarf Blocker |   34 |   10 |   38 |   82 |    0 |    1 |    1 |    6 |    3 |    1 |    5 |   48 |
-| Sigfrido | Ravenous Eagles | Hobgoblin           |   19 |    3 |   20 |   42 |    8 |    4 |    0 |    1 |    1 |    0 |    2 |   42 |
+| **Nkosana**   | Mules | Runner       |   11 |    0 |    6 |   17 |   20 |    3 |    1 |    0 |    1 |    0 |    1 |   72 |
+| **Bianka**    | Mules | Runner       |   17 |    2 |   10 |   29 |    8 |   21 |    2 |    2 |    0 |    1 |    1 |   60 |
+| **Alida**     | Mules | Blitzer      |   18 |    2 |   10 |   30 |    7 |    3 |    1 |    5 |    0 |    0 |    3 |   51 |
+| **Lambert**   | Mules | Blitzer      |   18 |    2 |   10 |   30 |    5 |    2 |    0 |    2 |    1 |    0 |    4 |   43 |
+| **Renatus**   | Mules | Heavy  |   13 |    0 |    9 |   22 |    0 |    0 |    0 |    5 |    1 |    0 |    5 |   37 |
+| **Gottfried** | Mules | Attacker |   16 |    2 |   10 |   28 |    0 |    0 |    0 |    7 |    6 |    0 |    2 |   36 |
+| **Amalie**    | Mules | Attacker |   18 |    2 |   10 |   30 |    0 |    0 |    0 |    9 |    3 |    0 |    2 |   34 |
+| Halldor  | Mules | Runner       |    6 |    2 |    4 |   12 |    6 |    3 |    0 |    0 |    0 |    0 |    2 |   31 |
+| **Torborg**   | Mules | Blocker      |   18 |    2 |   10 |   30 |    0 |    0 |    0 |    4 |    2 |    0 |    3 |   27 |
+| **Thera**     | Mules | Blocker      |   18 |    2 |   10 |   30 |    0 |    0 |    1 |    5 |    0 |    0 |    1 |   17 |
+| **Reshat**    | Mules | Blocker      |   12 |    0 |    7 |   19 |    0 |    0 |    0 |    3 |    0 |    0 |    2 |   16 |
 
-[[Jantine]] and [[Percy]] have been the biggest stars of the Eagles, who haven't been trying to dominate as much as get into position to put a little run together like they did in GCVII. 
 
-The Eagles have developed a lot of journeymen, especially in GCV.
-
-#### Cup Winners
-
-Ekua VII
-Chikondi VII
-Frediano VII
-Mahendra VII
-Percy VII
-Toma VII
-Bahij VII
-Dijana VII
-Lumusi VII
-Viltaute VII
-Shalev VII
-Warren VII
-Sigfrido VII
-Eliott VII
-Twig VII
-Birgitta VII
+#### Goblet Winners
 
 ### Tactics
 
@@ -83,6 +63,5 @@ Block block block hit hit hit.
 
 ### Fans
 
-Fans of the Ravenous Eagles glory in their championship titles and especially love getting in the faces of fans of the Glorious Hounds[[glorioushounds]]. Their loyalty has been fleeting since the GCVII
 
 ### Famous Games

@@ -14,7 +14,7 @@ The Eldritch Fatality use the Drop Eagle playbook. It's an adaptation of the Her
 
 ### UBBL Record (W-D-L)
 
-43-10-30
+45-10-32
 
 ### Prizes
 
@@ -55,9 +55,9 @@ Sadly for Fatality fans they followed up GCIX with an abysmal last-in-the-Pits f
 | **Betul**    | Eldritch Fatality | Blitzer   |   12 |    2 |   14 |   28 |   18 |    7 |    5 |    1 |    0 |    0 |    6 |  103 |
 | Grimly  | Eldritch Fatality | Blitzer   |   34 |    4 |   19 |   57 |   21 |    8 |    1 |    5 |    2 |    1 |    2 |   99 |
 | Mo      | Eldritch Fatality | Blitzer   |   27 |    7 |   12 |   46 |   15 |    6 |    1 |    3 |    0 |    1 |    4 |   81 |
-| Fosgood | Eldritch Fatality | Witch Elf |   27 |    4 |   14 |   45 |    9 |    4 |    3 |    5 |    1 |    0 |    4 |   69 |
-| *Hermes*  | Eldritch Fatality | Witch Elf |   28 |    3 |   15 |   46 |   10 |    4 |    1 |    3 |    2 |    0 |    4 |   66 |
-| **Vihaio**   | Eldritch Fatality | Lineman   |   34 |    9 |   24 |   67 |    1 |    5 |    0 |    7 |    5 |    0 |    5 |   57 |
+| Fosgood | Eldritch Fatality | Attacker |   27 |    4 |   14 |   45 |    9 |    4 |    3 |    5 |    1 |    0 |    4 |   69 |
+| *Hermes*  | Eldritch Fatality | Attacker |   28 |    3 |   15 |   46 |   10 |    4 |    1 |    3 |    2 |    0 |    4 |   66 |
+| **Vihaio**   | Eldritch Fatality | Line   |   34 |    9 |   24 |   67 |    1 |    5 |    0 |    7 |    5 |    0 |    5 |   57 |
 
 The Fatality are just generally good at BludBol. They spread out their scoring better and with [[Filipa]] still not on the downswing there's no reason this team can't be what the Irregular Cogs have been thought to be for their existence.
 

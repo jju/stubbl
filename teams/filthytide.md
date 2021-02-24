@@ -20,7 +20,7 @@ Their GCIX campaign was devastating to a team of such history. They put their ef
 
 ### UBBL Record (W-D-L)
 
-66-13-69
+68-13-70
 
 ### Prizes
 
@@ -56,7 +56,7 @@ Their GCIX campaign was devastating to a team of such history. They put their ef
 | Player       | Team        | Position      | won  | draw | lost | GP   | TD   | Comp | Ints | BH   | SI   | Ki   | MVP  | SPP  |
 |--------------|-------------|---------------|------|------|------|------|------|------|------|------|------|------|------|------|
 | Yakup           | Filthy Tide | Catcher |   27 |    6 |   20 |   53 |   73 |    1 |    0 |    0 |    1 |    0 |    4 |  242 |
-| Somfuhr         | Filthy Tide | Big Guy      |   31 |    9 |   29 |   69 |    0 |    0 |    0 |   42 |   13 |    6 |    6 |  152 |
+| Somfuhr         | Filthy Tide | Heavy      |   31 |    9 |   29 |   69 |    0 |    0 |    0 |   42 |   13 |    6 |    6 |  152 |
 | Silas           | Filthy Tide | Thrower       |   33 |    9 |   30 |   72 |    2 |  121 |    2 |    1 |    0 |    0 |    2 |  143 |
 | *Despereaux* | Filthy Tide | Catcher | ?? | ?? | ?? | 43 | 31 | 10 | 1 | 1 | 0 | 0 | 5 | 132 |
 | Mayu            | Filthy Tide | Catcher |   28 |    6 |   21 |   55 |   35 |    3 |    2 |    1 |    0 |    0 |    3 |  129 |
