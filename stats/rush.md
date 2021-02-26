@@ -111,16 +111,16 @@ LIMIT 10;
 
 | name        | team          | gp | total_touches | sum(md.td) | tds_touch |
 |-------------|------------------|----|---------------|------------|-----------|
-| Aeson      | Badger Claws     | 37 |           100 |         86 |    0.8600 |
-| *Souta*      | Old Wyrms        | 60 |           157 |         65 |    0.4140 |
-| Costache    | Glorious Hounds  | 31 |            75 |         60 |    0.8000 |
-| *Yakup*      | Filthy Tide      | 42 |            74 |         55 |    0.7432 |
+| **Aeson**      | Badger Claws     | 37 |           100 |         86 |    0.8600 |
+| Souta      | Old Wyrms        | 60 |           157 |         65 |    0.4140 |
+| **Costache**    | Glorious Hounds  | 31 |            75 |         60 |    0.8000 |
+| Yakup      | Filthy Tide      | 42 |            74 |         55 |    0.7432 |
 | Sabah      | Kaiju Dynamo     | 41 |            68 |         52 |    0.7647 |
-| Dragos     | Irregular Cogs   | 53 |            67 |         35 |    0.5224 |
+| **Dragos**     | Irregular Cogs   | 53 |            67 |         35 |    0.5224 |
 | Donat      | Badger Claws     | 33 |            54 |         35 |    0.6481 |
-| Babar      | Old Wyrms        | 59 |            60 |         29 |    0.4833 |
-| *Bahiyya*    | Zensun Vagabonds | 39 |            45 |         29 |    0.6444 |
-| *KneeMasher* | Gore Farmers     | 47 |            77 |         28 |    0.3636 |
+| **Babar**      | Old Wyrms        | 59 |            60 |         29 |    0.4833 |
+| Bahiyya    | Zensun Vagabonds | 39 |            45 |         29 |    0.6444 |
+| KneeMasher | Gore Farmers     | 47 |            77 |         28 |    0.3636 |
 
 ```
 SELECT pl.name, pl.f_tname, count(DISTINCT md.f_match_id) AS gp, sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches) AS total_touches, sum(md.td), sum(md.td) / (sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches)) AS tds_touch 

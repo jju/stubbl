@@ -4,25 +4,25 @@ The pro division awards a number of official prizes (plus a Player of the Week a
 
 | Team | Individual | Team | Grand Total |
 |---|---|---|---|
-| *Old Wyrms* | 21 | 5 | 26 |
-| Filthy Tide | 19 | 2 | 21 |
-| Glorious Hounds | 19 | 1 | 20 |
-| Eldritch Fatality | 16 | 2 | 18 |
-| *Irregular Cogs* | 13 | 2 | 15 |
-| Zensun Vagabonds | 12 | 1 | 13 |
+| *Old Wyrms* | 22 | 6 | 28 |
+| Filthy Tide | 20 | 2 | 22 |
+| Glorious Hounds | 20 | 1 | 21 |
+| Eldritch Fatality | 17 | 2 | 19 |
+| Badger Claws | 16 | 2 | 18 |
+| Zensun Vagabonds | 15 | 2 | 17 |
+| *Irregular Cogs* | 14 | 2 | 16 |
+| Kaiju Dynamo | 12 | 2 | 14 |
 | *Orbital Machine* | 9 | 4 | 13 |
-| Kaiju Dynamo | 10 | 2 | 12 |
-| Badger Claws | 10 | 2 | 12 |
+| *Carcosan Tatters* | 7 | 4 | 11 |
+| Cackling Furies | 8 | 2 | 10 |
+| Darkling Spectres | 8 | 2 | 10 |
 | Gargantuan Brutes | 9 | 1 | 10 |
-| *Carcosan Tatters* | 6 | 4 | 10 |
-| Darkling Spectres | 7 | 2 | 9 |
 | *Gore Farmers* | 5 | 3 | 8 |
-| Cackling Furies | 5 | 2 | 7 |
 | Vanadium Hunters | 4 | 1 | 5 |
 | TC Sump Runners | 3 |  | 3 |
+| Arboreal Menace | 1 |  | 1 |
 
-
-The italicized teams are ones who have won the coveted Green Cup. It is quite common for Eagles fans to parade their championship gear around when other fans (especially those of the Hounds) disparage the Eagles' style of play. As of this writing the Eagles' highest ranked player [[Percy]] on the SPP tally is in 33rd place.
+The italicized teams are ones who have won the coveted Green Cup. It is quite common for Eagles fans to parade their championship gear around when other fans (especially those of the Hounds) disparage the Eagles' style of play. As of this writing the Eagles' highest ranked player [[Ekua]] on the SPP tally is in 18th place, while the Hounds have three players above him ([[Costache]], [[Yosif]] and [[Oiva]] - none of whom are under contract for GCXI).
 
 ## Individual Awards
 

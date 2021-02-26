@@ -1,36 +1,70 @@
+# GCXI
+
+## Burger Conference
+
+### Stacks
+
+* OW 9-1-5 
+* FT 7-1-7
+* GF 7-0-8
+* SR 6-0-9
+
+### Outlands
+
+* BC 9-1-5
+* IC 9-0-6
+* CT 8-1-6
+* AM 8-1-6
+
+## Classic Conference
+
+### Heaps
+
+* OM 8-1-6
+* GH 8-0-7
+* KD 7-2-6
+* ZV 7-1-7
+
+### Pits
+
+* EF 8-1-6
+* RE 7-1-7
+* CF 6-3-6
+* DS 6-2-7
+
 # GCX
 
 ## Burger Conference
 
 ### Stacks
 
-* OW 9-2.8-2.9 32 
-* SR 4.8-2.8-8.8 2
-* FT 6-3-7 8
-* GF 6-2-9 10
+1. **OW**
+2. GF
+3. FT
+4. SR
 
 ### Outlands
 
-* BC 10-2.5-6
-* IC 10-1-6
-* CT 11-1-7?
-* *AR* (replaced GB)
+1. BC
+2. IC
+3. CT
+4. *AR* (replaced GB)
 
 ## Classic Conference
 
 ### Heaps
 
-* GH 9-2-6
-* KD 9.2-2-6.1
-* ZV 6.6-3.3-6
-* OM 8.9-2-4
+1. ZV
+2. KD
+3. OM
+4. GH
 
 ### Pits
 
-* EF 11-2-6
-* CF 5.3-3.3-7.6
-* DS 5-3-9
-* RE 6.8-1.8-8.9
+1. RE
+2. CF
+3. DS
+4. EF
 
 # GCIX
 

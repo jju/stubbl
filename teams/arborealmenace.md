@@ -8,17 +8,6 @@ The Arboreal Menace use the Wary Eagle playbook, which is very similar to the Sc
 
 ## Records
 
-| Team      | Season             | won  | draw | lost | played | win_pct | gf   | ga   | cas  | tcdiff | ff   |
-|-----------|--------------------|------|------|------|--------|---------|------|------|------|--------|------|
-| Arboreal Menace | StUBBL Scramble    |    1 |    0 |    0 |      1 |     100 |    3 |    0 |    1 |      2 |    1 |
-| Arboreal Menace | UBBL Challenge III |    6 |    1 |    0 |      7 | 92.8571 |   30 |   14 |   10 |      3 |    2 |
-| Arboreal Menace | UBBL Challenge IV  |    3 |    0 |    1 |      4 |      75 |   12 |    5 |    2 |     -5 |    3 |
-| Arboreal Menace | UBBL Challenge II  |    3 |    0 |    2 |      5 |      60 |   14 |    7 |    6 |     -5 |    1 |
-| Arboreal Menace | Green Cup X        |    6 |    2 |    8 |     16 |   43.75 |   41 |   51 |   15 |    -15 |   -3 |
-| Arboreal Menace | UBBL Challenge     |    0 |    0 |    3 |      3 |       0 |    3 |    7 |    0 |     -6 |    0 |
-
-
-
 ### Pro Level Record (W-D-L)
 
 6-2-8
@@ -31,21 +20,35 @@ The Arboreal Menace use the Wary Eagle playbook, which is very similar to the Sc
 
 * UBBL Challenge III - UBBL Pennant
 
+| Team      | Season             | won  | draw | lost | played | win_pct | gf   | ga   | cas  | tcdiff | ff   |
+|-----------|--------------------|------|------|------|--------|---------|------|------|------|--------|------|
+| Arboreal Menace | StUBBL Scramble    |    1 |    0 |    0 |      1 |     100 |    3 |    0 |    1 |      2 |    1 |
+| Arboreal Menace | UBBL Challenge III |    6 |    1 |    0 |      7 | 92.8571 |   30 |   14 |   10 |      3 |    2 |
+| Arboreal Menace | UBBL Challenge IV  |    3 |    0 |    1 |      4 |      75 |   12 |    5 |    2 |     -5 |    3 |
+| Arboreal Menace | UBBL Challenge II  |    3 |    0 |    2 |      5 |      60 |   14 |    7 |    6 |     -5 |    1 |
+| Arboreal Menace | Green Cup X        |    6 |    2 |    8 |     16 |   43.75 |   41 |   51 |   15 |    -15 |   -3 |
+| Arboreal Menace | UBBL Challenge     |    0 |    0 |    3 |      3 |       0 |    3 |    7 |    0 |     -6 |    0 |
+
+
 ## History
 
 ### Seasons
 
-The Arboreal Menace began their existence with three straight losses in the first UBBL Challenge (against the Mules, Machine and Eagles).
+The Arboreal Menace began their existence with three straight losses in the first UBBL Challenge (against the [Mules](mules), [Machine](orbitalmachine) and [Eagles](ravenouseagles)).
 
-W-D-L 0-0-3
+In UBBL Challenge II they did much better against the bruising style of play, getting to the Quarter-finals which they lost to the eventual tournament winners the [Gargantuan Brutes](gargantuanbrutes). They lost again to the [Mules](mules) this season.
 
-In UBBL Challenge II they did much better against the bruising style of play, getting to the Quarter-finals (mid 808) which they lost to the eventual tournament winners the Gargantuan Brutes. They lost again to the Mules this season (mid 786).
+The Third UBBL Challenge was the Arboreal Menace's clear crowning achievement thus far. They won the entire tournament in undefeated fashion with a 6-win run after an opening match draw against the [Gladiolas](gladiolas).
 
-W-D-L 3-0-2
+Coming into GCX on a high, the Menace won early, but couldn't keep things under control through a long season. They ended up in last place in the Outlands division (and would have needed to beat the eventual GCX champions in week 15 to have made the playoffs).
 
-The Third UBBL Challenge was the Arboreal Menace' clear crowning achievement thus far. They won the entire tournament in undefeated fashion with a 6-win run after an opening match draw against the Gladiolas (mid 1006).
+The fourth UBBL Challenge saw a return to form where they easily made the quarterfinals against Open Division competition but couldn't advance further.
 
-W-D-L 6-1-0
+#### Projection GCXI
+
+W-D-L 8-1-6
+
+Current projections have them battling the Tatters for third place in the Outlands.
 
 ### Stars & Scrubs (all-time stats)
 
@@ -64,18 +67,16 @@ W-D-L 6-1-0
 | **Iago**      | Arboreal Menace | Line   |   14 |    3 |   13 |   30 |    2 |    4 |    0 |    0 |    0 |    0 |    2 |   20 |
 
 
-The big three for the team going into GCX are Georgina (Catcher pid 842), Hartwin (Thrower pid 845) and Attilla (Catcher pid 844).
+[[Georgina]] won the StUBBL Jumper for UBBL Challenge III. They have amazingly soft hands and there are a few rumblings that they're gunning for the Pro Interception record (they're already atop the all-UBBL list though they've played fewer games than any of the other top 5 in the list).
 
-Georgina won the StUBBL Jumper for UBBL Challenge III. They have amazingly soft hands and there are a few rumblings that they're gunning for the Pro Interception record (already sitting at 5 in the all-UBBL list though they've played fewer than half as many matches as Gaenor in 4th).
+[[Hartwin]] was primarily a backfield passer, though she had the arm for it, she didn't go the extreme long-passing route of a [[Yosif]] or the deceased [[Adam]] or [[Ozymandias]] for the old school). The anticipation that in the Green Cup she'd need a backup did come true, and [[Susila]] is now working his way up the skill tree.
 
-Hartwin is primarily a backfield passer, though she has the arm for it, she hasn't gone the extreme long-passing route of a Yosif (pid 45) or the deceased Adam (pid 875) or Ozymandias for the old school). The anticipation is that in the Green Cup she'll need a backup.
-
-Attilla has a slight edge on Georgina for scoring prowess, but so far that's been mostly due to being the extra outlet for Hartwin to go to. Georgina is (so far) the more pretty player to watch, though we'll see what kind of results these players get against tougher opposition.
+[[Laurel]] and [[Attilla]] are both remarkably good catchers but neither has made themselves part of the larger superstar picture in their first Green Cup campaign.
 
 ### Management
 
 ### Fans
 
-As the Arboreal Menace are in their first Pro-Level season they don't have a lot of long-standing rivalries. Among Open-Level teams they bumped heads most with Thorns fans. Coming into GCX though, their natural rivals are the [[badgerclaws]] as the other upstart team in the race to be the first of them to win the coveted Cup.
+As the Arboreal Menace have only completed their first Pro-Level season they don't have a lot of long-standing rivalries. Among Open-Level teams they bumped heads most with Thorns fans. In the Green Cup though, their natural rivals are the [Badger Claws](badgerclaws), who not only share their division (and use a similar fragile speedster playbook), but are also upstarts who've been promoted from Open-Division playand are eager to be the first to win the coveted Cup.
 
 ### Famous Games

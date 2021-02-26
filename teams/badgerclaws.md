@@ -1,6 +1,6 @@
 # Badger Claws
 
-The Badger Claws fought their way into Green Cup play from the Open Division and have never had a season below .500. They also, as of Green Cup X, have the greatest scorer in UBBL history playing for them.
+The Badger Claws fought their way into Green Cup play from the Open Division and have never had a season below .500. They also have the greatest scorer in UBBL history playing for them.
 
 ## Playbook
 
@@ -18,6 +18,9 @@ The Badger Claws use the Scrying Avian playbook which emphasizes speed above all
 
 ### Prizes
 
+* Green Cup VIII - Classic Conference Champions
+* Green Cup IX - Tough Brake of Alsoran
+
 ### Seasons
 
 | name         | name            | won  | draw | lost | played | win_pct | gf   | ga   | cas  | tcdiff | ff   |
@@ -34,21 +37,18 @@ Never not had a winning season.
 
 ### Seasons
 
-The Badger Claws did not win the first UBBL Challenge (which you may remember was a bigger affair and was much tougher for challenger teams who had to face two established Green Cup teams in Pool Play), but as the top-finishing challenger they won the right to play the last-place Brutes for their spot in the Green Cup.
+The Badger Claws did not win the first UBBL Challenge (which you may remember was a bigger affair and was much tougher for challenger teams who had to face two established Green Cup teams in Pool Play), but as the top-finishing challenger they won the right to play the last-place [Brutes](gargantuanbrutes) for their spot in the Green Cup.
 
-W-D-L 4-1-1
+After defeating the [Brutes](gargantuanbrutes) 5-2, the Badger Claws went off on a tear in the Green Cup VIII tournament. They slowed down around the midpoint but made it through the playoffs with upset after stunning upset until facing down the [Gore Farmers](gorefarmers) in the final.
 
-After defeating the Brutes 5-2, the Badger Claws went off on a tear in the Green Cup VIII tournament. They slowed down around the midpoint and were knocked out of the playoffs early but in all had a very good debut season in the Pros.
+Green Cup IX went even better for the Claws as far as wins go, but they were knocked out of the Conference Finals by the [Old Wyrms](oldwyrms), so they had to be satisfied with third place.
 
-W-D-L 9-2-8
+The projections for GCX had the Claws as 10-game winners and at least conference champions. They didn't manage that because of the incredibly competitive Outlands division, but did squeak through to the conference finals where they lost to the [Old Wyrms](oldwyrms) again.
 
-Green Cup IX went even better for the Claws, but again they were knocked out of the playoffs early.
 
-W-D-L 11-3-4
+#### Projection GCXI
 
-#### Projection GCX
-
-10-2.5-6
+W-D-L 9-1-5
 
 Green Cup Champions or bust (more likely to be conference champs)
 
@@ -71,16 +71,21 @@ Green Cup Champions or bust (more likely to be conference champs)
 
 Obviously when we talk about the Badger Claws we have to talk about the best player the UBBL has ever seen, [[Aeson]]. Aeson's SPP total in GCIX alone eclipse hundreds.
 
-Aeson and [[Donat]] started out similarly but Donat got a serious concussion and development slowed
+Aeson and [[Donat]] started out similarly but Donat got a serious concussion and development slowed. In the off-season after GCX, Donat was the first player in the UBBL to be sold under the new free agency rules. He ended up with the Open Division [Vanadium Hunters](vanadiumhunters) for Orange Goblet II.
 
-[[Cleve]] top of touches without TD
+[[Cleve]] is one of the biggest stars in the UBBL who has never scored a touchdown (3rd in the all-UBBL list and 3rd in the Pro Division). What makes it even more remarkable is how many times he touches the ball without going for the endzone himself.
 
-Will eventually be a problem that all their good players have peaked and there's not a lot of skill waiting in the wings. GCX is do or die time for the Claws so they don't turn into the Filthy Tide who wasted the [[Yakup]] years.
+Will eventually be a problem that all their good players have peaked and there's not a lot of skill waiting in the wings. GCX is do or die time for the Claws so they don't turn into the [Filthy Tide](filthytide) who wasted the [[Yakup]] years.
 
 ### Management
 
 ### Fans
 
-The Badger Claws had a major fan surge (FF +4 over the 9-2-8 season) in their first Green Cup tournament. The team has a few rivalries going to sustain it. The [[arborealmenace]] are a natural rival as the new upstart little sibling in the Green Cup world, while their use of the same playbook as the [[filthytide]] make for some natural "Who did it better?" kinds of comparisons. Then there's the [[kaijudynamo]] a team that almost no one takes seriously, but the Claws have consistently had to get through in their playoff runs.
+The Badger Claws had a major fan surge (FF +4 over the 9-2-8 season) in their first Green Cup tournament. The team has a few rivalries going to sustain it. The [Arboreal Menace](arborealmenace) are a natural rival as the new upstart little sibling in the Green Cup world, while their use of the same playbook as the [Filthy Tide](filthytide) make for some natural "Who did it better?" kinds of comparisons. Then there's the [Old Wyrms](oldwyrms), the team that's stopped the Claws in the conference finals every time they've shared the Burger Conference.
 
 ### Famous Games
+
+The Green Cup VIII Conference Final against the Kaiju Dynamo was an insanely intense score-fest right to the end, when an ill-timed stumble for the Dynamo cost them the match 8-7. That was the highest scoring match seen to that time.
+
+The Badger Claws did break that high scoring record, albeit in a 10-8 loss to the underdog Filthy Tide in [[seasons/gcx/week09]] of the GCX season.
+
