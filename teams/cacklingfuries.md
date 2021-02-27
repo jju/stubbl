@@ -4,7 +4,7 @@ The Cackling Furies are an Old-Era expansion team that can cause a lot of injuri
 
 ## Playbook
 
-The Furies use the Norton playbook, which is mostly a way to get less skilled players to channel their energy into flinging themselves at the opposition in a terrible frenzy. The use a couple of strong ball-hawks, some blitzers, even receivers, but all one sees when a team is going Norton is whirling masses of limbs and teeth. To do this they can't protect themselves very well, so there is a lot of roster turnover.
+The Furies use the Norton playbook, which is mostly a way to get less skilled players to channel their energy into flinging themselves at the opposition in a terrible frenzy. The use a couple of strong attacking ball-hawks, some blitzers, even receivers, but all one sees when a team is going Norton is whirling masses of limbs and teeth. To do this they can't protect themselves very well, so there is a lot of roster turnover.
 
 ## Records
 
@@ -18,13 +18,9 @@ The Furies use the Norton playbook, which is mostly a way to get less skilled pl
 
 ### Prizes
 
-* Green Cup III - Runner-Up
-* Green Cup III - Doom Fist
-* UBBL Challenge II - Runner-Up
-
-## History
-
-The Cackling Furies aren't an original Green Cup team, but in their second season (GCIII) they laid a lot of smack down, winning the Doom Fist and placing second overall to a just more talented Old Wyrms team. After that it took a long time to work back to a winning season in Green Cup play, but they managed it in GCIX.
+* Green Cup III - Runner-Up [[runnerup]]
+* Green Cup III - Doom Fist [[casualties]]
+* UBBL Challenge II - Runner-Up [[runnerup]]
 
 ### Seasons
 
@@ -43,15 +39,24 @@ The Cackling Furies aren't an original Green Cup team, but in their second seaso
 | Cackling Furies | UBBL Challenge IV    |    1 |    0 |    2 |      3 | 33.3333 |    5 |    6 |    5 |      1 |   -1 |
 | Cackling Furies | Green Cup VIII       |    5 |    0 |   11 |     16 |   31.25 |   23 |   38 |   43 |      8 |   -2 |
 
+
+## History
+
+The Cackling Furies aren't an original Green Cup team, but in their second season (GCIII) they laid a lot of smack down, winning the Doom Fist and placing second overall to a just more talented Old Wyrms team. After that it took a long time to work back to a winning season in Green Cup play, but they managed it in GCIX.
+
+### Seasons
+
 In Green Cup III the Furies inflicted 38 Casualties on their way to second place in GCIII.
 
 Their next winning seasons only came in the Open Division in the first two UBBL Challenges. The Furies represented the Green Cup faithful in the final for the UBBL Pennant in UCII after stomping through the B-Side challengers, but fell to the Brutes.
 
-#### Projection
+Green Cups IX and X went better for the Furies. They made it to the division finals each time before being knocked out by the [Eldritch Fatality](eldritchfatality) and [Ravenous Eagles](ravenouseagles) respectively.
 
-5.3-3.3-7.6
+#### Projection GCXI
 
-Hoping for a divisional title.
+W-D-L 6-3-6
+
+Hoping for a chance at the divisional title, but will have to work to make the playoffs first.
 
 ### Stars & Scrubs
 
@@ -73,16 +78,16 @@ Hoping for a divisional title.
 | **Danr**      | Cackling Furies | Blitzer        |   13 |   11 |    7 |   31 |    9 |    2 |    1 |    3 |    2 |    0 |    3 |   56 |
 
 
-Aronne is the star of the future for this team, set to take over [[Snow]]'s spot in the top 5 Furies as soon as GCX begins.
+While the old-era superstar [[Rodrik]] is still atop the Furies' leaderboard, [[Aronne]] is the future for this team. [[Luanna]]'s surprise passing performance in GCX got her the [[relentlesscannon]] award for the season, and could be an indication of a more well-rounded approach to future BludBol.
 
 ### Management
 
 ### Fans
 
-Cackling Furies fans don't have a lot of rivalries, getting in everyone's faces about evenly. They do, however, dislike the [[oldwyrms]] quite vehemently. The Furies' style of play can make them quite dangerous to the (fragile) Wyrms as well.
+Cackling Furies fans don't have a lot of rivalries, getting in everyone's faces about evenly. They do, however, dislike the [Old Wyrms](oldwyrms) quite vehemently. The Furies' style of play can make them quite dangerous to the (fragile) Wyrms as well.
 
 ### Famous Games
 
-The one where Yusra got 3 interceptions in one match and then died.
+The match in Green Cup VIII (Week 1) against the [Kaiju Dynamo](kaijudynamo) where Yusra got 3 interceptions in one match and then died.
 
-The UBBL Challenge match with all the casualties.
+The UBBL Challenge II match against the [[gentlefolk]] with all the casualties.

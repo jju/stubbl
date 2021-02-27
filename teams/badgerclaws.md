@@ -18,8 +18,8 @@ The Badger Claws use the Scrying Avian playbook which emphasizes speed above all
 
 ### Prizes
 
-* Green Cup VIII - Classic Conference Champions
-* Green Cup IX - Tough Brake of Alsoran
+* Green Cup VIII - Classic Conference Champions [[runnerup]]
+* Green Cup IX - Tough Brake of Alsoran [[thirdplace]]
 
 ### Seasons
 
@@ -33,7 +33,7 @@ The Badger Claws use the Scrying Avian playbook which emphasizes speed above all
 
 ## History
 
-Never not had a winning season.
+While the Claws have never not had a winning season, they've also never won a championship.
 
 ### Seasons
 
