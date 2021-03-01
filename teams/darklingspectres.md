@@ -4,7 +4,7 @@ While of late the Darkling Spectres have been mired in mediocrity, they can be a
 
 ## Playbook
 
-The Spectres use the traditional Unglewort playbook. They have nigh-unlimited cheap slow fodder for the line that funnel opposition towards the reliable massive blockers. Two blitzers attack opposing ball-carriers, and up to four ball-carriers supply all of the speed, though they are very fragile.
+The Spectres use the traditional Unglewort playbook. They have nigh-unlimited cheap slow fodder for the line that funnel opposition towards the reliable massive blockers. Two blitzers attack opposing ball-carriers, and up to four runners supply all of the speed, though they are very fragile.
 
 ## Records
 
@@ -18,14 +18,8 @@ The Spectres use the traditional Unglewort playbook. They have nigh-unlimited ch
 
 ### Prizes
 
-* Green Cup Classic 06 - Heaps Champion
-* Green Cup VII - Classic Conference Champions
-
-## History
-
-The Spectres have been mired in mediocrity of late, but the rejuvenated UBBL has led them to their best tournament results (even if their Win% remains right around a coin-toss). Their best pro season was the short GCC06 in which The Spectres handily won their division but injuries deprived them of their stars in the Green Cup final. They won the Heaps again in GCVII and then the Classic Conference, but lost to the Eagles in a battle of not that impressive win record teams (fans say they had a lot of heart).
-
-There've been rumblings that ownership wanted to take their money and run, folding the team. Their lacklustre play in UBBL Challenge III lent weight to the idea, but they are returning for the GCX. Watch them to be a prime target for tanking.
+* Green Cup Classic 06 - Heaps Champion [[runnerup]]
+* Green Cup VII - Classic Conference Champions [[runnerup]]
 
 ### Seasons
 
@@ -44,9 +38,21 @@ There've been rumblings that ownership wanted to take their money and run, foldi
 | Darkling Spectres | Green Cup V Memorial |    2 |    1 |    7 |     10 |      25 |    9 |   19 |   17 |      6 |   -1 |
 | Darkling Spectres | UBBL Challenge III   |    0 |    0 |    1 |      1 |       0 |    0 |    4 |    2 |     -3 |   -1 |
 
-#### Projection
+## History
 
-5-3-9 Losing in the Round of 16
+The Spectres have been mired in mediocrity of late, but the rejuvenated UBBL has led them to their best tournament results. 
+
+### Seasons
+
+Their best pro season was the short GCC06 in which The Spectres handily won their division but injuries deprived them of their stars in the Green Cup final. They won the Heaps again in GCVII and then the Classic Conference, but lost to the [Eagles](ravenouseagles) in a battle of not that impressive win record teams (fans say they had a lot of heart).
+
+There've been rumblings that ownership wanted to take their money and run, folding the team. Their lacklustre play in UBBL Challenge III lent weight to the idea, but they returned for the GCX. Everyone was watching them to see if they'd be tanking, but they ended up making the playoffs (on the backs of a surprisingly bad [Eldritch Fatality](eldritchfatality) team.
+
+#### Projection GCXI
+
+W-D-L 6-2-7 
+
+Missing the playoffs.
 
 ### Stars & Scrubs
 
@@ -66,15 +72,16 @@ There've been rumblings that ownership wanted to take their money and run, foldi
 | Eberardo    | Darkling Spectres | Runner    |    7 |    1 |    6 |   14 |   13 |    2 |    0 |    0 |    0 |    0 |    2 |   51 |
 | Bambino     | Darkling Spectres | Runner    |   26 |    8 |   28 |   62 |   11 |    7 |    0 |    2 |    0 |    0 |    1 |   49 |
 
-This team relies way too much on Tooms II. Tooms is also fragile as hell and should not be back for another round of battery, but they don't have anyone really special in the wings to replace him.
+For a very long time this team relied way too much on [[ToomsII]] who was fragile as hell, but they didn't have anyone really special in the wings to replace him. Now [[Channing]] takes that role but with the support of [[Gojko]] and [[Olufunmi]] they can spread some of the offensive work around a bit better.
 
 ### Management
 
-The Delake family makes a lot of money on this team and will most likely be cashing out at the end of the tenth Green Cup season.
+The Lake ownership group makes a lot of money on this team and there isn't a lot of demand at the top for high-level play or competitiveness.
 
 ### Fans
 
-The Spectres have come close to winning the Green Cup a couple of times, but have been thwarted by similarily bashing teams. Fans hate it when the schedule comes up against the [[orbitalmachine]] or the [[gorefarmers]].
+The Spectres have come close to winning the Green Cup a couple of times, but have been thwarted by similarily bashing teams. Fans hate it when the schedule comes up against the [Orbital Machine](orbitalmachine) or the [Gore Farmers](gorefarmers).
 
 ### Famous Games
 
+#unfinished 
