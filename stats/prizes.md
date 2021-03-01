@@ -38,7 +38,7 @@ The italicized teams are ones who have won the coveted Green Cup. It is quite co
 
 ## Team Prizes
 
-First, second, third place and the most casualties are the four team awards given in each Pro season.
+First, second, third place and the most casualties are the four team awards given in each Pro season. These are mirrored in the Open Division tournaments as well.
 
 * [[champion]]
 * [[runnerup]]
