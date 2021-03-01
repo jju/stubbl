@@ -41,11 +41,13 @@ The Tatters use the Nergal playbook, some (especially fans of pretty BludBol) sa
 
 ## History
 
-The Tatters have always been a very good team. Defensive-minded without really flashy stars, they won the first Green Cup they entered as an expansion team. The Tatters didn't defend their title and lost in the quarterfinals of GCIII (but still accumulated more points than either of the semifinal losers). They bashed their way to second place in the rejuvenated UBBL which we have better statistics for. They only have two non-winning seasons on record, and the GCV Memorial was only a street level brawl, so it hardly counts.
+The Tatters have always been a very good team. Defensive-minded without really flashy stars, 
 
 ### Seasons
 
-#unfinished 
+The Tatters won the first Green Cup they entered as an expansion team. The Tatters didn't defend their title and lost in the quarterfinals of GCIII (but still accumulated more points than either of the semifinal losers, which got them the Tough Brake award). 
+
+Under former player BSEncef's leadership the Tatters bashed their way to second place in the rejuvenated UBBL. While the GCVII campaign went terribly, it remains their only losing pro-level season on record.
 
 #### Projection GCXI
 
@@ -74,9 +76,11 @@ The Tatters could be in position to upset for a Divisional title, but hopes are 
 
 The Tatters thrive on teamwork and defense, neither of which lends itself well to big flashy stars taking over a match. Back in the Old-Era [[BSEncef]] (now the team's manager) was a big flashy star, but he hasn't tried to develop that kind of mindset in the current players. [[Gention]] had been holding things down as the best player for the last couple of tournaments (since the awful GCVII campaign in which there was a major redevelopment), but [[Sparrow]] will soon be taking her place and may emerge as the next superstar.
 
-pre-GCX: Though [[Pierre]] is third on the team for SPP, it was in flux until quite late whether he would suit up for the GCX season. Also of note, [[Adeno]] was an old veteran who didn't do much in the revitalization but has played for the team by far the longest.
+Though [[Pierre]] is third on the team for SPP, it was in flux until quite late whether he would suit up for the GCX season. Also of note, [[Adeno]] was an old veteran who didn't do much in the revitalization but has played for the team by far the longest.
 
 ### Management
+
+BSEncef runs the team cheaply but humbly. He basically has a grind it out ethic that a lot of fans and other players respect.
 
 ### Fans
 
