@@ -1,16 +1,10 @@
 # Filthy Tide
 
-The Filthy Tide are often called the best team to never win the Green Cup. They're an Original 8 team that has had two of the best scorers in the UBBL [[Yakup]] and [[Sardines]] but has never been able to convert the big win to get their stars a championship. Now they are in rebuild mode.
+The Filthy Tide are often called the best team to never win the Green Cup. They're an Original 8 team that has had two hall-of-fame scorers in the UBBL but has never been able to convert the big win to get those stars a championship. They are currently in rebuild mode.
 
 ## Playbook
 
 The Filthy Tide uses the Scrying Avian playbook which emphasizes speed above all else, especially the health of your own players. With proper training it's possible to have a super-fast scorer onside, which makes the lack of defensive ability easier to overcome.
-
-## History
-
-The UBBL pennant is no Green Cup, but the Filthy Tide have been a storied team the entire existence of the league (in its various forms) and had never won anything. This victory whetted their appetite for a Green Cup somewhere in their future. Perhaps merely by playing the most matches, the Filthy Tide inflicted the most casualties in this tournament, 16 (11-5-0).
-
-Their GCIX campaign was devastating to a team of such history. They put their efforts in the GCV Memorial tournament to develop a replacement for Yakup and rather than learning a more conservative style of play to match up with their current team's abilities they are pinning their entire season's fortunes on Venus, a young player who scored a TD and looked fast doing it.
 
 ## Records
 
@@ -24,10 +18,10 @@ Their GCIX campaign was devastating to a team of such history. They put their ef
 
 ### Prizes
 
-* Green Cup VI - Doom Fist
-* Green Cup VI - Tough Brake of Alsoran
-* UBBL Challenge - UBBL Pennant
-* UBBL Challenge - Gorefield Honour
+* Green Cup VI - Doom Fist [[casualties]]
+* Green Cup VI - Tough Brake of Alsoran [[thirdplace]]
+* UBBL Challenge - UBBL Pennant [[champion]]
+* UBBL Challenge - Gorefield Honour [[casualties]]
 
 ### Seasons
 
@@ -47,9 +41,19 @@ Their GCIX campaign was devastating to a team of such history. They put their ef
 | Filthy Tide | Green Cup IX         |    4 |    3 |   10 |     17 | 32.3529 |   45 |   57 |   16 |    -23 |   -1 |
 | Filthy Tide | UBBL Challenge III   |    0 |    0 |    1 |      1 |       0 |    0 |    2 |    0 |     -5 |    0 |
 
-#### GCX Projection
+## History
 
-6-3-7 Lose in Round of 16
+The UBBL pennant is no Green Cup, but the Filthy Tide have been a storied team the entire existence of the league (in its various forms) and had never won anything. This victory whetted their appetite for a Green Cup somewhere in their future. Perhaps merely by playing the most matches, the Filthy Tide inflicted the most casualties in this tournament, 16 (11-5-0).
+
+Their 4-win GCIX campaign was devastating to a team of such history. To follow up they put their efforts in the GCV Memorial tournament to develop a replacement for Yakup. Rather than learning a more conservative style of play to match up with their GCIX team's abilities they are pinning their entire season's fortunes on [[Venus]], a young player who scored a TD and looked fast doing it.
+
+This approach wasn't punished too harshly in GCX, until they hit the playoffs and were steamrolled by the [Gore Farmers](gorefarmers).
+
+#### GCXI Projection
+
+W-D-L 7-1-7 
+
+The Tide is projected to get second in the Stacks division, but will then most likely lose in the Round of 16
 
 ### Stars & Scrubs
 
@@ -73,16 +77,16 @@ Their GCIX campaign was devastating to a team of such history. They put their ef
 | **Tomer**            | Filthy Tide | Catcher |   13 |    5 |   18 |   36 |   13 |    3 |    1 |    1 |    0 |    0 |    4 |   66 |
 
 
-Somfuhr inflicted the most casualties of any player in the Pro Division, while for a time [[Yakup]] seemed untouchable in his scoring abilities. That they couldn't convert this dynamic duo into more than a third place finish is heartbreaking. The new hope is [[Venus]], who after one pro season has more SPP than [[Sardines]] did.
+[[Somfuhr]] inflicted the most casualties of any player in the Pro Division, while for a time [[Yakup]] seemed untouchable in his scoring abilities. That they couldn't convert this dynamic duo into more than a third place finish is heartbreaking. The new hope is [[Venus]], who after one pro season has more SPP than [[Sardines]] did.
 
 ### Management
 
-Sentimental fan of counting stats and wouldn't take out players past their prime when they needed to be.
+Asmodeus, an explayer, runs the team in a pretty hands-off manner. They're a sentimental fan of counting stats and wouldn't take out players past their prime when they needed to be.
 
 ### Fans
 
-The Filthy Tide have long been in the shadow of the [[oldwyrms]]. They have had great individual players but no team success. Tide fans see Wyrms supporters as arrogant blowhards, but they hate Wyrms management even more for their unsentimental business first approach to winning. Tide fans also see the [[badgerclaws]] as an up and coming rival, and would love to see their star [[Aeson]] retire, preferably without a Green Cup ring.
+The Filthy Tide have long been in the shadow of the [Old Wyrms](oldwyrms). They have had great individual players but no team success. Tide fans see Wyrms supporters as arrogant blowhards, but they hate Wyrms management even more for their unsentimental business first approach to winning. Tide fans also see the [Badger Claws](badgerclaws) as an up and coming rival, and would love to see their star [[Aeson]] retire, preferably without a Green Cup ring. Generally the GCX season was a good one for Tide fans after a rough start.
 
 ### Famous Games
 
-The UBBL Challenge semifinal with all the scoring. GCX Week 9 with even more scoring.
+The UBBL Challenge semifinal vs the [Kaiju Dynamo](kaijudynamo) with all the scoring. GCX Week 9 [[seasons/gcx/week09]] with even more scoring which didn't lead to a (sub-Pro) championship.

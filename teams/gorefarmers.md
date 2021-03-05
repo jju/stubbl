@@ -1,18 +1,10 @@
 # Gore Farmers
 
-When the Gore Farmers are good they can be very good, as evidenced by their two Green Cup wins in the modern era. But they can also be really bad, which has led to relegation and terrible seasons and an overall record hovering around .500.
+When the Gore Farmers are good they can be very good, as evidenced by their two Green Cup wins in the modern era. But they can also be really bad, which has led to relegation and terrible seasons and an overall record below .500.
 
 ## Playbook
 
 The Orville-Crush approach to BludBol is traditional, simple, but also somewhat arcane. A team can use 4 strong slow and unskilled linemen, 4 faster attacking blitzers, 2 dedicated ball-handlers, 4 weak slow receivers and a nigh-unlimited supply of tough fodder. The basic idea is to get a ball handler into a cage and grind out a 2-1 win, but there are more options for the team that wishes to develop them. The Gore Farmers, for instance, *mostly* eschew the Big Guy approach.
-
-## History
-
-The Gore Farmers were the first team to be relegated in the old-era UBBL after a terrible inaugural season. When they came back they were better, and in GCIV they only had 2 losses. It was a shame the second came in the quarterfinals. Spleen Hucker was a thrower in that Old-Era incarnation and was the person tagged to lead the team's name to glory, which only came in the new era, winning the first modern (somewhat disputed) Green Cup in GCVI.
-
-They followed up their first championship with a lousy GCVII, but then in GCVIII the Gore Farmers played solid defensive caging BludBol to win: the Stacks Division facing a mad-scoring threat in the first round, the Burger Conference against a defensive powerhouse and the Green Cup itself against a very young and healthy mad-scoring threat. They're the first renaissance era multiple champions and did it by playing their game.
-
-Sadly for lovers of pure competition, Spleen Hucker was also one of the first to really jump on the tanking in a lost season strategy, making their bad seasons really bad and leaving them as a .500 team overall despite being multiple champions.
 
 ## Records
 
@@ -26,9 +18,9 @@ Sadly for lovers of pure competition, Spleen Hucker was also one of the first to
 
 ### Prizes
 
-* Green Cup VI - Green Cup Champions
-* Green Cup VIII - Green Cup Champions
-* Green Cup IV - Tough Brake of Alsoran
+* Green Cup VI - Green Cup Champions [[champion]]
+* Green Cup VIII - Green Cup Champions [[champion]]
+* Green Cup IV - Tough Brake of Alsoran [[thirdplace]]
 
 ### Seasons
 
@@ -46,9 +38,23 @@ Sadly for lovers of pure competition, Spleen Hucker was also one of the first to
 | Gore Farmers | Green Cup IX         |    1 |    4 |   11 |     16 |   18.75 |   17 |   34 |   28 |     14 |   -6 |
 | Gore Farmers | UBBL Challenge IV    |    0 |    0 |    2 |      2 |       0 |    2 |    6 |    3 |      0 |   -1 |
 
-#### GCX Projection
+## History
 
-6-2-9 Quarterfinal loss.
+### Seasons
+
+The Gore Farmers were the first team to be relegated in the old-era UBBL after a terrible inaugural season. When they came back they were better, and in GCIV they only had 2 losses. It was a shame the second came in the quarterfinals. [[Spleen Hucker]] was a thrower in that Old-Era incarnation and was the person tagged to lead the team's name to glory, which only came in the new era, winning the first modern (somewhat disputed) Green Cup in GCVI.
+
+They followed up their first championship with a lousy GCVII, but then in GCVIII the Gore Farmers played solid defensive caging BludBol to win: the Stacks Division facing [a mad-scoring threat](filthytide) in the first round, the Burger Conference against a defensive powerhouse and the Green Cup itself against [a very young and healthy mad-scoring threat](badgerclaws). They're the first renaissance era multiple champions and did it by playing their game.
+
+Sadly for lovers of pure competition, Spleen Hucker was also one of the first to really jump on the tanking in a lost season strategy, making their bad seasons (like GCIX) really bad and leaving them as a .500 team overall despite being multiple champions.
+
+In GCX they played for the Stacks championship but lost to the [Old Wyrms](oldwyrms). They did avoid the charge of tanking and could do well in GCXI
+
+#### GCXI Projection
+
+W-D-L 7-0-8 
+
+Round of 16 loss.
 
 ### Stars & Scrubs
 
@@ -71,6 +77,8 @@ Sadly for lovers of pure competition, Spleen Hucker was also one of the first to
 
 
 That the Gore Farmers have won two modern-era Green Cups with only one legitimate superstar (who is now retired - [[KneeMasher]]) is an impressive testament to the power of a solid line and the traditional caging methods of play. [[GutTwister]] retired after GCVI as a veteran of the old-era UBBL. He says he was glad to get a ring, but felt sidelined despite his abilities.
+
+The current rising star is [[Aemulus]] who provides a fine alternative to [[Mashee]] as a scoring threat from outside the cage.
 
 #### Cup Winners
 
@@ -109,10 +117,10 @@ Spleen Hucker has proved to be a savvy leader of the team, but at the expense of
 
 ### Fans
 
-The current fanbase hates the tanking that went on in GCIX and the Farmers are going to be under the microscope for violations of the spirit of the new rules in GCX.
+The current fanbase hates the tanking that went on in GCIX and the Farmers were going to be under the microscope for violations of the spirit of the new rules in GCX. They got through the season having regained some trust.
 
-The Gore Farmers and the [[orbitalmachine]] both won the sixth Green Cup (one Classic and one not) and that dispute over which one should really count fuelled their rivalry. The [[darklingspectres]] at this point are the team the Farmers try their best to fend off, as successfully as they have thus far.
+The Gore Farmers and the [Orbital Machine](orbitalmachine) both won the sixth Green Cup (one Classic and one not) and that dispute over which one should really count fuelled their rivalry. The [Darkling Spectres](darklingspectres) at this point are the team the Farmers try their best to fend off, as successfully as they have thus far.
 
 ### Famous Games
 
-GCVI Final
+The GCVI Final is a match to watch. It wasn't the most pretty, but it's a pretty excellent example of how good BludBol can be even without constant arcing passes.

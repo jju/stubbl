@@ -18,11 +18,8 @@ The Glorious Hounds use the High Extension playbook, a venerable adaptation of t
 
 ### Prizes
 
-* Green Cup IV - Runner-Up 
-
-## History
-
-The Hounds fought and fought in the old-era to gain admission to the Green Cup circuit. When they finally did, they came in second place with a match that just didn't measure up to even average play. And then it was the last season to be played. The Hounds couldn't make their new lineup of rookies play worth a damn in Green Cup VI, but since then they've never had less than a winning record.
+* Green Cup IV - Runner-Up [[runnerup]]
+* UBBL Challenge IV - UBBL Pennant [[champion]]
 
 ### Seasons
 
@@ -38,9 +35,15 @@ The Hounds fought and fought in the old-era to gain admission to the Green Cup c
 | Glorious Hounds | Green Cup X          |    4 |    4 |    8 |     16 |    37.5 |   40 |   46 |   13 |    -25 |   -3 |
 | Glorious Hounds | Green Cup VI         |    3 |    4 |    8 |     15 | 33.3333 |   30 |   33 |   15 |    -13 |    1 |
 
-#### Projection
+## History
 
-9-2-6 Division Champion - Reality: Last place in division
+The Hounds fought and fought in the old-era to gain admission to the Green Cup circuit. When they finally did, they came in second place with a match that just didn't measure up to even average play. And then it was the last season to be played. The Hounds couldn't make their new lineup of rookies play worth a damn in Green Cup VI, but since then they've been generally much better. They were projected to be Heaps champions in GCX, but ended up last place in the division. No one could really tell why things went so poorly, but they did.
+
+#### Projection GCXI
+
+W-D-L 8-0-7
+
+Division Champion
 
 ### Stars & Scrubs
 
@@ -59,20 +62,23 @@ The Hounds fought and fought in the old-era to gain admission to the Green Cup c
 | Berry    | Glorious Hounds | Blitzer  |   25 |    6 |   16 |   47 |   14 |    2 |    0 |    4 |    1 |    2 |    4 |   78 |
 | Baraz    | Glorious Hounds | Catcher  |   13 |    4 |   12 |   29 |   14 |    3 |    2 |    1 |    1 |    1 |    4 |   75 |
 | **Florinda**  | Glorious Hounds | Blitzer  |   23 |    8 |   15 |   46 |    2 |    2 |    2 |    5 |    2 |    2 |    8 |   70 |
-|           | Glorious Hounds | Line  |   24 |    4 |   24 |   52 |    8 |    9 |    0 |    1 |    1 |    1 |    6 |   69 |
 | Mandawuy | Glorious Hounds | Catcher  |   17 |    2 |   10 |   29 |   18 |    5 |    1 |    1 |    0 |    0 |    1 |   68 |
 
 
 
-[[Costache]] had an injury making her slightly more expensive than her effectiveness warrants, but a better all-round receiver we see only rarely.
+[[Costache]] had an injury making her more expensive than her effectiveness warrants, but a better all-round receiver we see only rarely.
 
 [[Yosif]] is the best pure passer the UBBL has seen, and that includes Ozymandias, who has actually (amazingly) seemed to be okay with the eclipsing of his talent.
 
 [[Oiva]] was an excellent ball-hawk, but not quite the Green Cup best.
 
+[[Ziba]] isn't high up in the pantheon of Glorious Greats yet, but she's the fastest catcher the team has ever had, and with proper support, could make a run at some of the individual prizes currently held on lockdown by [[Aeson]].
+
 Past that, we start getting into stars that are replaceable within a season.  
 
 ### Management
+
+Ozymandias runs the team, and like many of the other former players, he runs it with an eye towards a love of the game first. He wants his players to play beautifully and they practice with that in mind. 
 
 ### Fans
 
@@ -82,4 +88,6 @@ Hounds fans generally despise teams that aren't trying to play aesthetically bea
 
 ### Famous Games
 
-The 8-0 drubbing of the Gargantuan Brutes is basically a perfectly played match. The only way to really improve upon it would be to have a 1-turn scorer on the pitch, which the Hounds never had the luxury of fielding.
+The 8-0 drubbing of the [Gargantuan Brutes](gargantuanbrutes) in GCVII was basically a perfectly played match. The only way to really improve upon it would be to have a 1-turn scorer on the pitch, which the Hounds never had the luxury of fielding.
+
+In UBBL Challenge IV they had that speedster but managed only(!) another 8-0 win. These textbook displays are amazing things to study, as all true fans of BludBol should do.

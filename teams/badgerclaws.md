@@ -85,7 +85,7 @@ The Badger Claws had a major fan surge (FF +4 over the 9-2-8 season) in their fi
 
 ### Famous Games
 
-The Green Cup VIII Conference Final against the Kaiju Dynamo was an insanely intense score-fest right to the end, when an ill-timed stumble for the Dynamo cost them the match 8-7. That was the highest scoring match seen to that time.
+The Green Cup VIII Conference Final against the [Kaiju Dynamo](kaijudynamo) was an insanely intense score-fest right to the end, when an ill-timed stumble for the Dynamo cost them the match 8-7. That was the highest scoring match seen to that time.
 
 The Badger Claws did break that high scoring record, albeit in a 10-8 loss to the underdog Filthy Tide in [[seasons/gcx/week09]] of the GCX season.
 
