@@ -69,7 +69,7 @@ Green Cup Champions or bust (more likely to be conference champs)
 | **Sunny**      | Badger Claws | Catcher |   12 |    1 |    9 |   22 |    8 |    2 |    1 |    0 |    0 |    0 |    1 |   33 |
 
 
-Obviously when we talk about the Badger Claws we have to talk about the best player the UBBL has ever seen, [[Aeson]]. Aeson's SPP total in GCIX alone eclipse hundreds.
+Obviously when we talk about the Badger Claws we have to talk about the best player the UBBL has ever seen, [Aeson](../players/Aeson). Aeson's SPP total in GCIX alone eclipse hundreds.
 
 Aeson and [[Donat]] started out similarly but Donat got a serious concussion and development slowed. In the off-season after GCX, Donat was the first player in the UBBL to be sold under the new free agency rules. He ended up with the Open Division [Vanadium Hunters](vanadiumhunters) for Orange Goblet II.
 

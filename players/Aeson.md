@@ -18,7 +18,7 @@ Aeson came up in the UBBL Challenge with [[Donat]], and the main difference betw
 | Aeson | Badger Claws | UBBL Challenge  |    4 |    1 |    1 |   16 |    1 |      0 |    0 |    0 |    0 |    1 |   54 |
 | Aeson | Badger Claws | StUBBL Scramble |    1 |    0 |    0 |    3 |    0 |      0 |    0 |    0 |    0 |    0 |    9 |
 
-# Offense Stats
+# Counting Stats
 
 | name  | f_tname      | name            | td   | total_rushing | pass_distance | total_touches | cp   | pass_distance | intcpt_rate | sacked | catch_rate |
 |-------|--------------|-----------------|------|---------------|---------------|---------------|------|---------------|-------------|--------|------------|
