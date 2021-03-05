@@ -18,9 +18,9 @@ The Furies use the Norton playbook, which is mostly a way to get less skilled pl
 
 ### Prizes
 
-* Green Cup III - Runner-Up [[runnerup]]
-* Green Cup III - Doom Fist [[casualties]]
-* UBBL Challenge II - Runner-Up [[runnerup]]
+* Green Cup III - Runner-Up [[team2ndplace]]
+* Green Cup III - Doom Fist [[teamcasualties]]
+* UBBL Challenge II - Runner-Up [[team2ndplace]]
 
 ### Seasons
 

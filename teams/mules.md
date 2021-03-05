@@ -18,8 +18,8 @@ The Mules use the Darvati Dorf playbook, which is built on a lineup slow tackler
 
 ### Prizes
 
-* Orange Goblet I - Orange Goblet Champions [[champion]]
-* UBBL Challenge III - Gorefield Honour [[casualties]]
+* Orange Goblet I - Orange Goblet Champions [[team1stplace]]
+* UBBL Challenge III - Gorefield Honour [[teamcasualties]]
 
 ### Seasons
 

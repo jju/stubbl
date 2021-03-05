@@ -18,8 +18,8 @@ The Eldritch Fatality use the Drop Eagle playbook. It's an adaptation of the Her
 
 ### Prizes
 
-* Green Cup Classic 06 - Tough Brake of Alsoran [[thirdplace]]
-* Green Cup IX - Classic Conference Champions [[runnerup]]
+* Green Cup Classic 06 - Tough Brake of Alsoran [[team3rdplace]]
+* Green Cup IX - Classic Conference Champions [[team2ndplace]]
 
 ### Seasons
 

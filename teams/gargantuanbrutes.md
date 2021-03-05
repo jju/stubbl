@@ -18,9 +18,9 @@ The Brutes used the Charged Puncher playbook, which uses an assortment of fodder
 
 ### Prizes
 
-* Green Cup I - Doom Fist [[casualties]]
-* UBBL Challenge II - UBBL Pennant [[champion]]
-* UBBL Challenge II - Gorefield Honour [[casualties]]
+* Green Cup I - Doom Fist [[teamcasualties]]
+* UBBL Challenge II - UBBL Pennant [[team1stplace]]
+* UBBL Challenge II - Gorefield Honour [[teamcasualties]]
 
 ### Seasons
 

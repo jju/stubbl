@@ -1,6 +1,6 @@
 # Sump Runners
 
-They were once thought to be the future of BludBol in the old era UBBL, and were set to play in Green Cup V before the interruption. They've never lived up to that, though they are good in Open Division play. They lean more on the passing game than most generalist teams do, which can make them more fun to watch than other teams with a similar playbook.
+They were once thought to be the future of BludBol in the old era UBBL, and were set to play in Green Cup V before the interruption. They've never lived up to that, though they are good in Open Division play. They lean on the passing game which can make them more fun to watch than other teams with a similar playbook.
 
 ## Playbook
 
@@ -18,12 +18,8 @@ The Sump Runners use the Hermann playbook, the original plan for playing BludBol
 
 ### Prizes
 
-* UBBL Challenge II - Most Improved
-* UBBL Challenge III - Runner-Up
-
-## History
-
-They were once thought to be the future of BludBol in the old era UBBL. They've never lived up to that, though they are good in Open Division play. The TC Sump Runners were facing relegation in the second UBBL Challenge tournament but fought their way to third place. The Sump Runners had their own undefeated run going mowing down challengers in the B-Side of the UBBL Challenge III tournament until the Arborist scoring threat proved too much in the final.
+* UBBL Challenge II - Most Improved [[team3rdplace]]
+* UBBL Challenge III - Runner-Up [[team2ndplace]]
 
 ### Seasons
 
@@ -39,6 +35,23 @@ They were once thought to be the future of BludBol in the old era UBBL. They've 
 | TC Sump Runners | Green Cup VIII       |    4 |    2 |   10 |     16 |   31.25 |   29 |   40 |   31 |      5 |   -2 |
 | TC Sump Runners | Green Cup X          |    3 |    2 |   11 |     16 |      25 |   23 |   46 |   28 |     -4 |   -4 |
 
+## History
+
+The Sump Runners have never had a winning Pro-Level season.
+
+### Seasons
+
+The TC Sump Runners were facing relegation in the second UBBL Challenge tournament but fought their way to third place. 
+
+The Sump Runners had their own undefeated run going mowing down challengers in the B-Side of the UBBL Challenge III tournament until the [Arborist](arborealmenace) scoring threat proved too much in the final.
+
+Green Cup X saw the team play putridly and the faced relegation in UBBL Challenge IV, where they managed to get a couple of wins and preserved their attempts for the Green Cup.
+
+#### Projection GCXI
+
+W-D-L 6-0-9
+
+Last place in the Stacks.
 
 ### Stars & Scrubs
 
@@ -57,14 +70,18 @@ They were once thought to be the future of BludBol in the old era UBBL. They've 
 | Branka    | TC Sump Runners | Catcher  |    9 |    4 |   16 |   29 |    9 |    1 |    1 |    1 |    0 |    0 |    3 |   47 |
 | **Edgar**      | TC Sump Runners | Line  |   25 |   14 |   39 |   78 |    0 |    4 |    2 |    5 |    5 |    1 |    3 |   45 |
 
-The Sump Runners play a slightly unorthodox version of the traditional allrounder strategy. Jacquetta actually plays the role of a traditional Thrower, while Shay is more like a Blitzer.
+The Sump Runners play a slightly unorthodox version of the traditional allrounder strategy. [[Jacquetta]] actually plays the role of a traditional Thrower, while [[Shay]]'s positioning is more like a Blitzer.
 
 ### Management
 
-One of the first UBBL teams owned by the TyrolCorp instead of a traditional bludbol family.
+One of the first UBBL teams owned by the TyrolCorp entity from upspire instead of a more traditional bludbol concern.
 
 ### Fans
 
-In the past the [[vanadiumhunters]] were the Sump Runners' chief rivals, but with them relegated it's slim pickings. They had a devastating loss to the [[arborealmenace]] in the third UBBL Challenge tournament, which may spark something moving on. The absolute drubbing they took in GCX shed fans by the bandwagonload.
+In the past the [Vanadium Hunters](vanadiumhunters) were the Sump Runners' chief rivals, but with them relegated it's slim pickings. They had a devastating loss to the [Arboreal Menace](arborealmenace) in the third UBBL Challenge tournament, which may spark something moving on. The absolute drubbing they took in GCX shed fans by the bandwagonload.
 
 ### Famous Games
+
+The Sump Runners haven't had a lot of great moments in the UBBL.
+
+#unfinished 

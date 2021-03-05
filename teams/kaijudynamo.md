@@ -18,9 +18,9 @@ The Dynamo use the Elizabeth Aardman playbook, with strong linemen and a big guy
 
 ### Prizes
 
-* Green Cup I - Tough Brake of Alsoran [[thirdplace]]
-* UBBL Challenge - Runner-Up [[runnerup]]
-* Green Cup VIII - Tough Brake of Alsoran [[thirdplace]]
+* Green Cup I - Tough Brake of Alsoran [[team3rdplace]]
+* UBBL Challenge - Runner-Up [[team2ndplace]]
+* Green Cup VIII - Tough Brake of Alsoran [[team3rdplace]]
 
 
 ### Seasons

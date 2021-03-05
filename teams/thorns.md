@@ -3,7 +3,7 @@
 
 ## Playbook
 
-The Thorns use what's known as the Excelsior playbook, where a fast fragile receiving corps works together downfield making catches in traffic and getting out of trouble. It's a shorter-passing game than the High Extension playbook used by the [Glorious Hounds](glorioushounds) but when you can avoid injury it's very effective, as the Wyrms have shown.
+The Thorns use what's known as the Excelsior playbook, where a fast fragile receiving corps works together downfield making catches in traffic and getting out of trouble. It's a shorter-passing game than the High Extension playbook used by the [Gladiolas](gladiolas) but when you can avoid injury it's very effective, as the Pro-Level [Old Wyrms](oldwyrms) have shown.
 
 ## History
 
@@ -12,12 +12,15 @@ The Thorns use what's known as the Excelsior playbook, where a fast fragile rece
 
 ### Open Level Record (W-D-L)
 
+15-2-9
 
 ### UBBL Record (W-D-L)
 
+17-2-9
 
 ### Prizes
 
+* Orange Goblet I - Runner Up [[team2ndplace]]
 
 ### Seasons
 
@@ -30,6 +33,9 @@ The Thorns use what's known as the Excelsior playbook, where a fast fragile rece
 | Thorns | Orange Goblet      |    7 |    1 |    5 |     13 | 57.6923 |   31 |   26 |   15 |     -5 |    0 |
 | Thorns | UBBL Challenge     |    1 |    1 |    1 |      3 |      50 |   10 |    8 |    5 |      0 |    1 |
 
+## History
+
+The Thorns are a good Open level team and are waiting to prove themselves even better in Pro-Level play.
 
 ### Stars & Scrubs
 
@@ -38,11 +44,8 @@ The Thorns use what's known as the Excelsior playbook, where a fast fragile rece
 
 
 
-#### Cup Winners
 
-
-
-### Tactics
+### Management
 
 
 ### Fans

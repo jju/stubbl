@@ -18,10 +18,10 @@ The Tatters use the Nergal playbook, some (especially fans of pretty BludBol) sa
 
 ### Prizes
 
-* Green Cup II - Green Cup Champions [[champion]]
-* Green Cup II - Doom Fist [[casualties]]
-* Green Cup III - Tough Brake of Alsoran [[thirdplace]]
-* Green Cup VI - Outlands Champion [[runnerup]]
+* Green Cup II - Green Cup Champions [[team1stplace]]
+* Green Cup II - Doom Fist [[teamcasualties]]
+* Green Cup III - Tough Brake of Alsoran [[team3rdplace]]
+* Green Cup VI - Outlands Champion [[team2ndplace]]
 
 ### Seasons
 
