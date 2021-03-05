@@ -1,4 +1,4 @@
-[[badgerclaws]][[centurion]][[stubbljumper]][[mvp]][[sardinecrown]][[halflegaward]][[softhands]]
+[[badgerclaws]][[centurion]][[mvp#gcix]][[mvp#gcx]][[mvp#ubbl challenge]][[sardinecrown]][[halflegaward]][[softhands]][[runner]]
 
 Aeson was 0.58GSec old when he made his debut for the Badger Claws.
 
