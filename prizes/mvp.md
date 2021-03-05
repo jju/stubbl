@@ -1,4 +1,10 @@
+# most valuable player awards
+
+[[prizes/index]]
+
 # all-time
+
+[[Aeson]]
 
 # modern era
 

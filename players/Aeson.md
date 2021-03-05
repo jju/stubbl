@@ -10,20 +10,20 @@ Aeson came up in the UBBL Challenge with [[Donat]], and the main difference betw
 
 # Basic Stats
 
-| name  | team         | season          | won  | draw | lost | td   | cp   | intcpt | bh   | si   | ki   | mvp  | spp  |
-|-------|--------------|-----------------|------|------|------|------|------|--------|------|------|------|------|------|
-| Aeson | Badger Claws | Green Cup IX    |   11 |    3 |    4 |   59 |    1 |      0 |    0 |    0 |    0 |    5 |  203 |
-| Aeson | Badger Claws | Green Cup X     |    9 |    1 |    7 |   52 |    0 |      0 |    0 |    0 |    0 |    3 |  171 |
-| Aeson | Badger Claws | Green Cup VIII  |    9 |    2 |    8 |   27 |    1 |      0 |    0 |    0 |    0 |    1 |   87 |
-| Aeson | Badger Claws | UBBL Challenge  |    4 |    1 |    1 |   16 |    1 |      0 |    0 |    0 |    0 |    1 |   54 |
-| Aeson | Badger Claws | StUBBL Scramble |    1 |    0 |    0 |    3 |    0 |      0 |    0 |    0 |    0 |    0 |    9 |
+| Player | Team         | Season          | won  | draw | lost | td   | cp   | intcpt | bh   | si   | ki   | mvp  | spp  |
+|--------|--------------|-----------------|------|------|------|------|------|--------|------|------|------|------|------|
+| Aeson  | Badger Claws | UBBL Challenge  |    4 |    1 |    1 |   16 |    1 |      0 |    0 |    0 |    0 |    1 |   54 |
+| Aeson  | Badger Claws | StUBBL Scramble |    1 |    0 |    0 |    3 |    0 |      0 |    0 |    0 |    0 |    0 |    9 |
+| Aeson  | Badger Claws | Green Cup VIII  |    9 |    2 |    8 |   27 |    1 |      0 |    0 |    0 |    0 |    1 |   87 |
+| Aeson  | Badger Claws | Green Cup IX    |   11 |    3 |    4 |   59 |    1 |      0 |    0 |    0 |    0 |    5 |  203 |
+| Aeson  | Badger Claws | Green Cup X     |    9 |    1 |    7 |   52 |    0 |      0 |    0 |    0 |    0 |    3 |  171 |
 
-# Counting Stats
+# Prize Stats
 
-| name  | f_tname      | name            | td   | total_rushing | pass_distance | total_touches | cp   | pass_distance | intcpt_rate | sacked | catch_rate |
-|-------|--------------|-----------------|------|---------------|---------------|---------------|------|---------------|-------------|--------|------------|
-| Aeson | Badger Claws | Green Cup IX    |   59 |           796 |             1 |            64 |    1 |             1 |      0.0000 |      5 |     0.9600 |
-| Aeson | Badger Claws | Green Cup X     |   52 |           646 |             0 |            55 |    0 |             0 |        NULL |      1 |     1.0000 |
-| Aeson | Badger Claws | Green Cup VIII  |   27 |           357 |             0 |            36 |    1 |             0 |      0.3333 |      0 |     1.0000 |
-| Aeson | Badger Claws | UBBL Challenge  |   16 |           214 |             2 |            19 |    1 |             2 |      0.0000 |      0 |     0.8571 |
-| Aeson | Badger Claws | StUBBL Scramble |    3 |            38 |             0 |             3 |    0 |             0 |        NULL |      0 |     1.0000 |
+| Player | Team         | Season          | Games | TDs  | Rush | Cp   | PassDist | Caught | Picks | Cas  | Blocks | Sacks | MVPs | SPP  |
+|--------|--------------|-----------------|-------|------|------|------|----------|--------|-------|------|--------|-------|------|------|
+| Aeson  | Badger Claws | UBBL Challenge  |     6 |   16 |  213 |    1 |        2 |     12 |     0 |    0 |      1 |     0 |    1 |   54 |
+| Aeson  | Badger Claws | StUBBL Scramble |     1 |    3 |   38 |    0 |        0 |      2 |     0 |    0 |      0 |     0 |    0 |    9 |
+| Aeson  | Badger Claws | Green Cup VIII  |    19 |   27 |  358 |    1 |        0 |     28 |     0 |    0 |      2 |     0 |    1 |   87 |
+| Aeson  | Badger Claws | Green Cup IX    |    18 |   59 |  795 |    1 |        1 |     48 |     0 |    0 |      1 |     0 |    5 |  203 |
+| Aeson  | Badger Claws | Green Cup X     |    17 |   52 |  645 |    0 |        0 |     40 |     0 |    0 |      0 |     0 |    3 |  171 |

@@ -1,3 +1,7 @@
+# most rushing squares
+
+[[prizes/index]]
+
 # all-time
 
 # modern era

@@ -1,4 +1,4 @@
-[[filthytide]][[mvp]][[bestsinglematch]][[sardinecrown]][[halflegaward]][[centurion]][[gcvi]][[catcher]][[runner]]
+[[filthytide]][[mvp#gcvii]][[bestsinglematch]][[sardinecrown#gcvi]][[halflegaward#gcvii]][[centurion]][[gcvi]][[catcher]][[runner]]
 
 Upon his retirement at the end of GCVIII Yakup had amassed 227 SPP with 178 SPP in Green Cup seasons VI-VIII. His final line score for Green Cup matches reads 55 TDs (+13 in the Open Division), 1 Completion, 0 Interceptions, 1 Casualty (0-1-0) and 2 MVP awards (+2 in the Open Division). The TD and SPP records were not, perhaps, unbreakable but they are pretty legendary.
 
@@ -8,24 +8,38 @@ Yakup retired from pro BludBol at the end of GCVIII (652.4) but then returned fo
 
 Birthdate 1262.065-720:257
 
-## Pro Stat Line
+# Basic Stats
 
-| GP | Cp | TD | Int | Cas | BH | SI | Ki | MVP | SPP |
-| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | 
-| 42 | 1 | 55 | 0 | 1 | 0 | 1 | 0 | 2 | 178 |
+| Player | Team         | Season          | won  | draw | lost | td   | cp   | intcpt | bh   | si   | ki   | mvp  | spp  |
+|--------|--------------|-----------------|------|------|------|------|------|--------|------|------|------|------|------|
+| Yakup  | Filthy Tide | Green Cup VI         |    4 |    1 |    6 |   16 |    1 |      0 |    0 |    1 |    0 |    0 |   51 |
+| Yakup  | Filthy Tide | Green Cup VII        |    9 |    3 |    5 |   26 |    0 |      0 |    0 |    0 |    0 |    1 |   83 |
+| Yakup  | Filthy Tide | UBBL Challenge       |    5 |    0 |    1 |   13 |    0 |      0 |    0 |    0 |    0 |    2 |   49 |
+| Yakup  | Filthy Tide | Green Cup VIII       |    7 |    1 |    6 |   13 |    0 |      0 |    0 |    0 |    0 |    1 |   44 |
+| Yakup  | Filthy Tide | Green Cup V Memorial |    2 |    1 |    2 |    5 |    0 |      0 |    0 |    0 |    0 |    0 |   15 |
+
+# Prize Stats
+
+| Player | Team         | Season          | Games | TDs  | Rush | Cp   | PassDist | Caught | Picks | Cas  | Blocks | Sacks | MVPs | SPP  |
+|--------|--------------|-----------------|-------|------|------|------|----------|--------|-------|------|--------|-------|------|------|
+| Yakup. | Filthy Tide | Green Cup VI         |    11 |   **16** |  171 |    1 |        1 |     16 |     0 |    1 |     10 |     1 |    0 |   51 |
+| Yakup. | Filthy Tide | Green Cup VII        |    17 |   26 |  **349** |    0 |        0 |     25 |     0 |    0 |      2 |     0 |    1 |   **83** |
+| Yakup. | Filthy Tide | UBBL Challenge       |     6 |   13 |  165 |    0 |        0 |      6 |     0 |    0 |      0 |     0 |    2 |   49 |
+| Yakup. | Filthy Tide | Green Cup VIII       |    14 |   13 |  234 |    0 |        0 |     15 |     0 |    0 |      8 |     1 |    1 |   44 |
+| Yakup. | Filthy Tide | Green Cup V Memorial |     3 |    5 |   67 |    0 |        0 |      5 |     0 |    0 |      3 |     0 |    0 |   15 |
 
 ### rookie season - gcvi
 
 | Player | Team        | round | TDs  | Rush | Cp   | PassDist | Caughts | Cas  | Blocks | Sacks | MVPs | SPP  |
 |--------|-------------|-------|------|------|------|----------|---------|------|--------|-------|------|------|
-| Yakup. | Filthy Tide |     6 |    1 |    0 |    0 |        0 |       2 |    0 |      0 |     0 |    0 |    3 |
-| Yakup. | Filthy Tide |     7 |    3 |   34 |    0 |        0 |       3 |    0 |      0 |     0 |    0 |    9 |
-| Yakup. | Filthy Tide |     8 |    1 |   11 |    0 |        0 |       2 |    1 |      3 |     1 |    0 |    5 |
-| Yakup. | Filthy Tide |     9 |    1 |    0 |    0 |        0 |       1 |    0 |      0 |     0 |    0 |    3 |
-| Yakup. | Filthy Tide |    10 |    2 |   22 |    0 |        0 |       1 |    0 |      3 |     0 |    0 |    6 |
-| Yakup. | Filthy Tide |    11 |    1 |    3 |    0 |        0 |       1 |    0 |      1 |     0 |    0 |    3 |
-| Yakup. | Filthy Tide |    12 |    1 |    4 |    0 |        0 |       1 |    0 |      1 |     0 |    0 |    3 |
-| Yakup. | Filthy Tide |    13 |    1 |   13 |    0 |        0 |       0 |    0 |      0 |     0 |    0 |    3 |
-| Yakup. | Filthy Tide |    14 |    4 |   62 |    0 |        0 |       5 |    0 |      2 |     0 |    0 |   12 |
-| Yakup. | Filthy Tide |   252 |    1 |   11 |    1 |        1 |       0 |    0 |      0 |     0 |    0 |    4 |
-| Yakup. | Filthy Tide |   253 |    0 |   11 |    0 |        0 |       0 |    0 |      0 |     0 |    0 |    0 |
+| Yakup | Filthy Tide |     6 |    1 |    0 |    0 |        0 |       2 |    0 |      0 |     0 |    0 |    3 |
+| Yakup | Filthy Tide |     7 |    3 |   34 |    0 |        0 |       3 |    0 |      0 |     0 |    0 |    9 |
+| Yakup | Filthy Tide |     8 |    1 |   11 |    0 |        0 |       2 |    1 |      3 |     1 |    0 |    5 |
+| Yakup | Filthy Tide |     9 |    1 |    0 |    0 |        0 |       1 |    0 |      0 |     0 |    0 |    3 |
+| Yakup | Filthy Tide |    10 |    2 |   22 |    0 |        0 |       1 |    0 |      3 |     0 |    0 |    6 |
+| Yakup | Filthy Tide |    11 |    1 |    3 |    0 |        0 |       1 |    0 |      1 |     0 |    0 |    3 |
+| Yakup | Filthy Tide |    12 |    1 |    4 |    0 |        0 |       1 |    0 |      1 |     0 |    0 |    3 |
+| Yakup | Filthy Tide |    13 |    1 |   13 |    0 |        0 |       0 |    0 |      0 |     0 |    0 |    3 |
+| Yakup | Filthy Tide |    14 |    4 |   62 |    0 |        0 |       5 |    0 |      2 |     0 |    0 |   12 |
+| Yakup | Filthy Tide |    QF |    1 |   11 |    1 |        1 |       0 |    0 |      0 |     0 |    0 |    4 |
+| Yakup | Filthy Tide |    SF |    0 |   11 |    0 |        0 |       0 |    0 |      0 |     0 |    0 |    0 |
