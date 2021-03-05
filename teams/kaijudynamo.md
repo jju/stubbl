@@ -1,20 +1,10 @@
 # Kaiju Dynamo
 
-The Kaiju Dynamo are a frustrating team to cheer for. They always seem right on the cusp of being really good, then it all falls apart, leaving them as almost exactly a .500 team. Being a Dynamo fan means one is long-suffering.
+The Kaiju Dynamo are a frustrating team to cheer for. They always seem right on the cusp of being really good, then it all falls apart, leaving them as a slightly better than .500 team. Being a Dynamo fan means one is long-suffering.
 
 ## Playbook
 
 The Dynamo use the Elizabeth Aardman playbook, with strong linemen and a big guy anchoring the centre, while the ball handlers are chosen for speed (rather than skill, strength or durability). The basic idea of the playbook is to cage the fragile ballhandler to a place where they can bolt for the endzone.
-
-## History
-
-The Kaiju Dynamo started up along with the UBBL, and right from the beginning their role was to be the unconventional playmakers. The old era version of the team started off its history with a third-place finish in GCI, but that was the only prize they managed before the interruption.
-
-When the UBBL restarted, the Dynamo were left out of the GCVI season, for reasons of mediocrity they were told. IngenIOUs Corp (a payday loan concern) bought the rights to the name and jumped at the chance to play in the Green Cup Classic 06 season instead. They performed to their mediocre expectations, and were folded into the merged league for GCVII, in which they performed almost exactly as well.
-
-When the Kaiju Dynamo entered the first UBBL Challenge after GCVII they had a single goal: developing [[Sabah]] into a superspeedy scoring threat. They had seen the individual success of [[Yakup]] and when they had a potential rival, they pushed and pushed. That they managed to pull off second place in the tournament while fielding mostly rookies and scrubs is a testament to the weirdness of BludBol.
-
-With Sabah's help the Dynamo finished on top of the GCVIII regular season standings, defying all expectations. It was just a tiny bit of bad luck that kept them from the Classic Conference title. The players aren't too distraught, though the doubters will probably see this as the team's peak. They had a winning record in GCIX, but again, couldn't string together the wins they needed in the playoffs.
 
 ## Records
 
@@ -28,9 +18,9 @@ With Sabah's help the Dynamo finished on top of the GCVIII regular season standi
 
 ### Prizes
 
-* Green Cup I - Tough Brake of Alsoran
-* UBBL Challenge - Runner-Up
-* Green Cup VIII - Tough Brake of Alsoran
+* Green Cup I - Tough Brake of Alsoran [[team3rdplace]]
+* UBBL Challenge - Runner-Up [[team2ndplace]]
+* Green Cup VIII - Tough Brake of Alsoran [[team3rdplace]]
 
 
 ### Seasons
@@ -50,6 +40,21 @@ With Sabah's help the Dynamo finished on top of the GCVIII regular season standi
 | Kaiju Dynamo | Green Cup V Memorial |    2 |    3 |    5 |     10 |      35 |   12 |   19 |    6 |    -17 |   -3 |
 | Kaiju Dynamo | Green Cup IV         |    2 |    1 |    7 |     10 |      25 |   18 |   28 |   11 |    -19 |   -1 |
 
+## History
+
+The Kaiju Dynamo started up along with the UBBL, and right from the beginning their role was to be the unconventional playmakers. 
+
+## Seasons
+
+The old era version of the team started off its history with a third-place finish in GCI, but that was the only prize they managed before the interruption.
+
+When the UBBL restarted, the Dynamo were left out of the GCVI season, for reasons of mediocrity they were told. IngenIOUs Corp (a payday loan concern) bought the rights to the name and jumped at the chance to play in the Green Cup Classic 06 season instead. They performed to their mediocre expectations, and were folded into the merged league for GCVII, in which they performed almost exactly as well.
+
+When the Kaiju Dynamo entered the first UBBL Challenge after GCVII they had a single goal: developing [[Sabah]] into a superspeedy scoring threat. They had seen the individual success of [[Yakup]] and when they had a potential rival, they pushed and pushed. That they managed to pull off second place in the tournament while fielding mostly rookies and scrubs is a testament to the weirdness of BludBol.
+
+With Sabah's help the Dynamo finished on top of the GCVIII regular season standings, defying all expectations. It was just a tiny bit of bad luck that kept them from the Classic Conference title. The players aren't too distraught, though the doubters will probably see this as the team's peak. They had a winning record in GCIX, but again, couldn't string together the wins they needed in the playoffs.
+
+The death of Sabah in GCX was a huge blow to the team and most commentators wrote them off right then. In the end, however they achieved the same record as in GCIX (albeit with 14 fewer TDs).
 
 ### Stars & Scrubs
 
@@ -72,22 +77,22 @@ With Sabah's help the Dynamo finished on top of the GCVIII regular season standi
 | Morgan   | Kaiju Dynamo | Blocker   |   19 |    7 |   16 |   42 |    0 |    0 |    0 |    4 |    4 |    0 |    7 |   51 |
 | **Vardan**    | Kaiju Dynamo | Runner    |    5 |    1 |    4 |   10 |   11 |    8 |    0 |    0 |    0 |    0 |    2 |   51 |
 
-[[Sabah]] was basically the entire strategy of the GCVIII team, and he was great at the time. Now, he's been hit around the head too much and can't be relied upon, so the Dynamo need to develop some other means of getting the ball to the endzone.
+[[Starfin]] will do his best to get the ball to a scorer, but he is no [[Nakayama]].
 
-[[Starfin]] will do his best to get the ball to a scorer, but he is no Nakayama.
+Since Sabah's development as a Sardines-style speedster, the offense has relied much more on [[Deepali]] opening a hole for [[Sabah]] to bolt through and score from the line of scrimmage. [[Sabah]] was basically the entire strategy of the GCVIII through early GCX teams, and she was great at the time. In GCX they had to work with secondary players, like [[Marco]] and [[Vardan]] who seem to be rewarding a more careful approach to the game.
 
-### Tactics
+### Management
 
-The Dynamo use the Elizabeth Duraman playbook, with strong linemen and a big guy anchoring the centre, while the ball handlers are chosen for speed (rather than skill, strength or durability). The basic idea of the playbook is to cage the fragile ballhandler to a place where they can bolt for the endzone. Since Sabah's development as a Sardines-style speedster, the offense has relied much more on [[Deepali]] opening a hole for [[Sabah]] to bolt through and score from the line of scrimmage.
+IngenIOUs Corp specializes in odd mathematical transactions uphive. There's no concept of love for the game there, which means fans are very much on their own.
 
 ### Fans
 
 No one becomes a fan of the Dynamo because they enjoy the easy life. There are always injuries to someone critical to the offense, and training up rookies to take the place of linemen that have cycled out of the lineup means every season has more "developmental" games than a fan who wants quick victory will enjoy.
 
-Dynamo fans have been burned in the past by Scrying Avian teams (so the [[badgerclaws]] and [[filthytide]]) and the disparity between their record and number of championships compared to the [[gorefarmers]] always rankles.
+Dynamo fans have been burned in the past by Scrying Avian teams (so the [Badger Claws](badgerclaws) and [Filthy Tide](filthytide]])) and the disparity between their record and number of championships compared to the [Gore Farmers](gorefarmers) always rankles.
 
 ### Famous Games
 
-The GCVIII Classic Conference final against the [Badger Claws](badgerclaws) is the highest scoring match in UBBL history. That they lost the game because of one little slip-up means there are folk songs about it. http://68.148.52.218/stbblm/index.php?section=matches&type=report&mid=560
+The GCVIII Classic Conference final against the [Badger Claws](badgerclaws) was the highest scoring match in UBBL history. That they lost the game because of one little slip-up means there are folk songs about it. http://68.148.52.218/stbblm/index.php?section=matches&type=report&mid=560
 
 #unfinished 

@@ -18,8 +18,8 @@ The Badger Claws use the Scrying Avian playbook which emphasizes speed above all
 
 ### Prizes
 
-* Green Cup VIII - Classic Conference Champions [[runnerup]]
-* Green Cup IX - Tough Brake of Alsoran [[thirdplace]]
+* Green Cup VIII - Classic Conference Champions [[team2ndplace]]
+* Green Cup IX - Tough Brake of Alsoran [[team3rdplace]]
 
 ### Seasons
 
@@ -44,7 +44,6 @@ After defeating the [Brutes](gargantuanbrutes) 5-2, the Badger Claws went off on
 Green Cup IX went even better for the Claws as far as wins go, but they were knocked out of the Conference Finals by the [Old Wyrms](oldwyrms), so they had to be satisfied with third place.
 
 The projections for GCX had the Claws as 10-game winners and at least conference champions. They didn't manage that because of the incredibly competitive Outlands division, but did squeak through to the conference finals where they lost to the [Old Wyrms](oldwyrms) again.
-
 
 #### Projection GCXI
 
@@ -85,7 +84,7 @@ The Badger Claws had a major fan surge (FF +4 over the 9-2-8 season) in their fi
 
 ### Famous Games
 
-The Green Cup VIII Conference Final against the Kaiju Dynamo was an insanely intense score-fest right to the end, when an ill-timed stumble for the Dynamo cost them the match 8-7. That was the highest scoring match seen to that time.
+The Green Cup VIII Conference Final against the [Kaiju Dynamo](kaijudynamo) was an insanely intense score-fest right to the end, when an ill-timed stumble for the Dynamo cost them the match 8-7. That was the highest scoring match seen to that time.
 
 The Badger Claws did break that high scoring record, albeit in a 10-8 loss to the underdog Filthy Tide in [[seasons/gcx/week09]] of the GCX season.
 

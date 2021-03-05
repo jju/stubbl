@@ -4,11 +4,7 @@ The Kicking Mules were the first winners of the Orange Goblet, a championship fo
 
 ## Playbook
 
-The Mules use the Darvati Dorf playbook, which is built on a lineup slow tacklers to block off the centre, two attacking blitzers and two safety blitzers with a couple of ball handlers. The emphasis is on toughness and defense rather than speed.
-
-## History
-
-The Mules were never a part of the original era UBBL, though after the interruption they were clamouring to get in. They were snakebit in direct elimination in the first three UBBL Challenge tournaments though they did not play badly. So when the Orange Goblet tournament was organized in an effort to give the not-quite Green Cup ready teams a venue for more regular play, the PicoCorp entity rushed at it (faster than most of their lineup can, went the joke). That the Mules managed to win the inaugural season was impressive (especially since they played as the lesser team through all three playoff matches), but the legend of the Mules began with their beating of the Old Wyrms in the first round of the Champions Circuit, a result no one expected, especially as the Mules' star runner [[Nkosana]] was injured.
+The Mules use the Darvati Dorf playbook, which is built on a lineup slow tacklers to block off the centre, two attacking blitzers and two safety blitzers with a couple of ball handling runners. The emphasis is on toughness and defense rather than speed.
 
 ## Records
 
@@ -22,8 +18,8 @@ The Mules were never a part of the original era UBBL, though after the interrupt
 
 ### Prizes
 
-* Orange Goblet I - Orange Goblet Champions
-* UBBL Challenge III - Gorefield Honour
+* Orange Goblet I - Orange Goblet Champions [[team1stplace]]
+* UBBL Challenge III - Gorefield Honour [[teamcasualties]]
 
 ### Seasons
 
@@ -36,7 +32,15 @@ The Mules were never a part of the original era UBBL, though after the interrupt
 | Mules | UBBL Challenge II  |    3 |    0 |    2 |      5 |      60 |    7 |    8 |   11 |      4 |    1 |
 | Mules | StUBBL Scramble    |    0 |    1 |    0 |      1 |      50 |    1 |    1 |    4 |      4 |    1 |
 
+## History
 
+The Mules were never a part of the original era UBBL, though after the interruption they were clamouring to get in. 
+
+### Seasons
+
+They were snakebit in direct elimination in the first three UBBL Challenge tournaments though they did not play badly. So when the Orange Goblet tournament was organized in an effort to give the not-quite Green Cup ready teams a venue for more regular play, the PicoCorp entity rushed at it (faster than most of their lineup can, went the joke). 
+
+That the Mules managed to win the inaugural Orange Goblet season was impressive (especially since they played as the lesser team through all three playoff matches), but the legend of the Mules began with their beating of the [Old Wyrms](oldwyrms) in the first round of the Champions Circuit, a result no one expected, especially as the Mules' star runner [[Nkosana]] was injured.
 
 ### Stars & Scrubs
 
@@ -54,14 +58,34 @@ The Mules were never a part of the original era UBBL, though after the interrupt
 | **Thera**     | Mules | Blocker      |   18 |    2 |   10 |   30 |    0 |    0 |    1 |    5 |    0 |    0 |    1 |   17 |
 | **Reshat**    | Mules | Blocker      |   12 |    0 |    7 |   19 |    0 |    0 |    0 |    3 |    0 |    0 |    2 |   16 |
 
+[[Nkosana]] is the key to the Mules' offense, and could find a place in many even more generally skilled teams.
 
 #### Goblet Winners
 
-### Tactics
+* Nkosana - OGI
+* Bianka - OGI
+* Renatus - OGI
+* Lambert - OGI
+* Gottfried - OGI
+* Amalie - OGI
+* Torborg - OGI
+* Alida - OGI
+* Reshat - OGI
+* Lasse - OGI
+* Halgurd - OGI
+* Thera - OGI
+* Volker - OGI
+* Khloe - OGI
+* Janne - OGI
 
-Block block block hit hit hit.
+### Management
+
+
 
 ### Fans
 
+The Mules are steadily gaining fans as they win. They haven't had a really terrible season yet so there's a lot of interest.
 
 ### Famous Games
+
+Champions Circuit victory over the [Old Wyrms](oldwyrms)

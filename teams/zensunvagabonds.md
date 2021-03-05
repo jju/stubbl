@@ -1,6 +1,6 @@
 # Zensun Vagabonds
 
-Usually credited along with the Old Wyrms as the founders of the UBBL, the Vagabonds have a long history of not being great. Which is kind of funny as they did almost win the Green Cup once back in the Old-Era.
+Usually credited along with the Old Wyrms as the founders of the UBBL, the Vagabonds have a long history in fans' minds of not being great. Which is kind of funny as they did almost win the Green Cup once back in the Old-Era.
 
 ## Playbook
 
@@ -18,8 +18,8 @@ The Vagabonds use the Hermann playbook, the original plan for playing BludBol, a
 
 ### Prizes
 
-* Green Cup II - Runner-Up
-* Green Cup X - Tough Brake of Alsoran
+* Green Cup II - Runner-Up [[team2ndplace]]
+* Green Cup X - Tough Brake of Alsoran [[team3rdplace]]
 
 ### Seasons
 
@@ -39,7 +39,19 @@ The Vagabonds use the Hermann playbook, the original plan for playing BludBol, a
 | Zensun Vagabonds | UBBL Challenge     |    0 |    1 |    1 |      2 |      25 |    2 |    3 |    6 |      3 |   -1 |
 | Zensun Vagabonds | UBBL Challenge III |    0 |    0 |    1 |      1 |       0 |    2 |    3 |    0 |     -1 |   -1 |
 
+## History
 
+The Vagabonds have been getting better as of late.
+
+### Seasons
+
+The Green Cup X season was a triumph for the Vagabonds, marred only by the playoff loss. If they can build on that success they could be hositing the Green Cup.
+
+#### Projection GCXI
+
+W-D-L 7-1-7
+
+Fighting for third place in the Heaps.
 
 ### Stars & Scrubs
 
@@ -61,7 +73,9 @@ The Vagabonds use the Hermann playbook, the original plan for playing BludBol, a
 | **Clydon**       | Zensun Vagabonds | Thrower  |   14 |    3 |   11 |   28 |    1 |   27 |    2 |    1 |    0 |    0 |    4 |   56 |
 | **Betuel**       | Zensun Vagabonds | Thrower  |   11 |    2 |    4 |   17 |    2 |   32 |    0 |    1 |    0 |    0 |    3 |   55 |
 
-This is a team that just wants to build something of itself. Jonah and Clydon are being forced into the role of faces of the franchise when they are not ready.
+[[Jonah]] and [[Clydon]] were being forced into the role of faces of the franchise before they were really ready. [[Betuel]] is rapidly rising in the ranks.
+
+The Vagabonds miss the days of having [[Hulud]] anchoring their lineup.
 
 
 ## History
@@ -70,9 +84,11 @@ Usually credited along with the Old Wyrms as the founders of the UBBL, the Vagab
 
 ### Management
 
+Muddib is an old BludBol hand exiled from somewhere far upspire. He's ancient and grublike but knows the game. That he's been unable to create a championship force from his players rankles.
+
 ### Fans
 
-The Vagabonds' primary rivalry is with the [[oldwyrms]] as the pair of UBBL Founders. They've never been nearly as good as the Wyrms, so a lot of fans see themselves as custodians of tradition instead of victory.
+The Vagabonds' primary rivalry is with the [Old Wyrms](oldwyrms) as the pair of UBBL Founders. They've never been nearly as good as the Wyrms, so a lot of fans see themselves as custodians of tradition instead of victory.
 
 ### Famous Games
 

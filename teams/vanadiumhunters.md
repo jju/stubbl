@@ -1,5 +1,11 @@
 # Vanadium Hunters
 
+The Hunters have been around a long time and in the Old-Era had one of the best players in the business. They've never been very good though, which led to relegation to the Open Division after GCVIII.
+
+## Playbook
+
+The Vanadium Hunters use the Hermann playbook, the original plan for playing BludBol, and the one that every other strategy is an adaptation of. The team has two thrower positions available, 4 catchers, 4 blitzers, a big guy and fills out the rest of the lineup with undistinguished concussion-fodder. Like most Hermann teams, the Hunters don't use all their specialist receivers, trusting more to a running game with the blitzers.
+
 ## Records
 
 ### Pro Level Record (W-D-L)
@@ -12,11 +18,7 @@
 
 ### Prizes
 
-* Green Cup IV - Doom Fist
-
-## History
-
-They are generally a bad team at the pro level, but they did achieve a Doom Fist in the old-era UBBL. The Hunters had never managed to achieve a winning season before the inaugural Open Division Orange Goblet. 
+* Green Cup IV - Doom Fist [[teamcasualties]]
 
 ### Seasons
 
@@ -35,7 +37,13 @@ They are generally a bad team at the pro level, but they did achieve a Doom Fist
 | Vanadium Hunters | UBBL Challenge III   |    0 |    0 |    3 |      3 |       0 |    5 |   10 |    1 |     -1 |   -2 |
 | Vanadium Hunters | UBBL Challenge IV    |    0 |    0 |    2 |      2 |       0 |    2 |    8 |    0 |     -2 |   -1 |
 
+## History
 
+They are generally a bad team at the pro level, but they did achieve a Doom Fist in the old-era UBBL. 
+
+### Seasons
+
+The Hunters had never managed to achieve a winning season before the inaugural Open Division Orange Goblet.
 
 ### Stars & Scrubs
 
@@ -61,12 +69,16 @@ They are generally a bad team at the pro level, but they did achieve a Doom Fist
 | **Mayflower** | Vanadium Hunters | Line  |   27 |   16 |   43 |   86 |    0 |    2 |    2 |    5 |    0 |    1 |    6 |   48 |
 | Tycho    | Vanadium Hunters | Catcher  |    5 |    9 |   12 |   26 |   14 |    2 |    1 |    0 |    0 |    0 |    0 |   46 |
 
-[[Vrej]] came back from a fine retirement to play in the Green Cup V Memorial tournament and while that was enough to push him up the all-time Hunters hall of fame, it also cost him his life.
+There's a lot of history in the list of star Hunters, but modern-era success has been minimal. [[Vrej]] came back from a fine retirement to play in the Green Cup V Memorial tournament and while that was enough to push him up the all-time Hunters hall of fame, it also cost him his career.
 
 ### Management
 
+The Noordennen family that runs the Hunters were the first to jump on the free agency model, using some of their Orange Goblet winnings to purchase [[Donat]] from the [Badger Claws](badgerclaws).
+
 ### Fans
 
-The Hunters have been around a long time and in the Old-Era had one of the best players in the business. Their fans love their traditional style and get really angry at teams like the [[kaijudynamo]] who try new-fangled approaches to the game.
+Their fans love their traditional style and get really angry at teams like the [Kaiju Dynamo](kaijudynamo) who try new-fangled approaches to the game. That it hasn't been very successful, well maybe that will change in OGII.
 
 ### Famous Games
+
+The Green Cup V Memorial tournament saw the Hunters knock off the first-seed [Old Wyrms](oldwyrms) in the opening round of the playoffs. Granted, this was a street-level match with no real implications.

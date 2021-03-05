@@ -6,22 +6,6 @@ The Ravenous Eagles are often referred to as the worst Green Cup Champions, whic
 
 The Eagles use the Charles Dorf playbook, which is built on a very rigid division of smash and grab labour. They use slow tacklers on the line to block off the centre, three strong blitzers and a fragile ball-handling corps (which is a faster group than the blockers, but comparatively slow across the league).
 
-## History
-
-In the old-era B.R. Ossa was a player for another Charles Dorf team, the Black Pearl Pirates, that couldn't quite get enough wins together to break into the UBBL (that the Poets did get a crack at the Green Cup and did horribly was even more upsetting to Pirates fans). They were actually poised to enter the Green Cup V tournament, but the interruption happened and they were shut out.
-
-After the interruption, B.R. Ossa didn't have enough clout to get his old players back together but their closeness to Green Cup glory was seen as a good storyline for the new-era Green Cup VI. He gathered a bunch of rookies and poised them to become the perfect mix of smash and grab. The only returning player he brought with him was Twig, but that gave them a more than competent QB to get them through the initial weeks with an eye towards renewal and balance. 
-
-Green Cup VI didn't go exceedingly well for them as they were last-place in the Outlands division (not the entire 8-team league), but they only missed the playoffs by a win. The Eagles bashed the way they were supposed to with a third-place Casualty differential (10). But they could not score this season: last-place in TDs, both raw (18) and differential (-8). Ossa would need to see about adding some speed and dexterity to the team for next season.
-
-In GCVII, the Eagles fought from third place in the Outlands division to win it (defeating the Vagabonds and the Filthy Tide). From there they became Burger Conference Champions by defeating the first-place overall Irregular Cogs and eventually hoisted the Green Cup after a nasty match against the Darkling Spectres. 
-
-Green Cup VIII was another last-place finish in the Outlands division (though their points total would have put them in second place if they were in the Heaps). 
-
-With the new divisions in place in GCIX there was some thought teams bashy teams like the Eagles would be at a disadvantage. That seemed to be somewhat the case, but fans had a blast watching Jantine mow through opposing teams. Their GCVII Championship meant that even being last in the Pits they weren't subject to relegation. Led by Jantine, they inflicted the most casualties 43 (28-12-3) en route to a last place finish in their division (after realignment this was now the Pits, feeding an intradivisional rivalry with the Spectres) but they also stole the first Iron Fist from the Orbital Machine in the new era.
-
-Outside the Pro Division the Eagles put together a wonderful GCV Memorial season with their retirees and rookies, then got it all together for an exciting final match. Sure this didn't mean anything but it's still fun to win. The Eagles actually tied with the Irregular Cogs for Casualties inflicted (20), but they ended more careers (11-5-4) and had a better differential (14) so they won the prize.
-
 ## Records
 
 ### Pro Level Record (W-D-L)
@@ -34,11 +18,11 @@ Outside the Pro Division the Eagles put together a wonderful GCV Memorial season
 
 ### Prizes
 
-* Green Cup VII - Green Cup Champions
-* Green Cup IX - Iron Fist
+* Green Cup VII - Green Cup Champions [[team1stplace]]
+* Green Cup IX - Iron Fist [[teamcasualties]]
 * Green Cup V Memorial - Chartreuse Pop Bottle
 * Green Cup V Memorial - Crimson Soles
-* Green Cup X - Classic Conference Champions
+* Green Cup X - Classic Conference Champions [[team2ndplace]]
 
 ### Seasons
 
@@ -53,7 +37,31 @@ Outside the Pro Division the Eagles put together a wonderful GCV Memorial season
 | Ravenous Eagles | Green Cup IX         |    3 |    3 |   10 |     16 |  28.125 |   14 |   28 |   43 |     27 |   -4 |
 | Ravenous Eagles | Champions Circuit    |    0 |    0 |    1 |      1 |       0 |    1 |    2 |    2 |      0 |   -1 |
 
+## History
 
+In the old-era B.R. Ossa was a player for another Charles Dorf team, the Black Pearl Pirates, that couldn't quite get enough wins together to break into the UBBL (that the [[Poets]] did get a crack at the Green Cup and did horribly was even more upsetting to Pirates fans). They were actually poised to enter the Green Cup V tournament, but the interruption happened and they were shut out.
+
+After the interruption, B.R. Ossa didn't have enough clout to get his old players back together but their closeness to Green Cup glory was seen as a good storyline for the new-era Green Cup VI. He gathered a bunch of rookies and poised them to become the perfect mix of smash and grab. The only returning player he brought with him was [[Twig]], but that gave them a more than competent QB to get them through the initial weeks with an eye towards renewal and balance. 
+
+### Seasons
+
+Green Cup VI didn't go exceedingly well for them as they were last-place in the Outlands division (not the entire 8-team league), but they only missed the playoffs by a win. The Eagles bashed the way they were supposed to with a third-place Casualty differential (10). But they could not score this season: last-place in TDs, both raw (18) and differential (-8). Ossa would need to see about adding some speed and dexterity to the team for next season.
+
+In GCVII, the Eagles fought from third place in the Outlands division to win it (defeating the [Vagabonds](zensunvagabonds) and the [Filthy Tide](filthytide)). From there they became Burger Conference Champions by defeating the first-place overall [Irregular Cogs](irregularcogs) and eventually hoisted the Green Cup after a nasty match against the [Darkling Spectres](darklingspectres). 
+
+Green Cup VIII was another last-place finish in the Outlands division (though their points total would have put them in second place if they were in the Heaps). 
+
+With the new divisions in place in GCIX there was some thought teams bashy teams like the Eagles would be at a disadvantage. That seemed to be somewhat the case, but fans had a blast watching [[Jantine]] mow through opposing teams. Their GCVII Championship meant that even being last in the Pits they weren't subject to relegation. Led by Jantine, they inflicted the most casualties 43 (28-12-3) en route to a last place finish in their division (after realignment this was now the Pits, feeding an intradivisional rivalry with the Spectres) but they also stole the first Iron Fist from the [Orbital Machine](orbitalmachine) in the new era.
+
+Outside the Pro Division the Eagles put together a wonderful GCV Memorial season with their retirees and rookies, then got it all together for an exciting final match. Sure this didn't mean anything but it's still fun to win. The Eagles actually tied with the [Irregular Cogs](irregularcogs) for Casualties inflicted (20), but they ended more careers (11-5-4) and had a better differential (14) so they won the prize.
+
+The Eagles then made some huge strides and in GCX their veterans got them within a whisker of another championship and secured their second Iron Fist in a row.
+
+#### Projection GCXI
+
+W-D-L 7-1-7
+
+Could make a surprise grab for the Pits Division championship but likely won't.
 
 ### Stars & Scrubs
 
@@ -62,41 +70,41 @@ Outside the Pro Division the Eagles put together a wonderful GCV Memorial season
 | **Ekua**      | Ravenous Eagles | Blitzer        |   33 |   11 |   39 |   83 |    8 |    0 |    1 |   23 |   12 |    3 |    4 |  122 |
 | **Jantine**   | Ravenous Eagles | Heavy            |   14 |    8 |   18 |   40 |    0 |    0 |    1 |   38 |   12 |    1 |    2 |  114 |
 | **Percy**     | Ravenous Eagles | Heavy            |   20 |    3 |   18 |   41 |    1 |    0 |    1 |   26 |    7 |    2 |    4 |   95 |
-| **Humbert**   | Ravenous Eagles | Line           |   15 |    7 |   15 |   37 |   12 |   34 |    1 |    1 |    0 |    0 |    3 |   89 |
-| Frediano | Ravenous Eagles | Line           |   17 |    4 |   17 |   38 |   13 |   20 |    1 |    1 |    0 |    0 |    3 |   78 |
+| **Humbert**   | Ravenous Eagles | Thrower           |   15 |    7 |   15 |   37 |   12 |   34 |    1 |    1 |    0 |    0 |    3 |   89 |
+| Frediano | Ravenous Eagles | Thrower           |   17 |    4 |   17 |   38 |   13 |   20 |    1 |    1 |    0 |    0 |    3 |   78 |
 | **Chikondi**  | Ravenous Eagles | Blitzer        |   29 |    8 |   31 |   68 |    9 |    0 |    2 |    4 |    2 |    1 |    4 |   65 |
-| **Niko**      | Ravenous Eagles | Line           |   11 |    7 |   15 |   33 |   12 |    1 |    0 |    3 |    0 |    0 |    4 |   63 |
-| **Bates**     | Ravenous Eagles | Line           |    8 |    4 |    9 |   21 |   13 |    4 |    0 |    1 |    0 |    0 |    2 |   55 |
+| **Niko**      | Ravenous Eagles | Runner           |   11 |    7 |   15 |   33 |   12 |    1 |    0 |    3 |    0 |    0 |    4 |   63 |
+| **Bates**     | Ravenous Eagles | Runner           |    8 |    4 |    9 |   21 |   13 |    4 |    0 |    1 |    0 |    0 |    2 |   55 |
 | Viltaute | Ravenous Eagles | Line           |   19 |    5 |   23 |   47 |   10 |   10 |    0 |    0 |    1 |    0 |    2 |   52 |
 | Lumusi   | Ravenous Eagles | Blocker |   34 |   10 |   38 |   82 |    0 |    1 |    1 |    6 |    3 |    1 |    5 |   48 |
 | Sigfrido | Ravenous Eagles | Line           |   19 |    3 |   20 |   42 |    8 |    4 |    0 |    1 |    1 |    0 |    2 |   42 |
 
 [[Jantine]] and [[Percy]] have been the biggest stars of the Eagles, who haven't been trying to dominate as much as get into position to put a little run together like they did in GCVII. 
 
-The Eagles have developed a lot of journeymen, especially in GCV.
+The Eagles have developed a lot of journeymen, especially in GCV, but their style of play doesn't leave a lot of room for the Line players to really develop into flashy stars.
 
 #### Cup Winners
 
-Ekua VII
-Chikondi VII
-Frediano VII
-Mahendra VII
-Percy VII
-Toma VII
-Bahij VII
-Dijana VII
-Lumusi VII
-Viltaute VII
-Shalev VII
-Warren VII
-Sigfrido VII
-Eliott VII
-Twig VII
-Birgitta VII
+* Ekua VII
+* Chikondi VII
+* Frediano VII
+* Mahendra VII
+* Percy VII
+* Toma VII
+* Bahij VII
+* Dijana VII
+* Lumusi VII
+* Viltaute VII
+* Shalev VII
+* Warren VII
+* Sigfrido VII
+* Eliott VII
+* Twig VII
+* Birgitta VII
 
-### Tactics
+### Management
 
-Block block block hit hit hit.
+While the B.R. Ossa ownership group has a former player as its face, the resources for the (increasingly well-funded) team are more nebulous in origin.
 
 ### Fans
 
@@ -108,7 +116,7 @@ Even in their Green Cup winning season the Ravenous Eagles haven't put up a lot 
 
 #### GCVII Conference Final
 
-Their best match was probably the (GCVII Conference Final)[http://68.148.52.218/stbblm/index.php?section=matches&type=report&mid=354] where they pulled off the huge upset against the Irregular Cogs.
+Their best match was probably the (GCVII Conference Final) where they pulled off the huge upset against the [Irregular Cogs](irregularcogs).
 
 The Eagles' [[Frediano]] received the kick and immediately moved into a cage while [[Sigfrido]] headed downfield. The Cogs withdrew from the cage, leaving Frediano to reform the cage to his left while Sigfrido headed further towards the endzone. The Cogs attempted to get in the faces of both ends of the potential scoring battery, which was neutralized, but then Frediano darted towards the sideline. [[Venkata]] wrestled Sigfrido to the ground in the endzone, but he got up and out of the way for Frediano to be freed from a swarm to make the pass and catch. IC 0 - RE 1
 

@@ -52,7 +52,11 @@ Unless specified, we're dealing with the 1262 epoch.
 	* Division Finals 731.6
 	* Conference Finals 732.9
 	* Green Cup Finals 733.7
-* OG 1262.694-228:511 (714.2) -> 728-536:209 (728.6)
+* OG 1262.714-228:511 (714.2) -> 728-536:209 (728.6)
+	* Week 1 714.2
+	* Week 2 715.3
+	* Week 3 716.2
+	* Week 4 
 
 Current era players birthdates: 1261.514 - 1262.054 (random 540)
 

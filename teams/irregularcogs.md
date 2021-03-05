@@ -1,6 +1,6 @@
 # Irregular Cogs
 
-The team of history that has never managed to re-live up to it. The Irregular Cogs won the inaugural Green Cup against their archrivals the [Old Wyrms](oldwyrms). Then came a long period of good play but few results.
+The team of history that has never managed to re-live up to it. The Irregular Cogs won the inaugural Green Cup against their archrivals the [Old Wyrms](oldwyrms). The rest of their BludBol existence has been an attempt to hold that Green Cup again..
 
 ## Playbook
 
@@ -18,17 +18,9 @@ The Irregular Cogs use the Drop Eagle playbook. It's an adaptation of the Herman
 
 ### Prizes
 
-* Green Cup I - Green Cup Champions
-* Green Cup VII - Tough Brake of Alsoran
-* Green Cup V Memorial - Old-Era Champs
-
-## History
-
-The team of history that has never managed to re-live up to it. The Irregular Cogs won the inaugural Green Cup against their archrivals the [Old Wyrms](oldwyrms) in a thrilling 3-2 game. Then a long period of good play but few results. 
-
-In the first unified renaissance Green Cup the Irregular Cogs snuck through the GCVII season, playing well, but without the gaudy win streak of the Machine. They amassed the most tournament points through the regular season and when the Machine was knocked out of the playoffs they looked to be a Green Cup lock. But they were defeated in the Burger Conference final by the [Ravenous Eagles](ravenouseagles) and came in third instead.
-
-Second place for the rookies and the Cogs' best showing in many a season (in a GCV Memorial tournament that doesn't count and was only a cash-grab). The Cogs are mostly happy they did better than the Wyrms in the end.
+* Green Cup I - Green Cup Champions [[team1stplace]]
+* Green Cup VII - Tough Brake of Alsoran [[team3rdplace]]
+* Green Cup V Memorial - Old-Era Champs [[team2ndplace]]
 
 ### Seasons
 
@@ -48,9 +40,25 @@ Second place for the rookies and the Cogs' best showing in many a season (in a G
 | Irregular Cogs | Green Cup VIII       |    6 |    1 |    9 |     16 |  40.625 |   33 |   36 |   20 |    -16 |   -3 |
 | Irregular Cogs | UBBL Challenge II    |    0 |    0 |    1 |      1 |       0 |    2 |    6 |    2 |      2 |    0 |
 
-#### GCX Projection
+## History
 
-10-1-6 Division Champion
+The team of history that has never managed to re-live up to it. 
+
+### Seasons
+
+The Irregular Cogs won the inaugural Green Cup against their archrivals the [Old Wyrms](oldwyrms) in a thrilling 3-2 game. Then a long period of good play but few results. 
+
+In the first unified renaissance Green Cup the Irregular Cogs snuck through the GCVII season, playing well, but without the gaudy win streak of the [Machine](orbitalmachine). They amassed the most tournament points through the regular season and when the Machine was knocked out of the playoffs they looked to be a Green Cup lock. But they were defeated in the Burger Conference final by the [Ravenous Eagles](ravenouseagles) and came in third instead.
+
+The Cogs ended up with second place for the rookies and their best showing in many a season in a GCV Memorial tournament that doesn't count and was only a cash-grab. The Cogs are mostly happy they did better than the [Wyrms](oldwyrms) in the end.
+
+Both Green Cups IX and X ended in the Division Finals with losses to the [Badger Claws](badgerclaws) underperforming expectations yet again. GCX even had the Cogs at the top of the standings by the end of the regular season, but a long playoff run just wasn't in the cards.
+
+#### GCXI Projection
+
+W-D-L 9-0-6 
+
+Outlands Division Runner-Up
 
 ### Stars
 
@@ -73,7 +81,9 @@ Second place for the rookies and the Cogs' best showing in many a season (in a G
 | **Merlyn**     | Irregular Cogs | Runner    |   10 |    2 |    5 |   17 |    9 |   24 |    1 |    0 |    0 |    0 |    3 |   68 |
 
 
-[[Besz]] played in the old-era. No one has any proof she didn't play in all the matches she says she did (as an underused backup to Halfleg), but no one quite believes her either. (Updated: Besz played 4 games in the old era. Her stats above now reflect this.) She's still good, and the heart of the Cogs, though Alexandros is trying to take over the position.
+[[Besz]] played in the old-era. No one has any proof she didn't play in all the matches she says she did (as an underused backup to Halfleg), but no one quite believes her either. (Updated: Besz played 4 games in the old era. Her stats above now reflect this.) She's still good, and the heart of the Cogs, though [[Alexandros]] is trying to take over the position.
+
+The biggest problem with the Cogs' lineup is the value they have to give up to their opponents. Some say the team would be better if they kept a minimum of overpaid stars and went with a youth-focused approach. That's what worked in the GCV.
 
 ### Management
 
@@ -83,7 +93,17 @@ Gryj the Hun
 
 The fans are hugely back into the Cogs after GCIX and they are bursting for another championship.
 
-The Cogs and the [[oldwyrms]] are traditional rivals, and the fact the Cogs won the first Green Cup is the bright point for the Cogs in that history. More recently, the [[orbitalmachine]] made the Cogs' shit list in "the Battle of Dungardin" and they're always looking over their shoulders at the [[eldritchfatality]] who use the same playbook.
+The Cogs and the [Old Wyrms](oldwyrms) are traditional rivals, and the fact the Cogs won the first Green Cup is the bright point for the Cogs in that history. More recently, the [Orbital Machine](orbitalmachine) made the Cogs' shit list in "the Betrayal at Dungardin" and they're always looking over their shoulders at the [Eldritch Fatality](eldritchfatality) who use the same playbook.
 
 ### Famous Games
+
+The Battle of Dungardin in GCVII Week 8
+
+This match, known as The Betrayal at Dungardin, will be under review by BludBol scholars for quite some time and I wouldn't be surprised if there were legal proceedings. The first half was lacklustre, involving a trading of TDs and a number of ill-advised passes. The interesting thing is the lack of blocks and blitzes by either team. The most obvious were taken, but no real sacking attempts.
+
+The second half was where things went weird. Both teams were basically playing games of monkey in the middle, with no urgency or attempts to score or injure. There was obvious collusion taking place and it was easy to see why. If both teams came out of the match with a draw then they would be atop their divisions and their records would remain identical until some presumable final meetup.
+
+But it all fell apart on the very last possession when Heep was near the endzone and received another very risky pass. And then he bolted for the TD and won. So the Cogs have a new arch-nemesis. They can't say the Machine went back on a deal, because the deal would have been illegal and might result in some major sanctions. But they got betrayed in the very moment they couldn't do anything about it in the game. And because of the divisional structure the next time these two teams could meet would be the Green Cup final (or next season). Oof.
+
+PoM: Heep 6 SPP (including Cp, Int, TD hat trick)
 

@@ -2,7 +2,7 @@
 
 The pro division awards a number of official prizes (plus a Player of the Week award, beginning in GCVII). Some teams achieve more of these than others.
 
-| Team | Individual | Team | Grand Total |
+| Team | Individual | Team | Total |
 |---|---|---|---|
 | *Old Wyrms* | 22 | 6 | 28 |
 | Filthy Tide | 20 | 2 | 22 |
@@ -26,21 +26,21 @@ The italicized teams are ones who have won the coveted Green Cup. It is quite co
 
 ## Individual Awards
 
-* [[mvp]]
-* [[sardinecrown]]
-* [[carminefist]]
-* [[softhands]]
-* [[relentlesscannon]]
-* [[halflegaward]]
-* [[hunteraward]]
-* [[dervishaward]]
-* [[fanfavourite]]
+* Most SPP [[mvp]]
+* Most TDs [[sardinecrown]]
+* Most Casualties inflicted [[carminefist]]
+* Most Catches [[softhands]]
+* Most Passes [[relentlesscannon]]
+* Most Rushing [[halflegaward]]
+* Most Sacks [[hunteraward]]
+* Most Blocks [[dervishaward]]
+* Most Style (MVP awards) [[fanfavourite]]
 
 ## Team Prizes
 
-First, second, third place and the most casualties are the four team awards given in each Pro season.
+First, second, third place and the most casualties are the four team awards given in each Pro season. These are mirrored in the Open Division tournaments as well.
 
-* [[champion]]
-* [[runnerup]]
-* [[thirdplace]]
-* [[casualties]]
+* [[team1stplace]]
+* [[team2ndplace]]
+* [[team3rdplace]]
+* [[teamcasualties]]

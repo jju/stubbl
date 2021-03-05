@@ -18,7 +18,7 @@ The Arboreal Menace use the Wary Eagle playbook, which is very similar to the Sc
 
 ### Prizes
 
-* UBBL Challenge III - UBBL Pennant [[champion]]
+* UBBL Challenge III - UBBL Pennant [[team1stplace]]
 
 ### Seasons
 

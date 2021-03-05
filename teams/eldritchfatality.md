@@ -1,6 +1,6 @@
 # Eldritch Fatality
 
-A youngish team, they weren't active in the Green Cup before the Interruption, but have come along as fierce competitors in the Modern Era, never having worse than a 60% win rate.
+A youngish team, they weren't active in the Green Cup before the Interruption, but have come along as fierce competitors in the Modern Era.
 
 ## Playbook
 
@@ -18,14 +18,8 @@ The Eldritch Fatality use the Drop Eagle playbook. It's an adaptation of the Her
 
 ### Prizes
 
-* Green Cup Classic 06 - Tough Brake of Alsoran
-* Green Cup IX - Classic Conference Champions
-
-## History
-
-A youngish team, they weren't active in the Green Cup in the old-era, but have come along as fierce competitors in the post-renaissance, never having worse than a 60% win rate. In Green Cup Classic 06 the Fatality were undefeated until the Orlock Machine handed them a loss in the semi-finals. They're now seen as perennial contenders with a second place (and tops of the Pits Division and Classic Conference) in Green Cup IX. That was the best the Fatality had ever done and was right in line with the pre-season expectations.
-
-Sadly for Fatality fans they followed up GCIX with an abysmal last-in-the-Pits finish. None of the projection systems had guessed things would go so badly the Fatality would face relegation so quickly.
+* Green Cup Classic 06 - Tough Brake of Alsoran [[team3rdplace]]
+* Green Cup IX - Classic Conference Champions [[team2ndplace]]
 
 ### Seasons
 
@@ -39,9 +33,19 @@ Sadly for Fatality fans they followed up GCIX with an abysmal last-in-the-Pits f
 | Eldritch Fatality | UBBL Challenge IV    |    2 |    0 |    2 |      4 |      50 |   12 |    9 |    8 |     -1 |    2 |
 | Eldritch Fatality | Green Cup X          |    4 |    2 |   10 |     16 |   31.25 |   38 |   43 |   17 |     -7 |   -2 |
 
-#### GCX Projection
+## History
 
-11-2-6 Green Cup Champions - actual result: last place
+### Seasons
+
+In Green Cup Classic 06 the Fatality were undefeated until the Orlock Machine handed them a loss in the semi-finals. They're now seen as perennial contenders with a second place (and tops of the Pits Division and Classic Conference) in Green Cup IX. That was the best the Fatality had ever done and was right in line with the pre-season expectations.
+
+Sadly for Fatality fans they followed up GCIX with an abysmal last-in-the-Pits finish. None of the projection systems had guessed things would go so badly the Fatality would face relegation so quickly (11-2-6 and Green Cup CHampion was our thought). They did fine in the UBBL Challenge IV and didn't have to face the ignominy of playing full time in the Open Division, but they will have something to prove in GCXI.  
+
+#### GCXI Projection
+
+W-D-L 8-1-6 
+
+Though it's hard to be super-confident, a division title seems likely.
 
 ### Stars & Scrubs
 
@@ -59,12 +63,16 @@ Sadly for Fatality fans they followed up GCIX with an abysmal last-in-the-Pits f
 | *Hermes*  | Eldritch Fatality | Attacker |   28 |    3 |   15 |   46 |   10 |    4 |    1 |    3 |    2 |    0 |    4 |   66 |
 | **Vihaio**   | Eldritch Fatality | Line   |   34 |    9 |   24 |   67 |    1 |    5 |    0 |    7 |    5 |    0 |    5 |   57 |
 
-The Fatality are just generally good at BludBol. They spread out their scoring better and with [[Filipa]] still not on the downswing there's no reason this team can't be what the Irregular Cogs have been thought to be for their existence.
+The Fatality are just generally good at BludBol. They spread out their scoring better and with [[Filipa]] still not on the downswing there's no reason this team can't be what the [Irregular Cogs](irregularcogs) have been thought to be for their existence.
 
 ### Management
 
+The Iskander family is heavily invested in culture for Stacksburg. Where their actual funding and power came from is generally on the seedy side, but they've been here a long time, and were apparently upset they'd missed the boat in the old-era UBBL. 
+
 ### Fans
 
-The Fatality have a bit of a chip on their shoulder. They are a really good team that wins wins wins, but then they can't quite get the championship into their house. The [[orbitalmachine]] and [[oldwyrms]] have both beaten them on their paths to a Green Cup, and the mere fact that such an "objectively lousy" team like the Ravenous Eagles [[ravenouseagles]] has won a Cup before them rankles badly. But the lack of Cup success is only a part of using the same playbook as the [[irregularcogs]] which they are perpetually overshadowed by even though they are the better team these days.
+The Fatality have a bit of a chip on their shoulder. They are a really good team that wins wins wins, but then they can't quite get the championship into their house. The [Orbital Machine](orbitalmachine) and [Old Wyrms](oldwyrms) have both beaten them on their paths to a Green Cup, and the mere fact that such an "objectively lousy" team like the [Ravenous Eagles](ravenouseagles) has won a Cup before them rankles badly. But the lack of Cup success is only a part of using the same playbook as the [Irregular Cogs](irregularcogs) which they are perpetually overshadowed by even though they were the better team (at least before the shitshow that was GCX).
 
 ### Famous Games
+ 
+ #unfinished 

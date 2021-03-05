@@ -1,6 +1,6 @@
 # Gladiolas
 
-
+The Gladiolas are one of the elite teams of UBBL's Open Division.
 
 ## Playbook
 
@@ -10,18 +10,15 @@ The Gladiolas use the High Extension playbook, a venerable adaptation of the Her
 
 ### Open Level Record (W-D-L)
 
-43-13-40
+17-3-7
 
 ### UBBL Record (W-D-L)
 
-50-16-46
+17-3-8
 
 ### Prizes
 
-*  Orange Goblet I - Runner-Up
-
-## History
-
+*  Orange Goblet I - Runner-Up [[team2ndplace]]
 
 
 ### Seasons
@@ -34,23 +31,32 @@ The Gladiolas use the High Extension playbook, a venerable adaptation of the Her
 | Gladiolas | UBBL Challenge II  |    2 |    1 |    2 |      5 |      50 |   17 |   14 |    2 |     -6 |    2 |
 | Gladiolas | Champions Circuit  |    0 |    0 |    1 |      1 |       0 |    2 |    3 |    1 |     -2 |   -1 |
 
-#### Projection
+## History
 
+The Gladiolas have never lost more than two games in a tournament, but also have never won a tournament.
 
+### Seasons
+
+Their loss in the opening salvo of the Champions Circuit was their first taste of Pro-Level play. They liked it and want more.
+
+#### Projection OGII
+
+W-D-L 7-1-2
+
+This is their year. Orange Goblet Champions.
 
 ### Stars & Scrubs
 
 | Player       | Team        | Position  | won  | draw | lost | GP   | TD   | Comp | Ints | BH   | SI   | Ki   | MVP  | SPP  |
 |--------------|-------------|---------------|------|------|------|------|------|------|------|------|------|------|------|------|
 
-
-
+#unfinished 
 
 ### Management
 
 ### Fans
 
-Hounds fans generally despise teams that aren't trying to play aesthetically beautiful BludBol, so the [[ravenouseagles]] and [[carcosantatters]] are the most common targets of their ire.
+Much like the [Glorious Hounds](glorioushounds) fans were until UCIV, Gladiola fans are desperate for a tournament win. The Gladiolas' biggest rivals are the [Mules](mules) to whom they lost the first Orange Goblet, and the [Thorns](thorns) who are pretty much just as good as them. They are also bitter about the [Arboreal Menace](arborealmenace) beating them in UBBL Challenge III and making it to the big show before they could.
 
 ### Famous Games
 

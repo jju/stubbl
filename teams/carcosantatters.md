@@ -18,14 +18,10 @@ The Tatters use the Nergal playbook, some (especially fans of pretty BludBol) sa
 
 ### Prizes
 
-* Green Cup II - Green Cup Champions
-* Green Cup II - Doom Fist
-* Green Cup III - Tough Brake of Alsoran
-* Green Cup VI - Outlands Champion
-
-## History
-
-The Tatters have always been a very good team. Defensive-minded without really flashy stars, they won the first Green Cup they entered as an expansion team. The Tatters didn't defend their title and lost in the quarterfinals of GCIII (but still accumulated more points than either of the semifinal losers). They bashed their way to second place in the rejuvenated UBBL which we have better statistics for. They only have two non-winning seasons on record, and the GCV Memorial was only a street level brawl, so it hardly counts.
+* Green Cup II - Green Cup Champions [[team1stplace]]
+* Green Cup II - Doom Fist [[teamcasualties]]
+* Green Cup III - Tough Brake of Alsoran [[team3rdplace]]
+* Green Cup VI - Outlands Champion [[team2ndplace]]
 
 ### Seasons
 
@@ -43,6 +39,21 @@ The Tatters have always been a very good team. Defensive-minded without really f
 | Carcosan Tatters | UBBL Challenge IV    |    1 |    0 |    2 |      3 | 33.3333 |    3 |    4 |    5 |      2 |    0 |
 | Carcosan Tatters | Green Cup VII        |    3 |    1 |   12 |     16 |  21.875 |   15 |   36 |   30 |     13 |   -3 |
 
+## History
+
+The Tatters have always been a very good team. Defensive-minded without really flashy stars, 
+
+### Seasons
+
+The Tatters won the first Green Cup they entered as an expansion team. The Tatters didn't defend their title and lost in the quarterfinals of GCIII (but still accumulated more points than either of the semifinal losers, which got them the Tough Brake award). 
+
+Under former player BSEncef's leadership the Tatters bashed their way to second place in the rejuvenated UBBL. While the GCVII campaign went terribly, it remains their only losing pro-level season on record.
+
+#### Projection GCXI
+
+W-D-L 8-1-6
+
+The Tatters could be in position to upset for a Divisional title, but hopes are not tremendously high.
 
 ### Stars & Scrubs
 
@@ -63,17 +74,19 @@ The Tatters have always been a very good team. Defensive-minded without really f
 | **OreSmitingMaster**   | Carcosan Tatters | Blocker  |   31 |    6 |   18 |   55 |    0 |    0 |    1 |    8 |    2 |    0 |    4 |   42 |
 
 
-The Tatters thrive on teamwork and defense, neither of which lends itself well to big flashy stars taking over a match. Back in the Old-Era BSEncef (now the team's manager) was a big flashy star, but he hasn't tried to develop that kind of mindset in the current players. Gention has been holding things down as the best player for the last couple of tournaments (since the awful GCVII campaign in which there was a major redevelopment), but Sparrow will soon be taking her place and may emerge as the next superstar.
+The Tatters thrive on teamwork and defense, neither of which lends itself well to big flashy stars taking over a match. Back in the Old-Era [[BSEncef]] (now the team's manager) was a big flashy star, but he hasn't tried to develop that kind of mindset in the current players. [[Gention]] had been holding things down as the best player for the last couple of tournaments (since the awful GCVII campaign in which there was a major redevelopment), but [[Sparrow]] will soon be taking her place and may emerge as the next superstar.
 
-pre-GCX: Though Pierre is third on the team for SPP, it was in flux until quite late whether he would suit up for the GCX season. Also of note, [[Adeno]] was an old veteran who didn't do much in the revitalization but has played for the team by far the longest.
+Though [[Pierre]] is third on the team for SPP, it was in flux until quite late whether he would suit up for the GCX season. Also of note, [[Adeno]] was an old veteran who didn't do much in the revitalization but has played for the team by far the longest.
 
 ### Management
+
+BSEncef runs the team cheaply but humbly. He basically has a grind it out ethic that a lot of fans and other players respect.
 
 ### Fans
 
 The GCV Memorial tournament was a bad move for the Tatters' fanbase, losing a lot of goodwill built up in GCIX.
 
-The Tatters' main rivals are the [[orbitalmachine]]. They have a similar defensive playbook, but that's the main basis for any animosity. Fans of the Tatters, like the players on the Tatters, don't really care much for what other teams do. Aesthetically, they are near diametric opposites of the [[glorioushounds]] who prefer to make everything graceful and easy looking.
+The Tatters' main rivals are the [Orbital Machine](orbitalmachine). They have a similar defensive playbook, but that's the main basis for any animosity. Fans of the Tatters, like the players on the Tatters, don't really care much for what other teams do. Aesthetically, they are near diametric opposites of the [Glorious Hounds](glorioushounds) who prefer to make everything graceful and easy looking.
 
 ### Famous Games
 
