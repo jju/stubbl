@@ -1,36 +1,42 @@
+# green cup centurions
+
 A Green Cup Centurion is a player who is in the top 16 players ranked by Pro Division SPP (originally it was awarded when a player had achieved 100, but now they must pass someone into the top 16).
 
 ## current
 
-1. [[Aeson]] #doublecenturion #triplecenturion
+1. [[Aeson]] #doublecenturion #triplecenturion #quadruplecenturion
 2. [[Souta]] #doublecenturion
 3. [[Costache]] #doublecenturion
 4. [[Sabah]]
 5. [[Besz]]
 6. [[Yakup]]
-7. [[Yosif]]
-8. [[Rohit]]
-9. [[ToomsII]]
-10. [[Babar]]
-11. [[KneeMasher]]
-12. [[Elvis]]
-13. [[Dragos]]
-14. [[Oiva]]
-15. [[Lucrece]]
-16. [[Subrahmanya]]
-
-## ubbl
-
-1.  [[Somfuhr]]
-5. [[Marzhak]]
+7. [[Elvis]]
+8. [[Yosif]]
+9. [[Atte]] * new post GCX
+10. [[Rohit]]
+11. [[ToomsII]]
+12. [[Amador]] * new post GCX
+13. [[Filipa]] * new post GCX
+14. [[Babar]]
+15. [[KneeMasher]]
+16. [[Dragos]] 
 
 ## former
 
-1. [[Heep]]
-2. [[Nakayama]]
-3. [[Saxa]]
-4. [[Silas]]
-6. [[Mayu]]
-7. [[Bill]]
-3. [[Bahiyya]]
+1. [[Oiva]]
+2. [[Lucrece]]
+3. [[Subrahmanya]]
+4. [[Heep]]
+5. [[Nakayama]]
+6. [[Saxa]]
+7. [[Silas]]
+8. [[Mayu]]
+9. [[Bill]]
+10. [[Bahiyya]]
+
+## all-UBBL
+
+1.  [[Oiva]]
+2.  [[Somfuhr]]
+3.  [[Silas]]
 

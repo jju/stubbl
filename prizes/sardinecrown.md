@@ -1,5 +1,7 @@
 # most touchdowns award
 
+[[prizes/index]]
+
 # all-time
 
 [[Aeson]]

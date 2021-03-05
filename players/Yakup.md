@@ -10,6 +10,15 @@ Birthdate 1262.065-720:257
 
 # Basic Stats
 
+## Pro Totals
+
+| Player           | Team        | Position      | won  | draw | lost | GP   | TD   | Comp | Ints | BH   | SI   | Ki   | MVP  | SPP  |
+|------------------|-------------|---------------|------|------|------|------|------|------|------|------|------|------|------|------|
+| Yakup            | Filthy Tide | Runner        |   20 |    5 |   17 |   42 |   55 |    1 |    0 |    0 |    1 |    0 |    2 |  178 |
+
+
+## By Season
+
 | Player | Team         | Season          | won  | draw | lost | td   | cp   | intcpt | bh   | si   | ki   | mvp  | spp  |
 |--------|--------------|-----------------|------|------|------|------|------|--------|------|------|------|------|------|
 | Yakup  | Filthy Tide | Green Cup VI         |    4 |    1 |    6 |   16 |    1 |      0 |    0 |    1 |    0 |    0 |   51 |
@@ -22,11 +31,11 @@ Birthdate 1262.065-720:257
 
 | Player | Team         | Season          | Games | TDs  | Rush | Cp   | PassDist | Caught | Picks | Cas  | Blocks | Sacks | MVPs | SPP  |
 |--------|--------------|-----------------|-------|------|------|------|----------|--------|-------|------|--------|-------|------|------|
-| Yakup. | Filthy Tide | Green Cup VI         |    11 |   **16** |  171 |    1 |        1 |     16 |     0 |    1 |     10 |     1 |    0 |   51 |
-| Yakup. | Filthy Tide | Green Cup VII        |    17 |   26 |  **349** |    0 |        0 |     25 |     0 |    0 |      2 |     0 |    1 |   **83** |
-| Yakup. | Filthy Tide | UBBL Challenge       |     6 |   13 |  165 |    0 |        0 |      6 |     0 |    0 |      0 |     0 |    2 |   49 |
-| Yakup. | Filthy Tide | Green Cup VIII       |    14 |   13 |  234 |    0 |        0 |     15 |     0 |    0 |      8 |     1 |    1 |   44 |
-| Yakup. | Filthy Tide | Green Cup V Memorial |     3 |    5 |   67 |    0 |        0 |      5 |     0 |    0 |      3 |     0 |    0 |   15 |
+| Yakup | Filthy Tide | Green Cup VI         |    11 |   **16** |  171 |    1 |        1 |     16 |     0 |    1 |     10 |     1 |    0 |   51 |
+| Yakup | Filthy Tide | Green Cup VII        |    17 |   26 |  **349** |    0 |        0 |     25 |     0 |    0 |      2 |     0 |    1 |   **83** |
+| Yakup | Filthy Tide | UBBL Challenge       |     6 |   13 |  165 |    0 |        0 |      6 |     0 |    0 |      0 |     0 |    2 |   49 |
+| Yakup | Filthy Tide | Green Cup VIII       |    14 |   13 |  234 |    0 |        0 |     15 |     0 |    0 |      8 |     1 |    1 |   44 |
+| Yakup | Filthy Tide | Green Cup V Memorial |     3 |    5 |   67 |    0 |        0 |      5 |     0 |    0 |      3 |     0 |    0 |   15 |
 
 ### rookie season - gcvi
 
