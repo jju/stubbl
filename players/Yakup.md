@@ -1,12 +1,14 @@
-[[filthytide]][[mvp#gcvii]][[bestsinglematch]][[sardinecrown#gcvi]][[halflegaward#gcvii]][[centurion]][[gcvi]][[catcher]][[runner]]
+[[filthytide]][[catcher]][[runner]][[gcvi]][[gcvii]][[uci]][[gcviii]][[dead]]
 
-Upon his retirement at the end of GCVIII Yakup had amassed 227 SPP with 178 SPP in Green Cup seasons VI-VIII. His final line score for Green Cup matches reads 55 TDs (+13 in the Open Division), 1 Completion, 0 Interceptions, 1 Casualty (0-1-0) and 2 MVP awards (+2 in the Open Division). The TD and SPP records were not, perhaps, unbreakable but they are pretty legendary.
+Upon his retirement at the end of GCVIII Yakup had amassed 178 SPP in Green Cup seasons VI-VIII. His final line score for Green Cup matches reads 55 TDs (+13 in the Open Division), 1 Completion, 0 Interceptions, 1 Casualty (0-1-0) and 2 MVP awards (+2 in the Open Division). The TD and SPP records were not, perhaps, unbreakable but they are pretty legendary.
 
-Yakup was the first player to reach 100 SPP in the UBBL, and he did it in 20 matches with 0 MVP awards. It's kind of crazy that the fans didn't like this constant display of BludBol prowess. 
+Yakup was the first Centurion (player to reach 100 SPP) in the UBBL, and he did it in 20 matches with 0 MVP awards. It's kind of crazy that the fans didn't like this constant display of BludBol prowess. 
 
-Yakup retired from pro BludBol at the end of GCVIII (652.4) but then returned for the GCV Memorial tournament in 683MSec, where he was killed due to a lack of medical facilities. He was only 0.618GSec old (~20yo).
+Yakup retired from pro BludBol at the end of GCVIII (652.4) but then returned for the GCV Memorial tournament in 683MSec, where he was killed due to a lack of medical facilities. He was only 0.624GSec old (~20yo).
 
-Birthdate 1262.065-720:257
+Birthdate: 1262.065-720:257
+Retiredate: 1262.652-500:000
+Deathdate: 1262.690-150:196
 
 # Basic Stats
 
@@ -28,6 +30,12 @@ Birthdate 1262.065-720:257
 | Yakup  | Filthy Tide | Green Cup V Memorial |    2 |    1 |    2 |    5 |    0 |      0 |    0 |    0 |    0 |    0 |   15 |
 
 # Prize Stats
+
+* Sardine Crown - GCVI [[sardinecrown#gcvi]]
+* MVP - GCVII [[mvp#gcvii]]
+* Halfleg Award - GCVI [[halflegaward#gcvii]]
+* First Centurion [[centurion]]
+* Best Single Match Performance [[bestsinglematch]]
 
 | Player | Team         | Season          | Games | TDs  | Rush | Cp   | PassDist | Caught | Picks | Cas  | Blocks | Sacks | MVPs | SPP  |
 |--------|--------------|-----------------|-------|------|------|------|----------|--------|-------|------|--------|-------|------|------|

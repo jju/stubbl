@@ -1,4 +1,4 @@
-[[zensunvagabonds]][[heavy]][[gcvi]][[fanfavourite#gcvii]][[carminefist#gcvi]][[oe-veteran]]
+[[zensunvagabonds]][[heavy]][[oe-veteran]][[gcvi]][[gcvii]][[uci]][[gcviii]][[retired]]
 
 Hulud is the actual leader in UBBL games played. He was there from the beginning of the Zensun Vagabonds, and from current records it appears he never missed a match. 
 
@@ -16,18 +16,20 @@ Birthdate 1261.492-393:739
 |------------------|-------------|---------------|------|------|------|------|------|------|------|------|------|------|------|------|
 | Hulud | Zensun Vagabonds | Heavy     |   30 |   20 |   39 |   89 |    0 |    1 |    0 |   15 |    10 |    3 |    7 |   92 |
 
-
 ## By Season
 
 | Player | Team         | Season          | won  | draw | lost | td   | cp   | intcpt | bh   | si   | ki   | mvp  | spp  |
 |--------|--------------|-----------------|------|------|------|------|------|--------|------|------|------|------|------|
-| Hulud | Zensun Vagabonds | Old-Era | 13 | 9 | 23 | 0 | 0 | 0 | 5 | 6 | 1 | 2 | 34 |
+| Hulud | Zensun Vagabonds | Old-Era GCI-IV | 13 | 9 | 23 | 0 | 0 | 0 | 5 | 6 | 1 | 2 | 34 |
 | Hulud | Zensun Vagabonds | Green Cup VI   |    5 |    4 |    6 |    0 |    0 |      0 |    8 |    3 |    1 |    0 |   24 |
 | Hulud | Zensun Vagabonds | Green Cup VII  |    7 |    6 |    3 |    0 |    0 |      0 |    1 |    0 |    0 |    5 |   27 |
 | Hulud | Zensun Vagabonds | UBBL Challenge |    0 |    1 |    0 |    0 |    0 |      0 |    1 |    0 |    0 |    0 |    2 |
 | Hulud | Zensun Vagabonds | Green Cup VIII |    5 |    1 |    7 |    0 |    1 |      0 |    1 |    1 |    1 |    0 |    7 |
 
 # Prize Stats
+
+* Fan Favourite - GCVII [[fanfavourite#gcvii]]
+* Carmine Fist - GCVI [[carminefist#gcvi]]
 
 | Player | Team         | Season          | Games | TDs  | Rush | Cp   | PassDist | Caught | Picks | Cas  | Blocks | Sacks | MVPs | SPP  |
 |--------|--------------|-----------------|-------|------|------|------|----------|--------|-------|------|--------|-------|------|------|
