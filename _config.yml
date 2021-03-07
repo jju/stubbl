@@ -1,5 +1,5 @@
 remote_theme: jju/jekyll-theme-console
 style: hacker
-header:
+header_pages:
   - teams/index.md
   - players/players.index.md
