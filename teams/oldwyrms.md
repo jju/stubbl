@@ -79,7 +79,7 @@ The Wyrms will win the Stacks division, but fall in the Burger Conference Final.
 | *Hems* | Old Wyrms | Thrower | ?? | ?? | ?? | 47 | 0 | 76 | 1 | 0 | 0 | 0 | 2 | 88 |
 | *Ocho* | Old Wyrms | Catcher | ?? | ?? | ?? | 22 | 17 | 9 | 5 | 1 | 0 | 0 | 4 | 94 |
 | Roni    | Old Wyrms | Catcher  |   13 |    2 |    9 |   24 |   16 |   13 |    3 |    1 |    0 |    0 |    4 |   89 |
-| Evander | Old Wyrms | Thrower  |   12 |    7 |   14 |   33 |    0 |   61 |    0 |    1 |    0 |    0 |    5 |   88 |
+| **Evander** | Old Wyrms | Thrower  |   12 |    7 |   14 |   33 |    0 |   61 |    0 |    1 |    0 |    0 |    5 |   88 |
 | *HoJu* | Old Wyrms | Catcher | ?? | ?? | ?? | 29 | 18 | 15 | 3 | 0 | 0 | 0 | 2 | 85 |
 | **Seosamh**  | Old Wyrms | Catcher  |   13 |    5 |    3 |   21 |   19 |    3 |    2 |    1 |    1 |    0 |    3 |   83 |
 | *Newb* | Old Wyrms | Catcher | ?? | ?? | ?? | 22 | 22 | 6 | 0 | 0 | 0 | 0 | 2 | 82 |

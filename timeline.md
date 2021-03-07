@@ -59,6 +59,11 @@ Unless specified, we're dealing with the 1262 epoch.
 	* Week 2 715.3
 	* Week 3 716.2
 	* Week 4 
+* UCIV 735.0 -> 742.5
+* OGII 750.0 -> 764.0
+* GCXI 760.0 -> 780.0 
+
+
 
 Current era players birthdates: 1261.514 - 1262.054 (random 540)
 

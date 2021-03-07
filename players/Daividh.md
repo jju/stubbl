@@ -1,9 +1,11 @@
+# Daividh
+
 [[glorioushounds]][[catcher]][[gcvi]][[gcvii]][[dead]]
 
-Daividh was the first homegrown Modern Era star. He performed with grace in his first season, but was developing into a tougher defensive player for the Hounds when he was killed in GCVII by a Heavy freebooting with the last-place [Tatters](carcosantatters).
+Daividh was the first homegrown Modern Era star. He performed with grace in his first season, but was developing into a tougher defensive player for the [Hounds](glorioushounds) when he was killed in GCVII by a Heavy freebooting with the last-place [Tatters](carcosantatters).
 
-Birthdate: 1261.518-319:128
-Deathdate: 1262.618-415:606
+* Birthdate: 1261.518-319:128
+* Deathdate: 1262.618-415:606
 
 # Basic Stats
 
@@ -11,7 +13,7 @@ Deathdate: 1262.618-415:606
 
 | Player           | Team        | Position      | won  | draw | lost | GP   | TD   | Comp | Ints | BH   | SI   | Ki   | MVP  | SPP  |
 |------------------|-------------|---------------|------|------|------|------|------|------|------|------|------|------|------|------|
-| Daividh.  | Glorious Hounds | Catcher  |   10 |    5 |   11 |   26 |   17 |    2 |    1 |    1 |    1 |    0 |    4 |   79 |
+| Daividh  | Glorious Hounds | Catcher  |   10 |    5 |   11 |   26 |   17 |    2 |    1 |    1 |    1 |    0 |    4 |   79 |
 
 
 ## By Season
@@ -30,3 +32,5 @@ Deathdate: 1262.618-415:606
 |---------|-----------------|---------------|-------|------|------|------|----------|--------|-------|------|--------|-------|------|------|
 | Daividh | Glorious Hounds | Green Cup VI  |    15 |   11 |  115 |    2 |        9 |     12 |     1 |    0 |     15 |     0 |    3 |   **52** |
 | Daividh | Glorious Hounds | Green Cup VII |    11 |    6 |   31 |    0 |        0 |      4 |     0 |    2 |     75 |     6 |    1 |   27 |
+
+#unfinished do week by week comparison with Yakup
