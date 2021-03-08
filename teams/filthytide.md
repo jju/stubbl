@@ -25,21 +25,21 @@ The Filthy Tide uses the Scrying Avian playbook which emphasizes speed above all
 
 ### Seasons
 
-| Team        | Season               | won  | draw | lost | played | win_pct | gf   | ga   | cas  | tcdiff | ff   |
-|-------------|----------------------|------|------|------|--------|---------|------|------|------|--------|------|
-| Filthy Tide | UBBL Challenge       |    6 |    0 |    1 |      7 | 85.7143 |   30 |   15 |   16 |      7 |    2 |
-| Filthy Tide | UBBL Challenge IV    |    2 |    0 |    1 |      3 | 66.6667 |    9 |    5 |    6 |      1 |    1 |
-| Filthy Tide | Green Cup VII        |    9 |    3 |    5 |     17 | 61.7647 |   56 |   37 |   21 |     -3 |    0 |
-| Filthy Tide | Green Cup I          |    6 |    0 |    5 |     11 | 54.5455 |   31 |   26 |   13 |     -9 |    0 |
-| Filthy Tide | Green Cup II         |    5 |    2 |    4 |     11 | 54.5455 |   36 |   32 |   11 |    -17 |    0 |
-| Filthy Tide | Green Cup VI         |    7 |    2 |    7 |     16 |      50 |   46 |   35 |   33 |      3 |    2 |
-| Filthy Tide | Green Cup III        |    6 |    0 |    6 |     12 |      50 |   30 |   29 |   12 |    -27 |    0 |
-| Filthy Tide | Green Cup VIII       |    7 |    2 |    8 |     17 | 47.0588 |   39 |   40 |   42 |     -4 |   -4 |
+| Team      | Season             | W  | D | L | GP | Win% | GF   | GA   | Cas  | CDif | FF   |
+|-----------|--------------------|------|------|------|--------|---------|------|------|------|--------|------|
+| Filthy Tide | UBBL Challenge       |    6 |    0 |    1 |      7 | 85.71 |   30 |   15 |   16 |      7 |    2 |
+| Filthy Tide | UBBL Challenge IV    |    2 |    0 |    1 |      3 | 66.67 |    9 |    5 |    6 |      1 |    1 |
+| Filthy Tide | Green Cup VII        |    9 |    3 |    5 |     17 | 61.76 |   56 |   37 |   21 |     -3 |    0 |
+| Filthy Tide | Green Cup I          |    6 |    0 |    5 |     11 | 54.55 |   31 |   26 |   13 |     -9 |    0 |
+| Filthy Tide | Green Cup II         |    5 |    2 |    4 |     11 | 54.55 |   36 |   32 |   11 |    -17 |    0 |
+| Filthy Tide | Green Cup VI         |    7 |    2 |    7 |     16 |      50.00 |   46 |   35 |   33 |      3 |    2 |
+| Filthy Tide | Green Cup III        |    6 |    0 |    6 |     12 |      50.00 |   30 |   29 |   12 |    -27 |    0 |
+| Filthy Tide | Green Cup VIII       |    7 |    2 |    8 |     17 | 47.06 |   39 |   40 |   42 |     -4 |   -4 |
 | Filthy Tide | Green Cup X          |    7 |    0 |    9 |     16 |   43.75 |   50 |   51 |   19 |    -25 |    3 |
-| Filthy Tide | Green Cup IV         |    5 |    0 |    7 |     12 | 41.6667 |   32 |   38 |   11 |    -32 |    1 |
-| Filthy Tide | Green Cup V Memorial |    4 |    1 |    6 |     11 | 40.9091 |   21 |   20 |   15 |     -3 |   -1 |
-| Filthy Tide | Green Cup IX         |    4 |    3 |   10 |     17 | 32.3529 |   45 |   57 |   16 |    -23 |   -1 |
-| Filthy Tide | UBBL Challenge III   |    0 |    0 |    1 |      1 |       0 |    0 |    2 |    0 |     -5 |    0 |
+| Filthy Tide | Green Cup IV         |    5 |    0 |    7 |     12 | 41.67 |   32 |   38 |   11 |    -32 |    1 |
+| Filthy Tide | Green Cup V Memorial |    4 |    1 |    6 |     11 | 40.91 |   21 |   20 |   15 |     -3 |   -1 |
+| Filthy Tide | Green Cup IX         |    4 |    3 |   10 |     17 | 32.35 |   45 |   57 |   16 |    -23 |   -1 |
+| Filthy Tide | UBBL Challenge III   |    0 |    0 |    1 |      1 |       0.00 |    0 |    2 |    0 |     -5 |    0 |
 
 ## History
 
@@ -57,8 +57,8 @@ The Tide is projected to get second in the Stacks division, but will then most l
 
 ### Stars & Scrubs
 
-| Player       | Team        | Position      | won  | draw | lost | GP   | TD   | Comp | Ints | BH   | SI   | Ki   | MVP  | SPP  |
-|--------------|-------------|---------------|------|------|------|------|------|------|------|------|------|------|------|------|
+| Player           | Team        | Position      | W  | D | L | GP   | TD   | Cp | Int | BH   | SI   | Ki   | MVP  | SPP  |
+|------------------|-------------|---------------|----|---|---|------|------|----|-----|------|------|------|------|------|
 | Yakup           | Filthy Tide | Catcher |   27 |    6 |   20 |   53 |   73 |    1 |    0 |    0 |    1 |    0 |    4 |  242 |
 | Somfuhr         | Filthy Tide | Heavy      |   31 |    9 |   29 |   69 |    0 |    0 |    0 |   42 |   13 |    6 |    6 |  152 |
 | Silas           | Filthy Tide | Thrower       |   33 |    9 |   30 |   72 |    2 |  121 |    2 |    1 |    0 |    0 |    2 |  143 |

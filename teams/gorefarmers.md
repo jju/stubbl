@@ -24,8 +24,8 @@ The Orville-Crush approach to BludBol is traditional, simple, but also somewhat 
 
 ### Seasons
 
-| Team         | Season               | won  | draw | lost | played | win_pct | gf   | ga   | cas  | tcdiff | ff   |
-|--------------|----------------------|------|------|------|--------|---------|------|------|------|--------|------|
+| Team      | Season             | W  | D | L | GP | Win% | GF   | GA   | Cas  | CDif | FF   |
+|-----------|--------------------|------|------|------|--------|---------|------|------|------|--------|------|
 | Gore Farmers | Green Cup IV         |    7 |    2 |    2 |     11 | 72.7273 |   22 |   13 |   28 |     21 |    3 |
 | Gore Farmers | Green Cup VI         |   10 |    3 |    4 |     17 | 67.6471 |   27 |   25 |   25 |     14 |    3 |
 | Gore Farmers | Green Cup VIII       |   11 |    3 |    5 |     19 | 65.7895 |   36 |   23 |   42 |     24 |    1 |
@@ -58,8 +58,8 @@ Round of 16 loss.
 
 ### Stars & Scrubs
 
-| Player        | Team         | Position          | won  | draw | lost | GP   | TD   | Comp | Ints | BH   | SI   | Ki   | MVP  | SPP  |
-|---------------|--------------|-------------------|------|------|------|------|------|------|------|------|------|------|------|------|
+| Player           | Team        | Position      | W  | D | L | GP   | TD   | Cp | Int | BH   | SI   | Ki   | MVP  | SPP  |
+|------------------|-------------|---------------|----|---|---|------|------|----|-----|------|------|------|------|------|
 | KneeMasher   | Gore Farmers | Blitzer           |   26 |    7 |   19 |   52 |   31 |   10 |    8 |    5 |    0 |    0 |    2 |  139 |
 | *AxeEater* | Gore Farmers | Blitzer | ?? | ?? | ?? | 50 | 24 | 2 | 0 | 12 | 3 | 0 | 2 | 114 |
 | **SkyTripper**    | Gore Farmers | Thrower           |   23 |    5 |   26 |   54 |    4 |   56 |    1 |    0 |    0 |    0 |    4 |   90 |

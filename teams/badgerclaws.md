@@ -23,13 +23,13 @@ The Badger Claws use the Scrying Avian playbook which emphasizes speed above all
 
 ### Seasons
 
-| name         | name            | won  | draw | lost | played | win_pct | gf   | ga   | cas  | tcdiff | ff   |
-|--------------|-----------------|------|------|------|--------|---------|------|------|------|--------|------|
-| Badger Claws | UBBL Challenge  |    4 |    1 |    1 |      6 |      75 |   25 |   19 |    5 |      2 |    1 |
-| Badger Claws | StUBBL Scramble |    1 |    1 |    0 |      2 |      75 |    5 |    2 |    0 |     -4 |    0 |
-| Badger Claws | Green Cup IX    |   11 |    3 |    4 |     18 | 69.4444 |   75 |   56 |   20 |    -20 |    0 |
-| Badger Claws | Green Cup X     |    9 |    1 |    8 |     18 | 52.7778 |   64 |   58 |   21 |     -8 |    1 |
-| Badger Claws | Green Cup VIII  |    9 |    2 |    8 |     19 | 52.6316 |   61 |   57 |   15 |    -32 |    4 |
+| Team      | Season             | W  | D | L | GP | Win% | GF   | GA   | Cas  | CDif | FF   |
+|-----------|--------------------|------|------|------|--------|---------|------|------|------|--------|------|
+| Badger Claws | UBBL Challenge  |    4 |    1 |    1 |      6 |      75.00 |   25 |   19 |    5 |      2 |    1 |
+| Badger Claws | StUBBL Scramble |    1 |    1 |    0 |      2 |      75.00 |    5 |    2 |    0 |     -4 |    0 |
+| Badger Claws | Green Cup IX    |   11 |    3 |    4 |     18 | 69.44 |   75 |   56 |   20 |    -20 |    0 |
+| Badger Claws | Green Cup X     |    9 |    1 |    8 |     18 | 52.78 |   64 |   58 |   21 |     -8 |    1 |
+| Badger Claws | Green Cup VIII  |    9 |    2 |    8 |     19 | 52.63 |   61 |   57 |   15 |    -32 |    4 |
 
 ## History
 
@@ -53,8 +53,8 @@ Green Cup Champions or bust (more likely to be conference champs)
 
 ### Stars & Scrubs
 
-| Player      | Team         | position      | won  | draw | lost | GP   | TD   | Cp | Int | BH   | SI   | Ki   | MVP  | SPP  |
-|-------------|--------------|---------------|------|------|------|------|------|-------------|---------------|------|------|------|------|------|
+| Player           | Team        | Position      | W  | D | L | GP   | TD   | Cp | Int | BH   | SI   | Ki   | MVP  | SPP  |
+|------------------|-------------|---------------|----|---|---|------|------|----|-----|------|------|------|------|------|
 | **Aeson**      | Badger Claws | Catcher |   34 |    7 |   20 |   61 |  157 |    3 |    0 |    0 |    0 |    0 |   10 |  524 |
 | **Cleve**      | Badger Claws | Thrower       |   30 |    6 |   15 |   51 |    0 |  121 |    1 |    0 |    0 |    0 |    3 |  138 |
 | Donat     | Badger Claws | Catcher |   19 |    5 |   12 |   36 |   35 |    2 |    0 |    1 |    0 |    0 |    0 |  109 |

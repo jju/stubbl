@@ -4,7 +4,7 @@
 
 ## gcvi
 
-[[Souta]]
+[[souta]]
 
 ## gcc06
 
@@ -12,7 +12,7 @@
 
 ## gcvii
 
-[[Souta]]
+[[souta]]
 
 ## gcviii
 
@@ -20,7 +20,7 @@
 
 ## gcix
 
-[[Souta]]
+[[souta]]
 
 ## gcx
 

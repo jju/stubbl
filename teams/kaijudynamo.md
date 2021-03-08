@@ -25,20 +25,20 @@ The Dynamo use the Elizabeth Aardman playbook, with strong linemen and a big guy
 
 ### Seasons
 
-| Team         | Season               | won  | draw | lost | played | win_pct | gf   | ga   | cas  | tcdiff | ff   |
-|--------------|----------------------|------|------|------|--------|---------|------|------|------|--------|------|
-| Kaiju Dynamo | Green Cup VIII       |   13 |    1 |    4 |     18 |      75 |   56 |   34 |   24 |     -1 |    3 |
-| Kaiju Dynamo | UBBL Challenge       |    5 |    0 |    2 |      7 | 71.4286 |   12 |   10 |   14 |     11 |    2 |
-| Kaiju Dynamo | UBBL Challenge IV    |    2 |    0 |    1 |      3 | 66.6667 |    7 |    2 |    9 |      5 |    1 |
-| Kaiju Dynamo | Green Cup I          |    6 |    2 |    4 |     12 | 58.3333 |   29 |   28 |   21 |     10 |    2 |
-| Kaiju Dynamo | Green Cup IX         |    8 |    3 |    6 |     17 | 55.8824 |   50 |   45 |   23 |      0 |   -3 |
-| Kaiju Dynamo | Green Cup X          |    8 |    3 |    6 |     17 | 55.8824 |   36 |   39 |   29 |     13 |    2 |
-| Kaiju Dynamo | Green Cup III        |    4 |    2 |    5 |     11 | 45.4545 |   26 |   25 |   14 |    -11 |    0 |
-| Kaiju Dynamo | Green Cup Classic 06 |    2 |    4 |    3 |      9 | 44.4444 |   20 |   19 |    9 |      0 |    1 |
-| Kaiju Dynamo | Green Cup VII        |    7 |    1 |    9 |     17 | 44.1176 |   33 |   44 |   34 |      1 |    1 |
-| Kaiju Dynamo | Green Cup II         |    3 |    1 |    6 |     10 |      35 |   23 |   31 |   22 |      6 |   -1 |
-| Kaiju Dynamo | Green Cup V Memorial |    2 |    3 |    5 |     10 |      35 |   12 |   19 |    6 |    -17 |   -3 |
-| Kaiju Dynamo | Green Cup IV         |    2 |    1 |    7 |     10 |      25 |   18 |   28 |   11 |    -19 |   -1 |
+| Team      | Season             | W  | D | L | GP | Win% | GF   | GA   | Cas  | CDif | FF   |
+|-----------|--------------------|------|------|------|--------|---------|------|------|------|--------|------|
+| Kaiju Dynamo | Green Cup VIII       |   13 |    1 |    4 |     18 |   75.00 |   56 |   34 |   24 |     -1 |    3 |
+| Kaiju Dynamo | UBBL Challenge       |    5 |    0 |    2 |      7 | 71.43 |   12 |   10 |   14 |     11 |    2 |
+| Kaiju Dynamo | UBBL Challenge IV    |    2 |    0 |    1 |      3 | 66.67 |    7 |    2 |    9 |      5 |    1 |
+| Kaiju Dynamo | Green Cup I          |    6 |    2 |    4 |     12 | 58.33 |   29 |   28 |   21 |     10 |    2 |
+| Kaiju Dynamo | Green Cup IX         |    8 |    3 |    6 |     17 | 55.88 |   50 |   45 |   23 |      0 |   -3 |
+| Kaiju Dynamo | Green Cup X          |    8 |    3 |    6 |     17 | 55.88 |   36 |   39 |   29 |     13 |    2 |
+| Kaiju Dynamo | Green Cup III        |    4 |    2 |    5 |     11 | 45.45 |   26 |   25 |   14 |    -11 |    0 |
+| Kaiju Dynamo | Green Cup Classic 06 |    2 |    4 |    3 |      9 | 44.44 |   20 |   19 |    9 |      0 |    1 |
+| Kaiju Dynamo | Green Cup VII        |    7 |    1 |    9 |     17 | 44.18 |   33 |   44 |   34 |      1 |    1 |
+| Kaiju Dynamo | Green Cup II         |    3 |    1 |    6 |     10 |    35.00 |   23 |   31 |   22 |      6 |   -1 |
+| Kaiju Dynamo | Green Cup V Memorial |    2 |    3 |    5 |     10 |      35.00 |   12 |   19 |    6 |    -17 |   -3 |
+| Kaiju Dynamo | Green Cup IV         |    2 |    1 |    7 |     10 |      25.00 |   18 |   28 |   11 |    -19 |   -1 |
 
 ## History
 
@@ -58,8 +58,8 @@ The death of Sabah in GCX was a huge blow to the team and most commentators wrot
 
 ### Stars & Scrubs
 
-| Player    | Team         | Position | won  | draw | lost | GP   | TD   | Comp | Ints | BH   | SI   | Ki   | MVP  | SPP  |
-|-----------|--------------|----------|------|------|------|------|------|------|------|------|------|------|------|------|
+| Player           | Team        | Position      | W  | D | L | GP   | TD   | Cp | Int | BH   | SI   | Ki   | MVP  | SPP  |
+|------------------|-------------|---------------|----|---|---|------|------|----|-----|------|------|------|------|------|
 | Sabah    | Kaiju Dynamo | Runner    |   29 |    5 |   16 |   50 |   66 |    2 |    0 |    0 |    0 |    0 |    3 |  215 |
 | Nakayama | Kaiju Dynamo | Runner    |   24 |    5 |   18 |   47 |   22 |   27 |    1 |    1 |    0 |    1 |    3 |  114 |
 | *Dogolas* | Kaiju Dynamo | Runner | ?? | ?? | ?? | 57 | 20 | 20 | 2 | 0 | 1 | 0 | 5 | 111 |

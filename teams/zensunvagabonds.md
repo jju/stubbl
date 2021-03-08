@@ -23,10 +23,10 @@ The Vagabonds use the Hermann playbook, the original plan for playing BludBol, a
 
 ### Seasons
 
-| Team             | Season             | won  | draw | lost | played | win_pct | gf   | ga   | cas  | tcdiff | ff   |
-|------------------|--------------------|------|------|------|--------|---------|------|------|------|--------|------|
-| Zensun Vagabonds | Champions Circuit  |    1 |    0 |    0 |      1 |     100 |    3 |    2 |    3 |      2 |    0 |
-| Zensun Vagabonds | Green Cup X        |   11 |    2 |    5 |     18 | 66.667 |   46 |   33 |   29 |      3 |    5 |
+| Team      | Season             | W  | D | L | GP | Win% | GF   | GA   | Cas  | CDif | FF   |
+|-----------|--------------------|------|------|------|--------|---------|------|------|------|--------|------|
+| Zensun Vagabonds | Champions Circuit  |    1 |    0 |    0 |      1 |     100.00 |    3 |    2 |    3 |      2 |    0 |
+| Zensun Vagabonds | Green Cup X        |   11 |    2 |    5 |     18 | 66.67 |   46 |   33 |   29 |      3 |    5 |
 | Zensun Vagabonds | Green Cup VII      |    7 |    6 |    3 |     16 |    62.50 |   47 |   32 |   38 |     -1 |    1 |
 | Zensun Vagabonds | Green Cup IX       |    7 |    3 |    6 |     16 |  53.13 |   32 |   40 |   19 |    -10 |    1 |
 | Zensun Vagabonds | UBBL Challenge II  |    1 |    0 |    1 |      2 |      50.00 |    4 |    4 |    3 |     -3 |    0 |
@@ -55,8 +55,8 @@ Fighting for third place in the Heaps.
 
 ### Stars & Scrubs
 
-| Player       | Team             | Position | won  | draw | lost | GP   | TD   | Comp | Ints | BH   | SI   | Ki   | MVP  | SPP  |
-|--------------|------------------|----------|------|------|------|------|------|------|------|------|------|------|------|------|
+| Player           | Team        | Position      | W  | D | L | GP   | TD   | Cp | Int | BH   | SI   | Ki   | MVP  | SPP  |
+|------------------|-------------|---------------|----|---|---|------|------|----|-----|------|------|------|------|------|
 | Rohit       | Zensun Vagabonds | Blitzer  |   20 |   12 |   19 |   51 |    7 |    1 |    1 |   39 |   12 |    1 |    6 |  158 |
 | Subrahmanya | Zensun Vagabonds | Thrower  |   21 |   11 |   22 |   54 |    1 |   96 |    0 |    1 |    0 |    0 |    5 |  126 |
 | Lucrece     | Zensun Vagabonds | Catcher  |   24 |   14 |   24 |   62 |   27 |    3 |    2 |    1 |    1 |    0 |    6 |  122 |

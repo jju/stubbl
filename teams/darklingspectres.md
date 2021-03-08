@@ -23,20 +23,20 @@ The Spectres use the traditional Unglewort playbook. They have nigh-unlimited ch
 
 ### Seasons
 
-| name              | name                 | won  | draw | lost | played | win_pct | gf   | ga   | cas  | tcdiff | ff   |
-|-------------------|----------------------|------|------|------|--------|---------|------|------|------|--------|------|
-| Darkling Spectres | UBBL Challenge II    |    2 |    0 |    1 |      3 | 66.6667 |    7 |    8 |    7 |      2 |   -1 |
-| Darkling Spectres | UBBL Challenge IV    |    2 |    0 |    1 |      3 | 66.6667 |    7 |    8 |    6 |     -1 |    1 |
-| Darkling Spectres | Green Cup Classic 06 |    5 |    3 |    2 |     10 |      65 |   17 |   14 |   10 |     -2 |    3 |
-| Darkling Spectres | UBBL Challenge       |    3 |    0 |    2 |      5 |      60 |   12 |    8 |    7 |      0 |    1 |
-| Darkling Spectres | Green Cup IV         |    6 |    2 |    4 |     12 | 58.3333 |   24 |   20 |   24 |      9 |    0 |
-| Darkling Spectres | Green Cup VII        |   10 |    0 |    9 |     19 | 52.6316 |   36 |   39 |   33 |     14 |    1 |
-| Darkling Spectres | Green Cup IX         |    5 |    3 |    8 |     16 |  40.625 |   32 |   45 |   27 |     -3 |   -2 |
-| Darkling Spectres | Green Cup III        |    3 |    2 |    5 |     10 |      40 |   21 |   24 |   25 |     13 |    2 |
-| Darkling Spectres | Green Cup X          |    5 |    2 |    9 |     16 |    37.5 |   35 |   45 |   24 |     -1 |    0 |
-| Darkling Spectres | Green Cup VIII       |    5 |    2 |   10 |     17 | 35.2941 |   30 |   42 |   42 |     23 |   -1 |
-| Darkling Spectres | Green Cup V Memorial |    2 |    1 |    7 |     10 |      25 |    9 |   19 |   17 |      6 |   -1 |
-| Darkling Spectres | UBBL Challenge III   |    0 |    0 |    1 |      1 |       0 |    0 |    4 |    2 |     -3 |   -1 |
+| Team      | Season             | W  | D | L | GP | Win% | GF   | GA   | Cas  | CDif | FF   |
+|-----------|--------------------|------|------|------|--------|---------|------|------|------|--------|------|
+| Darkling Spectres | UBBL Challenge II    |    2 |    0 |    1 |      3 | 66.67 |    7 |    8 |    7 |      2 |   -1 |
+| Darkling Spectres | UBBL Challenge IV    |    2 |    0 |    1 |      3 | 66.67 |    7 |    8 |    6 |     -1 |    1 |
+| Darkling Spectres | Green Cup Classic 06 |    5 |    3 |    2 |     10 |      65.00 |   17 |   14 |   10 |     -2 |    3 |
+| Darkling Spectres | UBBL Challenge       |    3 |    0 |    2 |      5 |      60.00 |   12 |    8 |    7 |      0 |    1 |
+| Darkling Spectres | Green Cup IV         |    6 |    2 |    4 |     12 | 58.33 |   24 |   20 |   24 |      9 |    0 |
+| Darkling Spectres | Green Cup VII        |   10 |    0 |    9 |     19 | 52.63 |   36 |   39 |   33 |     14 |    1 |
+| Darkling Spectres | Green Cup IX         |    5 |    3 |    8 |     16 |  40.63 |   32 |   45 |   27 |     -3 |   -2 |
+| Darkling Spectres | Green Cup III        |    3 |    2 |    5 |     10 |      40.00 |   21 |   24 |   25 |     13 |    2 |
+| Darkling Spectres | Green Cup X          |    5 |    2 |    9 |     16 |    37.50 |   35 |   45 |   24 |     -1 |    0 |
+| Darkling Spectres | Green Cup VIII       |    5 |    2 |   10 |     17 | 35.29 |   30 |   42 |   42 |     23 |   -1 |
+| Darkling Spectres | Green Cup V Memorial |    2 |    1 |    7 |     10 |      25.00 |    9 |   19 |   17 |      6 |   -1 |
+| Darkling Spectres | UBBL Challenge III   |    0 |    0 |    1 |      1 |       0.00 |    0 |    4 |    2 |     -3 |   -1 |
 
 ## History
 
@@ -56,8 +56,8 @@ Missing the playoffs.
 
 ### Stars & Scrubs
 
-| Player       | Team              | Position   | won  | draw | lost | GP   | TD   | Comp | Ints | BH   | SI   | Ki   | MVP  | SPP  |
-|--------------|-------------------|------------|------|------|------|------|------|------|------|------|------|------|------|------|
+| Player           | Team        | Position      | W  | D | L | GP   | TD   | Cp | Int | BH   | SI   | Ki   | MVP  | SPP  |
+|------------------|-------------|---------------|----|---|---|------|------|----|-----|------|------|------|------|------|
 | Tooms II   | Darkling Spectres | Runner    |   28 |    8 |   28 |   64 |   13 |   86 |    1 |    3 |    0 |    0 |    5 |  158 |
 | *Qualls* | Darkling Spectres | Runner | ?? | ?? | ?? | 37 | 22 | 30 | 1 | 0 | 1 | 0 | 3 | 115 |
 | **Simon**        | Darkling Spectres | Blocker    |   16 |    5 |   21 |   42 |    0 |    0 |    0 |   18 |    6 |    4 |    5 |   81 |

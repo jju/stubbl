@@ -24,19 +24,19 @@ The Furies use the Norton playbook, which is mostly a way to get less skilled pl
 
 ### Seasons
 
-| Team            | Season               | won  | draw | lost | played | win_pct | gf   | ga   | cas  | tcdiff | ff   |
-|-----------------|----------------------|------|------|------|--------|---------|------|------|------|--------|------|
-| Cackling Furies | UBBL Challenge II    |    3 |    0 |    1 |      4 |      75 |   11 |    5 |   16 |      5 |    3 |
-| Cackling Furies | Green Cup III        |    9 |    1 |    3 |     13 | 73.0769 |   33 |   23 |    38 |     13 |    1 |
-| Cackling Furies | UBBL Challenge       |    2 |    1 |    1 |      4 |    62.5 |   12 |    8 |    9 |     12 |    2 |
-| Cackling Furies | Green Cup IX         |    7 |    7 |    3 |     17 | 61.7647 |   38 |   34 |   24 |     -3 |    4 |
-| Cackling Furies | Green Cup X          |    7 |    4 |    6 |     17 | 52.9412 |   41 |   30 |   27 |     -1 |    0 |
-| Cackling Furies | Green Cup II         |    4 |    2 |    5 |     11 | 45.4545 |   20 |   19 |    33 |     10 |   -1 |
-| Cackling Furies | Green Cup IV         |    3 |    2 |    5 |     10 |      40 |   18 |   25 |    34 |     16 |   -2 |
-| Cackling Furies | Green Cup Classic 06 |    1 |    4 |    3 |      8 |    37.5 |   11 |   15 |   15 |      0 |    1 |
-| Cackling Furies | Green Cup V Memorial |    3 |    1 |    6 |     10 |      35 |   11 |   21 |   19 |      0 |   -3 |
-| Cackling Furies | Green Cup VII        |    4 |    3 |    9 |     16 |  34.375 |   28 |   34 |   31 |      4 |   -1 |
-| Cackling Furies | UBBL Challenge IV    |    1 |    0 |    2 |      3 | 33.3333 |    5 |    6 |    5 |      1 |   -1 |
+| Team      | Season             | W  | D | L | GP | Win% | GF   | GA   | Cas  | CDif | FF   |
+|-----------|--------------------|------|------|------|--------|---------|------|------|------|--------|------|
+| Cackling Furies | UBBL Challenge II    |    3 |    0 |    1 |      4 |      75.00 |   11 |    5 |   16 |      5 |    3 |
+| Cackling Furies | Green Cup III        |    9 |    1 |    3 |     13 | 73.08 |   33 |   23 |    38 |     13 |    1 |
+| Cackling Furies | UBBL Challenge       |    2 |    1 |    1 |      4 |    62.50 |   12 |    8 |    9 |     12 |    2 |
+| Cackling Furies | Green Cup IX         |    7 |    7 |    3 |     17 | 61.76 |   38 |   34 |   24 |     -3 |    4 |
+| Cackling Furies | Green Cup X          |    7 |    4 |    6 |     17 | 52.94 |   41 |   30 |   27 |     -1 |    0 |
+| Cackling Furies | Green Cup II         |    4 |    2 |    5 |     11 | 45.45 |   20 |   19 |    33 |     10 |   -1 |
+| Cackling Furies | Green Cup IV         |    3 |    2 |    5 |     10 |      40.00 |   18 |   25 |    34 |     16 |   -2 |
+| Cackling Furies | Green Cup Classic 06 |    1 |    4 |    3 |      8 |    37.50 |   11 |   15 |   15 |      0 |    1 |
+| Cackling Furies | Green Cup V Memorial |    3 |    1 |    6 |     10 |      35.00 |   11 |   21 |   19 |      0 |   -3 |
+| Cackling Furies | Green Cup VII        |    4 |    3 |    9 |     16 |  34.38 |   28 |   34 |   31 |      4 |   -1 |
+| Cackling Furies | UBBL Challenge IV    |    1 |    0 |    2 |      3 | 33.33 |    5 |    6 |    5 |      1 |   -1 |
 | Cackling Furies | Green Cup VIII       |    5 |    0 |   11 |     16 |   31.25 |   23 |   38 |   43 |      8 |   -2 |
 
 
@@ -60,8 +60,8 @@ Hoping for a chance at the divisional title, but will have to work to make the p
 
 ### Stars & Scrubs
 
-| Player    | Team            | Position     | won  | draw | lost | GP   | TD   | Cp | Int | BH  | SI   | Ki   | MVP  | SPP |
-|-------------|--------------|---------------|------|------|------|------|------|----|-----|-----|------|------|------|-----|
+| Player           | Team        | Position      | W  | D | L | GP   | TD   | Cp | Int | BH   | SI   | Ki   | MVP  | SPP  |
+|------------------|-------------|---------------|----|---|---|------|------|----|-----|------|------|------|------|------|
 | *Rodrik* | Cackling Furies | Catcher | *23* | ?? | ?? | 44 | 39 | 2 | 2 | 0 | 0 | 0 | 3 | 138 |
 | **Aronne**    | Cackling Furies | Catcher        |   17 |   10 |   10 |   37 |   24 |   24 |    2 |    0 |    0 |    0 |    3 |  115 |
 | Rickon   | Cackling Furies | Catcher        |   28 |   13 |   35 |   76 |   31 |    1 |    1 |    1 |    0 |    0 |    3 |  113 |

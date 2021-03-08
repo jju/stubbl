@@ -25,19 +25,19 @@ The Tatters use the Nergal playbook, some (especially fans of pretty BludBol) sa
 
 ### Seasons
 
-| Team            | Season                 | won  | draw | lost | played | win_pct | gf   | ga   | cas  | tcdiff | ff   |
-|-----------------|----------------------|------|------|------|--------|---------|------|------|------|--------|------|
-| Carcosan Tatters | Green Cup II         |    7 |    3 |    2 |     12 | 70.8333 |   24 |   19 |   36 |     27 |    0 |
-| Carcosan Tatters | Green Cup III        |    6 |    3 |    2 |     11 | 68.1818 |   18 |   17 |   29 |     22 |   -1 |
-| Carcosan Tatters | Green Cup VI         |   11 |    1 |    5 |     17 | 67.6471 |   20 |   15 |   23 |     10 |    5 |
-| Carcosan Tatters | UBBL Challenge       |    2 |    0 |    1 |      3 | 66.6667 |    4 |    3 |    7 |      3 |    1 |
-| Carcosan Tatters | Green Cup VIII       |   12 |    0 |    6 |     18 | 66.6667 |   23 |   21 |   39 |     22 |    1 |
-| Carcosan Tatters | Green Cup X          |    8 |    3 |    5 |     16 |  59.375 |   25 |   21 |   39 |     29 |    0 |
-| Carcosan Tatters | Green Cup IX         |    8 |    3 |    5 |     16 |  59.375 |   25 |   24 |   37 |     25 |    6 |
-| Carcosan Tatters | Green Cup IV         |    5 |    3 |    3 |     11 | 59.0909 |   17 |   17 |   35 |     28 |   -4 |
-| Carcosan Tatters | Green Cup V Memorial |    4 |    1 |    6 |     11 | 40.9091 |    9 |   14 |   14 |      5 |   -3 |
-| Carcosan Tatters | UBBL Challenge IV    |    1 |    0 |    2 |      3 | 33.3333 |    3 |    4 |    5 |      2 |    0 |
-| Carcosan Tatters | Green Cup VII        |    3 |    1 |   12 |     16 |  21.875 |   15 |   36 |   30 |     13 |   -3 |
+| Team      | Season             | W  | D | L | GP | Win% | GF   | GA   | Cas  | CDif | FF   |
+|-----------|--------------------|------|------|------|--------|---------|------|------|------|--------|------|
+| Carcosan Tatters | Green Cup II         |    7 |    3 |    2 |     12 | 70.83 |   24 |   19 |   36 |     27 |    0 |
+| Carcosan Tatters | Green Cup III        |    6 |    3 |    2 |     11 | 68.18 |   18 |   17 |   29 |     22 |   -1 |
+| Carcosan Tatters | Green Cup VI         |   11 |    1 |    5 |     17 | 67.65 |   20 |   15 |   23 |     10 |    5 |
+| Carcosan Tatters | UBBL Challenge       |    2 |    0 |    1 |      3 | 66.67 |    4 |    3 |    7 |      3 |    1 |
+| Carcosan Tatters | Green Cup VIII       |   12 |    0 |    6 |     18 | 66.67 |   23 |   21 |   39 |     22 |    1 |
+| Carcosan Tatters | Green Cup X          |    8 |    3 |    5 |     16 |  59.38 |   25 |   21 |   39 |     29 |    0 |
+| Carcosan Tatters | Green Cup IX         |    8 |    3 |    5 |     16 |  59.38 |   25 |   24 |   37 |     25 |    6 |
+| Carcosan Tatters | Green Cup IV         |    5 |    3 |    3 |     11 | 59.09 |   17 |   17 |   35 |     28 |   -4 |
+| Carcosan Tatters | Green Cup V Memorial |    4 |    1 |    6 |     11 | 40.91 |    9 |   14 |   14 |      5 |   -3 |
+| Carcosan Tatters | UBBL Challenge IV    |    1 |    0 |    2 |      3 | 33.33 |    3 |    4 |    5 |      2 |    0 |
+| Carcosan Tatters | Green Cup VII        |    3 |    1 |   12 |     16 |  21.88 |   15 |   36 |   30 |     13 |   -3 |
 
 ## History
 
@@ -57,8 +57,8 @@ The Tatters could be in position to upset for a Divisional title, but hopes are 
 
 ### Stars & Scrubs
 
-| Player             | Team             | Position        | won  | draw | lost | GP   | TD   | Cp | Int | BH   | SI   | Ki   | MVP  | SPP  |
-|--------------------|------------------|-----------------|------|------|------|------|------|-------------|---------------|------|------|------|------|------|
+| Player           | Team        | Position      | W  | D | L | GP   | TD   | Cp | Int | BH   | SI   | Ki   | MVP  | SPP  |
+|------------------|-------------|---------------|----|---|---|------|------|----|-----|------|------|------|------|------|
 | *BSEncef* | Carcosan Tatters | Blitzer        |   ?? |   ?? |   ?? |   49 |   23 |           31 |             2 |    1 |    0 |    0 |    3 |   121 |
 | Gention           | Carcosan Tatters | Blitzer        |   32 |    6 |   19 |   57 |   10 |    4 |    0 |   16 |    8 |    2 |    7 |  121 |
 | *Scrapie* | Carcosan Tatters | Blitzer | ?? | ?? | ?? | 49 | 18 | 0 | 1 | 10 | 4 | 3 | 4 | 110 |

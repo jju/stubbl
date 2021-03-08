@@ -22,20 +22,20 @@ The Vanadium Hunters use the Hermann playbook, the original plan for playing Blu
 
 ### Seasons
 
-| Team             | Season               | won  | draw | lost | played | win_pct | gf   | ga   | cas  | tcdiff | ff   |
-|------------------|----------------------|------|------|------|--------|---------|------|------|------|--------|------|
-| Vanadium Hunters | Orange Goblet        |    7 |    1 |    4 |     12 |    62.5 |   26 |   21 |   21 |      6 |    4 |
-| Vanadium Hunters | UBBL Challenge       |    1 |    1 |    1 |      3 |      50 |    8 |    7 |    7 |      2 |    0 |
-| Vanadium Hunters | Green Cup V Memorial |    4 |    3 |    5 |     12 | 45.8333 |   18 |   21 |   14 |     -4 |    2 |
-| Vanadium Hunters | Green Cup IV         |    4 |    2 |    5 |     11 | 45.4545 |   31 |   25 |   40 |     30 |   -1 |
-| Vanadium Hunters | Green Cup VII        |    3 |    7 |    6 |     16 |  40.625 |   30 |   37 |   27 |      7 |    2 |
-| Vanadium Hunters | Green Cup Classic 06 |    2 |    2 |    4 |      8 |    37.5 |   15 |   19 |   10 |     -3 |    1 |
-| Vanadium Hunters | Green Cup I          |    3 |    1 |    6 |     10 |      35 |   24 |   27 |   16 |     -6 |    1 |
-| Vanadium Hunters | Green Cup III        |    3 |    1 |    6 |     10 |      35 |   20 |   23 |   19 |      3 |   -1 |
+| Team      | Season             | W  | D | L | GP | Win% | GF   | GA   | Cas  | CDif | FF   |
+|-----------|--------------------|------|------|------|--------|---------|------|------|------|--------|------|
+| Vanadium Hunters | Orange Goblet        |    7 |    1 |    4 |     12 |    62.50 |   26 |   21 |   21 |      6 |    4 |
+| Vanadium Hunters | UBBL Challenge       |    1 |    1 |    1 |      3 |      50.00 |    8 |    7 |    7 |      2 |    0 |
+| Vanadium Hunters | Green Cup V Memorial |    4 |    3 |    5 |     12 | 45.83 |   18 |   21 |   14 |     -4 |    2 |
+| Vanadium Hunters | Green Cup IV         |    4 |    2 |    5 |     11 | 45.45 |   31 |   25 |   40 |     30 |   -1 |
+| Vanadium Hunters | Green Cup VII        |    3 |    7 |    6 |     16 |  40.63 |   30 |   37 |   27 |      7 |    2 |
+| Vanadium Hunters | Green Cup Classic 06 |    2 |    2 |    4 |      8 |    37.50 |   15 |   19 |   10 |     -3 |    1 |
+| Vanadium Hunters | Green Cup I          |    3 |    1 |    6 |     10 |      35.00 |   24 |   27 |   16 |     -6 |    1 |
+| Vanadium Hunters | Green Cup III        |    3 |    1 |    6 |     10 |      35.00 |   20 |   23 |   19 |      3 |   -1 |
 | Vanadium Hunters | Green Cup VIII       |    4 |    2 |   10 |     16 |   31.25 |   28 |   40 |   16 |    -13 |   -1 |
-| Vanadium Hunters | UBBL Challenge II    |    0 |    1 |    2 |      3 | 16.6667 |    4 |    8 |    2 |     -6 |   -1 |
-| Vanadium Hunters | UBBL Challenge III   |    0 |    0 |    3 |      3 |       0 |    5 |   10 |    1 |     -1 |   -2 |
-| Vanadium Hunters | UBBL Challenge IV    |    0 |    0 |    2 |      2 |       0 |    2 |    8 |    0 |     -2 |   -1 |
+| Vanadium Hunters | UBBL Challenge II    |    0 |    1 |    2 |      3 | 16.67 |    4 |    8 |    2 |     -6 |   -1 |
+| Vanadium Hunters | UBBL Challenge III   |    0 |    0 |    3 |      3 |       0.00 |    5 |   10 |    1 |     -1 |   -2 |
+| Vanadium Hunters | UBBL Challenge IV    |    0 |    0 |    2 |      2 |       0.00 |    2 |    8 |    0 |     -2 |   -1 |
 
 ## History
 
@@ -47,8 +47,8 @@ The Hunters had never managed to achieve a winning season before the inaugural O
 
 ### Stars & Scrubs
 
-| Player     | Team             | Position | won  | draw | lost | GP   | TD   | Comp | Ints | BH   | SI   | Ki   | MVP  | SPP  |
-|------------|------------------|----------|------|------|------|------|------|------|------|------|------|------|------|------|
+| Player           | Team        | Position      | W  | D | L | GP   | TD   | Cp | Int | BH   | SI   | Ki   | MVP  | SPP  |
+|------------------|-------------|---------------|----|---|---|------|------|----|-----|------|------|------|------|------|
 | *HalfJack* | Vanadium Hunters | Thrower |  ?? | ?? | ?? | 51 | 5 | 84 | 0 | 1 | 1 | 0 | 5 | 128 |
 | *Moseh* | Vanadium Hunters | Blitzer |  ?? | ?? | ?? | 51 | 25 | 9 | 2 | 6 | 1 | 0 | 4 | 122 |
 | *Nyazi* | Vanadium Hunters | Blitzer | ?? | ?? | ?? | 51 | 28 | 5 | 1 | 7 | 3 | 0 | 2 | 121 |

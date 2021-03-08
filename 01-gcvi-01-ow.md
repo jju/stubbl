@@ -19,7 +19,7 @@ It sounds like these are going to be the most interesting players to watch, or a
 * [[evander]] - Thrower
 * [[Moirin]] - Catcher
 * [[Pesci]] - Old-Era Veteran Catcher
-* [[Souta]] - Catcher
+* [[souta]] - Catcher
 
 So that was a week of bludbol. The {$followingTeam} are 0-0-1. What now?
 
@@ -53,7 +53,7 @@ They got smoked by the Irregular Cogs 3-0 in week 2, then got a 1-1 draw against
 
 Now there's word that another BludBol league is starting up in Stacksburg. Some of the other old-era teams that had been left out of this tournament are organizing to play for the "real" green cup.
 
-The team you're following is 2-2-3 but [[Souta]] is third in the MVP race with 24 SPP. What now?
+The team you're following is 2-2-3 but [[souta]] is third in the MVP race with 24 SPP. What now?
 
 > Keep watching the Hounds on the EDS.->[[01-gcvi-08-ow]]
 > Choose a different team to follow.->[[01-gcvi-08-teamselect]]

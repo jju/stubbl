@@ -23,17 +23,17 @@ The Glorious Hounds use the High Extension playbook, a venerable adaptation of t
 
 ### Seasons
 
-| Team            | Season               | won  | draw | lost | played | win_pct | gf   | ga   | cas  | tcdiff | ff   |
-|-----------------|----------------------|------|------|------|--------|---------|------|------|------|--------|------|
-| Glorious Hounds | UBBL Challenge IV    |    5 |    0 |    1 |      6 | 83.3333 |   22 |    7 |    6 |    -10 |    4 |
-| Glorious Hounds | Green Cup VIII       |   11 |    1 |    5 |     17 | 67.6471 |   51 |   27 |   11 |    -20 |    2 |
-| Glorious Hounds | Green Cup VII        |   10 |    1 |    6 |     17 | 61.7647 |   60 |   37 |   16 |    -18 |    3 |
-| Glorious Hounds | Green Cup V Memorial |    5 |    3 |    4 |     12 | 54.1667 |   23 |   16 |   14 |     -6 |   -2 |
-| Glorious Hounds | Green Cup IV         |    7 |    0 |    6 |     13 | 53.8462 |   39 |   35 |   14 |     -9 |    0 |
-| Glorious Hounds | Green Cup IX         |    8 |    3 |    7 |     18 | 52.7778 |   58 |   49 |   14 |    -22 |   -1 |
-| Glorious Hounds | UBBL Challenge       |    2 |    0 |    2 |      4 |      50 |   11 |   12 |    2 |     -8 |    1 |
-| Glorious Hounds | Green Cup X          |    4 |    4 |    8 |     16 |    37.5 |   40 |   46 |   13 |    -25 |   -3 |
-| Glorious Hounds | Green Cup VI         |    3 |    4 |    8 |     15 | 33.3333 |   30 |   33 |   15 |    -13 |    1 |
+| Team      | Season             | W  | D | L | GP | Win% | GF   | GA   | Cas  | CDif | FF   |
+|-----------|--------------------|------|------|------|--------|---------|------|------|------|--------|------|
+| Glorious Hounds | UBBL Challenge IV    |    5 |    0 |    1 |      6 | 83.33 |   22 |    7 |    6 |    -10 |    4 |
+| Glorious Hounds | Green Cup VIII       |   11 |    1 |    5 |     17 | 67.65 |   51 |   27 |   11 |    -20 |    2 |
+| Glorious Hounds | Green Cup VII        |   10 |    1 |    6 |     17 | 61.76 |   60 |   37 |   16 |    -18 |    3 |
+| Glorious Hounds | Green Cup V Memorial |    5 |    3 |    4 |     12 | 54.17 |   23 |   16 |   14 |     -6 |   -2 |
+| Glorious Hounds | Green Cup IV         |    7 |    0 |    6 |     13 | 53.85 |   39 |   35 |   14 |     -9 |    0 |
+| Glorious Hounds | Green Cup IX         |    8 |    3 |    7 |     18 | 52.78 |   58 |   49 |   14 |    -22 |   -1 |
+| Glorious Hounds | UBBL Challenge       |    2 |    0 |    2 |      4 |      50.00 |   11 |   12 |    2 |     -8 |    1 |
+| Glorious Hounds | Green Cup X          |    4 |    4 |    8 |     16 |    37.50 |   40 |   46 |   13 |    -25 |   -3 |
+| Glorious Hounds | Green Cup VI         |    3 |    4 |    8 |     15 | 33.33 |   30 |   33 |   15 |    -13 |    1 |
 
 ## History
 
@@ -47,8 +47,8 @@ Division Champion
 
 ### Stars & Scrubs
 
-| Player       | Team        | Position  | won  | draw | lost | GP   | TD   | Comp | Ints | BH   | SI   | Ki   | MVP  | SPP  |
-|--------------|-------------|---------------|------|------|------|------|------|------|------|------|------|------|------|------|
+| Player           | Team        | Position      | W  | D | L | GP   | TD   | Cp | Int | BH   | SI   | Ki   | MVP  | SPP  |
+|------------------|-------------|---------------|----|---|---|------|------|----|-----|------|------|------|------|------|
 | Costache | Glorious Hounds | Catcher  |   20 |    8 |   19 |   47 |   74 |    3 |    2 |    2 |    1 |    0 |    3 |  250 |
 | Yosif    | Glorious Hounds | Thrower  |   32 |    9 |   29 |   70 |    1 |  162 |    2 |    0 |    0 |    0 |    2 |  179 |
 | Oiva     | Glorious Hounds | Catcher  |   27 |    8 |   21 |   56 |   30 |   29 |    8 |    3 |    0 |    0 |    3 |  156 |

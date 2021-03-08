@@ -24,21 +24,21 @@ The Irregular Cogs use the Drop Eagle playbook. It's an adaptation of the Herman
 
 ### Seasons
 
-| Team           | Season               | won  | draw | lost | played | win_pct | gf   | ga   | cas  | tcdiff | ff   |
-|----------------|----------------------|------|------|------|--------|---------|------|------|------|--------|------|
-| Irregular Cogs | Green Cup V Memorial |    8 |    3 |    2 |     13 | 73.0769 |   27 |   14 |   20 |      9 |    0 |
-| Irregular Cogs | Green Cup VII        |   13 |    0 |    5 |     18 | 72.2222 |   51 |   32 |   12 |    -19 |    2 |
-| Irregular Cogs | Green Cup I          |    7 |    3 |    2 |     12 | 70.8333 |   36 |   27 |   14 |    -10 |    2 |
-| Irregular Cogs | Green Cup IX         |   11 |    1 |    5 |     17 | 67.6471 |   49 |   36 |   15 |    -12 |    7 |
-| Irregular Cogs | Green Cup X          |   10 |    2 |    5 |     17 | 64.7059 |   49 |   35 |   18 |     -4 |    0 |
-| Irregular Cogs | UBBL Challenge       |    2 |    1 |    1 |      4 |    62.5 |    9 |    8 |    5 |     -2 |   -1 |
-| Irregular Cogs | Green Cup IV         |    5 |    2 |    4 |     11 | 54.5455 |   29 |   26 |   11 |     -9 |    0 |
-| Irregular Cogs | Green Cup II         |    6 |    1 |    5 |     12 | 54.1667 |   32 |   28 |   17 |    -11 |   -3 |
-| Irregular Cogs | UBBL Challenge IV    |    1 |    0 |    1 |      2 |      50 |    4 |    7 |    3 |      0 |    0 |
-| Irregular Cogs | Green Cup VI         |    6 |    2 |    7 |     15 | 46.6667 |   37 |   34 |   23 |     -1 |   -1 |
-| Irregular Cogs | Green Cup III        |    5 |    1 |    6 |     12 | 45.8333 |   31 |   29 |   11 |    -14 |   -2 |
-| Irregular Cogs | Green Cup VIII       |    6 |    1 |    9 |     16 |  40.625 |   33 |   36 |   20 |    -16 |   -3 |
-| Irregular Cogs | UBBL Challenge II    |    0 |    0 |    1 |      1 |       0 |    2 |    6 |    2 |      2 |    0 |
+| Team      | Season             | W  | D | L | GP | Win% | GF   | GA   | Cas  | CDif | FF   |
+|-----------|--------------------|------|------|------|--------|---------|------|------|------|--------|------|
+| Irregular Cogs | Green Cup V Memorial |    8 |    3 |    2 |     13 | 73.08 |   27 |   14 |   20 |      9 |    0 |
+| Irregular Cogs | Green Cup VII        |   13 |    0 |    5 |     18 | 72.22 |   51 |   32 |   12 |    -19 |    2 |
+| Irregular Cogs | Green Cup I          |    7 |    3 |    2 |     12 | 70.83 |   36 |   27 |   14 |    -10 |    2 |
+| Irregular Cogs | Green Cup IX         |   11 |    1 |    5 |     17 | 67.65 |   49 |   36 |   15 |    -12 |    7 |
+| Irregular Cogs | Green Cup X          |   10 |    2 |    5 |     17 | 64.71 |   49 |   35 |   18 |     -4 |    0 |
+| Irregular Cogs | UBBL Challenge       |    2 |    1 |    1 |      4 |    62.50 |    9 |    8 |    5 |     -2 |   -1 |
+| Irregular Cogs | Green Cup IV         |    5 |    2 |    4 |     11 | 54.55 |   29 |   26 |   11 |     -9 |    0 |
+| Irregular Cogs | Green Cup II         |    6 |    1 |    5 |     12 | 54.17 |   32 |   28 |   17 |    -11 |   -3 |
+| Irregular Cogs | UBBL Challenge IV    |    1 |    0 |    1 |      2 |      50.00 |    4 |    7 |    3 |      0 |    0 |
+| Irregular Cogs | Green Cup VI         |    6 |    2 |    7 |     15 | 46.67 |   37 |   34 |   23 |     -1 |   -1 |
+| Irregular Cogs | Green Cup III        |    5 |    1 |    6 |     12 | 45.83 |   31 |   29 |   11 |    -14 |   -2 |
+| Irregular Cogs | Green Cup VIII       |    6 |    1 |    9 |     16 |  40.63 |   33 |   36 |   20 |    -16 |   -3 |
+| Irregular Cogs | UBBL Challenge II    |    0 |    0 |    1 |      1 |       0.00 |    2 |    6 |    2 |      2 |    0 |
 
 ## History
 
@@ -62,9 +62,9 @@ Outlands Division Runner-Up
 
 ### Stars
 
-| Player     | Team           | Position  | won  | draw | lost | GP   | TD   | Comp | Ints | BH   | SI   | Ki   | MVP  | SPP  |
-|------------|----------------|-----------|------|------|------|------|------|------|------|------|------|------|------|------|
-| Besz      | Irregular Cogs | Runner    |   ?? |   ?? |   ?? |  70 |   22 |  110 |    0 |    0 |    1 |    0 |    5 |  203 |
+| Player           | Team        | Position      | W  | D | L | GP   | TD   | Cp | Int | BH   | SI   | Ki   | MVP  | SPP  |
+|------------------|-------------|---------------|----|---|---|------|------|----|-----|------|------|------|------|------|
+| Besz  | Irregular Cogs | Runner   |   33 |   4 |   23 |  64 |   29 |  105 |    0 |    0 |    1 |    0 |    4 |  204 |
 | *Halfleg* | Irregular Cogs | Runner | ?? | ?? | ?? | 51 | 12 | 89 | 2 | 2 | 0 | 3 | 3 | 154 |
 | *Crobuzon* | Irregular Cogs | Attacker | ?? | ?? | ?? | 50 | 33 | 5 | 1 | 6 | 5 | 0 | 4 | 148 |
 | Dragos    | Irregular Cogs | Blitzer   |   36 |    3 |   21 |   60 |   38 |    5 |    2 |    1 |    0 |    0 |    2 |  135 |

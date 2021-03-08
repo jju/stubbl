@@ -28,20 +28,20 @@ The Wyrms use what's known as the Excelsior playbook, where a fast fragile recei
 
 ### Seasons
 
-| Team      | Season               | won  | draw | lost | played | win_pct | gf   | ga   | cas  | tcdiff | ff   |
-|-----------|----------------------|------|------|------|--------|---------|------|------|------|--------|------|
-| Old Wyrms | Green Cup IX         |   15 |    1 |    3 |     19 | 81.5789 |   72 |   46 |   20 |    -17 |    2 |
-| Old Wyrms | UBBL Challenge       |    3 |    0 |    1 |      4 |      75 |   10 |    7 |    4 |    -10 |    2 |
-| Old Wyrms | Green Cup III        |    8 |    3 |    2 |     13 | 73.0769 |   43 |   25 |   11 |    -17 |    2 |
-| Old Wyrms | Green Cup X          |   11 |    5 |    3 |     19 | 71.0526 |   61 |   49 |   14 |    -30 |    2 |
-| Old Wyrms | Green Cup V Memorial |    7 |    1 |    3 |     11 | 68.1818 |   23 |   12 |    9 |     -9 |   -3 |
-| Old Wyrms | Green Cup IV         |    7 |    3 |    3 |     13 | 65.3846 |   39 |   32 |   13 |    -27 |    2 |
-| Old Wyrms | Green Cup II         |    6 |    2 |    3 |     11 | 63.6364 |   37 |   21 |    2 |    -41 |    0 |
-| Old Wyrms | Green Cup I          |    7 |    1 |    4 |     12 |    62.5 |   40 |   28 |    6 |    -12 |    0 |
-| Old Wyrms | Green Cup VII        |    6 |    5 |    5 |     16 |  53.125 |   45 |   44 |   18 |    -39 |   -2 |
+| Team      | Season             | W  | D | L | GP | Win% | GF   | GA   | Cas  | CDif | FF   |
+|-----------|--------------------|------|------|------|--------|---------|------|------|------|--------|------|
+| Old Wyrms | Green Cup IX         |   15 |    1 |    3 |     19 | 81.58 |   72 |   46 |   20 |    -17 |    2 |
+| Old Wyrms | UBBL Challenge       |    3 |    0 |    1 |      4 |   75.00 |   10 |    7 |    4 |    -10 |    2 |
+| Old Wyrms | Green Cup III        |    8 |    3 |    2 |     13 | 73.08 |   43 |   25 |   11 |    -17 |    2 |
+| Old Wyrms | Green Cup X          |   11 |    5 |    3 |     19 | 71.05 |   61 |   49 |   14 |    -30 |    2 |
+| Old Wyrms | Green Cup V Memorial |    7 |    1 |    3 |     11 | 68.18 |   23 |   12 |    9 |     -9 |   -3 |
+| Old Wyrms | Green Cup IV         |    7 |    3 |    3 |     13 | 65.38 |   39 |   32 |   13 |    -27 |    2 |
+| Old Wyrms | Green Cup II         |    6 |    2 |    3 |     11 | 63.64 |   37 |   21 |    2 |    -41 |    0 |
+| Old Wyrms | Green Cup I          |    7 |    1 |    4 |     12 |    62.50 |   40 |   28 |    6 |    -12 |    0 |
+| Old Wyrms | Green Cup VII        |    6 |    5 |    5 |     16 |  53.13 |   45 |   44 |   18 |    -39 |   -2 |
 | Old Wyrms | Green Cup VIII       |    6 |    2 |    8 |     16 |   43.75 |   38 |   39 |   14 |    -21 |   -1 |
 | Old Wyrms | Green Cup VI         |    6 |    2 |    8 |     16 |   43.75 |   37 |   42 |   15 |    -21 |    3 |
-| Old Wyrms | Champions Circuit    |    0 |    0 |    1 |      1 |       0 |    1 |    2 |    1 |     -2 |   -1 |
+| Old Wyrms | Champions Circuit    |    0 |    0 |    1 |      1 |       0.00 |    1 |    2 |    1 |     -2 |   -1 |
 
 ## History
 
@@ -67,8 +67,8 @@ The Wyrms will win the Stacks division, but fall in the Burger Conference Final.
 
 ### Stars & Scrubs
 
-| Player   | Team      | Position | won  | draw | lost | GP   | TD   | Comp | Ints | BH   | SI   | Ki   | MVP  | SPP  |
-|----------|-----------|----------|------|------|------|------|------|------|------|------|------|------|------|------|
+| Player           | Team        | Position      | W  | D | L | GP   | TD   | Cp | Int | BH   | SI   | Ki   | MVP  | SPP  |
+|------------------|-------------|---------------|----|---|---|------|------|----|-----|------|------|------|------|------|
 | Souta   | Old Wyrms | Catcher  |   33 |    9 |   27 |   69 |   72 |   51 |    3 |    2 |    1 |    0 |    4 |  299 |
 | **Elvis**    | Old Wyrms | Thrower  |   34 |    7 |   16 |   57 |    1 |  146 |    0 |    0 |    1 |    0 |    7 |  186 |
 | *Tony* | Old Wyrms | Catcher | ?? | ?? | ?? | 33 | 39 | 9 | 2 | 2 | 0 | 0 | 4 | 154 |
@@ -89,7 +89,7 @@ The Wyrms will win the Stacks division, but fall in the Burger Conference Final.
 | **Rati**     | Old Wyrms | Blitzer  |   25 |    3 |   11 |   39 |    9 |    4 |    0 |    8 |    2 |    1 |    2 |   63 |
 
 
-Having the second-best player the UBBL has ever seen in [[Souta]] has gone pretty well for the Wyrms. That she wasn't used in the GCIX final is one of the things BludBol fans will always have an opinion on.
+Having the second-best player the UBBL has ever seen in [[souta]] has gone pretty well for the Wyrms. That she wasn't used in the GCIX final is one of the things BludBol fans will always have an opinion on.
 
 #### Cup Winners
 

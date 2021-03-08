@@ -1,10 +1,12 @@
 In the individual player stat pages we keep the basic box scores under Basic Stats (both as a Pro-Level total and by Season). Prize Stats are the kinds of stats used to determine individual awards in a season. Prize winning totals are **highlighted** in the tables. We may also include further stats of interest on a player by player basis.
 
 * [[aeson]]
+* [[Baraz]]
 * [[besz]]
 * [[daividh]]
 * [[evander]]
 * [[hulud]]
+* [[souta]]
 * [[yakup]]
 
 # Basic Stats

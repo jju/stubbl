@@ -26,16 +26,16 @@ The Eagles use the Charles Dorf playbook, which is built on a very rigid divisio
 
 ### Seasons
 
-| Team            | Season               | won  | draw | lost | played | win_pct | gf   | ga   | cas  | tcdiff | ff   |
-|-----------------|----------------------|------|------|------|--------|---------|------|------|------|--------|------|
-| Ravenous Eagles | UBBL Challenge       |    3 |    1 |    1 |      5 |      70 |    7 |    5 |    5 |     -2 |    0 |
-| Ravenous Eagles | Green Cup V Memorial |    9 |    0 |    4 |     13 | 69.2308 |   19 |   13 |   20 |     14 |    4 |
-| Ravenous Eagles | Green Cup VII        |   11 |    2 |    6 |     19 | 63.1579 |   31 |   25 |   40 |     27 |    4 |
-| Ravenous Eagles | Green Cup X          |    8 |    4 |    7 |     19 | 52.6316 |   29 |   26 |   61 |     34 |    1 |
-| Ravenous Eagles | Green Cup VI         |    5 |    2 |    8 |     15 |      40 |   18 |   26 |   23 |     10 |    3 |
-| Ravenous Eagles | Green Cup VIII       |    6 |    0 |   10 |     16 |    37.5 |   16 |   24 |   34 |     14 |   -4 |
-| Ravenous Eagles | Green Cup IX         |    3 |    3 |   10 |     16 |  28.125 |   14 |   28 |   43 |     27 |   -4 |
-| Ravenous Eagles | Champions Circuit    |    0 |    0 |    1 |      1 |       0 |    1 |    2 |    2 |      0 |   -1 |
+| Team      | Season             | W  | D | L | GP | Win% | GF   | GA   | Cas  | CDif | FF   |
+|-----------|--------------------|------|------|------|--------|---------|------|------|------|--------|------|
+| Ravenous Eagles | UBBL Challenge       |    3 |    1 |    1 |      5 |      70.00 |    7 |    5 |    5 |     -2 |    0 |
+| Ravenous Eagles | Green Cup V Memorial |    9 |    0 |    4 |     13 | 69.23 |   19 |   13 |   20 |     14 |    4 |
+| Ravenous Eagles | Green Cup VII        |   11 |    2 |    6 |     19 | 63.16 |   31 |   25 |   40 |     27 |    4 |
+| Ravenous Eagles | Green Cup X          |    8 |    4 |    7 |     19 | 52.63 |   29 |   26 |   61 |     34 |    1 |
+| Ravenous Eagles | Green Cup VI         |    5 |    2 |    8 |     15 |      40.00 |   18 |   26 |   23 |     10 |    3 |
+| Ravenous Eagles | Green Cup VIII       |    6 |    0 |   10 |     16 |    37.50 |   16 |   24 |   34 |     14 |   -4 |
+| Ravenous Eagles | Green Cup IX         |    3 |    3 |   10 |     16 |  28.13 |   14 |   28 |   43 |     27 |   -4 |
+| Ravenous Eagles | Champions Circuit    |    0 |    0 |    1 |      1 |       0.00 |    1 |    2 |    2 |      0 |   -1 |
 
 ## History
 
@@ -65,8 +65,8 @@ Could make a surprise grab for the Pits Division championship but likely won't.
 
 ### Stars & Scrubs
 
-| Player    | Team            | Position            | won  | draw | lost | GP   | TD   | Comp | Ints | BH   | SI   | Ki   | MVP  | SPP  |
-|-----------|-----------------|---------------------|------|------|------|------|------|------|------|------|------|------|------|------|
+| Player           | Team        | Position      | W  | D | L | GP   | TD   | Cp | Int | BH   | SI   | Ki   | MVP  | SPP  |
+|------------------|-------------|---------------|----|---|---|------|------|----|-----|------|------|------|------|------|
 | **Ekua**      | Ravenous Eagles | Blitzer        |   33 |   11 |   39 |   83 |    8 |    0 |    1 |   23 |   12 |    3 |    4 |  122 |
 | **Jantine**   | Ravenous Eagles | Heavy            |   14 |    8 |   18 |   40 |    0 |    0 |    1 |   38 |   12 |    1 |    2 |  114 |
 | **Percy**     | Ravenous Eagles | Heavy            |   20 |    3 |   18 |   41 |    1 |    0 |    1 |   26 |    7 |    2 |    4 |   95 |

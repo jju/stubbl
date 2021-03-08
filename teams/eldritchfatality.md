@@ -23,14 +23,14 @@ The Eldritch Fatality use the Drop Eagle playbook. It's an adaptation of the Her
 
 ### Seasons
 
-| Team            | Season                 | won  | draw | lost | played | win_pct | gf   | ga   | cas  | tcdiff | ff   |
-|-----------------|----------------------|------|------|------|--------|---------|------|------|------|--------|------|
-| Eldritch Fatality | UBBL Challenge       |    3 |    0 |    1 |      4 |      75 |   16 |   10 |    7 |      1 |    1 |
-| Eldritch Fatality | Green Cup VIII       |   10 |    3 |    4 |     17 | 67.6471 |   37 |   27 |   23 |      5 |   -1 |
-| Eldritch Fatality | Green Cup Classic 06 |    4 |    4 |    1 |      9 | 66.6667 |   24 |   17 |   10 |      1 |    2 |
-| Eldritch Fatality | Green Cup VII        |   11 |    0 |    7 |     18 | 61.1111 |   47 |   40 |   15 |    -11 |    2 |
-| Eldritch Fatality | Green Cup IX         |   11 |    1 |    7 |     19 | 60.5263 |   57 |   40 |   22 |      1 |   -1 |
-| Eldritch Fatality | UBBL Challenge IV    |    2 |    0 |    2 |      4 |      50 |   12 |    9 |    8 |     -1 |    2 |
+| Team      | Season             | W  | D | L | GP | Win% | GF   | GA   | Cas  | CDif | FF   |
+|-----------|--------------------|------|------|------|--------|---------|------|------|------|--------|------|
+| Eldritch Fatality | UBBL Challenge       |    3 |    0 |    1 |      4 |      75.00 |   16 |   10 |    7 |      1 |    1 |
+| Eldritch Fatality | Green Cup VIII       |   10 |    3 |    4 |     17 | 67.65 |   37 |   27 |   23 |      5 |   -1 |
+| Eldritch Fatality | Green Cup Classic 06 |    4 |    4 |    1 |      9 | 66.67 |   24 |   17 |   10 |      1 |    2 |
+| Eldritch Fatality | Green Cup VII        |   11 |    0 |    7 |     18 | 61.11 |   47 |   40 |   15 |    -11 |    2 |
+| Eldritch Fatality | Green Cup IX         |   11 |    1 |    7 |     19 | 60.53 |   57 |   40 |   22 |      1 |   -1 |
+| Eldritch Fatality | UBBL Challenge IV    |    2 |    0 |    2 |      4 |      50.00 |   12 |    9 |    8 |     -1 |    2 |
 | Eldritch Fatality | Green Cup X          |    4 |    2 |   10 |     16 |   31.25 |   38 |   43 |   17 |     -7 |   -2 |
 
 ## History
@@ -49,8 +49,8 @@ Though it's hard to be super-confident, a division title seems likely.
 
 ### Stars & Scrubs
 
-| Player   | Team              | Position  | won  | draw | lost | GP   | TD   | Comp | Ints | BH   | SI   | Ki   | MVP  | SPP  |
-|----------|-------------------|-----------|------|------|------|------|------|------|------|------|------|------|------|------|
+| Player           | Team        | Position      | W  | D | L | GP   | TD   | Cp | Int | BH   | SI   | Ki   | MVP  | SPP  |
+|------------------|-------------|---------------|----|---|---|------|------|----|-----|------|------|------|------|------|
 | **Atte**     | Eldritch Fatality | Blitzer   |   15 |    3 |   16 |   34 |   40 |    3 |    0 |    1 |    0 |    0 |    6 |  155 |
 | **Filipa**   | Eldritch Fatality | Runner    |   23 |    4 |   21 |   48 |    7 |  100 |    1 |    0 |    1 |    0 |    4 |  145 |
 | Qtpi    | Eldritch Fatality | Runner    |   27 |    4 |   14 |   45 |   25 |   28 |    2 |    1 |    0 |    0 |    2 |  119 |

@@ -22,14 +22,14 @@ The Arboreal Menace use the Wary Eagle playbook, which is very similar to the Sc
 
 ### Seasons
 
-| Team      | Season             | won  | draw | lost | played | win_pct | gf   | ga   | cas  | tcdiff | ff   |
+| Team      | Season             | W  | D | L | GP | Win% | GF   | GA   | Cas  | CDif | FF   |
 |-----------|--------------------|------|------|------|--------|---------|------|------|------|--------|------|
-| Arboreal Menace | StUBBL Scramble    |    1 |    0 |    0 |      1 |     100 |    3 |    0 |    1 |      2 |    1 |
-| Arboreal Menace | UBBL Challenge III |    6 |    1 |    0 |      7 | 92.8571 |   30 |   14 |   10 |      3 |    2 |
-| Arboreal Menace | UBBL Challenge IV  |    3 |    0 |    1 |      4 |      75 |   12 |    5 |    2 |     -5 |    3 |
-| Arboreal Menace | UBBL Challenge II  |    3 |    0 |    2 |      5 |      60 |   14 |    7 |    6 |     -5 |    1 |
+| Arboreal Menace | StUBBL Scramble    |    1 |    0 |    0 |      1 |     100.00 |    3 |    0 |    1 |      2 |    1 |
+| Arboreal Menace | UBBL Challenge III |    6 |    1 |    0 |      7 | 92.86 |   30 |   14 |   10 |      3 |    2 |
+| Arboreal Menace | UBBL Challenge IV  |    3 |    0 |    1 |      4 |      75.00 |   12 |    5 |    2 |     -5 |    3 |
+| Arboreal Menace | UBBL Challenge II  |    3 |    0 |    2 |      5 |      60.00 |   14 |    7 |    6 |     -5 |    1 |
 | Arboreal Menace | Green Cup X        |    6 |    2 |    8 |     16 |   43.75 |   41 |   51 |   15 |    -15 |   -3 |
-| Arboreal Menace | UBBL Challenge     |    0 |    0 |    3 |      3 |       0 |    3 |    7 |    0 |     -6 |    0 |
+| Arboreal Menace | UBBL Challenge     |    0 |    0 |    3 |      3 |       0.00 |    3 |    7 |    0 |     -6 |    0 |
 
 
 ## History
@@ -54,8 +54,8 @@ Current projections have them battling the Tatters for third place in the Outlan
 
 ### Stars & Scrubs (all-time stats)
 
-| Player      | Team   | Position | won  | draw | lost | GP   | TD   | Cp | Int | BH   | SI   | Ki   | MVP  | SPP  |
-|-----------|-----------|------------|------|------|------|------|------|-------------|---------------|------|------|------|------|------|
+| Player           | Team        | Position      | W  | D | L | GP   | TD   | Cp | Int | BH   | SI   | Ki   | MVP  | SPP  |
+|------------------|-------------|---------------|----|---|---|------|------|----|-----|------|------|------|------|------|
 | **Georgina**  | Arboreal Menace | Catcher   |   15 |    2 |   13 |   30 |   24 |    8 |    8 |    0 |    0 |    0 |    3 |  111 |
 | Hartwin  | Arboreal Menace | Thrower   |   13 |    3 |    9 |   25 |    0 |   65 |    2 |    0 |    1 |    0 |    2 |   81 |
 | **Laurel**    | Arboreal Menace | Catcher   |   11 |    2 |    8 |   21 |   17 |    0 |    1 |    0 |    0 |    0 |    2 |   63 |
@@ -76,6 +76,8 @@ Current projections have them battling the Tatters for third place in the Outlan
 [[Laurel]] and [[Attilla]] are both remarkably good catchers but neither has made themselves part of the larger superstar picture in their first Green Cup campaign.
 
 ### Management
+
+Criton Corp os am upspire entity.
 
 ### Fans
 
