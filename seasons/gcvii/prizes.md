@@ -1,11 +1,11 @@
 # gcvii
 
-* [[mvp]] - [[Yakup]]
-* [[sardinecrown]] - [[Yakup]]
+* [[mvp]] - [[yakup]]
+* [[sardinecrown]] - [[yakup]]
 * [[carminefist]] - [[Rohit]]
 * [[softhands]] - [[Souta]]
 * [[relentlesscannon]] - [[Yosif]]
-* [[halflegaward]] - [[Yakup]]
+* [[halflegaward]] - [[yakup]]
 * [[hunteraward]] - [[Venkata]]
 * [[dervishaward]] - [[Percy]]
-* [[fanfavourite]] - [[Hulud]]
+* [[fanfavourite]] - [[hulud]]

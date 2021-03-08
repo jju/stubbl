@@ -72,7 +72,7 @@ Division Champion
 
 [[Oiva]] was an excellent ball-hawk, but not quite the Green Cup best.
 
-[[Ziba]] isn't high up in the pantheon of Glorious Greats yet, but she's the fastest catcher the team has ever had, and with proper support, could make a run at some of the individual prizes currently held on lockdown by [[Aeson]].
+[[Ziba]] isn't high up in the pantheon of Glorious Greats yet, but she's the fastest catcher the team has ever had, and with proper support, could make a run at some of the individual prizes currently held on lockdown by [[aeson]].
 
 Past that, we start getting into stars that are replaceable within a season.  
 

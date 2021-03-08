@@ -16,15 +16,15 @@ Yakup retired from pro BludBol at the end of GCVIII (652.4) but then returned fo
 
 ## Pro Totals
 
-| Player           | Team        | Position      | won  | draw | lost | GP   | TD   | Comp | Ints | BH   | SI   | Ki   | MVP  | SPP  |
-|------------------|-------------|---------------|------|------|------|------|------|------|------|------|------|------|------|------|
-| Yakup            | Filthy Tide | Runner        |   20 |    5 |   17 |   42 |   55 |    1 |    0 |    0 |    1 |    0 |    2 |  178 |
+| Player           | Team        | Position      | W  | D | L | GP   | TD   | Cp | Int | BH   | SI   | Ki   | MVP  | SPP  |
+|------------------|-------------|---------------|----|---|---|------|------|----|-----|------|------|------|------|------|
+| Yakup            | [Filthy Tide](../teams/filthytide) | Runner        |   20 |    5 |   17 |   42 |   55 |    1 |    0 |    0 |    1 |    0 |    2 |  178 |
 
 
 ## By Season
 
-| Player | Team         | Season          | won  | draw | lost | td   | cp   | intcpt | bh   | si   | ki   | mvp  | spp  |
-|--------|--------------|-----------------|------|------|------|------|------|--------|------|------|------|------|------|
+| Player | Team         | Season          | W  | D | L | TD   | Cp   | Int | BH   | SI   | Ki   | MVP  | SPP  |
+|--------|--------------|-----------------|----|---|---|------|------|-----|------|------|------|------|------|
 | Yakup  | Filthy Tide | Green Cup VI         |    4 |    1 |    6 |   16 |    1 |      0 |    0 |    1 |    0 |    0 |   51 |
 | Yakup  | Filthy Tide | Green Cup VII        |    9 |    3 |    5 |   26 |    0 |      0 |    0 |    0 |    0 |    1 |   83 |
 | Yakup  | Filthy Tide | UBBL Challenge       |    5 |    0 |    1 |   13 |    0 |      0 |    0 |    0 |    0 |    2 |   49 |
@@ -39,8 +39,8 @@ Yakup retired from pro BludBol at the end of GCVIII (652.4) but then returned fo
 * First Centurion [[centurion]]
 * Best Single Match Performance [[bestsinglematch]]
 
-| Player | Team         | Season          | Games | TDs  | Rush | Cp   | PassDist | Caught | Picks | Cas  | Blocks | Sacks | MVPs | SPP  |
-|--------|--------------|-----------------|-------|------|------|------|----------|--------|-------|------|--------|-------|------|------|
+| Player | Team         | Season          | GP | TD  | Rsh | Cp   | CpDst | Ctch | Int | Cas  | Blk | Sck | MVP | SPP  |
+|--------|--------------|-----------------|----|-----|-----|------|-------|------|-----|------|-----|-----|-----|------|
 | Yakup | Filthy Tide | Green Cup VI         |    11 |   **16** |  171 |    1 |        1 |     16 |     0 |    1 |     10 |     1 |    0 |   51 |
 | Yakup | Filthy Tide | Green Cup VII        |    17 |   26 |  **349** |    0 |        0 |     25 |     0 |    0 |      2 |     0 |    1 |   **83** |
 | Yakup | Filthy Tide | UBBL Challenge       |     6 |   13 |  165 |    0 |        0 |      6 |     0 |    0 |      0 |     0 |    2 |   49 |
@@ -49,7 +49,7 @@ Yakup retired from pro BludBol at the end of GCVIII (652.4) but then returned fo
 
 ### rookie season - gcvi
 
-| Player | Team        | round | TDs  | Rush | Cp   | PassDist | Caughts | Cas  | Blocks | Sacks | MVPs | SPP  |
+| Player | Team        | Round          | TD  | Rsh | Cp   | CpDst | Ctch | Int | Cas  | Blk | Sck | MVP | SPP  |
 |--------|-------------|-------|------|------|------|----------|---------|------|--------|-------|------|------|
 | Yakup | Filthy Tide |     6 |    1 |    0 |    0 |        0 |       2 |    0 |      0 |     0 |    0 |    3 |
 | Yakup | Filthy Tide |     7 |    3 |   34 |    0 |        0 |       3 |    0 |      0 |     0 |    0 |    9 |

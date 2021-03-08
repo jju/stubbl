@@ -75,7 +75,7 @@ Fighting for third place in the Heaps.
 
 [[Jonah]] and [[Clydon]] were being forced into the role of faces of the franchise before they were really ready. [[Betuel]] is rapidly rising in the ranks.
 
-The Vagabonds miss the days of having [[Hulud]] anchoring their lineup.
+The Vagabonds miss the days of having [[hulud]] anchoring their lineup.
 
 
 ## History
@@ -92,6 +92,6 @@ The Vagabonds' primary rivalry is with the [Old Wyrms](oldwyrms) as the pair of 
 
 ### Famous Games
 
-This loss, ending the Vagabonds' GCVIII season was [[Hulud]]'s final match, as well as [[Yakup]]'s. It was a great game.
+This loss, ending the Vagabonds' GCVIII season was [[hulud]]'s final match, as well as [[yakup]]'s. It was a great game.
 
 http://68.148.52.218/stbblm/index.php?section=matches&type=report&mid=553

@@ -1,1 +1,1 @@
-* [[Daividh]] died this week 1262.618-415:606
+* [[daividh]] died this week 1262.618-415:606

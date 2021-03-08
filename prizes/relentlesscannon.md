@@ -4,7 +4,7 @@
 
 ## gcvi
 
-[[Evander]]
+[[evander]]
 
 ## gcc06
 

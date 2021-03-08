@@ -1,11 +1,11 @@
 # gcvi
 
-* [[mvp]] - [[Daividh]]
-* [[sardinecrown]] - [[Yakup]]
-* [[carminefist]] - [[Hulud]]
+* [[mvp]] - [[daividh]]
+* [[sardinecrown]] - [[yakup]]
+* [[carminefist]] - [[hulud]]
 * [[softhands]] - [[Souta]]
-* [[relentlesscannon]] - [[Evander]]
-* [[halflegaward]] - [[Besz]]
+* [[relentlesscannon]] - [[evander]]
+* [[halflegaward]] - [[besz]]
 * [[hunteraward]] - [[Baraz]]
 * [[dervishaward]] - [[Arzu]]
 * [[fanfavourite]] - [[RavenousOblivion]]

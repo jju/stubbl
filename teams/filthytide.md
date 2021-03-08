@@ -77,7 +77,7 @@ The Tide is projected to get second in the Stacks division, but will then most l
 | **Tomer**            | Filthy Tide | Catcher |   13 |    5 |   18 |   36 |   13 |    3 |    1 |    1 |    0 |    0 |    4 |   66 |
 
 
-[[Somfuhr]] inflicted the most casualties of any player in the Pro Division, while for a time [[Yakup]] seemed untouchable in his scoring abilities. That they couldn't convert this dynamic duo into more than a third place finish is heartbreaking. The new hope is [[Venus]], who after one pro season has more SPP than [[Sardines]] did.
+[[Somfuhr]] inflicted the most casualties of any player in the Pro Division, while for a time [[yakup]] seemed untouchable in his scoring abilities. That they couldn't convert this dynamic duo into more than a third place finish is heartbreaking. The new hope is [[Venus]], who after one pro season has more SPP than [[Sardines]] did.
 
 ### Management
 
@@ -85,7 +85,7 @@ Asmodeus, an explayer, runs the team in a pretty hands-off manner. They're a sen
 
 ### Fans
 
-The Filthy Tide have long been in the shadow of the [Old Wyrms](oldwyrms). They have had great individual players but no team success. Tide fans see Wyrms supporters as arrogant blowhards, but they hate Wyrms management even more for their unsentimental business first approach to winning. Tide fans also see the [Badger Claws](badgerclaws) as an up and coming rival, and would love to see their star [[Aeson]] retire, preferably without a Green Cup ring. Generally the GCX season was a good one for Tide fans after a rough start.
+The Filthy Tide have long been in the shadow of the [Old Wyrms](oldwyrms). They have had great individual players but no team success. Tide fans see Wyrms supporters as arrogant blowhards, but they hate Wyrms management even more for their unsentimental business first approach to winning. Tide fans also see the [Badger Claws](badgerclaws) as an up and coming rival, and would love to see their star [[aeson]] retire, preferably without a Green Cup ring. Generally the GCX season was a good one for Tide fans after a rough start.
 
 ### Famous Games
 

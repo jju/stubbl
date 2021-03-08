@@ -50,7 +50,7 @@ The old era version of the team started off its history with a third-place finis
 
 When the UBBL restarted, the Dynamo were left out of the GCVI season, for reasons of mediocrity they were told. IngenIOUs Corp (a payday loan concern) bought the rights to the name and jumped at the chance to play in the Green Cup Classic 06 season instead. They performed to their mediocre expectations, and were folded into the merged league for GCVII, in which they performed almost exactly as well.
 
-When the Kaiju Dynamo entered the first UBBL Challenge after GCVII they had a single goal: developing [[Sabah]] into a superspeedy scoring threat. They had seen the individual success of [[Yakup]] and when they had a potential rival, they pushed and pushed. That they managed to pull off second place in the tournament while fielding mostly rookies and scrubs is a testament to the weirdness of BludBol.
+When the Kaiju Dynamo entered the first UBBL Challenge after GCVII they had a single goal: developing [[Sabah]] into a superspeedy scoring threat. They had seen the individual success of [[yakup]] and when they had a potential rival, they pushed and pushed. That they managed to pull off second place in the tournament while fielding mostly rookies and scrubs is a testament to the weirdness of BludBol.
 
 With Sabah's help the Dynamo finished on top of the GCVIII regular season standings, defying all expectations. It was just a tiny bit of bad luck that kept them from the Classic Conference title. The players aren't too distraught, though the doubters will probably see this as the team's peak. They had a winning record in GCIX, but again, couldn't string together the wins they needed in the playoffs.
 

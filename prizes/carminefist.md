@@ -6,7 +6,7 @@
 
 ## gcvi
 
-[[Hulud]]
+[[hulud]]
 
 ## gcc06
 

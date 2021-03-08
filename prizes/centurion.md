@@ -4,12 +4,12 @@ A Green Cup Centurion is a player who is in the top 16 players ranked by Pro Div
 
 ## current
 
-1. [[Aeson]] #doublecenturion #triplecenturion #quadruplecenturion
+1. [[aeson]] #doublecenturion #triplecenturion #quadruplecenturion
 2. [[Souta]] #doublecenturion
 3. [[Costache]] #doublecenturion
 4. [[Sabah]]
-5. [[Besz]]
-6. [[Yakup]]
+5. [[besz]]
+6. [[yakup]]
 7. [[Elvis]]
 8. [[Yosif]]
 9. [[Atte]] * new post GCX

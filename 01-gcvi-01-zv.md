@@ -16,7 +16,7 @@ In the end the {$followingTeam} lost 1-0, though you had to look it up on the me
 
 It sounds like these are going to be the most interesting players to watch, or at least the ones the message-boarders are most excited about.
 
-* [[Hulud]] - Old-Era Veteran Heavy
+* [[hulud]] - Old-Era Veteran Heavy
 * [[Lucrece]] - Catcher
 * [[Rohit]] - Blitzer
 * [[Subrahmanya]] - Thrower
@@ -53,7 +53,7 @@ They lost 1-0 to the Carcosan Tatters in week 2, then got a 2-2 draw against the
 
 Now there's word that another BludBol league is starting up in Stacksburg. Some of the other old-era teams that had been left out of this tournament are organizing to play for the "real" green cup.
 
-The team you're following is 1-3-3 and [[Hulud]] is coming in second in most of the bashing prize races. What now?
+The team you're following is 1-3-3 and [[hulud]] is coming in second in most of the bashing prize races. What now?
 
 > Keep watching the Vagabonds on the EDS.->[[01-gcvi-08-zv]]
 > Choose a different team to follow.->[[01-gcvi-08-teamselect]]

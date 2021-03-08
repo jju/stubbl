@@ -1,11 +1,11 @@
 # gcx
 
-* [[mvp]] - [[Aeson]]
-* [[sardinecrown]] - [[Aeson]]
+* [[mvp]] - [[aeson]]
+* [[sardinecrown]] - [[aeson]]
 * [[carminefist]] - [[Jantine]]
-* [[softhands]] - [[Aeson]]
+* [[softhands]] - [[aeson]]
 * [[relentlesscannon]] - [[Luanna]]
-* [[halflegaward]] - [[Aeson]]
+* [[halflegaward]] - [[aeson]]
 * [[hunteraward]] - [[Spinal]]
 * [[dervishaward]] - [[Deepali]]
 * [[fanfavourite]] - [[Desponia]]

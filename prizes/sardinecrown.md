@@ -4,13 +4,13 @@
 
 # all-time
 
-[[Aeson]]
+[[aeson]]
 
 # modern era
 
 ## gcvi
 
-[[Yakup]]
+[[yakup]]
 
 ## gcc06
 
@@ -18,7 +18,7 @@
 
 ## gcvii
 
-[[Yakup]]
+[[yakup]]
 
 ## gcviii
 
@@ -26,11 +26,11 @@
 
 ## gcix
 
-[[Aeson]]
+[[aeson]]
 
 ## gcx
 
-[[Aeson]]
+[[aeson]]
 
 # old-era
 

@@ -1,4 +1,4 @@
-This is the week [[Yakup]] began to be the player we'd later know.
+This is the week [[yakup]] began to be the player we'd later know.
 
 ## standings
 

@@ -16,7 +16,7 @@ In the end the {$followingTeam} won 1-0, though you had to look it up on the mes
 
 It sounds like these are going to be the most interesting players to watch, or at least the ones the message-boarders are most excited about.
 
-* [[Daividh]] - Catcher
+* [[daividh]] - Catcher
 * [[Eloquence]] - Old-Era Veteran Blitzer
 * [[Oiva]] - Thrower
 * [[Yosif]] - Thrower
@@ -54,7 +54,7 @@ They lost to the Filthy Tide 3-2 in week two and then achieved a 3-3 draw with t
 
 Now there's word that another BludBol league is starting up in Stacksburg. Some of the other old-era teams that had been left out of this tournament are organizing to play for the "real" green cup.
 
-The team you're following is 2-1-4 but [[Daividh]] is second in the MVP race with 29 SPP. What now?
+The team you're following is 2-1-4 but [[daividh]] is second in the MVP race with 29 SPP. What now?
 
 > Keep watching the Hounds on the EDS.->[[01-gcvi-08-gh]]
 > Choose a different team to follow.->[[01-gcvi-08-teamselect]]

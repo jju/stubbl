@@ -24,7 +24,7 @@
 
 ## gcx
 
-[[Aeson]]
+[[aeson]]
 
 # old-era
 
