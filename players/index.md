@@ -6,11 +6,15 @@ In the individual player stat pages we keep the basic box scores under Basic Sta
 * [[besz]]
 * [[daividh]]
 * [[evander]]
+* [[heep]]
 * [[hulud]]
+* [[Percy]]
 * [[rohit]]
 * [[souta]]
 * [[ravenousoblivion]]
+* [[venkata]]
 * [[yakup]]
+* [[yosif]]
 
 # Basic Stats
 

@@ -68,7 +68,7 @@ Division Champion
 
 [[Costache]] had an injury making her more expensive than her effectiveness warrants, but a better all-round receiver we see only rarely.
 
-[[Yosif]] is the best pure passer the UBBL has seen, and that includes Ozymandias, who has actually (amazingly) seemed to be okay with the eclipsing of his talent.
+[[yosif]] is the best pure passer the UBBL has seen, and that includes Ozymandias, who has actually (amazingly) seemed to be okay with the eclipsing of his talent.
 
 [[Oiva]] was an excellent ball-hawk, but not quite the Green Cup best.
 

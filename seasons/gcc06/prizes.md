@@ -1,7 +1,7 @@
 # gcc06
 
-* [[mvp]] - [[Heep]]
-* [[sardinecrown]] - [[Heep]]
+* [[mvp]] - [[heep]]
+* [[sardinecrown]] - [[heep]]
 * [[carminefist]] - [[Marzhak]]
 * [[softhands]] - [[Qtpi]]
 * [[relentlesscannon]] - [[Kobe]]

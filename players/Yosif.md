@@ -1,9 +1,13 @@
+# Yosif
+
 [[glorioushounds]][[thrower]][[gcvi]][[gcvii]][[uci]][[gcviii]][[gcix]][[gcx]][[retired]]
 
-Yosif
+Through four Green Cup campaigns Yosif had established herself as a premiere passer, eclipsing [[Ozyman]]'s old records and just generally doing beautiful things with a ball in flight. Green Cup VII was a leap in performance for Yosif and she was rewarded with Relentless Cannon Awards in consecutive seasons.
 
-* Birthdate: 1261.927
-* Retiredate: 1262.733-800:000
+Retiring after GCIX when she felt she had lost a step and needed to make room for the next generation of talent, Yosif's career truly ended when she came back to help with the "avoid-relegation" push at the end of the Hounds' disastrous GCX season. She was hit hard in the backfield by the [Zensun Vagabonds](../teams/zensunvagabonds) young blitzer [[Mia]] and when she came to three days later, her vision was severely compromised and she would be unable to play BludBol again.
+
+* Birthdate: 1261.927-592:440
+* Career Enddate: 1262.729-243:135
 
 # Basic Stats
 

@@ -71,7 +71,7 @@ Current projections have them battling the Tatters for third place in the Outlan
 
 [[Georgina]] won the StUBBL Jumper for UBBL Challenge III. They have amazingly soft hands and there are a few rumblings that they're gunning for the Pro Interception record (they're already atop the all-UBBL list though they've played fewer games than any of the other top 5 in the list).
 
-[[Hartwin]] was primarily a backfield passer, though she had the arm for it, she didn't go the extreme long-passing route of a [[Yosif]] or the deceased [[Adam]] or [[Ozymandias]] for the old school). The anticipation that in the Green Cup she'd need a backup did come true, and [[Susila]] is now working his way up the skill tree.
+[[Hartwin]] was primarily a backfield passer, though she had the arm for it, she didn't go the extreme long-passing route of a [[yosif]] or the deceased [[Adam]] or [[Ozymandias]] for the old school). The anticipation that in the Green Cup she'd need a backup did come true, and [[Susila]] is now working his way up the skill tree.
 
 [[Laurel]] and [[Attilla]] are both remarkably good catchers but neither has made themselves part of the larger superstar picture in their first Green Cup campaign.
 

@@ -19,7 +19,7 @@ It sounds like these are going to be the most interesting players to watch, or a
 * [[daividh]] - Catcher
 * [[Eloquence]] - Old-Era Veteran Blitzer
 * [[Oiva]] - Thrower
-* [[Yosif]] - Thrower
+* [[yosif]] - Thrower
 
 
 So that was a week of bludbol. The {$followingTeam} are 1-0-0. What now?

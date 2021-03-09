@@ -5,7 +5,7 @@ For most Casualties in a season.
 # all-time
 
 * [[Somfuhr]] 50
-* [[Jantine]] 50
+* [[Jantine]] 50 (Active)
 * [[rohit]] 49
 
 # modern era

@@ -20,7 +20,7 @@ For most sacks in a season.
 
 ## gcvii
 
-[[Venkata]]
+[[venkata]]
 
 ## gcviii
 
