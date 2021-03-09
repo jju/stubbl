@@ -7,5 +7,5 @@
 * [[relentlesscannon]] - [[Yosif]]
 * [[halflegaward]] - [[Nakayama]]
 * [[hunteraward]] - [[Mandawuy]]
-* [[dervishaward]] - [[Rohit]]
+* [[dervishaward]] - [[rohit]]
 * [[fanfavourite]] - [[Belenus]]

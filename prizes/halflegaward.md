@@ -1,4 +1,6 @@
-# most rushing squares
+# Halfleg award
+
+For most rushing distance in a season.
 
 [[prizes/index]]
 

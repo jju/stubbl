@@ -1,6 +1,12 @@
+# carmine fist awards
+
+For most Casualties in a season.
+
 # all-time
 
-[[Somfuhr]] 
+* [[Somfuhr]] 50
+* [[Jantine]] 50
+* [[rohit]] 49
 
 # modern era
 
@@ -14,7 +20,7 @@
 
 ## gcvii
 
-[[Rohit]]
+[[rohit]]
 
 ## gcviii
 

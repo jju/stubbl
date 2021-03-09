@@ -1,4 +1,12 @@
+# hunter award
+
+For most sacks in a season.
+
 # all-time
+
+* [[Ekua]] 22 (Active)
+* [[Chikondi]] 19 (Active)
+* [[rohit]] 17
 
 # modern era
 

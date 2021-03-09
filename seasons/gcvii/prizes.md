@@ -2,7 +2,7 @@
 
 * [[mvp]] - [[yakup]]
 * [[sardinecrown]] - [[yakup]]
-* [[carminefist]] - [[Rohit]]
+* [[carminefist]] - [[rohit]]
 * [[softhands]] - [[souta]]
 * [[relentlesscannon]] - [[Yosif]]
 * [[halflegaward]] - [[yakup]]

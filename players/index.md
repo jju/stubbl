@@ -7,6 +7,7 @@ In the individual player stat pages we keep the basic box scores under Basic Sta
 * [[daividh]]
 * [[evander]]
 * [[hulud]]
+* [[rohit]]
 * [[souta]]
 * [[ravenousoblivion]]
 * [[yakup]]

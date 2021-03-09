@@ -1,4 +1,12 @@
+# relentless cannon awards
+
+For most completions (with Completion Distance as a tie-breaker)
+
+[[prizes/index]]
+
 # all-time
+
+* [[Yosif]] 152
 
 # modern era
 
