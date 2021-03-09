@@ -55,7 +55,7 @@ Current projections have them battling the Tatters for third place in the Outlan
 ### Stars & Scrubs (all-time stats)
 
 | Player           | Team        | Position      | W  | D | L | GP   | TD   | Cp | Int | BH   | SI   | Ki   | MVP  | SPP  |
-|------------------|-------------|---------------|----|---|---|------|------|----|-----|------|------|------|------|------|
+|------------------|-------------|---------------|---:|--:|--:|-----:|-----:|---:|----:|-----:|-----:|-----:|-----:|-----:|
 | **Georgina**  | Arboreal Menace | Catcher   |   15 |    2 |   13 |   30 |   24 |    8 |    8 |    0 |    0 |    0 |    3 |  111 |
 | Hartwin  | Arboreal Menace | Thrower   |   13 |    3 |    9 |   25 |    0 |   65 |    2 |    0 |    1 |    0 |    2 |   81 |
 | **Laurel**    | Arboreal Menace | Catcher   |   11 |    2 |    8 |   21 |   17 |    0 |    1 |    0 |    0 |    0 |    2 |   63 |

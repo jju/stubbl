@@ -4,7 +4,7 @@
 
 ## gcvi
 
-[[Arzu]]
+[[arzu]]
 
 ## gcc06
 

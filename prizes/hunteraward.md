@@ -4,7 +4,7 @@
 
 ## gcvi
 
-[[Baraz]]
+[[baraz]]
 
 ## gcc06
 

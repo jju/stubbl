@@ -18,7 +18,7 @@ It sounds like these are going to be the most interesting players to watch, or a
 
 * [[besz]] - Old-Era Veteran Runner
 * [[Dragos]] - Blitzer
-* [[Arzu]] - Blitzer
+* [[arzu]] - Blitzer
 * [[Karsten]] - Blitzer
 
 
