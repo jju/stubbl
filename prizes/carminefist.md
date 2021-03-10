@@ -16,7 +16,7 @@ For most Casualties in a season.
 
 ## gcc06
 
-[[Marzhak]]
+[[marzhak]]
 
 ## gcvii
 
@@ -60,7 +60,7 @@ For most Casualties in a season.
 
 ## ubbl challenge ii
 
-[[Marzhak]]
+[[marzhak]]
 
 ## ubbl challenge iii
 

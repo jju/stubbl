@@ -16,7 +16,7 @@ For most catches in a season (fewest dropped passes is the tiebreaker)
 
 ## gcc06
 
-[[Qtpi]]
+[[qtpi]]
 
 ## gcvii
 

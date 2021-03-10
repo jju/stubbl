@@ -1,4 +1,8 @@
-[[ravenouseagles]][[heavy]][[gcvi]]
+# Percy
+
+[[ravenouseagles]][[heavy]][[gcvi]][[gcvii]][[gcviii]][[active]]
+
+Percy is one of the Heavies the Ravenous Eagles have had the good fortune to employ. Part of the Green Cup VII winning team, Percy did a lot of smashing. In GCIX he took a mentorship role with the team, allowing [[Jantine]] to take his spot on the roster. Now that funding has increased going into GCXI, Percy is available to split the Heavy role when [[Jantine]] requires a break (if she'll give up the games to get [[carminefist]] honours).
 
 Birthdate: 1261.657
 
@@ -8,7 +12,7 @@ Birthdate: 1261.657
 
 | Player           | Team        | Position      | W | D | L | GP | TD | Cp | Int | BH | SI | Ki | MVP | SPP |
 |------------------|-------------|---------------|--:|--:|--:|---:|---:|---:|----:|---:|---:|---:|----:|----:|
-| Percy  | Ravenous Eagles | Heavy |   19 |    3 |   18 |   40 |    1 |    0 |    1 |   25 |    7 |    1 |    4 |   91 |
+| Percy  | [Ravenous Eagles](../teams/ravenouseagles) | Heavy |   19 |    3 |   18 |   40 |    1 |    0 |    1 |   25 |    7 |    1 |    4 |   91 |
 
 ## By Season
 
@@ -26,6 +30,6 @@ Birthdate: 1261.657
 | Player | Team         | Season          | GP | TD | Rsh | Cp | CpDst | Ctch | Int | Cas | Blk | Sck | MVP | SPP |
 |--------|--------------|-----------------|---:|---:|----:|---:|------:|-----:|----:|----:|----:|----:|----:|----:|
 | Percy  | Ravenous Eagles | Green Cup VI         |  8 |    0 |    0 |    0 |     0 |    0 |    0 |    6 |   80 |    1 |    1 |   17 |
-| Percy  | Ravenous Eagles | Green Cup VII        | 18 |    1 |    8 |    0 |     0 |    0 |    0 |   17 |  238 |    4 |    1 |   42 |
+| Percy  | Ravenous Eagles | Green Cup VII        | 18 |    1 |    8 |    0 |     0 |    0 |    0 |   17 |  **238** |    4 |    1 |   42 |
 | Percy  | Ravenous Eagles | Green Cup VIII       | 14 |    0 |    0 |    0 |     0 |    0 |    1 |   10 |  125 |    3 |    2 |   32 |
 | Percy  | Ravenous Eagles | Green Cup V Memorial |  1 |    0 |    0 |    0 |     0 |    0 |    0 |    2 |   21 |    0 |    0 |    4 |

@@ -17,7 +17,7 @@ For most rushing distance in a season.
 
 ## gcc06
 
-[[Bill]]
+[[bill]]
 
 ## gcvii
 

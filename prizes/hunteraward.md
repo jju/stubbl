@@ -16,7 +16,7 @@ For most sacks in a season.
 
 ## gcc06
 
-[[ToomsII]]
+[[toomsii]]
 
 ## gcvii
 

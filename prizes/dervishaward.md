@@ -20,7 +20,7 @@ For most blocks in a season.
 
 ## gcvii
 
-[[Percy]]
+[[percy]]
 
 ## gcviii
 

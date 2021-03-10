@@ -7,5 +7,5 @@
 * [[relentlesscannon]] - [[yosif]]
 * [[halflegaward]] - [[yakup]]
 * [[hunteraward]] - [[venkata]]
-* [[dervishaward]] - [[Percy]]
+* [[dervishaward]] - [[percy]]
 * [[fanfavourite]] - [[hulud]]

@@ -17,7 +17,7 @@ For most completions (with Completion Distance as a tie-breaker)
 
 ## gcc06
 
-[[Kobe]]
+[[kobe]]
 
 ## gcvii
 

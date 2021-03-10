@@ -17,7 +17,7 @@ In the end the {$followingTeam} lost 1-0, though you had to look it up on the me
 It sounds like these are going to be the most interesting players to watch, or at least the ones the message-boarders are most excited about.
 
 * [[Chikondi]] - Blitzer
-* [[Percy]] - Heavy
+* [[percy]] - Heavy
 * [[Twig]] - Old-Era Veteran Line
 
 So that was a week of bludbol. The {$followingTeam} are 0-0-1. What now?

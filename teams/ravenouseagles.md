@@ -79,7 +79,7 @@ Could make a surprise grab for the Pits Division championship but likely won't.
 | Lumusi   | Ravenous Eagles | Blocker |   34 |   10 |   38 |   82 |    0 |    1 |    1 |    6 |    3 |    1 |    5 |   48 |
 | Sigfrido | Ravenous Eagles | Line           |   19 |    3 |   20 |   42 |    8 |    4 |    0 |    1 |    1 |    0 |    2 |   42 |
 
-[[Jantine]] and [[Percy]] have been the biggest stars of the Eagles, who haven't been trying to dominate as much as get into position to put a little run together like they did in GCVII. 
+[[Jantine]] and [[percy]] have been the biggest stars of the Eagles, who haven't been trying to dominate as much as get into position to put a little run together like they did in GCVII. 
 
 The Eagles have developed a lot of journeymen, especially in GCV, but their style of play doesn't leave a lot of room for the Line players to really develop into flashy stars.
 

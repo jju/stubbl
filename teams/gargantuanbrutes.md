@@ -1,6 +1,6 @@
 # Gargantuan Brutes
 
-The Brutes have folded because they could not maintain the 33% Winning Rate required to maintain status in the UBBL. They were once a feared casualty-inflicting powerhouse, but now there is only nostalgia.
+As of 1262.712-000:000 the Brutes have folded because they could not maintain the 33% Winning Rate required to maintain status in the UBBL. They were once a feared casualty-inflicting powerhouse, but now there is only nostalgia.
 
 ## Playbook
 
@@ -33,8 +33,8 @@ The Brutes used the Charged Puncher playbook, which uses an assortment of fodder
 | Gargantuan Brutes | Green Cup II         |    2 |    1 |    7 |     10 |      25.00 |   12 |   29 |   29 |     14 |    1 |
 | Gargantuan Brutes | Green Cup VII        |    1 |    4 |   11 |     16 |   18.75 |   20 |   52 |   31 |     -6 |   -1 |
 | Gargantuan Brutes | Green Cup IX         |    2 |    1 |   13 |     16 |  15.63 |   25 |   49 |   33 |     16 |   -5 |
-| Gargantuan Brutes | UBBL Challenge       |    0 |    0 |    2 |      2 |       0.00 |    2 |    7 |    1 |     -4 |    0 |
-| Gargantuan Brutes | StUBBL Scramble      |    0 |    0 |    1 |      1 |       0.00 |    2 |    5 |    5 |      4 |   -1 |
+| Gargantuan Brutes | UBBL Challenge       |    0 |    0 |    2 |      2 |      00.00 |    2 |    7 |    1 |     -4 |    0 |
+| Gargantuan Brutes | StUBBL Scramble      |    0 |    0 |    1 |      1 |      00.00 |    2 |    5 |    5 |      4 |   -1 |
 
 ## History
 
@@ -48,7 +48,7 @@ They folded after a disastrous GCIX, which put them in danger of relegation agai
 
 With an overall Win% below the 33% seen as the bare minimum of acceptability for UBBL respectability, Cornelus folded the team rather than facing the indignity of trying to claw their way up again.
 
-### Stars & Scrubs
+### Stars (All Divisions)
 
 | Player           | Team        | Position      | W  | D | L | GP   | TD   | Cp | Int | BH   | SI   | Ki   | MVP  | SPP  |
 |------------------|-------------|---------------|---:|--:|--:|-----:|-----:|---:|----:|-----:|-----:|-----:|-----:|-----:|
@@ -65,7 +65,7 @@ With an overall Win% below the 33% seen as the bare minimum of acceptability for
 | Christos | Gargantuan Brutes | Heavy        |   11 |    3 |   16 |   30 |    0 |    0 |    0 |    4 |    3 |    0 |    3 |   29 |
 | Klik     | Gargantuan Brutes | Blitzer   |    2 |    0 |   13 |   15 |    3 |   14 |    0 |    0 |    0 |    0 |    1 |   28 |
 
-It's a shame [[Marzhak]] wasn't on a better team. Players with his profile can be great. He was better than his old-era predecessor, [[Lophand]].
+It's a shame [[marzhak]] wasn't on a better team. Players with his profile can be great. He was better than his old-era predecessor, [[Lophand]].
 
 Before the Open Division got a major season (the Orange Goblet), [[Votyris]] was one of the top players in the division.
 
