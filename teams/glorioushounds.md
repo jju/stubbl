@@ -24,7 +24,7 @@ The Glorious Hounds use the High Extension playbook, a venerable adaptation of t
 ### Seasons
 
 | Team      | Season             | W  | D | L | GP | Win% | GF   | GA   | Cas  | CDif | FF   |
-|-----------|--------------------|------|------|------|--------|---------|------|------|------|--------|------|
+|-----------|--------------------|--:|--:|--:|---:|-----:|---:|---:|----:|-----:|---:|
 | Glorious Hounds | UBBL Challenge IV    |    5 |    0 |    1 |      6 | 83.33 |   22 |    7 |    6 |    -10 |    4 |
 | Glorious Hounds | Green Cup VIII       |   11 |    1 |    5 |     17 | 67.65 |   51 |   27 |   11 |    -20 |    2 |
 | Glorious Hounds | Green Cup VII        |   10 |    1 |    6 |     17 | 61.76 |   60 |   37 |   16 |    -18 |    3 |
@@ -47,8 +47,8 @@ Division Champion
 
 ### Stars & Scrubs
 
-| Player           | Team        | Position      | W  | D | L | GP   | TD   | Cp | Int | BH   | SI   | Ki   | MVP  | SPP  |
-|------------------|-------------|---------------|----|---|---|------|------|----|-----|------|------|------|------|------|
+| Player           | Team        | Position      | W | D | L | GP | TD | Cp | Int | BH | SI | Ki | MVP | SPP |
+|------------------|-------------|---------------|--:|--:|--:|---:|---:|---:|----:|---:|---:|---:|----:|----:|
 | Costache | Glorious Hounds | Catcher  |   20 |    8 |   19 |   47 |   74 |    3 |    2 |    2 |    1 |    0 |    3 |  250 |
 | Yosif    | Glorious Hounds | Thrower  |   32 |    9 |   29 |   70 |    1 |  162 |    2 |    0 |    0 |    0 |    2 |  179 |
 | Oiva     | Glorious Hounds | Catcher  |   27 |    8 |   21 |   56 |   30 |   29 |    8 |    3 |    0 |    0 |    3 |  156 |

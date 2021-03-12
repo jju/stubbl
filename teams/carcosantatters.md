@@ -26,7 +26,7 @@ The Tatters use the Nergal playbook, some (especially fans of pretty BludBol) sa
 ### Seasons
 
 | Team      | Season             | W  | D | L | GP | Win% | GF   | GA   | Cas  | CDif | FF   |
-|-----------|--------------------|------|------|------|--------|---------|------|------|------|--------|------|
+|-----------|--------------------|--:|--:|--:|---:|-----:|---:|---:|----:|-----:|---:|
 | Carcosan Tatters | Green Cup II         |    7 |    3 |    2 |     12 | 70.83 |   24 |   19 |   36 |     27 |    0 |
 | Carcosan Tatters | Green Cup III        |    6 |    3 |    2 |     11 | 68.18 |   18 |   17 |   29 |     22 |   -1 |
 | Carcosan Tatters | Green Cup VI         |   11 |    1 |    5 |     17 | 67.65 |   20 |   15 |   23 |     10 |    5 |
@@ -55,10 +55,10 @@ W-D-L 8-1-6
 
 The Tatters could be in position to upset for a Divisional title, but hopes are not tremendously high.
 
-### Stars & Scrubs
+### Stars
 
-| Player           | Team        | Position      | W  | D | L | GP   | TD   | Cp | Int | BH   | SI   | Ki   | MVP  | SPP  |
-|------------------|-------------|---------------|----|---|---|------|------|----|-----|------|------|------|------|------|
+| Player           | Team        | Position      | W | D | L | GP | TD | Cp | Int | BH | SI | Ki | MVP | SPP |
+|------------------|-------------|---------------|--:|--:|--:|---:|---:|---:|----:|---:|---:|---:|----:|----:|
 | *BSEncef* | Carcosan Tatters | Blitzer        |   ?? |   ?? |   ?? |   49 |   23 |           31 |             2 |    1 |    0 |    0 |    3 |   121 |
 | Gention           | Carcosan Tatters | Blitzer        |   32 |    6 |   19 |   57 |   10 |    4 |    0 |   16 |    8 |    2 |    7 |  121 |
 | *Scrapie* | Carcosan Tatters | Blitzer | ?? | ?? | ?? | 49 | 18 | 0 | 1 | 10 | 4 | 3 | 4 | 110 |

@@ -31,6 +31,7 @@ Unless specified, we're dealing with the 1262 epoch.
 	* Week 11 618.4
 * UC 1262.623-692:349 (623.7) -> 631-329:544 (631.4)
 * GCVIII 1262.633-862:797 (633.8) -> 652-328:975 (652.4)
+	* Week 2 635.8
 	* Week 3 636.8
 	* Week 13 646.9
 	* Week 15 648.8
@@ -74,6 +75,13 @@ Unless specified, we're dealing with the 1262 epoch.
 
 
 
-Current era players birthdates: 1261.514 - 1262.054 (random 540)
+Current era players birthdates: 
+
+* GCVI: 1261.514 - 1262.054 (random 540)
+* GCVII: 1261.544 - 1262.084
+* GCVIII: 1261.574 - 1262.114
+* GCIX: 1261.604 - 1262.144
+* GCX: 1261.634 - 1262.174
+* GCXI: 1262.664 - 1262.204
 
 Old era player birthdates: 1260.933 - 1261.533 (random 600)

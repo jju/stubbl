@@ -26,7 +26,7 @@ The Dynamo use the Elizabeth Aardman playbook, with strong linemen and a big guy
 ### Seasons
 
 | Team      | Season             | W  | D | L | GP | Win% | GF   | GA   | Cas  | CDif | FF   |
-|-----------|--------------------|------|------|------|--------|---------|------|------|------|--------|------|
+|-----------|--------------------|--:|--:|--:|---:|-----:|---:|---:|----:|-----:|---:|
 | Kaiju Dynamo | Green Cup VIII       |   13 |    1 |    4 |     18 |   75.00 |   56 |   34 |   24 |     -1 |    3 |
 | Kaiju Dynamo | UBBL Challenge       |    5 |    0 |    2 |      7 | 71.43 |   12 |   10 |   14 |     11 |    2 |
 | Kaiju Dynamo | UBBL Challenge IV    |    2 |    0 |    1 |      3 | 66.67 |    7 |    2 |    9 |      5 |    1 |
@@ -58,8 +58,8 @@ The death of Sabah in GCX was a huge blow to the team and most commentators wrot
 
 ### Stars & Scrubs
 
-| Player           | Team        | Position      | W  | D | L | GP   | TD   | Cp | Int | BH   | SI   | Ki   | MVP  | SPP  |
-|------------------|-------------|---------------|----|---|---|------|------|----|-----|------|------|------|------|------|
+| Player           | Team        | Position      | W | D | L | GP | TD | Cp | Int | BH | SI | Ki | MVP | SPP |
+|------------------|-------------|---------------|--:|--:|--:|---:|---:|---:|----:|---:|---:|---:|----:|----:|
 | Sabah    | Kaiju Dynamo | Runner    |   29 |    5 |   16 |   50 |   66 |    2 |    0 |    0 |    0 |    0 |    3 |  215 |
 | Nakayama | Kaiju Dynamo | Runner    |   24 |    5 |   18 |   47 |   22 |   27 |    1 |    1 |    0 |    1 |    3 |  114 |
 | *Dogolas* | Kaiju Dynamo | Runner | ?? | ?? | ?? | 57 | 20 | 20 | 2 | 0 | 1 | 0 | 5 | 111 |

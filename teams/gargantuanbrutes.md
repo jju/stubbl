@@ -25,7 +25,7 @@ The Brutes used the Charged Puncher playbook, which uses an assortment of fodder
 ### Seasons
 
 | Team      | Season             | W  | D | L | GP | Win% | GF   | GA   | Cas  | CDif | FF   |
-|-----------|--------------------|-----:|-----:|-----:|-------:|--------:|-----:|-----:|-----:|-------:|-----:|
+|-----------|--------------------|--:|--:|--:|---:|-----:|---:|---:|----:|-----:|---:|
 | Gargantuan Brutes | UBBL Challenge II    |    6 |    1 |    0 |      7 | 92.86 |   22 |   14 |   20 |     13 |    3 |
 | Gargantuan Brutes | UBBL Challenge III   |    3 |    1 |    1 |      5 |      70.00 |   14 |   10 |   12 |      3 |    3 |
 | Gargantuan Brutes | Green Cup I          |    4 |    2 |    6 |     12 | 41.67 |   20 |   29 |   24 |     13 |    1 |
@@ -50,8 +50,8 @@ With an overall Win% below the 33% seen as the bare minimum of acceptability for
 
 ### Stars (All Divisions)
 
-| Player           | Team        | Position      | W  | D | L | GP   | TD   | Cp | Int | BH   | SI   | Ki   | MVP  | SPP  |
-|------------------|-------------|---------------|---:|--:|--:|-----:|-----:|---:|----:|-----:|-----:|-----:|-----:|-----:|
+| Player           | Team        | Position      | W | D | L | GP | TD | Cp | Int | BH | SI | Ki | MVP | SPP |
+|------------------|-------------|---------------|--:|--:|--:|---:|---:|---:|----:|---:|---:|---:|----:|----:|
 | Marzhak | Gargantuan Brutes | Heavy          |   18 |    9 |   43 |   70 |    0 |    0 |    1 |   35 |   18 |    2 |    6 |  142 |
 | Votyris | Gargantuan Brutes | Thrower |   17 |   11 |   35 |   63 |   27 |   16 |    3 |    2 |    0 |    1 |    4 |  129 |
 | *Lophand* | Gargantuan Brutes | Heavy          |   ?? |   ?? |   ?? |   32 |    0 |    0 |    0 |   28 |   18 |    5 |    4 |  122 |

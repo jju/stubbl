@@ -25,7 +25,7 @@ The Irregular Cogs use the Drop Eagle playbook. It's an adaptation of the Herman
 ### Seasons
 
 | Team      | Season             | W  | D | L | GP | Win% | GF   | GA   | Cas  | CDif | FF   |
-|-----------|--------------------|------|------|------|--------|---------|------|------|------|--------|------|
+|-----------|--------------------|--:|--:|--:|---:|-----:|---:|---:|----:|-----:|---:|
 | Irregular Cogs | Green Cup V Memorial |    8 |    3 |    2 |     13 | 73.08 |   27 |   14 |   20 |      9 |    0 |
 | Irregular Cogs | Green Cup VII        |   13 |    0 |    5 |     18 | 72.22 |   51 |   32 |   12 |    -19 |    2 |
 | Irregular Cogs | Green Cup I          |    7 |    3 |    2 |     12 | 70.83 |   36 |   27 |   14 |    -10 |    2 |
@@ -62,8 +62,8 @@ Outlands Division Runner-Up
 
 ### Stars
 
-| Player           | Team        | Position      | W  | D | L | GP   | TD   | Cp | Int | BH   | SI   | Ki   | MVP  | SPP  |
-|------------------|-------------|---------------|----|---|---|------|------|----|-----|------|------|------|------|------|
+| Player           | Team        | Position      | W | D | L | GP | TD | Cp | Int | BH | SI | Ki | MVP | SPP |
+|------------------|-------------|---------------|--:|--:|--:|---:|---:|---:|----:|---:|---:|---:|----:|----:|
 | Besz  | Irregular Cogs | Runner   |   33 |   4 |   23 |  64 |   29 |  105 |    0 |    0 |    1 |    0 |    4 |  204 |
 | *Halfleg* | Irregular Cogs | Runner | ?? | ?? | ?? | 51 | 12 | 89 | 2 | 2 | 0 | 3 | 3 | 154 |
 | *Crobuzon* | Irregular Cogs | Attacker | ?? | ?? | ?? | 50 | 33 | 5 | 1 | 6 | 5 | 0 | 4 | 148 |

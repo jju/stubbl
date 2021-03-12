@@ -24,7 +24,7 @@ The Mules use the Darvati Dorf playbook, which is built on a lineup slow tackler
 ### Seasons
 
 | Team      | Season             | W  | D | L | GP | Win% | GF   | GA   | Cas  | CDif | FF   |
-|-----------|--------------------|------|------|------|--------|---------|------|------|------|--------|------|
+|-----------|--------------------|--:|--:|--:|---:|-----:|---:|---:|----:|-----:|---:|
 | Mules | Champions Circuit  |    1 |    0 |    0 |      1 |     100.00 |    2 |    1 |    2 |      2 |    1 |
 | Mules | UBBL Challenge III |    4 |    0 |    2 |      6 | 66.67 |   10 |    8 |   13 |      8 |    2 |
 | Mules | UBBL Challenge     |    2 |    1 |    1 |      4 |    62.50 |    6 |    4 |   10 |     10 |    1 |
@@ -44,8 +44,8 @@ That the Mules managed to win the inaugural Orange Goblet season was impressive 
 
 ### Stars & Scrubs
 
-| Player           | Team        | Position      | W  | D | L | GP   | TD   | Cp | Int | BH   | SI   | Ki   | MVP  | SPP  |
-|------------------|-------------|---------------|----|---|---|------|------|----|-----|------|------|------|------|------|
+| Player           | Team        | Position      | W | D | L | GP | TD | Cp | Int | BH | SI | Ki | MVP | SPP |
+|------------------|-------------|---------------|--:|--:|--:|---:|---:|---:|----:|---:|---:|---:|----:|----:|
 | **Nkosana**   | Mules | Runner       |   11 |    0 |    6 |   17 |   20 |    3 |    1 |    0 |    1 |    0 |    1 |   72 |
 | **Bianka**    | Mules | Runner       |   17 |    2 |   10 |   29 |    8 |   21 |    2 |    2 |    0 |    1 |    1 |   60 |
 | **Alida**     | Mules | Blitzer      |   18 |    2 |   10 |   30 |    7 |    3 |    1 |    5 |    0 |    0 |    3 |   51 |

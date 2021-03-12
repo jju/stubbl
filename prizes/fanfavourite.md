@@ -16,7 +16,7 @@ For most MVP awards (as chosen by the fans) in a season.
 
 ## gcc06
 
-[[Leibniz]]
+[[leibniz]]
 
 ## gcvii
 

@@ -27,7 +27,7 @@ The Eagles use the Charles Dorf playbook, which is built on a very rigid divisio
 ### Seasons
 
 | Team      | Season             | W  | D | L | GP | Win% | GF   | GA   | Cas  | CDif | FF   |
-|-----------|--------------------|------|------|------|--------|---------|------|------|------|--------|------|
+|-----------|--------------------|--:|--:|--:|---:|-----:|---:|---:|----:|-----:|---:|
 | Ravenous Eagles | UBBL Challenge       |    3 |    1 |    1 |      5 |      70.00 |    7 |    5 |    5 |     -2 |    0 |
 | Ravenous Eagles | Green Cup V Memorial |    9 |    0 |    4 |     13 | 69.23 |   19 |   13 |   20 |     14 |    4 |
 | Ravenous Eagles | Green Cup VII        |   11 |    2 |    6 |     19 | 63.16 |   31 |   25 |   40 |     27 |    4 |
@@ -65,8 +65,8 @@ Could make a surprise grab for the Pits Division championship but likely won't.
 
 ### Stars & Scrubs
 
-| Player           | Team        | Position      | W  | D | L | GP   | TD   | Cp | Int | BH   | SI   | Ki   | MVP  | SPP  |
-|------------------|-------------|---------------|----|---|---|------|------|----|-----|------|------|------|------|------|
+| Player           | Team        | Position      | W | D | L | GP | TD | Cp | Int | BH | SI | Ki | MVP | SPP |
+|------------------|-------------|---------------|--:|--:|--:|---:|---:|---:|----:|---:|---:|---:|----:|----:|
 | **Ekua**      | Ravenous Eagles | Blitzer        |   33 |   11 |   39 |   83 |    8 |    0 |    1 |   23 |   12 |    3 |    4 |  122 |
 | **Jantine**   | Ravenous Eagles | Heavy            |   14 |    8 |   18 |   40 |    0 |    0 |    1 |   38 |   12 |    1 |    2 |  114 |
 | **Percy**     | Ravenous Eagles | Heavy            |   20 |    3 |   18 |   41 |    1 |    0 |    1 |   26 |    7 |    2 |    4 |   95 |

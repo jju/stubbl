@@ -24,7 +24,7 @@ The Eldritch Fatality use the Drop Eagle playbook. It's an adaptation of the Her
 ### Seasons
 
 | Team      | Season             | W  | D | L | GP | Win% | GF   | GA   | Cas  | CDif | FF   |
-|-----------|--------------------|------|------|------|--------|---------|------|------|------|--------|------|
+|-----------|--------------------|--:|--:|--:|---:|-----:|---:|---:|----:|-----:|---:|
 | Eldritch Fatality | UBBL Challenge       |    3 |    0 |    1 |      4 |      75.00 |   16 |   10 |    7 |      1 |    1 |
 | Eldritch Fatality | Green Cup VIII       |   10 |    3 |    4 |     17 | 67.65 |   37 |   27 |   23 |      5 |   -1 |
 | Eldritch Fatality | Green Cup Classic 06 |    4 |    4 |    1 |      9 | 66.67 |   24 |   17 |   10 |      1 |    2 |
@@ -47,10 +47,10 @@ W-D-L 8-1-6
 
 Though it's hard to be super-confident, a division title seems likely.
 
-### Stars & Scrubs
+### Stars
 
-| Player           | Team        | Position      | W  | D | L | GP   | TD   | Cp | Int | BH   | SI   | Ki   | MVP  | SPP  |
-|------------------|-------------|---------------|----|---|---|------|------|----|-----|------|------|------|------|------|
+| Player           | Team        | Position      | W | D | L | GP | TD | Cp | Int | BH | SI | Ki | MVP | SPP |
+|------------------|-------------|---------------|--:|--:|--:|---:|---:|---:|----:|---:|---:|---:|----:|----:|
 | **Atte**     | Eldritch Fatality | Blitzer   |   15 |    3 |   16 |   34 |   40 |    3 |    0 |    1 |    0 |    0 |    6 |  155 |
 | **Filipa**   | Eldritch Fatality | Runner    |   23 |    4 |   21 |   48 |    7 |  100 |    1 |    0 |    1 |    0 |    4 |  145 |
 | Qtpi    | Eldritch Fatality | Runner    |   27 |    4 |   14 |   45 |   25 |   28 |    2 |    1 |    0 |    0 |    2 |  119 |

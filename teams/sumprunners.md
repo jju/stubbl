@@ -24,7 +24,7 @@ The Sump Runners use the Hermann playbook, the original plan for playing BludBol
 ### Seasons
 
 | Team      | Season             | W  | D | L | GP | Win% | GF   | GA   | Cas  | CDif | FF   |
-|-----------|--------------------|------|------|------|--------|---------|------|------|------|--------|------|
+|-----------|--------------------|--:|--:|--:|---:|-----:|---:|---:|----:|-----:|---:|
 | TC Sump Runners | UBBL Challenge III   |    3 |    0 |    1 |      4 |      75.00 |   12 |    8 |    8 |     -2 |    3 |
 | TC Sump Runners | UBBL Challenge II    |    4 |    0 |    2 |      6 | 66.67 |   15 |    9 |   11 |      2 |    3 |
 | TC Sump Runners | Green Cup Classic 06 |    2 |    4 |    2 |      8 |      50.00 |   16 |   15 |   11 |      0 |   -3 |
@@ -55,8 +55,8 @@ Last place in the Stacks.
 
 ### Stars & Scrubs
 
-| Player           | Team        | Position      | W  | D | L | GP   | TD   | Cp | Int | BH   | SI   | Ki   | MVP  | SPP  |
-|------------------|-------------|---------------|----|---|---|------|------|----|-----|------|------|------|------|------|
+| Player           | Team        | Position      | W | D | L | GP | TD | Cp | Int | BH | SI | Ki | MVP | SPP |
+|------------------|-------------|---------------|--:|--:|--:|---:|---:|---:|----:|---:|---:|---:|----:|----:|
 | **Jacquetta**  | TC Sump Runners | Line  |   15 |    6 |   21 |   42 |    2 |   79 |    2 |    1 |    0 |    1 |    7 |  128 |
 | **Shay**       | TC Sump Runners | Thrower  |   11 |    6 |   17 |   34 |   15 |   40 |    4 |    0 |    0 |    1 |    4 |  115 |
 | Desmond   | TC Sump Runners | Blitzer  |   17 |    8 |   26 |   51 |    9 |    1 |    2 |   16 |   10 |    1 |    2 |   96 |

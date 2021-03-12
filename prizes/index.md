@@ -35,6 +35,7 @@ The italicized teams are ones who have won the coveted Green Cup. It is quite co
 * Most Sacks [[hunteraward]]
 * Most Blocks [[dervishaward]]
 * Most Style (MVP awards) [[fanfavourite]]
+* Most SPP for a rookie [[rookieofyear]]
 
 ## Team Prizes
 

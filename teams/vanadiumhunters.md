@@ -23,7 +23,7 @@ The Vanadium Hunters use the Hermann playbook, the original plan for playing Blu
 ### Seasons
 
 | Team      | Season             | W  | D | L | GP | Win% | GF   | GA   | Cas  | CDif | FF   |
-|-----------|--------------------|------|------|------|--------|---------|------|------|------|--------|------|
+|-----------|--------------------|--:|--:|--:|---:|-----:|---:|---:|----:|-----:|---:|
 | Vanadium Hunters | Orange Goblet        |    7 |    1 |    4 |     12 |    62.50 |   26 |   21 |   21 |      6 |    4 |
 | Vanadium Hunters | UBBL Challenge       |    1 |    1 |    1 |      3 |      50.00 |    8 |    7 |    7 |      2 |    0 |
 | Vanadium Hunters | Green Cup V Memorial |    4 |    3 |    5 |     12 | 45.83 |   18 |   21 |   14 |     -4 |    2 |
@@ -48,7 +48,7 @@ The Hunters had never managed to achieve a winning season before the inaugural O
 ### Stars & Scrubs
 
 | Player           | Team        | Position      | W  | D | L | GP   | TD   | Cp | Int | BH   | SI   | Ki   | MVP  | SPP  |
-|------------------|-------------|---------------|----|---|---|------|------|----|-----|------|------|------|------|------|
+|------------------|-------------|---------------|--:|--:|--:|---:|---:|---:|----:|---:|---:|---:|----:|----:|
 | *HalfJack* | Vanadium Hunters | Thrower |  ?? | ?? | ?? | 51 | 5 | 84 | 0 | 1 | 1 | 0 | 5 | 128 |
 | *Moseh* | Vanadium Hunters | Blitzer |  ?? | ?? | ?? | 51 | 25 | 9 | 2 | 6 | 1 | 0 | 4 | 122 |
 | *Nyazi* | Vanadium Hunters | Blitzer | ?? | ?? | ?? | 51 | 28 | 5 | 1 | 7 | 3 | 0 | 2 | 121 |

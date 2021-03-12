@@ -24,7 +24,7 @@ The Gladiolas use the High Extension playbook, a venerable adaptation of the Her
 ### Seasons
 
 | Team      | Season             | W  | D | L | GP | Win% | GF   | GA   | Cas  | CDif | FF   |
-|-----------|--------------------|------|------|------|--------|---------|------|------|------|--------|------|
+|-----------|--------------------|--:|--:|--:|---:|-----:|---:|---:|----:|-----:|---:|
 | Gladiolas | Orange Goblet      |    9 |    1 |    2 |     12 | 79.1667 |   35 |   20 |    9 |    -21 |    0 |
 | Gladiolas | UBBL Challenge     |    4 |    0 |    2 |      6 | 66.6667 |   15 |   12 |    5 |     -6 |    3 |
 | Gladiolas | UBBL Challenge III |    2 |    1 |    1 |      4 |    62.5 |   13 |   10 |    4 |     -1 |    0 |
@@ -47,8 +47,8 @@ This is their year. Orange Goblet Champions.
 
 ### Stars & Scrubs
 
-| Player           | Team        | Position      | W  | D | L | GP   | TD   | Cp | Int | BH   | SI   | Ki   | MVP  | SPP  |
-|------------------|-------------|---------------|----|---|---|------|------|----|-----|------|------|------|------|------|
+| Player           | Team        | Position      | W | D | L | GP | TD | Cp | Int | BH | SI | Ki | MVP | SPP |
+|------------------|-------------|---------------|--:|--:|--:|---:|---:|---:|----:|---:|---:|---:|----:|----:|
 
 #unfinished 
 

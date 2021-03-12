@@ -25,7 +25,7 @@ The Furies use the Norton playbook, which is mostly a way to get less skilled pl
 ### Seasons
 
 | Team      | Season             | W  | D | L | GP | Win% | GF   | GA   | Cas  | CDif | FF   |
-|-----------|--------------------|------|------|------|--------|---------|------|------|------|--------|------|
+|-----------|--------------------|--:|--:|--:|---:|-----:|---:|---:|----:|-----:|---:|
 | Cackling Furies | UBBL Challenge II    |    3 |    0 |    1 |      4 |      75.00 |   11 |    5 |   16 |      5 |    3 |
 | Cackling Furies | Green Cup III        |    9 |    1 |    3 |     13 | 73.08 |   33 |   23 |    38 |     13 |    1 |
 | Cackling Furies | UBBL Challenge       |    2 |    1 |    1 |      4 |    62.50 |   12 |    8 |    9 |     12 |    2 |
@@ -58,10 +58,10 @@ W-D-L 6-3-6
 
 Hoping for a chance at the divisional title, but will have to work to make the playoffs first.
 
-### Stars & Scrubs
+### Stars
 
-| Player           | Team        | Position      | W  | D | L | GP   | TD   | Cp | Int | BH   | SI   | Ki   | MVP  | SPP  |
-|------------------|-------------|---------------|----|---|---|------|------|----|-----|------|------|------|------|------|
+| Player           | Team        | Position      | W | D | L | GP | TD | Cp | Int | BH | SI | Ki | MVP | SPP |
+|------------------|-------------|---------------|--:|--:|--:|---:|---:|---:|----:|---:|---:|---:|----:|----:|
 | *Rodrik* | Cackling Furies | Catcher | *23* | ?? | ?? | 44 | 39 | 2 | 2 | 0 | 0 | 0 | 3 | 138 |
 | **Aronne**    | Cackling Furies | Catcher        |   17 |   10 |   10 |   37 |   24 |   24 |    2 |    0 |    0 |    0 |    3 |  115 |
 | Rickon   | Cackling Furies | Catcher        |   28 |   13 |   35 |   76 |   31 |    1 |    1 |    1 |    0 |    0 |    3 |  113 |

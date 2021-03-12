@@ -25,7 +25,7 @@ The Thorns use what's known as the Excelsior playbook, where a fast fragile rece
 ### Seasons
 
 | Team      | Season             | W  | D | L | GP | Win% | GF   | GA   | Cas  | CDif | FF   |
-|-----------|--------------------|------|------|------|--------|---------|------|------|------|--------|------|
+|-----------|--------------------|--:|--:|--:|---:|-----:|---:|---:|----:|-----:|---:|
 | Thorns | StUBBL Scramble    |    1 |    0 |    0 |      1 |     100.00 |    4 |    1 |    3 |      3 |    1 |
 | Thorns | Champions Circuit  |    1 |    0 |    0 |      1 |     100.00 |    2 |    1 |    0 |      0 |    1 |
 | Thorns | UBBL Challenge II  |    3 |    0 |    1 |      4 |      75.00 |   12 |    4 |    5 |     -2 |    1 |
@@ -39,8 +39,8 @@ The Thorns are a good Open level team and are waiting to prove themselves even b
 
 ### Stars & Scrubs
 
-| Player           | Team        | Position      | W  | D | L | GP   | TD   | Cp | Int | BH   | SI   | Ki   | MVP  | SPP  |
-|------------------|-------------|---------------|----|---|---|------|------|----|-----|------|------|------|------|------|
+| Player           | Team        | Position      | W | D | L | GP | TD | Cp | Int | BH | SI | Ki | MVP | SPP |
+|------------------|-------------|---------------|--:|--:|--:|---:|---:|---:|----:|---:|---:|---:|----:|----:|
 
 
 

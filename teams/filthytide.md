@@ -26,7 +26,7 @@ The Filthy Tide uses the Scrying Avian playbook which emphasizes speed above all
 ### Seasons
 
 | Team      | Season             | W  | D | L | GP | Win% | GF   | GA   | Cas  | CDif | FF   |
-|-----------|--------------------|------|------|------|--------|---------|------|------|------|--------|------|
+|-----------|--------------------|--:|--:|--:|---:|-----:|---:|---:|----:|-----:|---:|
 | Filthy Tide | UBBL Challenge       |    6 |    0 |    1 |      7 | 85.71 |   30 |   15 |   16 |      7 |    2 |
 | Filthy Tide | UBBL Challenge IV    |    2 |    0 |    1 |      3 | 66.67 |    9 |    5 |    6 |      1 |    1 |
 | Filthy Tide | Green Cup VII        |    9 |    3 |    5 |     17 | 61.76 |   56 |   37 |   21 |     -3 |    0 |
@@ -55,10 +55,10 @@ W-D-L 7-1-7
 
 The Tide is projected to get second in the Stacks division, but will then most likely lose in the Round of 16
 
-### Stars & Scrubs
+### Stars
 
-| Player           | Team        | Position      | W  | D | L | GP   | TD   | Cp | Int | BH   | SI   | Ki   | MVP  | SPP  |
-|------------------|-------------|---------------|----|---|---|------|------|----|-----|------|------|------|------|------|
+| Player           | Team        | Position      | W | D | L | GP | TD | Cp | Int | BH | SI | Ki | MVP | SPP |
+|------------------|-------------|---------------|--:|--:|--:|---:|---:|---:|----:|---:|---:|---:|----:|----:|
 | Yakup           | Filthy Tide | Catcher |   27 |    6 |   20 |   53 |   73 |    1 |    0 |    0 |    1 |    0 |    4 |  242 |
 | Somfuhr         | Filthy Tide | Heavy      |   31 |    9 |   29 |   69 |    0 |    0 |    0 |   42 |   13 |    6 |    6 |  152 |
 | Silas           | Filthy Tide | Thrower       |   33 |    9 |   30 |   72 |    2 |  121 |    2 |    1 |    0 |    0 |    2 |  143 |

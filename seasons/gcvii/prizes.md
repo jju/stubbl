@@ -9,3 +9,4 @@
 * [[hunteraward]] - [[venkata]]
 * [[dervishaward]] - [[percy]]
 * [[fanfavourite]] - [[hulud]]
+* [[rookieofyear]] - [[kota]]

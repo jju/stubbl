@@ -28,12 +28,13 @@ As the seasons wore on, Heep got more fragile and he didn't put up too much of a
 
 # Prize Stats
 
+* MVP - GCC06 [[mvp#gcc06]]
 * Sardine Crown - GCC06 [[sardinecrown#gcc06]]
 * Centurion [[centurion#former]]
 
 | Player | Team         | Season          | GP | TD | Rsh | Cp | CpDst | Ctch | Int | Cas | Blk | Sck | MVP | SPP |
 |--------|--------------|-----------------|---:|---:|----:|---:|------:|-----:|----:|----:|----:|----:|----:|----:|
-| Heep  | Orbital Machine | Green Cup Classic 06 | 10 |    **7** |  100 |    2 |     5 |    4 |    0 |    1 |   21 |    0 |    2 |   3                            5 |
-| Heep  | Orbital Machine | Green Cup VII        | 17 |   11 |  221 |    3 |    -3 |   18 |    3 |    3 |   34 |    1 |    0 |   4                            8 |
-| Heep  | Orbital Machine | UBBL Challenge       |  3 |    4 |   43 |    0 |     0 |    3 |    0 |    1 |    9 |    0 |    0 |   1                            4 |
-| Heep  | Orbital Machine | Green Cup VIII       | 12 |    6 |   57 |    0 |     0 |    5 |    1 |    2 |   22 |    0 |    0 |   2                            4 |
+| Heep  | Orbital Machine | Green Cup Classic 06 | 10 |    **7** |  100 |    2 |     5 |    4 |    0 |    1 |   21 |    0 |    2 |   **35** |
+| Heep  | Orbital Machine | Green Cup VII        | 17 |   11 |  221 |    3 |    -3 |   18 |    3 |    3 |   34 |    1 |    0 |   48 |
+| Heep  | Orbital Machine | UBBL Challenge       |  3 |    4 |   43 |    0 |     0 |    3 |    0 |    1 |    9 |    0 |    0 |   14 |
+| Heep  | Orbital Machine | Green Cup VIII       | 12 |    6 |   57 |    0 |     0 |    5 |    1 |    2 |   22 |    0 |    0 |   24 |

@@ -16,7 +16,7 @@ For most blocks in a season.
 
 ## gcc06
 
-[[Lars]]
+[[lars]]
 
 ## gcvii
 

@@ -24,7 +24,7 @@ The Spectres use the traditional Unglewort playbook. They have nigh-unlimited ch
 ### Seasons
 
 | Team      | Season             | W  | D | L | GP | Win% | GF   | GA   | Cas  | CDif | FF   |
-|-----------|--------------------|------|------|------|--------|---------|------|------|------|--------|------|
+|-----------|--------------------|--:|--:|--:|---:|-----:|---:|---:|----:|-----:|---:|
 | Darkling Spectres | UBBL Challenge II    |    2 |    0 |    1 |      3 | 66.67 |    7 |    8 |    7 |      2 |   -1 |
 | Darkling Spectres | UBBL Challenge IV    |    2 |    0 |    1 |      3 | 66.67 |    7 |    8 |    6 |     -1 |    1 |
 | Darkling Spectres | Green Cup Classic 06 |    5 |    3 |    2 |     10 |      65.00 |   17 |   14 |   10 |     -2 |    3 |
@@ -54,10 +54,10 @@ W-D-L 6-2-7
 
 Missing the playoffs.
 
-### Stars & Scrubs
+### Stars
 
-| Player           | Team        | Position      | W  | D | L | GP   | TD   | Cp | Int | BH   | SI   | Ki   | MVP  | SPP  |
-|------------------|-------------|---------------|----|---|---|------|------|----|-----|------|------|------|------|------|
+| Player           | Team        | Position      | W | D | L | GP | TD | Cp | Int | BH | SI | Ki | MVP | SPP |
+|------------------|-------------|---------------|--:|--:|--:|---:|---:|---:|----:|---:|---:|---:|----:|----:|
 | Tooms II   | Darkling Spectres | Runner    |   28 |    8 |   28 |   64 |   13 |   86 |    1 |    3 |    0 |    0 |    5 |  158 |
 | *Qualls* | Darkling Spectres | Runner | ?? | ?? | ?? | 37 | 22 | 30 | 1 | 0 | 1 | 0 | 3 | 115 |
 | **Simon**        | Darkling Spectres | Blocker    |   16 |    5 |   21 |   42 |    0 |    0 |    0 |   18 |    6 |    4 |    5 |   81 |

@@ -27,7 +27,7 @@ The Orbital Machine uses the Chariot playbook. This involves four massive player
 ### Seasons
 
 | Team      | Season             | W  | D | L | GP | Win% | GF   | GA   | Cas  | CDif | FF   |
-|-----------|--------------------|------|------|------|--------|---------|------|------|------|--------|------|
+|-----------|--------------------|--:|--:|--:|---:|-----:|---:|---:|----:|-----:|---:|
 | Orbital Machine | Green Cup VII        |   11 |    3 |    3 |     17 | 73.53 |   29 |   17 |   42 |     33 |   -1 |
 | Orbital Machine | Green Cup Classic 06 |    6 |    1 |    3 |     10 |      65.00 |   18 |   15 |   16 |      8 |    5 |
 | Orbital Machine | Green Cup VIII       |    9 |    0 |    7 |     16 |   56.25 |   27 |   27 |   49 |     27 |    1 |
@@ -54,8 +54,8 @@ Heaps Division Champions
 
 ### Stars & Scrubs
 
-| Player           | Team        | Position      | W  | D | L | GP   | TD   | Cp | Int | BH   | SI   | Ki   | MVP  | SPP  |
-|------------------|-------------|---------------|----|---|---|------|------|----|-----|------|------|------|------|------|
+| Player           | Team        | Position      | W | D | L | GP | TD | Cp | Int | BH | SI | Ki | MVP | SPP |
+|------------------|-------------|---------------|--:|--:|--:|---:|---:|---:|----:|---:|---:|---:|----:|----:|
 | Heep   | Orbital Machine | Blitzer      |   26 |    4 |   12 |   42 |   28 |    5 |    4 |    6 |    1 |    0 |    2 |  121 |
 | **Leppard** | Orbital Machine | Blitzer      |   38 |   11 |   25 |   74 |   14 |   26 |    2 |    3 |    4 |    2 |    6 |  120 |
 | Lars   | Orbital Machine | Heavy      |   18 |    4 |    7 |   29 |    1 |    0 |    2 |   11 |    6 |    1 |    6 |   73 |

@@ -29,7 +29,7 @@ The Wyrms use what's known as the Excelsior playbook, where a fast fragile recei
 ### Seasons
 
 | Team      | Season             | W  | D | L | GP | Win% | GF   | GA   | Cas  | CDif | FF   |
-|-----------|--------------------|------|------|------|--------|---------|------|------|------|--------|------|
+|-----------|--------------------|--:|--:|--:|---:|-----:|---:|---:|----:|-----:|---:|
 | Old Wyrms | Green Cup IX         |   15 |    1 |    3 |     19 | 81.58 |   72 |   46 |   20 |    -17 |    2 |
 | Old Wyrms | UBBL Challenge       |    3 |    0 |    1 |      4 |   75.00 |   10 |    7 |    4 |    -10 |    2 |
 | Old Wyrms | Green Cup III        |    8 |    3 |    2 |     13 | 73.08 |   43 |   25 |   11 |    -17 |    2 |
@@ -67,8 +67,8 @@ The Wyrms will win the Stacks division, but fall in the Burger Conference Final.
 
 ### Stars & Scrubs
 
-| Player           | Team        | Position      | W  | D | L | GP   | TD   | Cp | Int | BH   | SI   | Ki   | MVP  | SPP  |
-|------------------|-------------|---------------|----|---|---|------|------|----|-----|------|------|------|------|------|
+| Player           | Team        | Position      | W | D | L | GP | TD | Cp | Int | BH | SI | Ki | MVP | SPP |
+|------------------|-------------|---------------|--:|--:|--:|---:|---:|---:|----:|---:|---:|---:|----:|----:|
 | Souta   | Old Wyrms | Catcher  |   33 |    9 |   27 |   69 |   72 |   51 |    3 |    2 |    1 |    0 |    4 |  299 |
 | **Elvis**    | Old Wyrms | Thrower  |   34 |    7 |   16 |   57 |    1 |  146 |    0 |    0 |    1 |    0 |    7 |  186 |
 | *Tony* | Old Wyrms | Catcher | ?? | ?? | ?? | 33 | 39 | 9 | 2 | 2 | 0 | 0 | 4 | 154 |
