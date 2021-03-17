@@ -22,3 +22,8 @@ Will the Fatality lose?
 
 | Player            | Team             | TDs  | Rush | Cp   | PassDist | Caughts | Cas  | Blocks | Sacks | MVPs | SPP  |
 |-------------------|------------------|------|------|------|----------|---------|------|--------|-------|------|------|
+| Beatrix    | Eldritch Fatality | Green Cup Classic 06 |    2 |    7 |    0 |        0 |      1 |     0 |    1 |      3 |     0 |    0 |    8 |
+| Heep      | Orbital Machine   | Green Cup Classic 06 |    2 |   14 |    0 |        0 |      0 |     0 |    1 |      1 |     0 |    0 |    8 |
+| Bill      | Eldritch Fatality | Green Cup Classic 06 |    0 |    7 |    6 |       12 |      0 |     0 |    0 |      2 |     1 |    0 |    6 |
+| Tine      | TC Sump Runners   | Green Cup Classic 06 |    2 |    9 |    0 |        0 |      1 |     0 |    0 |      2 |     0 |    0 |    6 |
+| Sadaharu  | Kaiju Dynamo      | Green Cup Classic 06 |    2 |   13 |    0 |        0 |      0 |     0 |    0 |      0 |     0 |    0 |    6 |

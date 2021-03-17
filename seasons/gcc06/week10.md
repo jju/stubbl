@@ -17,3 +17,9 @@ Darkling Spectres L Orbital Machine 0 1
 
 | Player            | Team             | TDs  | Rush | Cp   | PassDist | Caughts | Cas  | Blocks | Sacks | MVPs | SPP  |
 |-------------------|------------------|------|------|------|----------|---------|------|--------|-------|------|------|
+| Cheaphat | Darkling Spectres | Green Cup Classic 06 |    0 |    0 |    0 |        0 |      0 |     0 |    1 |      6 |     0 |    1 |    7 |
+| Leppard   | Orbital Machine   | Green Cup Classic 06 |    0 |    0 |    0 |        0 |      0 |     0 |    0 |      4 |     0 |    1 |    5 |
+| Heep     | Orbital Machine   | Green Cup Classic 06 |    1 |    6 |    0 |        0 |      0 |     0 |    0 |      6 |     0 |    0 |    3 |
+| Meyer   | Darkling Spectres | Green Cup Classic 06 |    0 |    0 |    0 |        0 |      0 |     0 |    1 |      6 |     0 |    0 |    2 |
+| Def      | Orbital Machine   | Green Cup Classic 06 |    0 |    0 |    0 |        0 |      0 |     0 |    1 |      6 |     0 |    0 |    2 |
+

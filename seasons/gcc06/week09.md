@@ -18,3 +18,10 @@ Darkling Spectres W Kaiju Dynamo 2 1
 
 | Player            | Team             | TDs  | Rush | Cp   | PassDist | Caughts | Cas  | Blocks | Sacks | MVPs | SPP  |
 |-------------------|------------------|------|------|------|----------|---------|------|--------|-------|------|------|
+| Mo       | Eldritch Fatality | Green Cup Classic 06 |    1 |    5 |    1 |        0 |      1 |     0 |    0 |      1 |     0 |    1 |    9 |
+| Bill     | Eldritch Fatality | Green Cup Classic 06 |    0 |   17 |    3 |       16 |      1 |     0 |    0 |      1 |     1 |    0 |    3 |
+| Priest   | Orbital Machine   | Green Cup Classic 06 |    1 |   20 |    0 |        0 |      0 |     0 |    0 |      1 |     0 |    0 |    3 |
+| Beatrix   | Eldritch Fatality | Green Cup Classic 06 |    1 |    4 |    0 |        0 |      1 |     0 |    0 |      2 |     0 |    0 |    3 |
+| Heep     | Orbital Machine   | Green Cup Classic 06 |    1 |    4 |    0 |        0 |      1 |     0 |    0 |      3 |     0 |    0 |    3 |
+| Bambino  | Darkling Spectres | Green Cup Classic 06 |    1 |   10 |    0 |        0 |      0 |     0 |    0 |      4 |     1 |    0 |    3 |
+| Ozzy     | Orbital Machine   | Green Cup Classic 06 |    1 |   21 |    0 |        0 |      0 |     0 |    0 |      4 |     1 |    0 |    3 |

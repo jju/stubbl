@@ -20,3 +20,11 @@ Cackling Furies L Kaiju Dynamo 1 4
 
 | Player            | Team             | TDs  | Rush | Cp   | PassDist | Caughts | Cas  | Blocks | Sacks | MVPs | SPP  |
 |-------------------|------------------|------|------|------|----------|---------|------|--------|-------|------|------|
+| Green    | Eldritch Fatality | Green Cup Classic 06 |    1 |    7 |    0 |        0 |      1 |     0 |    2 |      8 |     0 |    0 |    7 |
+| Bill     | Eldritch Fatality | Green Cup Classic 06 |    0 |   25 |    2 |        4 |      0 |     0 |    0 |      0 |     0 |    1 |    7 |
+| Mo       | Eldritch Fatality | Green Cup Classic 06 |    2 |   12 |    0 |        0 |      1 |     0 |    0 |      2 |     0 |    0 |    6 |
+| Muir     | TC Sump Runners   | Green Cup Classic 06 |    0 |    0 |    0 |        0 |      0 |     0 |    3 |      3 |     0 |    0 |    6 |
+| Reg      | TC Sump Runners   | Green Cup Classic 06 |    2 |   21 |    0 |        0 |      2 |     0 |    0 |      2 |     0 |    0 |    6 |
+| Sadaharu | Kaiju Dynamo      | Green Cup Classic 06 |    2 |   14 |    0 |        0 |      0 |     0 |    0 |      0 |     0 |    0 |    6 |
+| Starfin   | Kaiju Dynamo      | Green Cup Classic 06 |    2 |    7 |    0 |        0 |      0 |     0 |    0 |      0 |     0 |    0 |    6 |
+| Bambino  | Darkling Spectres | Green Cup Classic 06 |    2 |    4 |    0 |        0 |      0 |     0 |    0 |      2 |     0 |    0 |    6 |

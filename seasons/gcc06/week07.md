@@ -20,3 +20,10 @@ Vanadium Hunters L Orbital Machine 1 2
 
 | Player            | Team             | TDs  | Rush | Cp   | PassDist | Caughts | Cas  | Blocks | Sacks | MVPs | SPP  |
 |-------------------|------------------|------|------|------|----------|---------|------|--------|-------|------|------|
+| Erich    | Gargantuan Brutes | Green Cup Classic 06 |    1 |   22 |    1 |        1 |      0 |     2 |    0 |      1 |     0 |    0 |    8 |
+| Galley  | Kaiju Dynamo      | Green Cup Classic 06 |    0 |    0 |    0 |        0 |      0 |     0 |    1 |      6 |     0 |    1 |    7 |
+| Tooms II | Darkling Spectres | Green Cup Classic 06 |    0 |   14 |    2 |        6 |      0 |     0 |    0 |      1 |     0 |    1 |    7 |
+| Green   | Eldritch Fatality | Green Cup Classic 06 |    2 |    9 |    0 |        0 |      1 |     0 |    0 |      6 |     0 |    0 |    6 |
+| Marzhak | Gargantuan Brutes | Green Cup Classic 06 |    0 |    0 |    0 |        0 |      0 |     0 |    3 |     10 |     1 |    0 |    6 |
+| Vihaio   | Eldritch Fatality | Green Cup Classic 06 |    0 |   -5 |    1 |        0 |      0 |     0 |    0 |      1 |     0 |    1 |    6 |
+| Otello  | Kaiju Dynamo      | Green Cup Classic 06 |    1 |    8 |    0 |        0 |      0 |     1 |    0 |      5 |     1 |    0 |    5 |

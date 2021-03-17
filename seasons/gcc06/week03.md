@@ -20,3 +20,11 @@ Kaiju Dynamo D Gargantuan Brutes 2 2
 
 | Player            | Team             | TDs  | Rush | Cp   | PassDist | Caughts | Cas  | Blocks | Sacks | MVPs | SPP  |
 |-------------------|------------------|------|------|------|----------|---------|------|--------|-------|------|------|
+| Kobe      | Vanadium Hunters  | Green Cup Classic 06 |    0 |   12 |    4 |       18 |      0 |     0 |    0 |      1 |     0 |    1 |    9 |
+| Qtpi      | Eldritch Fatality | Green Cup Classic 06 |    2 |   16 |    0 |        0 |      1 |     0 |    0 |      0 |     0 |    0 |    6 |
+| Mohan      | Vanadium Hunters  | Green Cup Classic 06 |    2 |   11 |    0 |        0 |      2 |     0 |    0 |      8 |     0 |    0 |    6 |
+| Jonas     | Vanadium Hunters  | Green Cup Classic 06 |    1 |   26 |    1 |        2 |      2 |     0 |    1 |      2 |     0 |    0 |    6 |
+| Luther    | TC Sump Runners   | Green Cup Classic 06 |    0 |    0 |    1 |        4 |      0 |     0 |    0 |      0 |     0 |    1 |    6 |
+| Blackfyre | Gargantuan Brutes | Green Cup Classic 06 |    2 |   13 |    0 |        0 |      1 |     0 |    0 |      1 |     0 |    0 |    6 |
+| Sauve     | Darkling Spectres | Green Cup Classic 06 |    1 |   11 |    0 |        0 |      0 |     1 |    0 |      6 |     0 |    0 |    5 |
+| Leppard    | Orbital Machine   | Green Cup Classic 06 |    1 |   15 |    0 |        0 |      0 |     0 |    1 |      4 |     1 |    0 |    5 |

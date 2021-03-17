@@ -23,3 +23,7 @@ Eldritch Fatality W Gargantuan Brutes 1 0
 
 | Player            | Team             | TDs  | Rush | Cp   | PassDist | Caughts | Cas  | Blocks | Sacks | MVPs | SPP  |
 |-------------------|------------------|------|------|------|----------|---------|------|--------|-------|------|------|
+| Florrie  | Darkling Spectres | Green Cup Classic 06 |    0 |    0 |    0 |        0 |      0 |     0 |    0 |      0 |     0 |    2 |   10 |
+| Ozzy.    | Orbital Machine   | Green Cup Classic 06 |    2 |   22 |    0 |        0 |      0 |     0 |    0 |      4 |     0 |    0 |    6 |
+| Galley.  | Kaiju Dynamo      | Green Cup Classic 06 |    0 |    0 |    0 |        0 |      0 |     0 |    2 |      8 |     0 |    0 |    4 |
+| Muir.    | TC Sump Runners   | Green Cup Classic 06 |    0 |    0 |    0 |        0 |      0 |     0 |    2 |      5 |     1 |    0 |    4 |
