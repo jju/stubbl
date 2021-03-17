@@ -23,3 +23,58 @@ Darkling Spectres L Orbital Machine 0 1
 | Meyer   | Darkling Spectres | Green Cup Classic 06 |    0 |    0 |    0 |        0 |      0 |     0 |    1 |      6 |     0 |    0 |    2 |
 | Def      | Orbital Machine   | Green Cup Classic 06 |    0 |    0 |    0 |        0 |      0 |     0 |    1 |      6 |     0 |    0 |    2 |
 
+
+
+## season leaderboards
+
+### mvp
+
+| Player            | Team             | TDs  | Rush | Cp   | PassDist | Caughts | Cas  | Blocks | Sacks | MVPs | SPP  |
+|-------------------|------------------|------|------|------|----------|---------|------|--------|-------|------|------|
+
+Top 5
+
+### TDs
+
+| Player            | Team             | TDs  | Rush | Cp   | PassDist | Caughts | Cas  | Blocks | Sacks | MVPs | SPP  |
+|-------------------|------------------|------|------|------|----------|---------|------|--------|-------|------|------|
+
+Top 3
+
+### passing
+
+| Player            | Team             | TDs  | Rush | Cp   | PassDist | Caughts | Cas  | Blocks | Sacks | MVPs | SPP  |
+|-------------------|------------------|------|------|------|----------|---------|------|--------|-------|------|------|
+
+Top 3
+
+### rushing
+
+| Player            | Team             | TDs  | Rush | Cp   | PassDist | Caughts | Cas  | Blocks | Sacks | MVPs | SPP  |
+|-------------------|------------------|------|------|------|----------|---------|------|--------|-------|------|------|
+
+### catches
+
+| Player            | Team             | TDs  | Rush | Cp   | PassDist | Caughts | Cas  | Blocks | Sacks | MVPs | SPP  |
+|-------------------|------------------|------|------|------|----------|---------|------|--------|-------|------|------|
+
+### casualties
+
+| Player            | Team             | TDs  | Rush | Cp   | PassDist | Caughts | Cas  | Blocks | Sacks | MVPs | SPP  |
+|-------------------|------------------|------|------|------|----------|---------|------|--------|-------|------|------|
+
+### sacks
+
+| Player            | Team             | TDs  | Rush | Cp   | PassDist | Caughts | Cas  | Blocks | Sacks | MVPs | SPP  |
+|-------------------|------------------|------|------|------|----------|---------|------|--------|-------|------|------|
+
+### blocks
+
+| Player            | Team             | TDs  | Rush | Cp   | PassDist | Caughts | Cas  | Blocks | Sacks | MVPs | SPP  |
+|-------------------|------------------|------|------|------|----------|---------|------|--------|-------|------|------|
+
+### mvps
+
+| Player            | Team             | TDs  | Rush | Cp   | PassDist | Caughts | Cas  | Blocks | Sacks | MVPs | SPP  |
+|-------------------|------------------|------|------|------|----------|---------|------|--------|-------|------|------|
+>>>>>>> 6b9361386134a317e741ca84035f08c12155a3e8
