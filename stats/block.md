@@ -1,39 +1,43 @@
 # team ranks
 
-## blocking ranks pre-GCX
+## pro-level blocking ranks pre-GCXI
 
-| team              | BH   | SI   | Ki   | blocks | blitzes | sacks | sack_block | cas_block |
+| Team              | BH   | SI   | Ki   | Blocks | Blitzes | Sacks | Sack_Block | Cas_Block |
 |-------------------|------|------|------|--------|---------|-------|------------|-----------|
-| Filthy Tide       |   75 |   22 |   13 |   2006 |     757 |    76 |     0.0379 |    0.0548 |
-| Zensun Vagabonds  |   74 |   28 |    7 |   2028 |     675 |    79 |     0.0390 |    0.0537 |
 | Gargantuan Brutes |   42 |   27 |    3 |   1344 |     420 |    44 |     0.0327 |    0.0536 |
-| TC Sump Runners   |   55 |   35 |    9 |   1965 |     618 |    57 |     0.0290 |    0.0504 |
-| Darkling Spectres |   70 |   34 |    8 |   2421 |     583 |    59 |     0.0244 |    0.0463 |
-| Ravenous Eagles   |   94 |   36 |   10 |   3112 |     794 |    58 |     0.0186 |    0.0450 |
-| Orbital Machine   |   84 |   38 |   15 |   3053 |     710 |    49 |     0.0160 |    0.0449 |
-| Cackling Furies   |   69 |   31 |   12 |   2528 |     643 |    57 |     0.0225 |    0.0443 |
+| Filthy Tide       |   86 |   27 |   16 |   2425 |     945 |    96 |     0.0396 |    0.0532 |
+| Zensun Vagabonds  |   95 |   35 |   10 |   2701 |     871 |   102 |     0.0378 |    0.0518 |
+| TC Sump Runners   |   73 |   41 |   12 |   2513 |     779 |    78 |     0.0310 |    0.0501 |
+| Ravenous Eagles   |  135 |   55 |   13 |   4193 |    1050 |    82 |     0.0196 |    0.0484 |
+| Orbital Machine   |  115 |   45 |   17 |   3913 |     909 |    69 |     0.0176 |    0.0452 |
+| Mules             |    2 |    0 |    0 |     45 |      11 |     0 |     0.0000 |    0.0444 |
+| Darkling Spectres |   82 |   42 |   12 |   3131 |     765 |    75 |     0.0240 |    0.0434 |
 | Vanadium Hunters  |   36 |   14 |    3 |   1288 |     404 |    41 |     0.0318 |    0.0411 |
-| Badger Claws      |   22 |    7 |    5 |    895 |     428 |    33 |     0.0369 |    0.0380 |
-| Carcosan Tatters  |   85 |   30 |   11 |   3343 |     725 |    51 |     0.0153 |    0.0377 |
-| Kaiju Dynamo      |   54 |   25 |   11 |   2388 |     643 |    72 |     0.0302 |    0.0377 |
-| Gore Farmers      |   58 |   44 |   14 |   3085 |     665 |    58 |     0.0188 |    0.0376 |
-| Old Wyrms         |   50 |   13 |    3 |   1952 |     708 |    86 |     0.0441 |    0.0338 |
-| Eldritch Fatality |   44 |   19 |    7 |   2386 |     697 |    91 |     0.0381 |    0.0293 |
-| Irregular Cogs    |   44 |   17 |    9 |   2409 |     693 |    80 |     0.0332 |    0.0291 |
-| Glorious Hounds   |   29 |   21 |    6 |   2037 |     690 |    78 |     0.0383 |    0.0275 |
+| Cackling Furies   |   85 |   39 |   15 |   3380 |     839 |    83 |     0.0246 |    0.0411 |
+| Carcosan Tatters  |  107 |   44 |   14 |   4143 |     908 |    63 |     0.0152 |    0.0398 |
+| Badger Claws      |   37 |   11 |    7 |   1424 |     648 |    52 |     0.0365 |    0.0386 |
+| Gladiolas         |    1 |    0 |    0 |     26 |      10 |     2 |     0.0769 |    0.0385 |
+| Gore Farmers      |   82 |   50 |   16 |   3947 |     861 |    80 |     0.0203 |    0.0375 |
+| Kaiju Dynamo      |   76 |   28 |   13 |   3150 |     830 |    92 |     0.0292 |    0.0371 |
+| Arboreal Menace   |    9 |    6 |    0 |    432 |     160 |    22 |     0.0509 |    0.0347 |
+| Old Wyrms         |   59 |   19 |    3 |   2584 |     937 |    99 |     0.0383 |    0.0313 |
+| Eldritch Fatality |   54 |   24 |    9 |   2928 |     856 |   105 |     0.0359 |    0.0297 |
+| Irregular Cogs    |   57 |   20 |   11 |   3090 |     887 |   104 |     0.0337 |    0.0285 |
+| Glorious Hounds   |   41 |   22 |    6 |   2493 |     868 |    99 |     0.0397 |    0.0277 |
+| Thorns            |    0 |    0 |    0 |     21 |      12 |     0 |     0.0000 |    0.0000 |
 
 
 ```
 SELECT 
-	pl.f_tname AS team, 
+	pl.f_tname AS Team, 
 	sum(md.bh) AS BH,
 	sum(md.si) AS SI,
 	sum(md.ki) AS Ki,
-	sum(mx.inflicted_blocks) AS blocks, 
-	sum(mx.blitz_actions) AS blitzes, 
-	sum(mx.inflicted_sacks) AS sacks, 
-	sum(mx.inflicted_sacks) / sum(mx.inflicted_blocks) AS sack_block, 
-	(sum(md.bh) + sum(md.si) + sum(md.ki)) / sum(mx.inflicted_blocks) AS cas_block
+	sum(mx.inflicted_blocks) AS Blocks, 
+	sum(mx.blitz_actions) AS Blitzes, 
+	sum(mx.inflicted_sacks) AS Sacks, 
+	sum(mx.inflicted_sacks) / sum(mx.inflicted_blocks) AS Sack_Block, 
+	(sum(md.bh) + sum(md.si) + sum(md.ki)) / sum(mx.inflicted_blocks) AS Cas_Block
 FROM match_data_es AS mx 
 	JOIN match_data AS md 
 		ON mx.f_pid = md.f_player_id AND mx.f_mid = md.f_match_id 
@@ -41,5 +45,5 @@ FROM match_data_es AS mx
 		ON mx.f_pid = pl.player_id 
 WHERE md.f_did = 1
 GROUP BY pl.f_tname 
-ORDER BY cas_block DESC;
+ORDER BY Cas_Block DESC;
 ```

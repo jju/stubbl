@@ -16,3 +16,13 @@ Zensun Vagabonds D Glorious Hounds 4 4
 
 | Player      | Team             | TDs  | Rush | Cp   | PassDist | Caughts | Cas  | Blocks | Sacks | MVPs | SPP  |
 |-------------|------------------|------|------|------|----------|---------|------|--------|-------|------|------|
+| Daividh  | Glorious Hounds  | Green Cup VI |    3 |   24 |    0 |        0 |      3 |     0 |    0 |      4 |     0 |    1 |   14 |
+| Bahiyya  | Zensun Vagabonds | Green Cup VI |    3 |   19 |    0 |        0 |      0 |     1 |    0 |      1 |     0 |    0 |   11 |
+| Mayu     | Filthy Tide      | Green Cup VI |    1 |   13 |    0 |        0 |      1 |     0 |    0 |      1 |     0 |    1 |    8 |
+| Frediano | Ravenous Eagles  | Green Cup VI |    1 |   16 |    0 |        0 |      0 |     0 |    0 |      7 |     0 |    1 |    8 |
+| Lucrece  | Zensun Vagabonds | Green Cup VI |    0 |    0 |    0 |        0 |      0 |     0 |    1 |      3 |     1 |    1 |    7 |
+| Hulud    | Zensun Vagabonds | Green Cup VI |    0 |    0 |    0 |        0 |      0 |     0 |    3 |     12 |     0 |    0 |    6 |
+| Besz     | Irregular Cogs   | Green Cup VI |    2 |   36 |    0 |        0 |      0 |     0 |    0 |      3 |     0 |    0 |    6 |
+| Evander   | Old Wyrms        | Green Cup VI |    0 |    0 |    1 |        7 |      0 |     0 |    0 |      0 |     0 |    1 |    6 |
+| Yakup    | Filthy Tide      | Green Cup VI |    2 |   22 |    0 |        0 |      1 |     0 |    0 |      3 |     0 |    0 |    6 |
+| Karsten  | Irregular Cogs   | Green Cup VI |    0 |    0 |    0 |        0 |      0 |     0 |    0 |      3 |     0 |    1 |    5 |

@@ -16,3 +16,13 @@ Zensun Vagabonds L Ravenous Eagles 1 2
 
 | Player      | Team             | TDs  | Rush | Cp   | PassDist | Caughts | Cas  | Blocks | Sacks | MVPs | SPP  |
 |-------------|------------------|------|------|------|----------|---------|------|--------|-------|------|------|
+| Oiva             | Glorious Hounds  | Green Cup VI |    4 |   35 |    1 |       -3 |      4 |     0 |    0 |      3 |     0 |    0 |   13 |
+| Dragos           | Irregular Cogs   | Green Cup VI |    4 |   10 |    0 |        0 |      2 |     0 |    0 |      3 |     0 |    0 |   12 |
+| ToothGrinder     | Gore Farmers     | Green Cup VI |    1 |    1 |    0 |        0 |      0 |     0 |    0 |      6 |     0 |    1 |    8 |
+| Vinicius         | Old Wyrms        | Green Cup VI |    0 |    0 |    0 |        0 |      0 |     0 |    1 |      1 |     0 |    1 |    7 |
+| Daividh          | Glorious Hounds  | Green Cup VI |    1 |   17 |    1 |        1 |      2 |     1 |    0 |      0 |     0 |    0 |    6 |
+| RavenousOblivion | Carcosan Tatters | Green Cup VI |    0 |    0 |    0 |        0 |      0 |     0 |    0 |      6 |     0 |    1 |    5 |
+| Alexi            | Glorious Hounds  | Green Cup VI |    0 |    0 |    0 |        0 |      0 |     0 |    0 |      2 |     0 |    1 |    5 |
+| Yehochanan        | Zensun Vagabonds | Green Cup VI |    0 |    0 |    0 |        0 |      0 |     0 |    0 |      0 |     0 |    1 |    5 |
+| Swanahil         | Filthy Tide      | Green Cup VI |    0 |    0 |    0 |        0 |      0 |     0 |    0 |      1 |     0 |    1 |    5 |
+| Anant            | Irregular Cogs   | Green Cup VI |    0 |    0 |    0 |        0 |      0 |     0 |    0 |      3 |     0 |    1 |    5 |

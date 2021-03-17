@@ -1,5 +1,14 @@
 The Vagabonds had every opportunity to score in this match but in the end they couldn't recover from a busted cage on their first drive, followed by a non-scoring blitz that totally knocked them off balance. A 1-0 win isn't exactly the style that pleases the notoriously razzledazzly as a player Ozyman, but if Ws are what matter, he's got his first as a head coach. ZV 0 - GH 1
 
+## standings
+
+| Stacks | W-D-L | Outlands | W-D-L |
+|-------|-----|--|--|
+| Gore Farmers | 3-3-1 | Carcosan Tatters | 6-1-0 |
+| Irregular Cogs | 2-2-3 | Filthy Tide | 3-1-3 |
+| Old Wyrms | 2-2-3 | Ravenous Eagles | 2-1-4 |
+| Glorious Hounds | 2-1-4 | Zensun Vagabonds | 1-3-3 |
+
 ## player of the week standings
 
 | Player      | Team             | TDs  | Rush | Cp   | PassDist | Caughts | Cas  | Blocks | Sacks | MVPs | SPP  |
