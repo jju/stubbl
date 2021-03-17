@@ -17,3 +17,56 @@ Darkling Spectres L Orbital Machine 0 1
 
 | Player            | Team             | TDs  | Rush | Cp   | PassDist | Caughts | Cas  | Blocks | Sacks | MVPs | SPP  |
 |-------------------|------------------|------|------|------|----------|---------|------|--------|-------|------|------|
+
+## season leaderboards
+
+### mvp
+
+| Player            | Team             | TDs  | Rush | Cp   | PassDist | Caughts | Cas  | Blocks | Sacks | MVPs | SPP  |
+|-------------------|------------------|------|------|------|----------|---------|------|--------|-------|------|------|
+
+Top 5
+
+### TDs
+
+| Player            | Team             | TDs  | Rush | Cp   | PassDist | Caughts | Cas  | Blocks | Sacks | MVPs | SPP  |
+|-------------------|------------------|------|------|------|----------|---------|------|--------|-------|------|------|
+
+Top 3
+
+### passing
+
+| Player            | Team             | TDs  | Rush | Cp   | PassDist | Caughts | Cas  | Blocks | Sacks | MVPs | SPP  |
+|-------------------|------------------|------|------|------|----------|---------|------|--------|-------|------|------|
+
+Top 3
+
+### rushing
+
+| Player            | Team             | TDs  | Rush | Cp   | PassDist | Caughts | Cas  | Blocks | Sacks | MVPs | SPP  |
+|-------------------|------------------|------|------|------|----------|---------|------|--------|-------|------|------|
+
+### catches
+
+| Player            | Team             | TDs  | Rush | Cp   | PassDist | Caughts | Cas  | Blocks | Sacks | MVPs | SPP  |
+|-------------------|------------------|------|------|------|----------|---------|------|--------|-------|------|------|
+
+### casualties
+
+| Player            | Team             | TDs  | Rush | Cp   | PassDist | Caughts | Cas  | Blocks | Sacks | MVPs | SPP  |
+|-------------------|------------------|------|------|------|----------|---------|------|--------|-------|------|------|
+
+### sacks
+
+| Player            | Team             | TDs  | Rush | Cp   | PassDist | Caughts | Cas  | Blocks | Sacks | MVPs | SPP  |
+|-------------------|------------------|------|------|------|----------|---------|------|--------|-------|------|------|
+
+### blocks
+
+| Player            | Team             | TDs  | Rush | Cp   | PassDist | Caughts | Cas  | Blocks | Sacks | MVPs | SPP  |
+|-------------------|------------------|------|------|------|----------|---------|------|--------|-------|------|------|
+
+### mvps
+
+| Player            | Team             | TDs  | Rush | Cp   | PassDist | Caughts | Cas  | Blocks | Sacks | MVPs | SPP  |
+|-------------------|------------------|------|------|------|----------|---------|------|--------|-------|------|------|
