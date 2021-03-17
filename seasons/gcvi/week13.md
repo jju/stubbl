@@ -21,8 +21,3 @@ Zensun Vagabonds L Ravenous Eagles 1 2
 | ToothGrinder     | Gore Farmers     | Green Cup VI |    1 |    1 |    0 |        0 |      0 |     0 |    0 |      6 |     0 |    1 |    8 |
 | Vinicius         | Old Wyrms        | Green Cup VI |    0 |    0 |    0 |        0 |      0 |     0 |    1 |      1 |     0 |    1 |    7 |
 | Daividh          | Glorious Hounds  | Green Cup VI |    1 |   17 |    1 |        1 |      2 |     1 |    0 |      0 |     0 |    0 |    6 |
-| RavenousOblivion | Carcosan Tatters | Green Cup VI |    0 |    0 |    0 |        0 |      0 |     0 |    0 |      6 |     0 |    1 |    5 |
-| Alexi            | Glorious Hounds  | Green Cup VI |    0 |    0 |    0 |        0 |      0 |     0 |    0 |      2 |     0 |    1 |    5 |
-| Yehochanan        | Zensun Vagabonds | Green Cup VI |    0 |    0 |    0 |        0 |      0 |     0 |    0 |      0 |     0 |    1 |    5 |
-| Swanahil         | Filthy Tide      | Green Cup VI |    0 |    0 |    0 |        0 |      0 |     0 |    0 |      1 |     0 |    1 |    5 |
-| Anant            | Irregular Cogs   | Green Cup VI |    0 |    0 |    0 |        0 |      0 |     0 |    0 |      3 |     0 |    1 |    5 |

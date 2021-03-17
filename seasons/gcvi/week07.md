@@ -1,3 +1,10 @@
+## matchups
+
+Ravenous Eagles L Glorious Hounds 1 3
+Gore Farmers L Carcosan Tatters 0 1
+Filthy Tide L Old Wyrms 3 4
+Irregular Cogs W Zensun Vagabonds 4 0
+
 This is the week [[yakup]] began to be the player we'd later know.
 
 ## standings
@@ -13,16 +20,14 @@ This is the week [[yakup]] began to be the player we'd later know.
 
 | Player      | Team             | TDs  | Rush | Cp   | PassDist | Caughts | Cas  | Blocks | Sacks | MVPs | SPP  |
 |-------------|------------------|------|------|------|----------|---------|------|--------|-------|------|------|
-| Baraz.              | Glorious Hounds  |    3 |   32 |    0 |        0 |       1 |    1 |      2 |     2 |    0 |   11 |
-| Cedric.             | Glorious Hounds  |    0 |    0 |    0 |        0 |       0 |    2 |      7 |     0 |    1 |    9 |
-| Fikri.              | Filthy Tide      |    0 |   20 |    2 |        6 |       0 |    1 |      4 |     0 |    1 |    9 |
-| Yakup.              | Filthy Tide      |    3 |   34 |    0 |        0 |       3 |    0 |      0 |     0 |    0 |    9 |
-| Babar.              | Old Wyrms        |    2 |   18 |    0 |        0 |       3 |    0 |      1 |     0 |    0 |    8 |
-| Karsten.            | Irregular Cogs   |    1 |   14 |    2 |        2 |       1 |    1 |      4 |     0 |    0 |    7 |
-| Dragos.             | Irregular Cogs   |    1 |    8 |    1 |        4 |       2 |    0 |      3 |     0 |    0 |    6 |
-| Souta.              | Old Wyrms        |    1 |   15 |    3 |        0 |       3 |    0 |      0 |     0 |    0 |    6 |
-| FirstForsakenVenom. | Carcosan Tatters |    0 |    0 |    0 |        0 |       0 |    0 |      7 |     0 |    1 |    5 |
-| Harinder.           | Zensun Vagabonds |    0 |    0 |    0 |        0 |       0 |    0 |      3 |     0 |    1 |    5 |
+| Baraz              | Glorious Hounds  |    3 |   32 |    0 |        0 |       1 |    1 |      2 |     2 |    0 |   11 |
+| Cedric             | Glorious Hounds  |    0 |    0 |    0 |        0 |       0 |    2 |      7 |     0 |    1 |    9 |
+| Fikri              | Filthy Tide      |    0 |   20 |    2 |        6 |       0 |    1 |      4 |     0 |    1 |    9 |
+| Yakup              | Filthy Tide      |    3 |   34 |    0 |        0 |       3 |    0 |      0 |     0 |    0 |    9 |
+| Babar              | Old Wyrms        |    2 |   18 |    0 |        0 |       3 |    0 |      1 |     0 |    0 |    8 |
+| Karsten            | Irregular Cogs   |    1 |   14 |    2 |        2 |       1 |    1 |      4 |     0 |    0 |    7 |
+| Dragos             | Irregular Cogs   |    1 |    8 |    1 |        4 |       2 |    0 |      3 |     0 |    0 |    6 |
+| Souta              | Old Wyrms        |    1 |   15 |    3 |        0 |       3 |    0 |      0 |     0 |    0 |    6 |
 
 ## mid-season leaderboards
 ### mvp

@@ -25,4 +25,3 @@ Zensun Vagabonds D Glorious Hounds 4 4
 | Besz     | Irregular Cogs   | Green Cup VI |    2 |   36 |    0 |        0 |      0 |     0 |    0 |      3 |     0 |    0 |    6 |
 | Evander   | Old Wyrms        | Green Cup VI |    0 |    0 |    1 |        7 |      0 |     0 |    0 |      0 |     0 |    1 |    6 |
 | Yakup    | Filthy Tide      | Green Cup VI |    2 |   22 |    0 |        0 |      1 |     0 |    0 |      3 |     0 |    0 |    6 |
-| Karsten  | Irregular Cogs   | Green Cup VI |    0 |    0 |    0 |        0 |      0 |     0 |    0 |      3 |     0 |    1 |    5 |

@@ -23,8 +23,3 @@ Phemie's entire career lasted this week in a 2 TD match.
 | Phemie            | Glorious Hounds  | Green Cup VI |    2 |   12 |    0 |        0 |      1 |     0 |    0 |      1 |     0 |    0 |    6 |
 | Sladana           | Old Wyrms        | Green Cup VI |    2 |   15 |    0 |        0 |      3 |     0 |    0 |      0 |     0 |    0 |    6 |
 | Chikondi           | Ravenous Eagles  | Green Cup VI |    2 |   24 |    0 |        0 |      0 |     0 |    0 |      5 |     1 |    0 |    6 |
-| SpaceFiller       | Gore Farmers     | Green Cup VI |    0 |    0 |    0 |        0 |      0 |     0 |    0 |      2 |     0 |    1 |    5 |
-| Bahij              | Ravenous Eagles  | Green Cup VI |    0 |    0 |    0 |        0 |      0 |     0 |    0 |      2 |     0 |    1 |    5 |
-| LastForsakenVenom | Carcosan Tatters | Green Cup VI |    0 |    0 |    0 |        0 |      0 |     0 |    0 |     11 |     0 |    1 |    5 |
-| Subrahmanya       | Zensun Vagabonds | Green Cup VI |    0 |    1 |    0 |        0 |      0 |     0 |    0 |      2 |     0 |    1 |    5 |
-| Vratislav         | Filthy Tide      | Green Cup VI |    0 |    0 |    0 |        0 |      0 |     0 |    0 |      1 |     0 |    1 |    5 |

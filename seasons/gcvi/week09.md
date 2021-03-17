@@ -24,5 +24,3 @@ Filthy Tide W Ravenous Eagles 4 1
 | Frediano       | Ravenous Eagles  | Green Cup VI |    0 |   10 |    1 |        2 |      0 |     0 |    0 |      0 |     0 |    1 |    6 |
 | Sadb           | Glorious Hounds  | Green Cup VI |    0 |   -1 |    1 |        1 |      0 |     0 |    0 |      4 |     0 |    1 |    6 |
 | Abeba          | Irregular Cogs   | Green Cup VI |    2 |    7 |    0 |        0 |      2 |     0 |    0 |      2 |     0 |    0 |    6 |
-| Maurycy        | Old Wyrms        | Green Cup VI |    0 |    0 |    0 |        0 |      0 |     0 |    0 |      1 |     0 |    1 |    5 |
-| SpaceFiller    | Gore Farmers     | Green Cup VI |    0 |    0 |    0 |        0 |      0 |     0 |    0 |      2 |     0 |    1 |    5 |

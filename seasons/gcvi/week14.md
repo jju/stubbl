@@ -21,11 +21,6 @@ Glorious Hounds D Ravenous Eagles 1 1
 | MaskedPain | Carcosan Tatters | Green Cup VI |    3 |   29 |    0 |        0 |      2 |     0 |    0 |      5 |     1 |    0 |    9 |
 | Babar      | Old Wyrms        | Green Cup VI |    2 |   13 |    1 |        3 |      2 |     0 |    0 |      2 |     1 |    0 |    7 |
 | Venkata   | Irregular Cogs   | Green Cup VI |    2 |    0 |    0 |        0 |      1 |     0 |    0 |      4 |     0 |    0 |    6 |
-| Bahij      | Ravenous Eagles  | Green Cup VI |    0 |    0 |    0 |        0 |      0 |     0 |    0 |      3 |     0 |    1 |    5 |
-| Eloquence | Glorious Hounds  | Green Cup VI |    0 |    0 |    0 |        0 |      0 |     0 |    0 |      0 |     0 |    1 |    5 |
-| HobNailer | Gore Farmers     | Green Cup VI |    0 |    0 |    0 |        0 |      0 |     0 |    0 |      1 |     0 |    1 |    5 |
-| Ormonde   | Zensun Vagabonds | Green Cup VI |    0 |    2 |    0 |        0 |      0 |     0 |    0 |      2 |     0 |    1 |    5 |
-| Abiel     | Irregular Cogs   | Green Cup VI |    0 |    0 |    0 |        0 |      0 |     0 |    0 |      1 |     0 |    1 |    5 |
 
 ## season leaderboards
 

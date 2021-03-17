@@ -23,6 +23,4 @@ Irregular Cogs W Ravenous Eagles 3 1
 | BeardPuller       | Gore Farmers     | Green Cup VI |    2 |   14 |    0 |        0 |      0 |     0 |    0 |      2 |     0 |    0 |    6 |
 | Saxa              | Irregular Cogs   | Green Cup VI |    2 |    1 |    0 |        0 |      2 |     0 |    0 |      2 |     0 |    0 |    6 |
 | MaskedPain         | Carcosan Tatters | Green Cup VI |    2 |   26 |    0 |        0 |      0 |     0 |    0 |      3 |     1 |    0 |    6 |
-| Siv               | Zensun Vagabonds | Green Cup VI |    0 |    0 |    0 |        0 |      0 |     0 |    0 |      0 |     0 |    1 |    5 |
-| LastForsakenVenom | Carcosan Tatters | Green Cup VI |    0 |    0 |    0 |        0 |      0 |     0 |    0 |      5 |     0 |    1 |    5 |
 | Besz              | Irregular Cogs   | Green Cup VI |    1 |   37 |    2 |        5 |      1 |     0 |    0 |      1 |     0 |    0 |    5 |
