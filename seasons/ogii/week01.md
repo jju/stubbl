@@ -11,8 +11,12 @@ Wow. Did free agency ever fuck up the Vanadium Hunters. Donat played one half of
 | Team | W-D-L |
 |-------|-----|
 | Geometers | 1-0-0 |
+| Deep Dreamers | 1-0-0 |
 | Raptors | 1-0-0 |
+| Warthogs | 1-0-0 |
+| Thrillers | 0-0-1 |
 | Gladiolas | 0-0-1 |
+| Gentlefolk | 0-0-1 |
 | Vanadium Hunters | 0-0-1 |
 
 ## player of the week standings
