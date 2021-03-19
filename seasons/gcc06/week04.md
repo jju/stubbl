@@ -18,13 +18,13 @@ Gargantuan Brutes L Cackling Furies 1 4
 
 ## player of the week standings
 
-| Player            | Team             | TDs  | Rush | Cp   | PassDist | Caughts | Cas  | Blocks | Sacks | MVPs | SPP  |
-|-------------------|------------------|------|------|------|----------|---------|------|--------|-------|------|------|
-| Leppard   | Orbital Machine   | Green Cup Classic 06 |    1 |    5 |    0 |        0 |      1 |     0 |    0 |      8 |     0 |    1 |    8 |
-| Sadaharu | Kaiju Dynamo      | Green Cup Classic 06 |    1 |    9 |    0 |        0 |      0 |     0 |    0 |      1 |     0 |    1 |    8 |
-| Leibniz  | Vanadium Hunters  | Green Cup Classic 06 |    1 |    6 |    0 |        0 |      0 |     0 |    0 |      2 |     0 |    1 |    8 |
-| Belial   | Darkling Spectres | Green Cup Classic 06 |    2 |   21 |    0 |        0 |      2 |     0 |    0 |      0 |     0 |    0 |    6 |
-| Marta     | Vanadium Hunters  | Green Cup Classic 06 |    2 |   19 |    0 |        0 |      2 |     0 |    0 |      2 |     0 |    0 |    6 |
-| Qtpi     | Eldritch Fatality | Green Cup Classic 06 |    2 |   13 |    0 |        0 |      3 |     0 |    0 |      1 |     0 |    0 |    6 |
-| Ishii    | Eldritch Fatality | Green Cup Classic 06 |    0 |   12 |    2 |        8 |      0 |     2 |    0 |      4 |     0 |    0 |    6 |
-| Kobe     | Vanadium Hunters  | Green Cup Classic 06 |    1 |   24 |    2 |        8 |      0 |     0 |    0 |      0 |     0 |    0 |    5 |
+| Player            | Team             | TDs  | Rush | Cp   | CpDist | Ctch | Int | Cas  | Blck | Sck | MVP | SPP  |
+|-------------------|------------------|------|------|------|----------|---------|---|---|--------|-------|------|------|
+| Leppard   | Orbital Machine   |    1 |    5 |    0 |        0 |      1 |     0 |    0 |      8 |     0 |    1 |    8 |
+| Sadaharu | Kaiju Dynamo      |     1 |    9 |    0 |        0 |      0 |     0 |    0 |      1 |     0 |    1 |    8 |
+| Leibniz  | Vanadium Hunters  |     1 |    6 |    0 |        0 |      0 |     0 |    0 |      2 |     0 |    1 |    8 |
+| Belial   | Darkling Spectres |     2 |   21 |    0 |        0 |      2 |     0 |    0 |      0 |     0 |    0 |    6 |
+| Marta     | Vanadium Hunters  |    2 |   19 |    0 |        0 |      2 |     0 |    0 |      2 |     0 |    0 |    6 |
+| Qtpi     | Eldritch Fatality |     2 |   13 |    0 |        0 |      3 |     0 |    0 |      1 |     0 |    0 |    6 |
+| Ishii    | Eldritch Fatality |     0 |   12 |    2 |        8 |      0 |     2 |    0 |      4 |     0 |    0 |    6 |
+| Kobe     | Vanadium Hunters  |     1 |   24 |    2 |        8 |      0 |     0 |    0 |      0 |     0 |    0 |    5 |

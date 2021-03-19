@@ -18,13 +18,13 @@ Vanadium Hunters D Gargantuan Brutes 2 2
 
 ## player of the week standings
 
-| Player            | Team             | TDs  | Rush | Cp   | PassDist | Caughts | Cas  | Blocks | Sacks | MVPs | SPP  |
-|-------------------|------------------|------|------|------|----------|---------|------|--------|-------|------|------|
-| Votyris | Gargantuan Brutes | Green Cup Classic 06 |    2 |   23 |    0 |        0 |      2 |     0 |    0 |      2 |     0 |    1 |   11 |
-| Heep    | Orbital Machine   | Green Cup Classic 06 |    1 |   22 |    0 |        0 |      0 |     0 |    0 |      0 |     0 |    1 |    8 |
-| Leibniz | Vanadium Hunters  | Green Cup Classic 06 |    1 |   14 |    0 |        0 |      1 |     0 |    0 |      4 |     0 |    1 |    8 |
-| Noir    | TC Sump Runners   | Green Cup Classic 06 |    0 |    0 |    0 |        0 |      0 |     0 |    1 |      4 |     0 |    1 |    7 |
-| Boguslaw | Vanadium Hunters  | Green Cup Classic 06 |    0 |    0 |    0 |        0 |      0 |     0 |    3 |     10 |     0 |    0 |    6 |
-| Rickon   | Cackling Furies   | Green Cup Classic 06 |    2 |   40 |    0 |        0 |      1 |     0 |    0 |      2 |     0 |    0 |    6 |
-| Belial  | Darkling Spectres | Green Cup Classic 06 |    2 |   14 |    0 |        0 |      1 |     0 |    0 |      1 |     0 |    0 |    6 |
-| Yubari  | Eldritch Fatality | Green Cup Classic 06 |    1 |    4 |    0 |        0 |      0 |     0 |    1 |      9 |     1 |    0 |    5 |
+| Player            | Team             | TDs  | Rush | Cp   | CpDist | Ctch | Int | Cas  | Blck | Sck | MVP | SPP  |
+|-------------------|------------------|------|------|------|----------|---------|---|---|--------|-------|------|------|
+| Votyris | Gargantuan Brutes |    2 |   23 |    0 |        0 |      2 |     0 |    0 |      2 |     0 |    1 |   11 |
+| Heep    | Orbital Machine   |     1 |   22 |    0 |        0 |      0 |     0 |    0 |      0 |     0 |    1 |    8 |
+| Leibniz | Vanadium Hunters  |     1 |   14 |    0 |        0 |      1 |     0 |    0 |      4 |     0 |    1 |    8 |
+| Noir    | TC Sump Runners   |     0 |    0 |    0 |        0 |      0 |     0 |    1 |      4 |     0 |    1 |    7 |
+| Boguslaw | Vanadium Hunters  |    0 |    0 |    0 |        0 |      0 |     0 |    3 |     10 |     0 |    0 |    6 |
+| Rickon   | Cackling Furies   |    2 |   40 |    0 |        0 |      1 |     0 |    0 |      2 |     0 |    0 |    6 |
+| Belial  | Darkling Spectres |     2 |   14 |    0 |        0 |      1 |     0 |    0 |      1 |     0 |    0 |    6 |
+| Yubari  | Eldritch Fatality |     1 |    4 |    0 |        0 |      0 |     0 |    1 |      9 |     1 |    0 |    5 |

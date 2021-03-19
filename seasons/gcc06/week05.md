@@ -20,11 +20,11 @@ Beginning of the OM win streak?
 
 ## player of the week standings
 
-| Player            | Team             | TDs  | Rush | Cp   | PassDist | Caughts | Cas  | Blocks | Sacks | MVPs | SPP  |
-|-------------------|------------------|------|------|------|----------|---------|------|--------|-------|------|------|
-| Rickon    | Cackling Furies   | Green Cup Classic 06 |    2 |   33 |    0 |        0 |      5 |     0 |    0 |      0 |     0 |    1 |   11 |
-| Heep     | Orbital Machine   | Green Cup Classic 06 |    1 |    8 |    1 |        2 |      2 |     0 |    0 |      4 |     0 |    1 |    9 |
-| Nakayama | Kaiju Dynamo      | Green Cup Classic 06 |    1 |   16 |    0 |        0 |      0 |     0 |    0 |      1 |     0 |    1 |    8 |
-| Garth    | TC Sump Runners   | Green Cup Classic 06 |    0 |   13 |    3 |        2 |      0 |     0 |    0 |      0 |     0 |    1 |    8 |
-| Jonas    | Vanadium Hunters  | Green Cup Classic 06 |    2 |   23 |    0 |        0 |      2 |     0 |    0 |      2 |     0 |    0 |    6 |
-| Qtpi     | Eldritch Fatality | Green Cup Classic 06 |    1 |   20 |    0 |        0 |      0 |     0 |    1 |      2 |     0 |    0 |    5 |
+| Player            | Team             | TDs  | Rush | Cp   | CpDist | Caughts | Int | Cas  | Blocks | Sacks | MVPs | SPP  |
+|-------------------|------------------|------|------|------|----------|---------|---|---|--------|-------|------|------|
+| Rickon    | Cackling Furies   |    2 |   33 |    0 |        0 |      5 |     0 |    0 |      0 |     0 |    1 |   11 |
+| Heep     | Orbital Machine   |     1 |    8 |    1 |        2 |      2 |     0 |    0 |      4 |     0 |    1 |    9 |
+| Nakayama | Kaiju Dynamo      |     1 |   16 |    0 |        0 |      0 |     0 |    0 |      1 |     0 |    1 |    8 |
+| Garth    | TC Sump Runners   |     0 |   13 |    3 |        2 |      0 |     0 |    0 |      0 |     0 |    1 |    8 |
+| Jonas    | Vanadium Hunters  |     2 |   23 |    0 |        0 |      2 |     0 |    0 |      2 |     0 |    0 |    6 |
+| Qtpi     | Eldritch Fatality |     1 |   20 |    0 |        0 |      0 |     0 |    1 |      2 |     0 |    0 |    5 |

@@ -14,10 +14,10 @@ Zensun Vagabonds L Ravenous Eagles 1 2
 
 ## player of the week standings
 
-| Player      | Team             | TDs  | Rush | Cp   | PassDist | Caughts | Cas  | Blocks | Sacks | MVPs | SPP  |
-|-------------|------------------|------|------|------|----------|---------|------|--------|-------|------|------|
-| Oiva             | Glorious Hounds  | Green Cup VI |    4 |   35 |    1 |       -3 |      4 |     0 |    0 |      3 |     0 |    0 |   13 |
-| Dragos           | Irregular Cogs   | Green Cup VI |    4 |   10 |    0 |        0 |      2 |     0 |    0 |      3 |     0 |    0 |   12 |
-| ToothGrinder     | Gore Farmers     | Green Cup VI |    1 |    1 |    0 |        0 |      0 |     0 |    0 |      6 |     0 |    1 |    8 |
-| Vinicius         | Old Wyrms        | Green Cup VI |    0 |    0 |    0 |        0 |      0 |     0 |    1 |      1 |     0 |    1 |    7 |
-| Daividh          | Glorious Hounds  | Green Cup VI |    1 |   17 |    1 |        1 |      2 |     1 |    0 |      0 |     0 |    0 |    6 |
+| Player            | Team             | TDs  | Rush | Cp   | CpDist | Ctch | Int | Cas  | Blck | Sck | MVP | SPP  |
+|-------------------|------------------|------|------|------|----------|---------|---|---|--------|-------|------|------|
+| Oiva             | Glorious Hounds  |     4 |   35 |    1 |       -3 |      4 |     0 |    0 |      3 |     0 |    0 |   13 |
+| Dragos           | Irregular Cogs   |     4 |   10 |    0 |        0 |      2 |     0 |    0 |      3 |     0 |    0 |   12 |
+| ToothGrinder     | Gore Farmers     |     1 |    1 |    0 |        0 |      0 |     0 |    0 |      6 |     0 |    1 |    8 |
+| Vinicius         | Old Wyrms        |     0 |    0 |    0 |        0 |      0 |     0 |    1 |      1 |     0 |    1 |    7 |
+| Daividh          | Glorious Hounds  |     1 |   17 |    1 |        1 |      2 |     1 |    0 |      0 |     0 |    0 |    6 |

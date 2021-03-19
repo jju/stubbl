@@ -14,13 +14,13 @@ Filthy Tide W Ravenous Eagles 4 1
 
 ## player of the week standings
 
-| Player      | Team             | TDs  | Rush | Cp   | PassDist | Caughts | Cas  | Blocks | Sacks | MVPs | SPP  |
-|-------------|------------------|------|------|------|----------|---------|------|--------|-------|------|------|
-| SavageGemstone | Carcosan Tatters | Green Cup VI |    1 |    7 |    1 |       -2 |      0 |     0 |    0 |      4 |     0 |    1 |    9 |
-| Fikri          | Filthy Tide      | Green Cup VI |    0 |   16 |    3 |        9 |      1 |     0 |    0 |      2 |     0 |    1 |    8 |
-| Ormonde        | Zensun Vagabonds | Green Cup VI |    2 |   29 |    1 |       10 |      2 |     0 |    0 |      3 |     0 |    0 |    7 |
-| Mayu           | Filthy Tide      | Green Cup VI |    2 |   16 |    0 |        0 |      2 |     0 |    0 |      0 |     0 |    0 |    6 |
-| Saxa           | Irregular Cogs   | Green Cup VI |    1 |    7 |    1 |        1 |      0 |     0 |    1 |      5 |     0 |    0 |    6 |
-| Frediano       | Ravenous Eagles  | Green Cup VI |    0 |   10 |    1 |        2 |      0 |     0 |    0 |      0 |     0 |    1 |    6 |
-| Sadb           | Glorious Hounds  | Green Cup VI |    0 |   -1 |    1 |        1 |      0 |     0 |    0 |      4 |     0 |    1 |    6 |
-| Abeba          | Irregular Cogs   | Green Cup VI |    2 |    7 |    0 |        0 |      2 |     0 |    0 |      2 |     0 |    0 |    6 |
+| Player            | Team             | TDs  | Rush | Cp   | CpDist | Ctch | Int | Cas  | Blck | Sck | MVP | SPP  |
+|-------------------|------------------|------|------|------|----------|---------|---|---|--------|-------|------|------|
+| SavageGemstone | Carcosan Tatters |     1 |    7 |    1 |       -2 |      0 |     0 |    0 |      4 |     0 |    1 |    9 |
+| Fikri          | Filthy Tide      |     0 |   16 |    3 |        9 |      1 |     0 |    0 |      2 |     0 |    1 |    8 |
+| Ormonde        | Zensun Vagabonds |     2 |   29 |    1 |       10 |      2 |     0 |    0 |      3 |     0 |    0 |    7 |
+| Mayu           | Filthy Tide      |     2 |   16 |    0 |        0 |      2 |     0 |    0 |      0 |     0 |    0 |    6 |
+| Saxa           | Irregular Cogs   |     1 |    7 |    1 |        1 |      0 |     0 |    1 |      5 |     0 |    0 |    6 |
+| Frediano       | Ravenous Eagles  |     0 |   10 |    1 |        2 |      0 |     0 |    0 |      0 |     0 |    1 |    6 |
+| Sadb           | Glorious Hounds  |     0 |   -1 |    1 |        1 |      0 |     0 |    0 |      4 |     0 |    1 |    6 |
+| Abeba          | Irregular Cogs   |     2 |    7 |    0 |        0 |      2 |     0 |    0 |      2 |     0 |    0 |    6 |

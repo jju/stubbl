@@ -15,13 +15,13 @@ Darkling Spectres L Orbital Machine 0 1
 
 ## player of the week standings
 
-| Player            | Team             | TDs  | Rush | Cp   | PassDist | Caughts | Cas  | Blocks | Sacks | MVPs | SPP  |
-|-------------------|------------------|------|------|------|----------|---------|------|--------|-------|------|------|
-| Cheaphat | Darkling Spectres | Green Cup Classic 06 |    0 |    0 |    0 |        0 |      0 |     0 |    1 |      6 |     0 |    1 |    7 |
-| Leppard   | Orbital Machine   | Green Cup Classic 06 |    0 |    0 |    0 |        0 |      0 |     0 |    0 |      4 |     0 |    1 |    5 |
-| Heep     | Orbital Machine   | Green Cup Classic 06 |    1 |    6 |    0 |        0 |      0 |     0 |    0 |      6 |     0 |    0 |    3 |
-| Meyer   | Darkling Spectres | Green Cup Classic 06 |    0 |    0 |    0 |        0 |      0 |     0 |    1 |      6 |     0 |    0 |    2 |
-| Def      | Orbital Machine   | Green Cup Classic 06 |    0 |    0 |    0 |        0 |      0 |     0 |    1 |      6 |     0 |    0 |    2 |
+| Player            | Team             | TDs  | Rush | Cp   | CpDist | Ctch | Int | Cas  | Blck | Sck | MVP | SPP  |
+|-------------------|------------------|------|------|------|----------|---------|---|---|--------|-------|------|------|
+| Cheaphat | Darkling Spectres  |    0 |    0 |    0 |        0 |      0 |     0 |    1 |      6 |     0 |    1 |    7 |
+| Leppard   | Orbital Machine   |     0 |    0 |    0 |        0 |      0 |     0 |    0 |      4 |     0 |    1 |    5 |
+| Heep     | Orbital Machine   |     1 |    6 |    0 |        0 |      0 |     0 |    0 |      6 |     0 |    0 |    3 |
+| Meyer   | Darkling Spectres |     0 |    0 |    0 |        0 |      0 |     0 |    1 |      6 |     0 |    0 |    2 |
+| Def      | Orbital Machine   |     0 |    0 |    0 |        0 |      0 |     0 |    1 |      6 |     0 |    0 |    2 |
 
 
 
@@ -29,7 +29,7 @@ Darkling Spectres L Orbital Machine 0 1
 
 ### mvp
 
-| Player            | Team             | TDs  | Rush | Cp   | PassDist | Caughts | Cas  | Blocks | Sacks | MVPs | SPP  |
+| Player            | Team             | TDs  | Rush | Cp   | Dist | Caughts | Cas  | Blocks | Sacks | MVPs | SPP  |
 |-------------------|------------------|------|------|------|----------|---------|------|--------|-------|------|------|
 
 Top 5

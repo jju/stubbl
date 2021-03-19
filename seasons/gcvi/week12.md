@@ -16,10 +16,10 @@ Phemie's entire career lasted this week in a 2 TD match.
 
 ## player of the week standings
 
-| Player      | Team             | TDs  | Rush | Cp   | PassDist | Caughts | Cas  | Blocks | Sacks | MVPs | SPP  |
-|-------------|------------------|------|------|------|----------|---------|------|--------|-------|------|------|
-| Baraz             | Glorious Hounds  | Green Cup VI |    1 |   11 |    1 |        6 |      1 |     0 |    0 |      3 |     1 |    1 |    9 |
-| Ormonde           | Zensun Vagabonds | Green Cup VI |    2 |   21 |    0 |        0 |      1 |     0 |    0 |      4 |     1 |    0 |    6 |
-| Phemie            | Glorious Hounds  | Green Cup VI |    2 |   12 |    0 |        0 |      1 |     0 |    0 |      1 |     0 |    0 |    6 |
-| Sladana           | Old Wyrms        | Green Cup VI |    2 |   15 |    0 |        0 |      3 |     0 |    0 |      0 |     0 |    0 |    6 |
-| Chikondi           | Ravenous Eagles  | Green Cup VI |    2 |   24 |    0 |        0 |      0 |     0 |    0 |      5 |     1 |    0 |    6 |
+| Player            | Team             | TDs  | Rush | Cp   | CpDist | Ctch | Int | Cas  | Blck | Sck | MVP | SPP  |
+|-------------------|------------------|------|------|------|----------|---------|---|---|--------|-------|------|------|
+| Baraz             | Glorious Hounds  |     1 |   11 |    1 |        6 |      1 |     0 |    0 |      3 |     1 |    1 |    9 |
+| Ormonde           | Zensun Vagabonds |     2 |   21 |    0 |        0 |      1 |     0 |    0 |      4 |     1 |    0 |    6 |
+| Phemie            | Glorious Hounds  |     2 |   12 |    0 |        0 |      1 |     0 |    0 |      1 |     0 |    0 |    6 |
+| Sladana           | Old Wyrms        |     2 |   15 |    0 |        0 |      3 |     0 |    0 |      0 |     0 |    0 |    6 |
+| Chikondi           | Ravenous Eagles  |     2 |   24 |    0 |        0 |      0 |     0 |    0 |      5 |     1 |    0 |    6 |

@@ -16,11 +16,11 @@ Zensun Vagabonds W Filthy Tide 4 3
 
 ## player of the week standings
 
-| Player      | Team             | TDs  | Rush | Cp   | PassDist | Caughts | Cas  | Blocks | Sacks | MVPs | SPP  |
-|-------------|------------------|------|------|------|----------|---------|------|--------|-------|------|------|
-| Rohit              | Zensun Vagabonds | Green Cup VI |    2 |   14 |    0 |        0 |      1 |     0 |    2 |      4 |     0 |    1 |   15 |
-| Ekua                | Ravenous Eagles  | Green Cup VI |    2 |    6 |    0 |        0 |      0 |     0 |    1 |      5 |     0 |    0 |    8 |
-| Somfuhr            | Filthy Tide      | Green Cup VI |    0 |    0 |    0 |        0 |      0 |     0 |    1 |     16 |     0 |    1 |    7 |
-| Mayu               | Filthy Tide      | Green Cup VI |    2 |   33 |    0 |        0 |      1 |     0 |    0 |      2 |     0 |    0 |    6 |
-| Yosif              | Glorious Hounds  | Green Cup VI |    0 |   11 |    1 |        9 |      1 |     0 |    0 |      0 |     0 |    1 |    6 |
-| StoneLicker        | Gore Farmers     | Green Cup VI |    1 |    5 |    0 |        0 |      0 |     0 |    1 |      5 |     0 |    0 |    5 |
+| Player            | Team             | TDs  | Rush | Cp   | CpDist | Ctch | Int | Cas  | Blck | Sck | MVP | SPP  |
+|-------------------|------------------|------|------|------|----------|---------|---|---|--------|-------|------|------|
+| Rohit              | Zensun Vagabonds |    2 |   14 |    0 |        0 |      1 |     0 |    2 |      4 |     0 |    1 |   15 |
+| Ekua                | Ravenous Eagles  |     2 |    6 |    0 |        0 |      0 |     0 |    1 |      5 |     0 |    0 |    8 |
+| Somfuhr            | Filthy Tide      |     0 |    0 |    0 |        0 |      0 |     0 |    1 |     16 |     0 |    1 |    7 |
+| Mayu               | Filthy Tide      |     2 |   33 |    0 |        0 |      1 |     0 |    0 |      2 |     0 |    0 |    6 |
+| Yosif              | Glorious Hounds  |     0 |   11 |    1 |        9 |      1 |     0 |    0 |      0 |     0 |    1 |    6 |
+| StoneLicker        | Gore Farmers     |     1 |    5 |    0 |        0 |      0 |     0 |    1 |      5 |     0 |    0 |    5 |
