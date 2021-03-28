@@ -4,15 +4,18 @@ All right. You can pull up a list of teams that will be playing in a couple of w
 All right. Bludbol is about scoring touchdowns and bashing the snot out of other teams. 
 [continue]
 [if $bbrules >= 1]
-You pull up the list of teams that will be playing in a couple of weeks. There are a bunch of excited people on your terminal arguing about who will obviously be the best this season, but really it's a bit of a wash.
+You pull up the list of teams that will begin playing in a couple of weeks. There are a bunch of excited people on your terminal arguing about who will obviously be the best this season, but you've never really been one to put a lot of faith in what people say in the aether. Without any first-hand knowledge these teams all look the same.
 [continue]
 [if $bbtactics > 0]
-After spending some time researching, you've got some notes on team playbooks (and styles of play those playbooks recommend).
+Your cursory research into how bludbol is played got you some notes on team playbooks (and styles of play natural to those playbooks). If everyone follows their plans, this could be useful information.
 [continue]
 [if ($bbhistory || $bbstats) > 0]
-After spending some time researching, you've got some notes on what these teams did the last time there was bludbol down in the Stacks. (The time after the Mass Elevator but before the Interruption is generally being called the old-era UBBL and they played four and a half Green Cups.)
+If anything you find on the EDS can be believed, you've got some notes on what these teams did the last time there was bludbol down in the Stacks. (The time after the Mass Elevator but before the Interruption is generally being called the old-era UBBL and they played four and a half Green Cups.)
 [continue]
-The teams are arranged in a couple of divisions: the Stacks and the Outlands.
+[if $bbbusiness]
+The people behind these teams aren't being too forthcoming about how they are running things; all you're getting is hype and a few scraps of financials.
+[continue]
+The teams for this tournament are organized into a couple of divisions: the Stacks and the Outlands.
 
 ## Stacks
 
@@ -28,6 +31,7 @@ The teams are arranged in a couple of divisions: the Stacks and the Outlands.
 - 71% Wins, 1.81 TD/game, 2.21 Casualties/Game, 1 Championship
 [continue]
 [if $bbbusiness]
+- BS Encef (a former player) runs the team.
 - Big budget. Die-hard fans only.
 [continue]
 [if $time >= 570 && $time < 576.5]
@@ -46,6 +50,7 @@ The teams are arranged in a couple of divisions: the Stacks and the Outlands.
 - 49% Wins, 2.55 TD/game, 0.73 Casualties/Game
 [continue]
 [if $bbbusiness]
+- Asmodeus (a former player) runs the team.
 - Low budget. Interested fanbase.
 [continue]
 [if $time >= 570 && $time < 576.5]
@@ -64,6 +69,7 @@ The teams are arranged in a couple of divisions: the Stacks and the Outlands.
 - 71% Wins (non-Pro), 1.47 TD/game, 2.53 Casualties/Game
 [continue]
 [if $bbbusiness]
+- BR Ossa ownership group running the team. BR Ossa was a former player, but the "group" behind the team is much less obvious.
 - Mid-range budget. Full bandwagon of fans.
 [continue]
 [if $time >= 570 && $time < 576.5]
@@ -82,6 +88,7 @@ The teams are arranged in a couple of divisions: the Stacks and the Outlands.
 - 39% Wins, 1.98 TD/game, 1.53 Casualties/Game
 [continue]
 [if $bbbusiness]
+- Mud Dib is the team's Old-Era coach, returned to lead again.
 - No budget. Die-hard fans only.
 [continue]
 
@@ -99,6 +106,7 @@ The teams are arranged in a couple of divisions: the Stacks and the Outlands.
 - 51% Wins, 2.56 TD/game, 0.73 Casualties/Game
 [continue]
 [if $bbbusiness]
+- Ozyman (former player) runs the team. A bit of a showboat.
 - Mid-range budget. Engaged fanbase.
 [continue]
 
@@ -114,6 +122,7 @@ The teams are arranged in a couple of divisions: the Stacks and the Outlands.
 - 48% Wins, 1.46 TD/game, 1.69 Casualties/Game
 [continue]
 [if $bbbusiness]
+- Spleen Hucker (former player) runs the team. 
 - Big budget. Die-hard fans only.
 [continue]
 
@@ -129,6 +138,7 @@ The teams are arranged in a couple of divisions: the Stacks and the Outlands.
 - 60% Wins, 2.78 TD/game, 0.87 Casualties/Game, 1 Championship
 [continue]
 [if $bbbusiness]
+- Gryj the Hun is is the team's Old-Era coach, returned to lead again. One of the driving forces behind organizing the UBBL.
 - Low budget. Excited fanbase.
 [continue]
 
@@ -144,6 +154,7 @@ The teams are arranged in a couple of divisions: the Stacks and the Outlands.
 - 65% Wins, 3.25 TD/game, 0.43 Casualties/Game, 2 Championships
 [continue]
 [if $bbbusiness]
+- Hems is the son of the team's old-era star thrower and runs the team.
 - Mid-range budget. Engaged fanbase.
 [continue]
 
@@ -162,11 +173,11 @@ The Ravenous Eagles' fans are pretty hyped up online, and the Gore Farmers' are 
 It's probably important to remember that the new teams bearing these names aren't coming back with old-school rosters, just whichever stars could be enticed.
 [continue]
 [if $bbbusiness]
-It's hard to say what influence the money question is going to have, but everything you know about the world says that the more money an organization has, the less luck they will need to deal with adversity, while less-flush organizations have a thinner margin.
+It's hard to say what influence the question of resources is going to have. We're supposed to be past the savage times of shooting people over credits, right? However, everything you know about the world says that the more an organization has, the less luck they will need to deal with adversity, while less-flush organizations have a thinner margin.
 [continue]
-One thing jumping out at you is the Carcosan Tatters team name. Back before the mass elevator there was a gang lead by a Carcosan. There must be a connection there, right?
+One thing jumping out at you is the Carcosan Tatters team name. Back before the mass elevator there was a scabby old gang lead by a Carcosan for a while. There must be a connection there, right?
 
-Other than that, assuming those divisions are vaguely spatial, the Outlands teams are probably closer to your cube. 
+Other than that, assuming those divisions are vaguely spatial, the Outlands teams are probably closer to your cube. It might be useful if you want to feel a bit more locally connected.
 
 > Don't just follow one team. Watch all the games on EDS.->[[01-gcvi-01-burger]]
 > Follow the Carcosan Tatters->[[01-gcvi-01-ct]]
