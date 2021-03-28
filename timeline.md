@@ -71,6 +71,9 @@ Unless specified, we're dealing with the 1262 epoch.
 	* Week 4 
 * UCIV 735.0 -> 742.5
 * OGII 750.0 -> 764.0
+	* Week 1 750.0
+	* Week 2 751.0
+	* Week 3 752.0
 * GCXI 760.0 -> 780.0 
 
 
