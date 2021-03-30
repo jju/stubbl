@@ -2,7 +2,7 @@
 
 Wow. Did free agency ever fuck up the Vanadium Hunters. Donat played one half of BludBol for the team and was promptly killed. By the crowd. The grand experiment has probably come to an end.
 
-#t750
+#t2750
 
 ## matchups
 

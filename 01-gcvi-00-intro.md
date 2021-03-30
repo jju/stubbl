@@ -9,7 +9,7 @@ Your terminal is waiting too. Blinking with a story idea from EDS, your "boss".
 
 566.5
 
-#t566
+#t2566
 
 :: answer blinking message
 
@@ -35,4 +35,4 @@ Rules. There were rules back in the gangster times. Rules that got people stabbe
 > "Fuck it. I'll write your bullshit, but first I'm going to a bar."->[[01-stacks]]
 > "Fuck off. I'm a writer, not a cliche-scrummer."->[[01-resist]]
 
-#t566 
+#t2566 

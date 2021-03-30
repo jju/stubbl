@@ -2,19 +2,19 @@
 
 The Mules retake the field in week 2, set to defend their Orange Goblet title.
 
-#t751
+#t2751
 
 ## matchups
 
- The Mules played a tight Dorfish game to start their Goblet defense, pouncing on an early Thriller mistake and running down the clock in the first half, then getting a 2-0 lead before the final quarter. The value cap is going to hurt teams like the Thrillers, who had been doing so well in the last UBBL Challenge. T 0 - M 2 #t751.1 
+ The Mules played a tight Dorfish game to start their Goblet defense, pouncing on an early Thriller mistake and running down the clock in the first half, then getting a 2-0 lead before the final quarter. The value cap is going to hurt teams like the Thrillers, who had been doing so well in the last UBBL Challenge. T 0 - M 2 #t2751.1 
 
-The Hunters went back to basics to regroup from losing their big offseason signing and put together a highly competent match. R 2 - VH 3 #t751.2
+The Hunters went back to basics to regroup from losing their big offseason signing and put together a highly competent match. R 2 - VH 3 #t2751.2
 
-Aelfsige and the Gentlefolk aren't making a very strong claim to remain in the OG tournament early on, but we all know it's a marthon not a sprint. G 0 - WH 3 #t751.3
+Aelfsige and the Gentlefolk aren't making a very strong claim to remain in the OG tournament early on, but we all know it's a marthon not a sprint. G 0 - WH 3 #t2751.3
 
-The Geometers made an epic screwup to make the draw because they got cocky in the end. Geo 1 - CP 1 #t751.5
+The Geometers made an epic screwup to make the draw because they got cocky in the end. Geo 1 - CP 1 #t2751.5
 
-The Deep Dreamers have come out swinging and proved that their #t750 win against the Gentlefolk was no joke. #t751.7
+The Deep Dreamers have come out swinging and proved that their #t2750 win against the Gentlefolk was no joke. #t2751.7
 
 
 ## standings

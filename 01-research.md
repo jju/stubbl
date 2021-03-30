@@ -19,7 +19,7 @@ You can look up a lot of stuff on EDS. What are you focusing on once you get the
 > The business of BludBol.
 > The basics are actually probably enough.
 
-#t567 
+#t2567 
 
 :: researchtactics
 

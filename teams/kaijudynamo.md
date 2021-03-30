@@ -4,7 +4,7 @@ The Kaiju Dynamo are a frustrating team to cheer for. They always seem right on 
 
 ## Playbook
 
-The Dynamo use the Elizabeth Aardman playbook, with strong linemen and a big guy anchoring the centre, while the ball handlers are chosen for speed (rather than skill, strength or durability). The basic idea of the playbook is to cage the fragile ballhandler to a place where they can bolt for the endzone.
+The Dynamo use the Elizabeth Aardman playbook, with strong linemen and a big guy anchoring the centre, while the ball handling runners are chosen for speed (rather than skill, strength or durability). The basic idea of the playbook is to cage the fragile runner to a place where they can bolt for the endzone.
 
 ## Records
 

@@ -29,11 +29,11 @@
 * [Thrillers](thrillers)[[thrillers]]
 * [Warthogs](warthogs)[[warthogs]]
 * [[deepdreamers]]
-* [[gentlefolk]]
+* [Gentlefolk](gentlefolk) [[gentlefolk]]
 * [[geometers]]
 * [[raptors]]
 * [[carrionpickers]]
-* [[vanadiumhunters]]
+* [Vanadium Hunters](vanadiumhunters) [[vanadiumhunters]]
 
 ## former orange goblet teams
 
