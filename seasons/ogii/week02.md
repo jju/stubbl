@@ -27,7 +27,7 @@ The Deep Dreamers have come out swinging and proved that their #t750 win against
 | Mules | 1-0-0 |
 | Raptors | 1-0-1 |
 | Vanadium Hunters | 1-0-1 |
-| Thorns | 1-0-0 |
+| Thorns | 1-0-1 |
 | Carrion Pickers | 0-1-1 |
 | Gladiolas | 0-0-1 |
 | Thrillers | 0-0-2 |
