@@ -1,6 +1,6 @@
 # week 06
 
-The negotiations over the Value Cap have exploded. We are looking at a walkout situation at the midpoint of the season
+The negotiations over the Value Cap have exploded. We are looking at a walkout situation at the midpoint of the season.
 
 #t2755
 
@@ -8,7 +8,7 @@ The negotiations over the Value Cap have exploded. We are looking at a walkout s
 
  The Gladiolas crushed the Carrion Pickers, who really need to work on their team training. 6-0 #t2755.1
  
-  
+ And then the season interruption came.
  
 
 ## standings
