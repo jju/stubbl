@@ -35,3 +35,12 @@ The negotiations over the Value Cap continue. While the team owners take a hard 
 
 | Player            | Team             | TDs  | Rush | Cp   | CpDist | Ctch | Int | Cas  | Blck | Sck | MVP | SPP  |
 |-------------------|------------------|------|------|------|----------|---------|---|---|--------|-------|------|------|
+| Nagendra | Thrillers        |    2 |   34 |    0 |        0 |      2 |     0 |    1 |      0 |     0 |    0 |    8 |
+| Dharma.  | Thorns           |    1 |   14 |    0 |        0 |      2 |     0 |    0 |      2 |     0 |    1 |    8 |
+| Cnaeus   | Thrillers        |    0 |    0 |    0 |        0 |      0 |     0 |    1 |      2 |     0 |    1 |    7 |
+| Siva     | Geometers        |    0 |    0 |    0 |        0 |      0 |     0 |    1 |      8 |     0 |    1 |    7 |
+| Tamara   | Thorns           |    2 |   26 |    0 |        0 |      1 |     0 |    0 |      1 |     0 |    0 |    6 |
+| Deborah  | Carrion Pickers  |    0 |    1 |    1 |        1 |      0 |     0 |    0 |      0 |     0 |    1 |    6 |
+| Dinah    | Carrion Pickers  |    2 |    5 |    0 |        0 |      1 |     0 |    0 |      0 |     0 |    0 |    6 |
+| Nor      | Geometers        |    2 |   22 |    0 |        0 |      1 |     0 |    0 |      3 |     0 |    0 |    6 |
+| Tlalli   | Carrion Pickers  |    1 |    7 |    0 |        0 |      1 |     0 |    1 |      7 |     1 |    0 |    5 |

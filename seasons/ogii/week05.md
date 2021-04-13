@@ -39,3 +39,10 @@ The negotiations over the Value Cap continue. While the team owners take a hard 
 
 | Player            | Team             | TDs  | Rush | Cp   | CpDist | Ctch | Int | Cas  | Blck | Sck | MVP | SPP  |
 |-------------------|------------------|------|------|------|----------|---------|---|---|--------|-------|------|------|
+| Giovanna | Deep Dreamers    |    2 |   26 |    0 |        0 |      3 |     0 |    1 |      1 |     0 |    0 |    8 |
+| Lorencio | Gladiolas        |    1 |    8 |    2 |        5 |      1 |     0 |    1 |      2 |     0 |    0 |    7 |
+| Ragu     | Warthogs         |    2 |   19 |    1 |        4 |      2 |     0 |    0 |      0 |     0 |    0 |    7 |
+| Mariyka  | Thrillers        |    2 |   32 |    0 |        0 |      2 |     0 |    0 |      0 |     0 |    0 |    6 |
+| Ella     | Raptors          |    2 |   13 |    0 |        0 |      0 |     0 |    0 |      0 |     0 |    0 |    6 |
+| Thea     | Gentlefolk       |    0 |    1 |    1 |        0 |      0 |     0 |    0 |      1 |     0 |    1 |    6 |
+

@@ -35,3 +35,12 @@ The negotiations over the Value Cap continue and the skilled players are beginni
 
 | Player            | Team             | TDs  | Rush | Cp   | CpDist | Ctch | Int | Cas  | Blck | Sck | MVP | SPP  |
 |-------------------|------------------|------|------|------|----------|---------|---|---|--------|-------|------|------|
+| Francine | Raptors          |    2 |   29 |    0 |        0 |      0 |     0 |    0 |      0 |     0 |    1 |   11 |
+| Bianka   | Mules            |    0 |   18 |    3 |        8 |      0 |     0 |    0 |      2 |     0 |    1 |    8 |
+| Amata    | Vanadium Hunters |    2 |   11 |    0 |        0 |      1 |     0 |    0 |      1 |     0 |    0 |    6 |
+| Barbro   | Gladiolas        |    2 |   27 |    0 |        0 |      2 |     0 |    0 |      2 |     1 |    0 |    6 |
+| Mihael   | Deep Dreamers    |    1 |   19 |    1 |        6 |      0 |     0 |    1 |      1 |     0 |    0 |    6 |
+| Ragu     | Warthogs         |    2 |   12 |    0 |        0 |      3 |     0 |    0 |      0 |     0 |    0 |    6 |
+| Nor      | Geometers        |    2 |   17 |    0 |        0 |      0 |     0 |    0 |      0 |     0 |    0 |    6 |
+| Samuhel  | Geometers        |    0 |    0 |    0 |        0 |      0 |     0 |    3 |      7 |     0 |    0 |    6 |
+| Medb     | Deep Dreamers    |    0 |   14 |    3 |        7 |      0 |     0 |    1 |      3 |     0 |    0 |    5 |
