@@ -22,5 +22,5 @@
 
 ```
 SELECT tours.name,  sum(mr.won),  sum(mr.draw), sum(mr.played), sum(mr.draw) / sum(mr.played) as draw_rate, sum(mr.gf), sum(mr.gf) / sum(mr.played) AS td_rate,  sum(mr.ca
-s),  sum(mr.cas) / sum(mr.played) AS cas_rate, sum(mr.spp), sum(mr.spp) / sum(mr.played) AS spp_rate FROM mv_teams AS mr  JOIN tours  ON mr.f_trid = tours.tour_id AND mr.f_did = tours.f_did  JOIN teams  ON teams.team_id = mr.f_tid  WHERE mr.f_lid = 1 GROUP BY tours.name ORDER BY cas_rate DESC;
+s),  sum(mr.cas) / sum(mr.played) AS cas_rate, sum(mr.spp), sum(mr.spp) / sum(mr.played) AS spp_rate FROM mv_teams AS mr  JOIN tours  ON mr.f_trid = tours.tour_id AND mr.f_did = tours.f_did  JOIN teams ON teams.team_id = mr.f_tid  WHERE mr.f_lid = 1 GROUP BY tours.name ORDER BY cas_rate DESC;
 ```

@@ -80,7 +80,7 @@ That the Mules managed to win the inaugural Orange Goblet season was impressive 
 
 ### Management
 
-
+Pico Corp picked up the sponsorship of the mules who'd been a very effectively run community team.
 
 ### Fans
 
