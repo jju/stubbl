@@ -74,6 +74,9 @@ Unless specified, we're dealing with the 1262 epoch.
 	* Week 1 750.0
 	* Week 2 751.0
 	* Week 3 752.0
+	* Week 4 753.0
+	* Week 5 754.0
+	* Week 6 755.0 start -> labour strife
 * GCXI 760.0 -> 780.0 
 
 
