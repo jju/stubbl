@@ -22,6 +22,39 @@ In the individual player stat pages we keep the basic box scores under Basic Sta
 * [[yakup]]
 * [[yosif]]
 
+## players who've switched teams
+
+* [[Mahendra]] [[ravenouseagles]]->[[cacklingfuries]]
+* [[Shalev]] [[ravenouseagles]]->[[cacklingfuries]]
+* [[Fawcett]] [[cacklingfuries]]->[[ravenouseagles]]
+* [[Borghild]] [[cacklingfuries]]->[[ravenouseagles]]
+* [[Willburg]] [[badgerclaws]]->[[darklingspectres]]
+* [[Vinter]] [[cacklingfuries]]->[[darklingspectres]]
+* [[Uzma]] [[filthytide]]->[[carcosantatters]]
+* [[Uilliam]] [[glorioushounds]]->[[darklingspectres]]
+* [[tycho]] [[vanadiumhunters]]->[[carcosantatters]] *Way better for [[carcosantatters]]*
+* [[Swanahil]] [[filthytide]]->[[carcosantatters]]
+* [[Selvaggia]] [[cacklingfuries]]->[[carcosantatters]]
+* [[Reg]] [[sumprunners]]->[[carcosantatters]]
+* [[Puneet]] [[oldwyrms]]->[[carcosantatters]]
+* [[Oluwasagen]] [[oldwyrms]]->[[darklingspectres]]
+* [[Nisha]] [[sumprunners]]->[[darklingspectres]]
+* [[Nanjala]] [[filthytide]]->[[carcosantatters]]
+* [[Meizo]] [[gargantuanbrutes]]->[[darklingspectres]]
+* [[McGraw]] [[eldritchfatality]]->[[darklingspectres]]
+* [[Marzio]] [[glorioushounds]]->[[carcosantatters]]
+* [[Lucrece]] [[zensunvagabonds]]->[[carcosantatters]]
+* [[Klopas]] [[sumprunners]]->[[darklingspectres]]
+* [[Journee]] [[oldwyrms]]->[[darklingspectres]]
+* [[Jeltsje]] [[cacklingfuries]]->[[darklingspectres]]
+* [[Iapheth]] [[filthytide]]->[[carcosantatters]]
+* [[Hermes]] [[eldritchfatality]]->[[carcosantatters]]
+* [[Henry]] [[kaijudynamo]]->[[darklingspectres]]
+* [[Frommik]] [[cacklingfuries]]->[[carcosantatters]]
+* [[bill]] [[eldritchfatality]]->[[darklingspectres]]
+* [[Bahiyya]] [[zensunvagabonds]]->[[carcosantatters]]
+
+
 # Basic Stats
 
 ## Pro Totals
