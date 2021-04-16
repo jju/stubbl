@@ -1,31 +1,39 @@
 # week 06
 
-The negotiations over the Value Cap have exploded. We are looking at a walkout situation at the midpoint of the season.
+The negotiations over the Value Cap have exploded. We are looking at a walkout situation at the midpoint of the season. #t2755
 
-#t2755
+After three weeks of negotiation, play resumed with an agreement on a 1750 Value cap for the second half of the regular season with no cap for the playoffs (and unlike in the Pro Division, non-freebooter substitutions will be allowed in the playoffs)
 
 ## matchups
 
- The Gladiolas crushed the Carrion Pickers, who really need to work on their team training. 6-0 #t2755.1
+The Gladiolas crushed the Carrion Pickers, who really need to work on their team training. 6-0 #t2755.1
  
- And then the season interruption came.
+And then the season interruption came.
+ 
+The Gentlefolk played terribly and now need more than two wins in the rest of the season if they are to remain in the UBBL at any level. #t2758.3
+ 
+The Mules smacked the Dreamers down and were ready to pick up the extra value cap room now that half their season was complete. #t2578.5
+ 
+First place and an undefeated first half belongs to the Warthogs who fended off the Raptors. #t2578.7
+
+
  
 
 ## standings
 
 | Team | W-D-L |
 |-------|-----|
-| Warthogs | 4-0-0 |
-| Deep Dreamers | 3-1-1 |
+| Warthogs | 5-0-0 |
+| Mules | 3-1-1 |
+| Deep Dreamers | 3-1-2 |
+| Thorns | 3-0-2 |
 | Gladiolas | 2-2-1 |
 | Geometers | 2-2-1 |
-| Mules | 2-1-1 |
-| Raptors | 2-1-2 |
+| Raptors | 2-1-3 |
 | Thrillers | 2-0-3 |
-| Thorns | 2-0-2 |
 | Vanadium Hunters | 2-0-3 |
 | Carrion Pickers | 1-1-3 |
-| Gentlefolk | 0-0-5 |
+| Gentlefolk | 0-0-6 |
 
 ## player of the week standings
 
