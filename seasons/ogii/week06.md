@@ -12,9 +12,9 @@ And then the season interruption came.
  
 The Gentlefolk played terribly and now need more than two wins in the rest of the season if they are to remain in the UBBL at any level. #t2758.3
  
-The Mules smacked the Dreamers down and were ready to pick up the extra value cap room now that half their season was complete. #t2578.5
+The Mules smacked the Dreamers down and were ready to pick up the extra value cap room now that half their season was complete. #t2758.5
  
-First place and an undefeated first half belongs to the Warthogs who fended off the Raptors. #t2578.7
+First place and an undefeated first half belongs to the Warthogs who fended off the Raptors. #t2758.7
 
 
  
