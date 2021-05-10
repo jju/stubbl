@@ -2,7 +2,7 @@
 
 [[vanadiumhunters]][[carcosantatters]][[catcher]][[thrower]][[freeagent]][[gcc06]][[gcvii]][[uci]][[gcviii]][[gcix]][[gcx]][[uciv]]
 
-Tycho has been so much better as a 
+Tycho has been so much better as a Tatter than as 
 
 ## Pro Totals
 | Player           | Team        | Position      | W | D | L | GP | TD | Cp | Int | BH | SI | Ki | MVP | SPP |

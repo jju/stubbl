@@ -65,7 +65,7 @@ The Tatters could be in position to upset for a Divisional title, but hopes are 
 | **Sparrow**            | Carcosan Tatters | Blitzer        |   16 |    6 |   10 |   32 |   23 |    2 |    1 |    2 |    2 |    1 |    3 |   98 |
 | **Orna**               | Carcosan Tatters | Blitzer        |   34 |    7 |   23 |   64 |   19 |    4 |    0 |    5 |    3 |    0 |    4 |   97 |
 | **Pierre**             | Carcosan Tatters | Heavy |   29 |    4 |   26 |   59 |    0 |    0 |    0 |   16 |    8 |    2 |    6 |   82 |
-| **Tycho**             | Carcosan Tatters | Line          |   26 |    6 |   13 |   45 |    4 |   33 |    2 |    1 |    1 |    0 |    3 |   68 |
+| **Tycho**             | Carcosan Tatters | Thrower          |   26 |    6 |   13 |   45 |    4 |   33 |    2 |    1 |    1 |    0 |    3 |   68 |
 | **Marley**             | Carcosan Tatters | Blitzer        |   19 |    4 |   11 |   34 |    9 |    3 |    1 |    5 |    1 |    1 |    3 |   61 |
 | MaskedPain        | Carcosan Tatters | Blitzer        |   18 |    1 |   17 |   36 |   11 |    3 |    0 |    4 |    0 |    0 |    3 |   59 |
 | **Arya**               | Carcosan Tatters | Blitzer        |   11 |    4 |   10 |   25 |   12 |    1 |    0 |    2 |    0 |    0 |    3 |   56 |

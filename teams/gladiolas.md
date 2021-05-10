@@ -26,6 +26,7 @@ The Gladiolas use the High Extension playbook, a venerable adaptation of the Her
 | Team      | Season             | W  | D | L | GP | Win% | GF   | GA   | Cas  | CDif | FF   |
 |-----------|--------------------|--:|--:|--:|---:|-----:|---:|---:|----:|-----:|---:|
 | Gladiolas | Orange Goblet      |    9 |    1 |    2 |     12 | 79.1667 |   35 |   20 |    9 |    -21 |    0 |
+| Gladiolas | Orange Goblet II |    7 |    3 |    2 |     12 | 70.8333 |   43 |   22 |    9 |    -19 |    1 |
 | Gladiolas | UBBL Challenge     |    4 |    0 |    2 |      6 | 66.6667 |   15 |   12 |    5 |     -6 |    3 |
 | Gladiolas | UBBL Challenge III |    2 |    1 |    1 |      4 |    62.5 |   13 |   10 |    4 |     -1 |    0 |
 | Gladiolas | UBBL Challenge II  |    2 |    1 |    2 |      5 |      50 |   17 |   14 |    2 |     -6 |    2 |
