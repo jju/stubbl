@@ -18,7 +18,7 @@ The Gladiolas use the High Extension playbook, a venerable adaptation of the Her
 
 ### Prizes
 
-*  Orange Goblet I - Runner-Up [[team2ndplace]]
+*  Orange Goblet I - Third Place [[team3rdplace]]
 
 
 ### Seasons
