@@ -4,33 +4,33 @@ The roster rules have changed again in GCXI. There is no Value Cap after the str
 
 ### Stacks
 
-* OW 9-3-6 / 32
-* FT 6-3-8 / 8
-* GF 6-2-8 / 10
-* SR 5-3-8 / 2
+* OW 9-1-5
+* FT 7-1-7
+* GF 7-0-8
+* SR 6-0-9
 
 ### Outlands
 
-* BC 10-2-6 / 36
-* IC 10-1-6 / 34
-* *AR* (replaced GB) / 24
-* CT 8-2-6 / 10
+* BC 9-1-5
+* IC 9-0-6
+* AR 8-1-6
+* CT 8-1-6
 
 ## Classic Conference
 
 ### Heaps
 
-* GH 9-2-6 / 18
-* KD 9-3-6 / 15
-* OM 9-2-5 / 1
-* ZV 7-3-6 / 10
+* OM 8-1-6
+* GH 8-0-7
+* KD 7-2-6
+* ZV 7-1-7
 
 ### Pits
 
-* EF 11-2-6 / 21
-* RE 7-2-9 / 9
-* CF 5-3-8 / 10
-* DS 5-3-8 / 0
+* EF 8-1-6
+* RE 7-1-7
+* CF 6-3-6
+* DS 6-2-7
 
 
 | Burger Conference | | Classic Conference | |

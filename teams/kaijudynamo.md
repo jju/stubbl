@@ -56,6 +56,13 @@ With Sabah's help the Dynamo finished on top of the GCVIII regular season standi
 
 The death of Sabah in GCX was a huge blow to the team and most commentators wrote them off right then. In the end, however they achieved the same record as in GCIX (albeit with 14 fewer TDs).
 
+#### Projection GCXI
+
+W-D-L 7-2-6
+
+Fighting for third place in the Heaps.
+
+
 ### Stars & Scrubs
 
 | Player           | Team        | Position      | W | D | L | GP | TD | Cp | Int | BH | SI | Ki | MVP | SPP |
