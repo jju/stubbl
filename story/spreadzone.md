@@ -9,3 +9,13 @@ The Outlands division looks way more competitive for GCXI. The Badger Claws stil
 The Heaps division had some of the biggest surprises last season, including a terrible Glorious Hounds team. They seem to have shaken that off and winning UBBL Challenge IV in the mean time has given them a lot more confidence. The Orbital Machine has been shedding fans after the last season but our projections have them playing respectable bashy BludBol. The Kaiju Dynamo outperformed their expectations in GCX, but the same can be said about the Zensun Vagabonds. Which of those teams can play up to this season's hopes? Only the next 15 matches will tell.
 
 Then of course we have the Pits. This is the division where we've got two rebuilding teams in the Eldritch Fatality and the Cackling Furies. The Fatality were lousy in GCX, surprising everyone and they don't have the funds so far to fund a big new push. The Darkling Spectres are running out a strange new lineup for them, which a lot of people have a hard time envisioning as a successful one. All this ineptitude probably leaves the division ripe for the Ravenous Eagles to sneak through to the division title again, but it's hard to say.
+
+| Burger Conference | | Classic Conference | |
+|---------------------|--|------------|----|
+| *Stacks* | *Outlands* | *Heaps* | *Pits* |
+| Old Wyrms | Badger Claws | Orbital Machine | Ravenous Eagles |
+| Filthy Tide | Irregular Cogs | Glorious Hounds | Eldritch Fatality |
+| Gore Farmers | Arboreal Menace | Kaiju Dynamo | Cackling Furies |
+| TC Sump Runners | Carcosan Tatters | Zensun Vagabonds | Darkling Spectres |
+
+Questions about our gut picks? Just want to share your thoughts? We'll be previewing some of the stories we'll be following this season soon.
