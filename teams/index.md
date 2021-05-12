@@ -28,17 +28,26 @@
 * [Gladiolas](gladiolas) [[gladiolas]]
 * [Thrillers](thrillers)[[thrillers]]
 * [Warthogs](warthogs)[[warthogs]]
-* [[deepdreamers]]
+* [Deep Dreamers](deepdreamers) [[deepdreamers]]
 * [Gentlefolk](gentlefolk) [[gentlefolk]]
-* [[geometers]]
-* [[raptors]]
-* [[carrionpickers]]
+* [Geometers](geometers) [[geometers]]
+* [Raptors](raptors) [[raptors]]
+* [Carrion Pickers](carrionpickers) [[carrionpickers]]
 * [Vanadium Hunters](vanadiumhunters) [[vanadiumhunters]]
 
 ## former orange goblet teams
 
-* [[particulates]]
-* [[hoods]]
+* [Particulates](particulates) [[particulates]]
+* [Hoods](hoods) [[hoods]]
+
+# street teams
+
+* [[newcursed]]
+* [[magpies]]
+* [[umberhulks]]
+* [[storminggiants]]
+* [[enginestokers]]
+* [[roadkillz]]
 
 # pro records
 
@@ -67,44 +76,52 @@
 | Poets             | Pro  |           1 |            1 |            8 |             10 |                 15 |         11 |         31 |            14 |             -7 |         -1 |
 | Gladiolas         | Pro  |           0 |            0 |            1 |              1 |                  0 |          2 |          3 |             1 |             -2 |         -1 |
 
+`
+SELECT teams.name, divisions.name, sum(mr.won), sum(mr.draw), sum(mr.lost), sum(mr.played), avg(mr.win_pct), sum(mr.gf), sum(mr.ga), sum(mr.tcasf), sum(mr.tcdiff), sum(mr.ff) FROM mv_teams AS mr JOIN divisions ON mr.f_did = divisions.did JOIN teams ON teams.team_id = mr.f_tid WHERE divisions.name = "Pro" GROUP BY teams.name, mr.f_did ORDER BY sum(mr.won) DESC;
+`
+
 # overall records
 
 | team              | division | won | draw | lost | played | win_pct    | gf | ga | tcasf | tcdiff | ff |
 |-------------------|------|------------:|-------------:|-------------:|---------------:|-------------------:|-----------:|-----------:|--------------:|---------------:|-----------:|
-| Old Wyrms         | Pro    |          82 |           25 |           44 |            151 |  58.42 |        446 |        347 |           136 |           -246 |          6 |
-| Irregular Cogs    | Pro    |          80 |           17 |           53 |            150 |  54.06 |        389 |        318 |           192 |            -87 |          1 |
-| Filthy Tide       | Pro    |          68 |           13 |           70 |            151 |  48.38 |        425 |        387 |           213 |           -137 |          3 |
-| Carcosan Tatters  | Pro    |          67 |           18 |           49 |            134 |  55.81 |        183 |        191 |           308 |            186 |          2 |
-| Kaiju Dynamo      | Pro    |          62 |           21 |           58 |            141 | 51.02 |        322 |        324 |           237 |             -2 |          4 |
-| Glorious Hounds   | Pro    |          55 |           16 |           47 |            118 | 54.93 |        334 |        262 |           112 |           -131 |          5 |
-| Gore Farmers      | Pro    |          52 |           22 |           60 |            134 |  43.39 |        202 |        237 |           255 |            112 |          1 |
-| Zensun Vagabonds  | Pro    |          51 |           26 |           55 |            132 |  45.97 |        291 |        315 |           229 |            -17 |          6 |
-| Cackling Furies   | Pro    |          49 |           25 |           55 |            129 |  48.52 |        251 |        258 |           311 |             65 |          1 |
-| Darkling Spectres | Pro    |          48 |           15 |           59 |            122 | 45.64 |        230 |        276 |           222 |             57 |          2 |
-| Ravenous Eagles   | Pro    |          45 |           12 |           47 |            104 | 45.08 |        135 |        149 |           224 |            124 |          3 |
-| Eldritch Fatality | Pro    |          45 |           10 |           32 |             87 |  58.89 |        231 |        186 |           116 |            -11 |          3 |
-| Orbital Machine   | Pro    |          40 |           11 |           29 |             80 |  47.32 |        128 |        121 |           187 |            114 |          0 |
-| Badger Claws      | Pro    |          34 |            8 |           21 |             63 |  64.97 |        230 |        192 |            75 |            -62 |          6 |
-| Vanadium Hunters  | Pro    |          31 |           22 |           54 |            107 | 34.60 |        211 |        246 |           181 |             13 |          3 |
-| TC Sump Runners   | Pro    |          30 |           14 |           46 |             90 |  47.69 |        185 |        214 |           161 |             10 |         -2 |
-| Gargantuan Brutes | Pro    |          19 |           12 |           46 |             77 | 32.10 |        128 |        213 |           165 |             49 |          3 |
-| Arboreal Menace   | Pro    |          19 |            3 |           14 |             36 | 61.93 |        103 |         84 |            39 |            -26 |          4 |
-| Mules             | Pro    |          18 |            2 |           10 |             30 |  66.78 |         47 |         38 |            71 |             38 |          7 |
-| Thorns            | Pro    |          17 |            2 |            9 |             28 |  74.89 |         78 |         52 |            39 |             -5 |          5 |
-| Gladiolas         | Pro    |          17 |            3 |            8 |             28 | 51.67 |         82 |         59 |            31 |            -36 |          4 |
-| Thrillers         | Open   |          12 |            4 |           15 |             31 |  45.37 |         61 |         65 |            48 |             12 |          5 |
-| Geometers         | Open   |          11 |            2 |           14 |             27 |               46.50 |         35 |         46 |            45 |             21 |          2 |
-| Deep Dreamers     | Open   |          11 |            0 |           15 |             26 |  34.24 |         50 |         60 |            23 |             -8 |          3 |
-| Particulates      | Open   |           9 |            2 |           13 |             24 |               39.50 |         41 |         50 |            29 |            -38 |          1 |
-| Warthogs          | Open   |           9 |            1 |           13 |             23 | 28.67 |         29 |         41 |            37 |             19 |          5 |
-| Gentlefolk        | Open   |           7 |            4 |           13 |             24 |  43.62 |         26 |         45 |            59 |             13 |          2 |
-| Hoods             | Open   |           7 |            2 |           14 |             23 |  39.17 |         35 |         48 |            65 |             28 |          1 |
-| Raptors           | Open   |           6 |            1 |            3 |             10 |                 65 |         22 |         19 |            17 |             -2 |          3 |
-| Carrion Pickers   | Open   |           6 |            0 |            2 |              8 |  73.33 |         17 |         11 |             4 |            -10 |          3 |
-| Poets             | Pro    |           5 |            3 |           15 |             23 | 32.17 |         33 |         60 |            28 |            -17 |          2 |
-| Engine Stokers    | Open   |           3 |            0 |            9 |             12 |               37.5 |         14 |         28 |            15 |             -8 |         -1 |
-| New Cursed        | Open   |           3 |            1 |            4 |              8 |  41.67 |         11 |         15 |            20 |             12 |          3 |
+| Old Wyrms         | Pro    |          82 |           25 |           44 |            151 |  58.41969140370687 |        446 |        347 |           136 |           -246 |          6 |
+| Irregular Cogs    | Pro    |          80 |           17 |           53 |            150 |  54.06327203603891 |        389 |        318 |           192 |            -87 |          1 |
+| Filthy Tide       | Pro    |          68 |           13 |           70 |            151 |  48.38262235201322 |        425 |        387 |           213 |           -137 |          3 |
+| Carcosan Tatters  | Pro    |          67 |           18 |           49 |            134 |  55.81398807872426 |        183 |        191 |           308 |            186 |          2 |
+| Kaiju Dynamo      | Pro    |          62 |           21 |           58 |            141 | 51.017492612202965 |        322 |        324 |           237 |             -2 |          4 |
+| Glorious Hounds   | Pro    |          55 |           16 |           47 |            118 | 54.929892222086586 |        334 |        262 |           112 |           -131 |          5 |
+| Gore Farmers      | Pro    |          52 |           22 |           60 |            134 |  43.39457043734464 |        202 |        237 |           255 |            112 |          1 |
+| Zensun Vagabonds  | Pro    |          51 |           27 |           55 |            133 | 46.253954478672576 |        291 |        315 |           229 |            -17 |          6 |
+| Cackling Furies   | Pro    |          49 |           26 |           55 |            130 |  48.63043682391827 |        251 |        258 |           311 |             65 |          1 |
+| Darkling Spectres | Pro    |          48 |           15 |           59 |            122 | 45.643113136291504 |        230 |        276 |           222 |             57 |          2 |
+| Eldritch Fatality | Pro    |          45 |           11 |           32 |             88 |  57.77514362335205 |        231 |        186 |           116 |            -11 |          3 |
+| Ravenous Eagles   | Pro    |          45 |           13 |           47 |            105 |  45.62724897596571 |        135 |        149 |           224 |            124 |          3 |
+| Orbital Machine   | Pro    |          40 |           11 |           29 |             80 |  47.31967762538365 |        128 |        121 |           187 |            114 |          0 |
+| Vanadium Hunters  | Pro    |          36 |           24 |           58 |            118 |  36.02678557804653 |        233 |        266 |           198 |             17 |          3 |
+| Badger Claws      | Pro    |          34 |            8 |           21 |             63 |  64.97076034545898 |        230 |        192 |            75 |            -62 |          6 |
+| TC Sump Runners   | Pro    |          30 |           14 |           46 |             90 |  47.68518490261502 |        185 |        214 |           161 |             10 |         -2 |
+| Mules             | Pro    |          24 |            4 |           15 |             43 |  64.93589673723493 |         67 |         56 |            99 |             60 |          3 |
+| Gladiolas         | Pro    |          24 |            6 |           10 |             40 |  54.86111068725586 |        125 |         81 |            40 |            -55 |          5 |
+| Thorns            | Pro    |          21 |            2 |           15 |             38 |   69.9084243774414 |        100 |         74 |            47 |            -18 |          3 |
+| Gargantuan Brutes | Pro    |          19 |           12 |           46 |             77 | 32.099867502848305 |        128 |        213 |           165 |             49 |          3 |
+| Arboreal Menace   | Pro    |          19 |            3 |           14 |             36 | 61.934523264567055 |        103 |         84 |            39 |            -26 |          4 |
+| Deep Dreamers     | Open   |          17 |            1 |           20 |             38 |    37.088744027274 |         76 |         87 |            32 |            -19 |          4 |
+| Thrillers         | Open   |          16 |            5 |           21 |             42 |  44.72943769182478 |         82 |         86 |            65 |             15 |          4 |
+| Geometers         | Open   |          15 |            5 |           18 |             38 | 47.083333333333336 |         50 |         65 |            72 |             44 |          3 |
+| Warthogs          | Open   |          15 |            2 |           17 |             34 |  33.73737335205078 |         51 |         57 |            57 |             27 |          3 |
+| Raptors           | Open   |          13 |            3 |            7 |             23 | 63.846153259277344 |         48 |         44 |            41 |             -1 |          7 |
+| Gentlefolk        | Open   |           9 |            4 |           21 |             34 | 40.248917715890066 |         36 |         74 |            75 |              4 |          0 |
+| Particulates      | Open   |           9 |            2 |           13 |             24 |               39.5 |         41 |         50 |            29 |            -38 |          1 |
+| Carrion Pickers   | Open   |           9 |            1 |            8 |             18 | 60.555554707845054 |         38 |         40 |            11 |            -19 |          3 |
+| Hoods             | Open   |           7 |            2 |           14 |             23 |  39.16666634877523 |         35 |         48 |            65 |             28 |          1 |
+| Poets             | Pro    |           5 |            3 |           15 |             23 | 32.166666412353514 |         33 |         60 |            28 |            -17 |          2 |
+| Engine Stokers    | Street   |           3 |            0 |            9 |             12 |               37.5 |         14 |         28 |            15 |             -8 |         -1 |
+| New Cursed        | Open   |           3 |            1 |            4 |              8 |  41.66666603088379 |         11 |         15 |            20 |             12 |          3 |
 | Magpies           | Street |           2 |            0 |            3 |              5 |                 40 |          8 |         11 |             8 |             -3 |          1 |
 | Umber Hulks       | Street |           1 |            2 |            2 |              5 |                 40 |          4 |          4 |            18 |             10 |          3 |
-| Roadkillz         | Open   |           0 |            1 |           12 |             13 |                  5 |         11 |         41 |            19 |            -21 |         -2 |
-| Storming Giants   | Open   |           0 |            2 |            8 |             10 |  6.67 |          8 |         23 |            17 |            -16 |          0 |
+| Roadkillz         | Street   |           0 |            1 |           12 |             13 |                  5 |         11 |         41 |            19 |            -21 |         -2 |
+| Storming Giants   | Street   |           0 |            2 |            8 |             10 |  6.666666666666667 |          8 |         23 |            17 |            -16 |          0 |
+
+`
+SELECT teams.name, divisions.name, sum(mr.won), sum(mr.draw), sum(mr.lost), sum(mr.played), avg(mr.win_pct), sum(mr.gf), sum(mr.ga), sum(mr.tcasf), sum(mr.tcdiff), sum(mr.ff) FROM mv_teams AS mr JOIN divisions ON mr.f_did = divisions.did JOIN teams ON teams.team_id = mr.f_tid WHERE mr.f_lid = 1 GROUP BY teams.name ORDER BY sum(mr.won) DESC;
+`

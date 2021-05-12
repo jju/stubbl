@@ -14,7 +14,7 @@ The Vanadium Hunters use the Hermann playbook, the original plan for playing Blu
 
 ### UBBL Record (W-D-L)
 
-31-21-52
+36-24-58
 
 ### Prizes
 
@@ -25,6 +25,7 @@ The Vanadium Hunters use the Hermann playbook, the original plan for playing Blu
 | Team      | Season             | W  | D | L | GP | Win% | GF   | GA   | Cas  | CDif | FF   |
 |-----------|--------------------|--:|--:|--:|---:|-----:|---:|---:|----:|-----:|---:|
 | Vanadium Hunters | Orange Goblet        |    7 |    1 |    4 |     12 |    62.50 |   26 |   21 |   21 |      6 |    4 |
+| Vanadium Hunters | Orange Goblet II     |    5 |    2 |    4 |     11 | 54.55 |   22 |   20 |   16 |      4 |    0 |
 | Vanadium Hunters | UBBL Challenge       |    1 |    1 |    1 |      3 |      50.00 |    8 |    7 |    7 |      2 |    0 |
 | Vanadium Hunters | Green Cup V Memorial |    4 |    3 |    5 |     12 | 45.83 |   18 |   21 |   14 |     -4 |    2 |
 | Vanadium Hunters | Green Cup IV         |    4 |    2 |    5 |     11 | 45.45 |   31 |   25 |   40 |     30 |   -1 |
@@ -36,6 +37,10 @@ The Vanadium Hunters use the Hermann playbook, the original plan for playing Blu
 | Vanadium Hunters | UBBL Challenge II    |    0 |    1 |    2 |      3 | 16.67 |    4 |    8 |    2 |     -6 |   -1 |
 | Vanadium Hunters | UBBL Challenge III   |    0 |    0 |    3 |      3 |       0.00 |    5 |   10 |    1 |     -1 |   -2 |
 | Vanadium Hunters | UBBL Challenge IV    |    0 |    0 |    2 |      2 |       0.00 |    2 |    8 |    0 |     -2 |   -1 |
+
+`
+SELECT teams.name AS Team, tours.name AS Season, mr.won, mr.draw, mr.lost, 	mr.played, mr.win_pct, mr.gf, mr.ga, mr.cas, mr.tcdiff,	mr.ff FROM mv_teams AS mr JOIN tours ON mr.f_trid = tours.tour_id and mr.f_did = tours.f_did JOIN teams ON teams.team_id = mr.f_tid WHERE teams.name = "Vanadium Hunters" ORDER BY mr.win_pct DESC limit 15;
+`
 
 ## History
 
@@ -52,24 +57,28 @@ The Hunters had never managed to achieve a winning season before the inaugural O
 | *HalfJack* | Vanadium Hunters | Thrower |  ?? | ?? | ?? | 51 | 5 | 84 | 0 | 1 | 1 | 0 | 5 | 128 |
 | *Moseh* | Vanadium Hunters | Blitzer |  ?? | ?? | ?? | 51 | 25 | 9 | 2 | 6 | 1 | 0 | 4 | 122 |
 | *Nyazi* | Vanadium Hunters | Blitzer | ?? | ?? | ?? | 51 | 28 | 5 | 1 | 7 | 3 | 0 | 2 | 121 |
-| **Melchor**   | Vanadium Hunters | Thrower  |   15 |   10 |   29 |   54 |    0 |   66 |    0 |    2 |    0 |    0 |    7 |  105 |
+| **Melchor**   | Vanadium Hunters | Thrower  |   16 |   10 |   30 |   56 |    0 |   68 |    0 |    2 |    0 |    0 |    8 |  112 |
 | *Gabriel* | Vanadium Hunters | Thrower | ?? | ?? | ?? | 49 | 1 | 62 | 0 | 1 | 1 | 0 | 6 | 99 |
 | *Kikin* | Vanadium Hunters | Catcher |  ?? | ?? | ?? | 46 | 22 | 5 | 0 | 0 | 0 | 5 | 98 |
 | *Vrej* | Vanadium Hunters | Blitzer | ?? | ?? | ?? | 40 | 6 | 1 | 0 | 10 | 11 | 1 | 6 | 93 |
+| **Gautstafr** | Vanadium Hunters | Catcher  |   10 |    4 |   11 |   25 |   21 |    4 |    4 |    0 |    0 |    0 |    3 |   90 |
 | *Teague* | Vanadium Hunters | Blitzer |  ?? | ?? | ?? | 51 | 7 | 0 | 1 | 7 | 5 | 5 | 6 | 87 |
-| **Marta**     | Vanadium Hunters | Blitzer  |   17 |   15 |   22 |   54 |    8 |    0 |    3 |   11 |    7 |    2 |    2 |   80 |
-| Daley    | Vanadium Hunters | Blitzer  |    6 |    4 |   17 |   27 |   12 |    0 |    1 |    2 |    1 |    1 |    3 |   61 |
+| **Marta**     | Vanadium Hunters | Blitzer  |   17 |   16 |   24 |   57 |    8 |    0 |    3 |   11 |    7 |    2 |    2 |   80 |
+| **Amata**     | Vanadium Hunters | Catcher  |   11 |    5 |   13 |   29 |   20 |    7 |    1 |    0 |    1 |    0 |    1 |   76 |
+| **Charles**   | Vanadium Hunters | Thrower  |   15 |   10 |   16 |   41 |    1 |   38 |    0 |    1 |    2 |    0 |    4 |   67 |
+| **Mayflower** | Vanadium Hunters | Lineman  |   26 |   17 |   36 |   79 |    0 |    2 |    2 |    7 |    0 |    1 |    8 |   62 |
+| Daley    | Vanadium Hunters | Blitzer  |    6 |    4 |   18 |   28 |   12 |    0 |    1 |    2 |    1 |    1 |    3 |   61 |
+| **Boguslaw**  | Vanadium Hunters | Ogre     |   15 |   15 |   21 |   51 |    0 |    1 |    0 |   16 |    6 |    0 |    3 |   60 |
+| Leibniz  | Vanadium Hunters | Blitzer  |   10 |   14 |   19 |   43 |    9 |    1 |    0 |    2 |    2 |    1 |    4 |   58 |
 | Majken   | Vanadium Hunters | Catcher  |    8 |    9 |   18 |   35 |   10 |    3 |    0 |    0 |    0 |    0 |    5 |   58 |
-| Leibniz  | Vanadium Hunters | Blitzer  |   10 |   14 |   18 |   42 |    9 |    1 |    0 |    2 |    2 |    1 |    4 |   58 |
-| **Boguslaw**  | Vanadium Hunters | Heavy     |   15 |   14 |   18 |   47 |    0 |    1 |    0 |   16 |    6 |    0 |    2 |   55 |
-| **Charles**   | Vanadium Hunters | Thrower  |   10 |    7 |   11 |   28 |    1 |   22 |    0 |    1 |    2 |    0 |    4 |   51 |
-| **Mohan**     | Vanadium Hunters | Blitzer  |   12 |   11 |   17 |   40 |    8 |    2 |    0 |    4 |    1 |    0 |    3 |   51 |
-| **Baz**       | Vanadium Hunters | Thrower  |    6 |    6 |   12 |   24 |    2 |   29 |    0 |    2 |    0 |    0 |    2 |   49 |
-| **Gautstafr** | Vanadium Hunters | Catcher  |    7 |    1 |    8 |   16 |   14 |    2 |    2 |    0 |    0 |    0 |    0 |   48 |
-| **Mayflower** | Vanadium Hunters | Line  |   27 |   16 |   43 |   86 |    0 |    2 |    2 |    5 |    0 |    1 |    6 |   48 |
-| Tycho    | Vanadium Hunters | Catcher  |    5 |    9 |   12 |   26 |   14 |    2 |    1 |    0 |    0 |    0 |    0 |   46 |
+| **Mohan**     | Vanadium Hunters | Blitzer  |   12 |   12 |   20 |   44 |    8 |    2 |    1 |    4 |    1 |    0 |    3 |   53 |
 
-There's a lot of history in the list of star Hunters, but modern-era success has been minimal. [[Vrej]] came back from a fine retirement to play in the Green Cup V Memorial tournament and while that was enough to push him up the all-time Hunters hall of fame, it also cost him his career.
+
+`
+SELECT pl.name AS Player, pl.f_tname AS Team, pl.f_pos_name AS Position, sum(mp.won) AS won, sum(mp.draw) AS draw, sum(mp.lost) AS lost, sum(mp.played) AS GP, sum(mp.td) AS TD, sum(mp.cp) AS Cp, sum(mp.intcpt) AS "Int",	sum(mp.bh) AS BH, sum(mp.si) AS SI,	sum(mp.ki) AS Ki, sum(mp.mvp) AS MVP, sum(mp.spp) AS SPP FROM mv_players AS mp JOIN players AS pl ON mp.f_pid = pl.player_id AND mp.f_tid = pl.owned_by_team_id JOIN tours ON mp.f_trid = tours.tour_id AND mp.f_did = tours.f_did WHERE pl.f_tname = "Vanadium Hunters" GROUP BY pl.name, pl.f_tname, pl.f_pos_name ORDER BY SPP DESC limit 11;
+`
+
+There's a lot of history in the list of star Hunters, but modern-era success has been minimal. [[Vrej]] came back from a fine retirement to play in the Green Cup V Memorial tournament and while that was enough to push him up the all-time Hunters hall of fame, it also cost him his career. [[Mayflower]] is sometimes credited with playing more in th old-era than is true. His real first season was GCIV.
 
 ### Management
 

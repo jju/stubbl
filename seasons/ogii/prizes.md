@@ -1,5 +1,9 @@
 # ogii
 
+* [[team1stplace]] - [[raptors]]
+* [[team2ndplace]] - [[mules]]
+* [[team3rdplace]] - [[gladiolas]]
+* [[teamcasualties]] - [[mules]]
 * [[mvp]] - [[Mihael]] / [[Mihael]] / [[Mihael]]
 * [[sardinecrown]] - [[Ella]] / [[Euri]] / [[Euri]]
 * [[carminefist]] - [[Svjetlana]] / [[Svjetlana]] / [[Gottfried]]
