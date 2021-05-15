@@ -1,0 +1,4 @@
+# rookies
+
+## gcxi
+* [[Kgosi]] - [[filthytide]]

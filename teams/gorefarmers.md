@@ -44,17 +44,17 @@ The Orville-Crush approach to BludBol is traditional, simple, but also somewhat 
 
 The Gore Farmers were the first team to be relegated in the old-era UBBL after a terrible inaugural season. When they came back they were better, and in GCIV they only had 2 losses. It was a shame the second came in the quarterfinals. [[Spleen Hucker]] was a thrower in that Old-Era incarnation and was the person tagged to lead the team's name to glory, which only came in the new era, winning the first modern (somewhat disputed) Green Cup in GCVI.
 
-They followed up their first championship with a lousy GCVII, but then in GCVIII the Gore Farmers played solid defensive caging BludBol to win: the Stacks Division facing [a mad-scoring threat](filthytide) in the first round, the Burger Conference against a defensive powerhouse and the Green Cup itself against [a very young and healthy mad-scoring threat](badgerclaws). They're the first renaissance era multiple champions and did it by playing their game.
+They followed up their first championship with a lousy GCVII, but then in GCVIII the Gore Farmers played solid defensive caging BludBol to win: the Stacks Division facing [a mad-scoring threat](filthytide) in the first round, the Burger Conference against [a defensive powerhouse](carcosantatters) and the Green Cup itself against [a very young and healthy mad-scoring threat](badgerclaws). They're the first renaissance era multiple champions and did it by playing their game.
 
-Sadly for lovers of pure competition, Spleen Hucker was also one of the first to really jump on the tanking in a lost season strategy, making their bad seasons (like GCIX) really bad and leaving them as a .500 team overall despite being multiple champions.
+Sadly for lovers of pure competition, Spleen Hucker was also one of the first to really jump on the "tanking in a lost season" strategy, making their bad seasons (like GCIX) really bad and leaving them as a .500 team overall despite being multiple champions.
 
-In GCX they played for the Stacks championship but lost to the [Old Wyrms](oldwyrms). They did avoid the charge of tanking and could do well in GCXI
+In GCX they played for the Stacks championship but lost to the [Old Wyrms](oldwyrms). They did avoid the charge of tanking and played competitive BludBol throughout the season.
 
 #### GCXI Projection
 
 W-D-L 7-0-8 
 
-Round of 16 loss.
+The Gore Farmers have a decent payroll going into the GCXI season, bringing back as many veterans as they had relatively healthy. Their fortunes are a crapshoot but they don't have any obvious deficiencies that need plugging. The biggest problem may be in finding the funds to develop rookies, but so far they don't seem too worried.
 
 ### Stars & Scrubs
 
@@ -75,37 +75,36 @@ Round of 16 loss.
 | TallHexer    | Gore Farmers | Blocker |   27 |    6 |   22 |   55 |    1 |    0 |    0 |    5 |    0 |    0 |    8 |   53 |
 | StoneLicker  | Gore Farmers | Blitzer           |   17 |    4 |   16 |   37 |    6 |    0 |    0 |   12 |    5 |    0 |    0 |   52 |
 
-
 That the Gore Farmers have won two modern-era Green Cups with only one legitimate superstar (who is now retired - [[KneeMasher]]) is an impressive testament to the power of a solid line and the traditional caging methods of play. [[GutTwister]] retired after GCVI as a veteran of the old-era UBBL. He says he was glad to get a ring, but felt sidelined despite his abilities.
 
-The current rising star is [[Aemulus]] who provides a fine alternative to [[Mashee]] as a scoring threat from outside the cage.
+The current star is [[Aemulus]] who provides a fine alternative to [[Mashee]] as a scoring threat from outside the cage.
 
 #### Cup Winners
 
-* KneeMasher VI, VIII
-* BeardPuller VI, VIII
-* GrimThrasher VI, VIII
-* ToothGrinder VI, VIII
-* TallHexer VI, VIII
-* SpaceFiller VI, VIII
-* GutTwister VI
-* KnuckleBiter VI
-* Mashee VI
-* StoneLicker VI
-* RibCracker VI
-* TuskOfGruumsh VI
-* CakeStomper VI
-* HobNailer VI
-* JunkKicker VI
-* SkyTripper VIII
-* RockLobber VIII
-* Elric VIII
-* Fang VIII
-* Belenus VIII
-* Nuru VIII
-* TinyDancer VIII
-* Eulaylia VIII
-* Helmuth VIII
+* [[KneeMasher]] VI, VIII
+* [[BeardPuller]] VI, VIII
+* [[GrimThrasher]] VI, VIII
+* [[ToothGrinder]] VI, VIII
+* [[TallHexer]] VI, VIII
+* [[SpaceFiller]] VI, VIII
+* [[GutTwister]] VI
+* [[KnuckleBiter]] VI
+* [[Mashee]] VI
+* [[StoneLicker]] VI
+* [[RibCracker]] VI
+* [[TuskOfGruumsh]] VI
+* [[CakeStomper]] VI
+* [[HobNailer]] VI
+* [[JunkKicker]] VI
+* [[SkyTripper]] VIII
+* [[RockLobber]] VIII
+* [[Elric]] VIII
+* [[Fang]] VIII
+* [[Belenus]] VIII
+* [[Nuru]] VIII
+* [[TinyDancer]] VIII
+* [[Eulaylia]] VIII
+* [[Helmuth]] VIII
 
 ### Tactics
 

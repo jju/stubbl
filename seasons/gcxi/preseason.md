@@ -1,4 +1,8 @@
-The roster rules have changed again in GCXI. There is no Value Cap after the strict 1500 TV tried out in the Orange Goblet II, which led to unhappy fans and players. There is a Value Floor in the Green Cup of 1700 and players' contracts are now able to be traded between teams.
+The roster rules have changed again in GCXI. There is no Value Cap after the strict 1500 TV tried out in the Orange Goblet II, which led to unhappy fans and players. There is a Value Floor in the Green Cup of 1700 and players' contracts are now able to be purchased and traded between teams.
+
+The Green Cup playoffs are sticking with their attritional roster model, where the 16 players selected for the playoffs are the only ones allowed to the team for the run, no substitutions. That playoff 16 also has to have been under contract for the final five rounds of the regular season (no signing a star just for the playoffs).
+
+Here's what the standings could look like by the end of the regular season.
 
 ## Burger Conference
 
