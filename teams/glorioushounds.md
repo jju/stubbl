@@ -18,8 +18,9 @@ The Glorious Hounds use the High Extension playbook, a venerable adaptation of t
 
 ### Prizes
 
-* Green Cup IV - Runner-Up [[team2ndplace]]
-* UBBL Challenge IV - UBBL Pennant [[team1stplace]]
+* Green Cup IV - Runner-Up [[team2ndplace#gciv]]
+* Green Cup IX - Heaps Division [[teamdivision#gcix]]
+* UBBL Challenge IV - UBBL Pennant [[team1stplace#uciv]]
 
 ### Seasons
 
@@ -37,15 +38,21 @@ The Glorious Hounds use the High Extension playbook, a venerable adaptation of t
 
 ## History
 
-The Hounds fought and fought in the old-era to gain admission to the Green Cup circuit. When they finally did, they came in second place with a match that just didn't measure up to even average play. And then it was the last season to be played. The Hounds couldn't make their new lineup of rookies play worth a damn in Green Cup VI, but since then they've been generally much better. They were projected to be Heaps champions in GCX, but ended up last place in the division. No one could really tell why things went so poorly, but they did.
+The Hounds fought and fought in the old-era to gain admission to the Green Cup circuit. When they finally did, they came in second place with a match that just didn't measure up to even average play. And then it was the last season to be played before the interruption.
+
+The Hounds couldn't make their new lineup of rookies play worth a damn in Green Cup VI, but since then they've been generally much better. They were projected to be Heaps champions again in GCX, but ended up last place in the division. No one could really tell why things went so poorly, but they did.
+
+Winning the fourth UBBL Challenge after that execrable season was the second best thing they could do for their team psyche.
 
 #### Projection GCXI
 
 W-D-L 8-0-7
 
-Division Champion
+This season there's no way they roll over and come in last place again. They have the taste of winning and will be able to take advantage of a division that has no clear favourite apart from them. If they can do better than conference champions remains to be seen.
 
-### Stars & Scrubs
+### Stars
+
+> **Currently active players** are highlighted and modern-era players whose careers are over are not marked. *Old-era players* have incomplete statistics.
 
 | Player           | Team        | Position      | W | D | L | GP | TD | Cp | Int | BH | SI | Ki | MVP | SPP |
 |------------------|-------------|---------------|--:|--:|--:|---:|---:|---:|----:|---:|---:|---:|----:|----:|
@@ -64,17 +71,13 @@ Division Champion
 | **Florinda**  | Glorious Hounds | Blitzer  |   23 |    8 |   15 |   46 |    2 |    2 |    2 |    5 |    2 |    2 |    8 |   70 |
 | Mandawuy | Glorious Hounds | Catcher  |   17 |    2 |   10 |   29 |   18 |    5 |    1 |    1 |    0 |    0 |    1 |   68 |
 
+[[Costache]] had an early injury that hampered her effectivene, but a better all-round receiver we see only rarely.
 
-
-[[Costache]] had an injury making her more expensive than her effectiveness warrants, but a better all-round receiver we see only rarely.
-
-[[yosif]] is the best pure passer the UBBL has seen, and that includes Ozymandias, who has actually (amazingly) seemed to be okay with the eclipsing of his talent.
+[[yosif]] was the best pure passer the UBBL has seen, and that includes Ozymandias, who has actually (amazingly) seemed to be okay with the eclipsing of his talent.
 
 [[Oiva]] was an excellent ball-hawk, but not quite the Green Cup best.
 
 [[Ziba]] isn't high up in the pantheon of Glorious Greats yet, but she's the fastest catcher the team has ever had, and with proper support, could make a run at some of the individual prizes currently held on lockdown by [[aeson]].
-
-Past that, we start getting into stars that are replaceable within a season.  
 
 ### Management
 
@@ -88,6 +91,6 @@ Hounds fans generally despise teams that aren't trying to play aesthetically bea
 
 ### Famous Games
 
-The 8-0 drubbing of the [Gargantuan Brutes](gargantuanbrutes) in GCVII was basically a perfectly played match. The only way to really improve upon it would be to have a 1-turn scorer on the pitch, which the Hounds never had the luxury of fielding.
+The 8-0 drubbing of the [Gargantuan Brutes](gargantuanbrutes) in GCVII was basically a perfectly played match. The only way to really improve upon it would be to have a [[yakup]]-level scorer on the pitch, which the Hounds never had the luxury of fielding.
 
-In UBBL Challenge IV they had that speedster but managed only(!) another 8-0 win. These textbook displays are amazing things to study, as all true fans of BludBol should do.
+In UBBL Challenge IV they had that speedster against the [Gentlefolk](gentlefolk) but managed only(!) another 8-0 win . These textbook displays are amazing things to study, as all true fans of BludBol should do.

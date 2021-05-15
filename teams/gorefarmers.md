@@ -56,7 +56,9 @@ W-D-L 7-0-8
 
 The Gore Farmers have a decent payroll going into the GCXI season, bringing back as many veterans as they had relatively healthy. Their fortunes are a crapshoot but they don't have any obvious deficiencies that need plugging. The biggest problem may be in finding the funds to develop rookies, but so far they don't seem too worried.
 
-### Stars & Scrubs
+### Stars
+
+> **Currently active players** are highlighted and modern-era players whose careers are over are not marked. *Old-era players* have incomplete statistics.
 
 | Player           | Team        | Position      | W | D | L | GP | TD | Cp | Int | BH | SI | Ki | MVP | SPP |
 |------------------|-------------|---------------|--:|--:|--:|---:|---:|---:|----:|---:|---:|---:|----:|----:|

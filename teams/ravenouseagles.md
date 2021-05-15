@@ -1,10 +1,10 @@
 # Ravenous Eagles
 
-The Ravenous Eagles are often referred to as the worst Green Cup Champions, which is all right with the Ossa ownership group as they flaunt their rings. 
+The Ravenous Eagles are often referred to as the Worst Green Cup Champions, which is all right with the Ossa ownership group as they flaunt their rings. 
 
 ## Playbook
 
-The Eagles use the Charles Dorf playbook, which is built on a very rigid division of smash and grab labour. They use slow tacklers on the line to block off the centre, three strong blitzers and a fragile ball-handling corps (which is a faster group than the blockers, but comparatively slow across the league).
+The Eagles use the Charles Dorf playbook, which is built on a very rigid division of smash and grab labour. They use slow tacklers on the line to block off the centre, three strong blitzers and a fragile ball-handling corps (which is a faster group than the blockers, but comparatively slow across the league) to score just as much as is necessary.
 
 ## Records
 
@@ -18,11 +18,12 @@ The Eagles use the Charles Dorf playbook, which is built on a very rigid divisio
 
 ### Prizes
 
-* Green Cup VII - Green Cup Champions [[team1stplace]]
-* Green Cup IX - Iron Fist [[teamcasualties]]
-* Green Cup V Memorial - Chartreuse Pop Bottle
-* Green Cup V Memorial - Crimson Soles
-* Green Cup X - Classic Conference Champions [[team2ndplace]]
+* Green Cup VII - Green Cup Champions [[team1stplace#gcvii]] & Outlands Champions
+* Green Cup IX - Iron Fist [[teamcasualties#gcix]]
+* Green Cup V Memorial - Chartreuse Pop Bottle [[team1stplace]]
+* Green Cup V Memorial - Crimson Soles [[teamcasualties]]
+* Green Cup X - Classic Conference Champions [[team2ndplace#gcx]] & Pits Champions
+* Green Cup X - Iron Fist [[teamcasualties#gcx]]
 
 ### Seasons
 
@@ -51,9 +52,9 @@ In GCVII, the Eagles fought from third place in the Outlands division to win it 
 
 Green Cup VIII was another last-place finish in the Outlands division (though their points total would have put them in second place if they were in the Heaps). 
 
-With the new divisions in place in GCIX there was some thought teams bashy teams like the Eagles would be at a disadvantage. That seemed to be somewhat the case, but fans had a blast watching [[Jantine]] mow through opposing teams. Their GCVII Championship meant that even being last in the Pits they weren't subject to relegation. Led by Jantine, they inflicted the most casualties 43 (28-12-3) en route to a last place finish in their division (after realignment this was now the Pits, feeding an intradivisional rivalry with the Spectres) but they also stole the first Iron Fist from the [Orbital Machine](orbitalmachine) in the new era.
+With the new divisions in place in GCIX there was some thought teams bashy teams like the Eagles would be at a disadvantage. That seemed to be somewhat the case, but fans had a blast watching [[Jantine]] mow through opposing teams. Their GCVII Championship meant that even being last in the Pits they weren't subject to relegation. Led by Jantine, they inflicted the most casualties 43 (28-12-3) en route to a last place finish in their division (after realignment this was now the Pits, feeding an intradivisional rivalry with the [Spectres](darklingspectres)) but they also stole the first Iron Fist from the [Orbital Machine](orbitalmachine) in the new era.
 
-Outside the Pro Division the Eagles put together a wonderful GCV Memorial season with their retirees and rookies, then got it all together for an exciting final match. Sure this didn't mean anything but it's still fun to win. The Eagles actually tied with the [Irregular Cogs](irregularcogs) for Casualties inflicted (20), but they ended more careers (11-5-4) and had a better differential (14) so they won the prize.
+Outside the Pro Division the Eagles put together a wonderful GCV Memorial season with their retirees and rookies, then got it all together for an exciting final match. Sure this didn't mean anything but it's fun to win. The Eagles actually tied with the [Irregular Cogs](irregularcogs) for Casualties inflicted (20), but their casualty composition (11-5-4) meant they ended more careers and had a better differential (14) so they won the prize.
 
 The Eagles then made some huge strides and in GCX their veterans got them within a whisker of another championship and secured their second Iron Fist in a row.
 
@@ -61,7 +62,7 @@ The Eagles then made some huge strides and in GCX their veterans got them within
 
 W-D-L 7-1-7
 
-Could make a surprise grab for the Pits Division championship but likely won't.
+We've seen the Eagles make a dashing playoff run before, and with the Spectres seemingly rolling over for the season, the regular season might give the Eagles time to develop some support for their big 3 bashers.
 
 ### Stars & Scrubs
 
@@ -85,22 +86,22 @@ The Eagles have developed a lot of journeymen, especially in GCV, but their styl
 
 #### Cup Winners
 
-* Ekua VII
-* Chikondi VII
-* Frediano VII
-* Mahendra VII
-* Percy VII
-* Toma VII
-* Bahij VII
-* Dijana VII
-* Lumusi VII
-* Viltaute VII
-* Shalev VII
-* Warren VII
-* Sigfrido VII
-* Eliott VII
-* Twig VII
-* Birgitta VII
+* [[Ekua]] VII
+* [[Chikondi]] VII
+* [[Frediano]] VII
+* [[Mahendra]] VII
+* [[Percy]] VII
+* [[Toma]] VII
+* [[Bahij]] VII
+* [[Dijana]] VII
+* [[Lumusi]] VII
+* [[Viltaute]] VII
+* [[Shalev]] VII
+* [[Warren]] VII
+* [[Sigfrido]] VII
+* [[Eliott]] VII
+* [[Twig]] VII
+* [[Birgitta]] VII
 
 ### Management
 
@@ -108,7 +109,7 @@ While the B.R. Ossa ownership group has a former player as its face, the resourc
 
 ### Fans
 
-Fans of the Ravenous Eagles glory in their championship titles and especially love getting in the faces of fans of the Glorious Hounds[[glorioushounds]]. Their loyalty has been fleeting since the GCVII
+Fans of the Ravenous Eagles glory in their championship titles and especially love getting in the faces of fans of the [Glorious Hounds](glorioushounds). Their loyalty has been fleeting since the GCVII championship though.
 
 ### Famous Games
 
@@ -128,4 +129,4 @@ On the kickoff, Frediano headed directly into a cage, knowing that drawing out a
 
 On the kickoff, there was a pitch invasion so with Besz down Karsten moved back to get the ball, but he mucked up the pass. Rather than trying to recover the dropped ball, the Eagles mobbed up on the Cogs who were still frozen at the line. Saxa headed downfield, followed by Besz and Karsten. Chikondi tried to sack Besz but she dumped the ball out to Dragos, who was then sacked by Lumusi. The ball went into the crowd, ending up at midfield where Eagles guarded it on the ground, not daring to try pick it up. The Cogs still had loads of time to score and force an overtime. Saxa moved downfield, but Dragos stumbled on his way to get the ball. The Eagles again protected the ball on the ground until the Cogs only had one last shot to grab and tie the match. Adalberto tried to grab it but was tackled going in and the ball made it out to Birgitta, who took a victorious trot downfield knowing the win was the Eagles'! IC 1 - RE 2
 
-#finished
+

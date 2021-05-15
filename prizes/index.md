@@ -45,3 +45,4 @@ First, second, third place and the most casualties are the four team awards give
 * [[team2ndplace]]
 * [[team3rdplace]]
 * [[teamcasualties]]
+* [[teamdivision]]

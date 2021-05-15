@@ -19,7 +19,7 @@ The Spectres use the traditional Unglewort playbook. They have nigh-unlimited ch
 ### Prizes
 
 * Green Cup Classic 06 - Heaps Champion [[team2ndplace]]
-* Green Cup VII - Classic Conference Champions [[team2ndplace]]
+* Green Cup VII - Classic Conference Champions [[team2ndplace]] & Heaps Champion
 
 ### Seasons
 
@@ -52,7 +52,7 @@ There've been rumblings that ownership wanted to take their money and run, foldi
 
 W-D-L 6-2-7 
 
-Missing the playoffs.
+The starting lineup being shown off in pre-GCXI training camps is surprising. While it does manage to stay above the 1700 Value Floor set for the season, it's hard to see how these scrubs are going to stay out of last place in the Heaps.
 
 ### Stars
 
@@ -84,4 +84,4 @@ The Spectres have come close to winning the Green Cup a couple of times, but hav
 
 ### Famous Games
 
-#unfinished 
+The Spectres' most impactful match came in the GCC06 semifinals.

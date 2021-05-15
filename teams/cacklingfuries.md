@@ -18,9 +18,9 @@ The Furies use the Norton playbook, which is mostly a way to get less skilled pl
 
 ### Prizes
 
-* Green Cup III - Runner-Up [[team2ndplace]]
-* Green Cup III - Doom Fist [[teamcasualties]]
-* UBBL Challenge II - Runner-Up [[team2ndplace]]
+* Green Cup III - Runner-Up [[team2ndplace#gciii]]
+* Green Cup III - Doom Fist [[teamcasualties#gciii]]
+* UBBL Challenge II - Runner-Up [[team2ndplace#ubbl challenge ii]]
 
 ### Seasons
 
@@ -42,23 +42,25 @@ The Furies use the Norton playbook, which is mostly a way to get less skilled pl
 
 ## History
 
-The Cackling Furies aren't an original Green Cup team, but in their second season (GCIII) they laid a lot of smack down, winning the Doom Fist and placing second overall to a just more talented Old Wyrms team. After that it took a long time to work back to a winning season in Green Cup play, but they managed it in GCIX.
+
 
 ### Seasons
 
-In Green Cup III the Furies inflicted 38 Casualties on their way to second place in GCIII.
+The Cackling Furies aren't an original Green Cup team, but in their second season (GCIII) they laid a lot of smack down, winning the Doom Fist (with 38 Casualties) and placing second overall to a just more talented [Old Wyrms](oldwyrms) team.
 
-Their next winning seasons only came in the Open Division in the first two UBBL Challenges. The Furies represented the Green Cup faithful in the final for the UBBL Pennant in UCII after stomping through the B-Side challengers, but fell to the Brutes.
+Their next winning seasons only came in the Open Division in the first two UBBL Challenges. The Furies represented the Green Cup faithful in the final for the UBBL Pennant in UCII after stomping through the B-Side challengers, but fell to the [Brutes](gargantuanbrutes).
 
-Green Cups IX and X went better for the Furies. They made it to the division finals each time before being knocked out by the [Eldritch Fatality](eldritchfatality) and [Ravenous Eagles](ravenouseagles) respectively.
+After that it took a long time to work back to a winning season in Green Cup play, but they managed it. Green Cups IX and X went better for the Furies. They made it to the division finals each time before being knocked out by the [Eldritch Fatality](eldritchfatality) and [Ravenous Eagles](ravenouseagles) respectively.
 
 #### Projection GCXI
 
 W-D-L 6-3-6
 
-Hoping for a chance at the divisional title, but will have to work to make the playoffs first.
+The Furies are hoping for a chance at the divisional title, but will have to work to make the playoffs first. Keeping [[Aronne]] and [[Luanna]] healthy for a playoff run is going to be a major goal.
 
 ### Stars
+
+> **Currently active players** are highlighted and modern-era players whose careers are over are not marked. *Old-era players* have incomplete statistics.
 
 | Player           | Team        | Position      | W | D | L | GP | TD | Cp | Int | BH | SI | Ki | MVP | SPP |
 |------------------|-------------|---------------|--:|--:|--:|---:|---:|---:|----:|---:|---:|---:|----:|----:|
@@ -77,8 +79,7 @@ Hoping for a chance at the divisional title, but will have to work to make the p
 | Borghild | Cackling Furies | Catcher        |    8 |    7 |    4 |   19 |   18 |           2 |             0 |    0 |    1 |    1 |    0 |   60 |
 | **Danr**      | Cackling Furies | Blitzer        |   13 |   11 |    7 |   31 |    9 |    2 |    1 |    3 |    2 |    0 |    3 |   56 |
 
-
-While the old-era superstar [[Rodrik]] is still atop the Furies' leaderboard, [[Aronne]] is the future for this team. [[Luanna]]'s surprise passing performance in GCX got her the [[relentlesscannon]] award for the season, and could be an indication of a more well-rounded approach to future BludBol.
+While the old-era superstar [[Rodrik]] is still atop the Furies' leaderboard, [[Aronne]] is the future for this team. [[Luanna]]'s surprise passing performance in GCX got her the Relentless Cannon award for the season, and could be an indication of a more well-rounded approach to future BludBol.
 
 ### Management
 

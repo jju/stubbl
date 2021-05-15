@@ -96,29 +96,29 @@ Having the second-best player the UBBL has ever seen in [[souta]] has gone prett
 
 #### Cup Winners
 
-* Kelemann - GCIX, GCX
-* Amador - GCIX, GCX
-* Rati - GCIX, GCX
-* Elvis - GCIX, GCX
-* Jia - GCIX, GCX
-* Elisavet - GCIX, GCX
-* Moirin - GCIX (Final only), GCX
-* Seosamh - GCIX off playoff roster, GCX
-* Belmont - GCX
-* Journee - GCX
-* Katina - GCX
-* Leilani - GCX
-* Alva - GCX
-* Menachem - GCX
-* Teresia - GCX
-* Modest - GCIX off playoff roster, GCX
-* Babar - GCIX, GCX off playoff roster
-* Andela - GCIX
-* Martti - GCIX
-* Roni - GCIX
-* Tereza - GCIX
-* Lucius - GCIX
-* Yasmani - GCIX (Final only)
+* [[Kelemann]] - GCIX, GCX
+* [[Amador]] - GCIX, GCX
+* [[Rati]] - GCIX, GCX
+* [[Elvis]] - GCIX, GCX
+* [[Jia]] - GCIX, GCX
+* [[Elisavet]] - GCIX, GCX
+* [[Moirin]] - GCIX (Final only), GCX
+* [[Babar]] - GCIX, GCX off playoff roster
+* [[Andela]] - GCIX
+* [[Martti]] - GCIX
+* [[Roni]] - GCIX
+* [[Tereza]] - GCIX
+* [[Lucius]] - GCIX
+* [[Yasmani]] - GCIX (Final only)
+* [[Seosamh]] - GCIX off playoff roster, GCX
+* [[Belmont]] - GCX
+* [[Journee]] - GCX
+* [[Katina]] - GCX
+* [[Leilani]] - GCX
+* [[Alva]] - GCX
+* [[Menachem]] - GCX
+* [[Teresia]] - GCX
+* [[Modest]] - GCIX off playoff roster, GCX
 
 ##### Team won but no rings
 
