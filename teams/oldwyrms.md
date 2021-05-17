@@ -18,13 +18,13 @@ The Old Wyrms (OW) use what's known as the Excelsior playbook, where a fast frag
 
 ### Prizes
 
-* Green Cup I - Runner-Up [[team2ndplace]]
-* Green Cup II - Tough Brake of Alsoran [[team3rdplace]]
-* Green Cup III - Green Cup Champions [[team1stplace]]
-* Green Cup IV - Green Cup Champions [[team1stplace]]
-* Green Cup IX - Green Cup IX Champions [[team1stplace]]
+* Green Cup I - Runner-Up [[team2ndplace#gci]]
+* Green Cup II - Tough Brake of Alsoran [[team3rdplace#gcii]]
+* Green Cup III - Green Cup Champions [[team1stplace#gciii]]
+* Green Cup IV - Green Cup Champions [[team1stplace#gciv]]
+* Green Cup IX - Green Cup IX Champions [[team1stplace#gcix]]
 * Green Cup V Memorial - Picked-Off Primer [[team3rdplace]]
-* Green Cup X - Green Cup X Champions [[team1stplace]]
+* Green Cup X - Green Cup X Champions [[team1stplace#gcx]]
 
 ### Seasons
 
@@ -66,6 +66,26 @@ When it comes down to a winner-take-all match, the Old Wyrms are still beatable 
 W-D-L 9-1-5
 
 The Wyrms are going into GCXI looking to win it all again. They have a big payroll, and the funds to absorb any financial losses. The general assumption is that they will win the Stacks division easily, but could be vulnerable in the Burger Conference Final depending on how aggressively bashy their rivals play.
+
+| Player | Position | Tier |
+|--------|----------|-----|
+| Elvis |  Thrower | Legend |
+| Jia | Thrower | Star
+| Amador | Catcher | Legend
+| Seosamh | Catcher | Superstar
+| Kelemann | Blitzer | Star
+| Rati | Blitzer | Star
+| Elisavet | Line | Emerging Star
+| Leilani | Line | Experienced
+| Katina | Line | Experienced
+| Teresia | Line | Experienced
+| Andela | Kicker | Emerging Star
+| Alva | Line | Experienced
+| Olaug | Catcher | Veteran
+| Modest | Catcher | Star
+| Belmont | Line | Emerging Star
+
+Andela and Olaug were not part of the GCX Champion team, but Andela was around for GCIX.
 
 ### Stars
 

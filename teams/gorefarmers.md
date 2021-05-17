@@ -18,9 +18,9 @@ The Orville-Crush approach to BludBol is traditional, simple, but also somewhat 
 
 ### Prizes
 
-* Green Cup VI - Green Cup Champions [[team1stplace]]
-* Green Cup VIII - Green Cup Champions [[team1stplace]]
-* Green Cup IV - Tough Brake of Alsoran [[team3rdplace]]
+* Green Cup VI - Green Cup Champions [[team1stplace#gcvi]]
+* Green Cup VIII - Green Cup Champions [[team1stplace#gcviii]]
+* Green Cup IV - Tough Brake of Alsoran [[team3rdplace#gciv]]
 
 ### Seasons
 

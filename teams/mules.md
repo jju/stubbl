@@ -19,6 +19,8 @@ The Mules use the Darvati Dorf playbook, which is built on a lineup slow tackler
 ### Prizes
 
 * Orange Goblet I - Orange Goblet Champions [[team1stplace]]
+* Orange Goblet II - Orange Goblet Runner-Up [[team2ndplace#orange goblet ii]]
+* Orange Goblet II - Gorefield Honour [[teamcasualties]]
 * UBBL Challenge III - Gorefield Honour [[teamcasualties]]
 
 ### Seasons
@@ -43,7 +45,9 @@ They were snakebit in direct elimination in the first three UBBL Challenge tourn
 
 That the Mules managed to win the inaugural Orange Goblet season was impressive (especially since they played as the lesser team through all three playoff matches), but the legend of the Mules began with their beating of the [Old Wyrms](oldwyrms) in the first round of the Champions Circuit, a result no one expected, especially as the Mules' star runner [[Nkosana]] was injured.
 
-### Stars & Scrubs
+### Stars
+
+> **Currently active players** are highlighted and modern-era players whose careers are over are not marked.
 
 | Player           | Team        | Position      | W | D | L | GP | TD | Cp | Int | BH | SI | Ki | MVP | SPP |
 |------------------|-------------|---------------|--:|--:|--:|---:|---:|---:|----:|---:|---:|---:|----:|----:|
