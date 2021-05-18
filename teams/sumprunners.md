@@ -1,10 +1,10 @@
 # Sump Runners
 
-They were once thought to be the future of BludBol in the old era UBBL, and were set to play in Green Cup V before the interruption. They've never lived up to that, though they are good in Open Division play. They lean on the passing game which can make them more fun to watch than other teams with a similar playbook.
+They were once thought to be the future of BludBol in the old era UBBL, and were set to play in Green Cup V before the interruption. They've never lived up to that, though they tend to be better in Open Division play. They lean on the passing game which can make them more fun to watch than other teams with a similar playbook.
 
 ## Playbook
 
-The Sump Runners use the Hermann playbook, the original plan for playing BludBol, and the one that every other strategy is an adaptation of. The team has two thrower positions available, 4 catchers, 4 blitzers, a big guy and fills out the rest of the lineup with undistinguished concussion-fodder. In actuality, most Hermann teams don't use all their specialist receivers, trusting more to a running game with the blitzers. The Sump Runners have some oddities in their lineup including using a specialist thrower as a makeshift blitzer.
+The Sump Runners use the Hermann playbook, the original plan for playing BludBol, and the one that every other strategy is an adaptation of. The team has two thrower positions available, 4 catchers, 4 blitzers, a big guy and fills out the rest of the lineup with undistinguished concussion-fodder. In actuality, most Hermann teams don't use all their specialist receivers, trusting more to a running game with the blitzers. The Sump Runners have some oddities in their lineup including using one of their thrower slots as a makeshift blitzer.
 
 ## Records
 
@@ -41,19 +41,23 @@ The Sump Runners have never had a winning Pro-Level season.
 
 ### Seasons
 
-The TC Sump Runners were facing relegation in the second UBBL Challenge tournament but fought their way to third place. 
+Before the interruption the Sump Runners were a fascinating glimpse of what a Hermann-based team could do. Sadly all the records of those matches were lost. When the Green Cup Classic organizers were looking for teams to fill out their divisions the Sump Runners name was important to bring in. That they were owned by the TyrolCorp entity made things a bit more difficult. The team has done its best to put entertaining BludBol out there, but their best pro season was their first one, and even then they only won half their matches.
 
-The Sump Runners had their own undefeated run going mowing down challengers in the B-Side of the UBBL Challenge III tournament until the [Arborist](arborealmenace) scoring threat proved too much in the final.
+After another dismal GCVIII the TC Sump Runners were facing relegation in the second UBBL Challenge tournament but fought their way to a third place prize. 
 
-Green Cup X saw the team play putridly and the faced relegation in UBBL Challenge IV, where they managed to get a couple of wins and preserved their attempts for the Green Cup.
+They were playing in UBBL Challenge III voluntarily and had their own undefeated run going mowing down challengers in the B-Side until the [Arborist](arborealmenace) scoring threat proved too much in the final.
+
+Green Cup X saw the team play putridly and they again faced relegation in UBBL Challenge IV, where they managed to get a couple of wins and preserved their attempts for the Green Cup.
 
 #### Projection GCXI
 
 W-D-L 6-0-9
 
-Last place in the Stacks.
+If the Sump Runners don't come in last place in the Stacks, practically the entire BludBol watching population will be surprised. They are starting out the season with a payroll just above the Value Floor instituted to prevent egregious tanking attempts and are in a division that has teams who've won 60% of the Green Cups between them.
 
-### Stars & Scrubs
+### Stars
+
+> **Currently active players** are highlighted and modern-era players whose careers are over are not marked.
 
 | Player           | Team        | Position      | W | D | L | GP | TD | Cp | Int | BH | SI | Ki | MVP | SPP |
 |------------------|-------------|---------------|--:|--:|--:|---:|---:|---:|----:|---:|---:|---:|----:|----:|
@@ -70,18 +74,17 @@ Last place in the Stacks.
 | Branka    | TC Sump Runners | Catcher  |    9 |    4 |   16 |   29 |    9 |    1 |    1 |    1 |    0 |    0 |    3 |   47 |
 | **Edgar**      | TC Sump Runners | Line  |   25 |   14 |   39 |   78 |    0 |    4 |    2 |    5 |    5 |    1 |    3 |   45 |
 
-The Sump Runners play a slightly unorthodox version of the traditional allrounder strategy. [[Jacquetta]] actually plays the role of a traditional Thrower, while [[Shay]]'s positioning is more like a Blitzer.
+The Sump Runners play a slightly unorthodox version of the traditional allrounder Hermann strategy. [[Jacquetta]] actually plays the role of a traditional Thrower, while [[Shay]]'s positioning is more like a Blitzer.
 
 ### Management
 
-One of the first UBBL teams owned by the TyrolCorp entity from upspire instead of a more traditional bludbol concern.
+One of the first UBBL teams owned by a corporate entity from upspire (TyrolCorp) instead of a more traditional bludbol concern, many fans are cynical about the commitment of the team.
 
 ### Fans
 
-In the past the [Vanadium Hunters](vanadiumhunters) were the Sump Runners' chief rivals, but with them relegated it's slim pickings. They had a devastating loss to the [Arboreal Menace](arborealmenace) in the third UBBL Challenge tournament, which may spark something moving on. The absolute drubbing they took in GCX shed fans by the bandwagonload.
+In the past the [Vanadium Hunters](vanadiumhunters) were the Sump Runners' chief rivals, but with them relegated to the Open Division it's slim pickings. They had a devastating loss to the [Arboreal Menace](arborealmenace) in the third UBBL Challenge tournament, which may spark something moving on. The absolute drubbing they took in GCX shed fans by the bandwagonload.
 
 ### Famous Games
 
 The Sump Runners haven't had a lot of great moments in the UBBL.
 
-#unfinished 

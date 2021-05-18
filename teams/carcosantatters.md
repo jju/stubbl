@@ -1,10 +1,10 @@
 # Carcosan Tatters
 
-The Carcosan Tatters have always been a very good team. They're defensive-minded without really flashy stars and can lock a game down to a muddy slog even if the sun is out.
+The Carcosan Tatters have always been a very good team. They're defensive-minded without really flashy stars and can lock a game down to a muddy slog even in the middle of a drought.
 
 ## Playbook
 
-The Tatters use the Nergal playbook, some (especially fans of pretty BludBol) say it is one of the oldest and most insidious ways to play. The lineup consists of four strong blockers, four blitzing ball handlers and whatever dregs of fodder can be pulled off the street or opposing teams. Their biggest strengths are making everything difficult for the opposition.
+The Tatters use the Nergal playbook, which some (especially fans of pretty BludBol) say is one of the oldest and most insidious ways to play. The lineup consists of four strong blockers, four blitzing ball handlers and whatever dregs of fodder can be pulled off the street or opposing teams. Their biggest strengths are making everything difficult for the opposition.
 
 ## Records
 
@@ -27,7 +27,7 @@ The Tatters use the Nergal playbook, some (especially fans of pretty BludBol) sa
 
 | Team      | Season             | W  | D | L | GP | Win% | GF   | GA   | Cas  | CDif | FF   |
 |-----------|--------------------|--:|--:|--:|---:|-----:|---:|---:|----:|-----:|---:|
-| Carcosan Tatters | Green Cup II         |    7 |    3 |    2 |     12 | 70.83 |   24 |   19 |   36 |     27 |    0 |
+| Carcosan Tatters | **Green Cup II**         |    7 |    3 |    2 |     12 | 70.83 |   24 |   19 |   36 |     27 |    0 |
 | Carcosan Tatters | Green Cup III        |    6 |    3 |    2 |     11 | 68.18 |   18 |   17 |   29 |     22 |   -1 |
 | Carcosan Tatters | Green Cup VI         |   11 |    1 |    5 |     17 | 67.65 |   20 |   15 |   23 |     10 |    5 |
 | Carcosan Tatters | UBBL Challenge       |    2 |    0 |    1 |      3 | 66.67 |    4 |    3 |    7 |      3 |    1 |
@@ -41,11 +41,11 @@ The Tatters use the Nergal playbook, some (especially fans of pretty BludBol) sa
 
 ## History
 
-The Tatters have always been a very good team. Defensive-minded without really flashy stars, 
+The Tatters have played ugly bludbol for a long time, and have only achieved ugly results in a couple of seasons.
 
 ### Seasons
 
-The Tatters won the first Green Cup they entered as an expansion team. The Tatters didn't defend their title and lost in the quarterfinals of GCIII (but still accumulated more points than either of the semifinal losers, which got them the Tough Brake award). 
+The Tatters won the first Green Cup they entered as an expansion team. They didn't defend their title and lost in the quarterfinals of GCIII (but still accumulated more points than either of the semifinal losers, which got them the Tough Brake award). 
 
 Under former player BSEncef's leadership the Tatters bashed their way to second place in the rejuvenated UBBL. While the GCVII campaign went terribly, it remains their only losing pro-level season on record.
 
@@ -53,7 +53,7 @@ Under former player BSEncef's leadership the Tatters bashed their way to second 
 
 W-D-L 8-1-6
 
-The Tatters could be in position to upset for a Divisional title, but hopes are not tremendously high.
+The Tatters could be in position to upset for a Divisional title, but hopes are not tremendously high. The team's main goal is to get more wins than losses and to not be embarassed out there. Probably not a recipe for glory.
 
 ### Stars
 
@@ -74,9 +74,9 @@ The Tatters could be in position to upset for a Divisional title, but hopes are 
 | **OreSmitingMaster**   | Carcosan Tatters | Blocker  |   31 |    6 |   18 |   55 |    0 |    0 |    1 |    8 |    2 |    0 |    4 |   42 |
 
 
-The Tatters thrive on teamwork and defense, neither of which lends itself well to big flashy stars taking over a match. Back in the Old-Era [[BSEncef]] (now the team's manager) was a big flashy star, but he hasn't tried to develop that kind of mindset in the current players. [[Gention]] had been holding things down as the best player for the last couple of tournaments (since the awful GCVII campaign in which there was a major redevelopment), but [[Sparrow]] will soon be taking her place and may emerge as the next superstar.
+The Tatters thrive on teamwork and defense, neither of which lends itself well to big flashy stars taking over a match. Back in the Old-Era [[BSEncef]] (now the team's manager) was one of those big flashy stars, but he hasn't tried to develop that kind of mindset in the current players. [[Gention]] had been holding things down as the best player for the last couple of tournaments (since the awful GCVII campaign in which there was a major redevelopment), but [[Sparrow]] will soon be taking her place and may emerge as the next superstar.
 
-Though [[Pierre]] is third on the team for SPP, it was in flux until quite late whether he would suit up for the GCX season. Also of note, [[Adeno]] was an old veteran who didn't do much in the revitalization but has played for the team by far the longest.
+Though [[Pierre]] is third on the active list for SPP and healthy, it was in flux until quite late whether he would suit up for the GCXI season. Also of note, [[Adeno]] was an old veteran who didn't do much in the revitalization but has played for the team by far the longest.
 
 ### Management
 

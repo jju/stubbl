@@ -49,6 +49,8 @@ Yakup retired from pro BludBol at the end of GCVIII (652.4) but then returned fo
 
 ### rookie season - gcvi
 
+Reproducing this here for comparative purposes.
+
 | Player | Team        | Round          | TD  | Rsh | Cp   | CpDst | Ctch | Int | Cas  | Blk | Sck | MVP | SPP  |
 |--------|-------------|-------|------|------|------|----------|---------|------|--------|-------|------|------|
 | Yakup | Filthy Tide |     6 |    1 |    0 |    0 |        0 |       2 |    0 |      0 |     0 |    0 |    3 |

@@ -1,10 +1,10 @@
 # Old Wyrms
 
-Even when they're bad they aren't that bad. And when they're good they're dazzling. They are the UBBL's only four-time champions and the only team to have defended a championship (twice).
+Even when they're bad they aren't that bad. And when they're good they're dazzling. The Wyrms are the UBBL's only four-time champions and the only team to have defended a championship (twice).
 
 ## Playbook
 
-The Wyrms use what's known as the Excelsior playbook, where a fast fragile receiving corps works together downfield making catches in traffic and getting out of trouble. It's a shorter-passing game than the High Extension playbook used by the [Glorious Hounds](glorioushounds) but when you can avoid injury it's very effective, as the Wyrms have shown.
+The Old Wyrms (OW) use what's known as the Excelsior playbook, where a fast fragile receiving corps works together downfield making catches in traffic and getting out of trouble. It's a shorter-passing game than the High Extension playbook used by the [Glorious Hounds](glorioushounds) but when you can avoid injury it's very effective, as the Wyrms have shown.
 
 ## Records
 
@@ -18,24 +18,24 @@ The Wyrms use what's known as the Excelsior playbook, where a fast fragile recei
 
 ### Prizes
 
-* Green Cup I - Runner-Up [[team2ndplace]]
-* Green Cup II - Tough Brake of Alsoran [[team3rdplace]]
-* Green Cup III - Green Cup Champions [[team1stplace]]
-* Green Cup IV - Green Cup Champions [[team1stplace]]
-* Green Cup IX - Green Cup IX Champions [[team1stplace]]
+* Green Cup I - Runner-Up [[team2ndplace#gci]]
+* Green Cup II - Tough Brake of Alsoran [[team3rdplace#gcii]]
+* Green Cup III - Green Cup Champions [[team1stplace#gciii]]
+* Green Cup IV - Green Cup Champions [[team1stplace#gciv]]
+* Green Cup IX - Green Cup IX Champions [[team1stplace#gcix]]
 * Green Cup V Memorial - Picked-Off Primer [[team3rdplace]]
-* Green Cup X - Green Cup X Champions [[team1stplace]]
+* Green Cup X - Green Cup X Champions [[team1stplace#gcx]]
 
 ### Seasons
 
 | Team      | Season             | W  | D | L | GP | Win% | GF   | GA   | Cas  | CDif | FF   |
 |-----------|--------------------|--:|--:|--:|---:|-----:|---:|---:|----:|-----:|---:|
-| Old Wyrms | Green Cup IX         |   15 |    1 |    3 |     19 | 81.58 |   72 |   46 |   20 |    -17 |    2 |
+| Old Wyrms | **Green Cup IX**         |   15 |    1 |    3 |     19 | 81.58 |   72 |   46 |   20 |    -17 |    2 |
 | Old Wyrms | UBBL Challenge       |    3 |    0 |    1 |      4 |   75.00 |   10 |    7 |    4 |    -10 |    2 |
-| Old Wyrms | Green Cup III        |    8 |    3 |    2 |     13 | 73.08 |   43 |   25 |   11 |    -17 |    2 |
-| Old Wyrms | Green Cup X          |   11 |    5 |    3 |     19 | 71.05 |   61 |   49 |   14 |    -30 |    2 |
+| Old Wyrms | **Green Cup III**        |    8 |    3 |    2 |     13 | 73.08 |   43 |   25 |   11 |    -17 |    2 |
+| Old Wyrms | **Green Cup X**          |   11 |    5 |    3 |     19 | 71.05 |   61 |   49 |   14 |    -30 |    2 |
 | Old Wyrms | Green Cup V Memorial |    7 |    1 |    3 |     11 | 68.18 |   23 |   12 |    9 |     -9 |   -3 |
-| Old Wyrms | Green Cup IV         |    7 |    3 |    3 |     13 | 65.38 |   39 |   32 |   13 |    -27 |    2 |
+| Old Wyrms | **Green Cup IV**         |    7 |    3 |    3 |     13 | 65.38 |   39 |   32 |   13 |    -27 |    2 |
 | Old Wyrms | Green Cup II         |    6 |    2 |    3 |     11 | 63.64 |   37 |   21 |    2 |    -41 |    0 |
 | Old Wyrms | Green Cup I          |    7 |    1 |    4 |     12 |    62.50 |   40 |   28 |    6 |    -12 |    0 |
 | Old Wyrms | Green Cup VII        |    6 |    5 |    5 |     16 |  53.13 |   45 |   44 |   18 |    -39 |   -2 |
@@ -45,27 +45,51 @@ The Wyrms use what's known as the Excelsior playbook, where a fast fragile recei
 
 ## History
 
-The Old Wyrms are a founding team of the UBBL (and actually joined when it was known as the Bottom Rung League) and are almost universally loathed because of their winning ways.
+The Old Wyrms are a founding team of the UBBL and are almost universally loathed because of their winning ways.
 
 ### Seasons
 
-While they lost the inaugural Green Cup to the [Irregular Cogs](irregularcogs) they had a replacement player [[Newb]] pick up the season MVP. They would go on to have several more chances but the rivalry had begun. The Old Wyrms were on their way to another Green Cup appearance in GCII when they got absolutely mauled by the Cogs in the last week of the regular season.
+While they lost the inaugural Green Cup to the [Irregular Cogs](irregularcogs) they had a replacement player ([[Newb]]) pick up the season MVP. They would go on to have several more chances at championship glory but the rivalry had begun. The Old Wyrms were on their way to another Green Cup appearance in GCII when they got absolutely mauled by the Cogs in the last week of the regular season.
 
-The Wyrms fought through a lot of injuries to win the GCIII title then became the first and so far only team to defend a Green Cup win in GCIV. Of course, their efforts at a three-peat were foiled by the interruption of the GCV season, but there was no chance they weren't coming back to the league in the modern era.
+The Wyrms fought through a lot of injuries to win the GCIII title then became the first team to defend a Green Cup win in GCIV. Of course, their efforts at a three-peat were foiled by the interruption of the GCV season, but there was no chance they weren't coming back to the league when the modern era began.
 
-After a lackluster few renaissance-era seasons (only 6 wins in each 16 game season) the Old Wyrms were undoubtedly the best team in the league in GCIX, with high expectations and impeccable execution through their aerial attacks as they emerged Stacks Division and Burger Conference Champions.
+After a lackluster few modern-era seasons (only 6 wins in each 16 game season) the Old Wyrms were undoubtedly the best team in the league in GCIX, with high expectations and impeccable execution through their aerial attacks as they emerged from the Stacks Division through the Burger Conference Championship to hoist the Green Cup. None of the players on this team were Old-Era veterans.
 
-They followed that up in the GCV Memorial tournament as the best team in the tournament until they entered the playoffs, losing to the 8th place [Vanadium Hunters](vanadiumhunters).
+They followed that up in the street-level GCV Memorial tournament as the best team in the tournament until they entered the playoffs, losing to the 8th place [Vanadium Hunters](vanadiumhunters), which was embarassing, but those stats don't really count for anything but player development. The question was whether the real team could bounce back in GCX.
 
-The Tenth Green Cup championship also went to the Old Wyrms, though it wasn't the same kind of dominating season as the year before. The early weeks were filled with draws and their final record shows their offense was 10 TDs worse than previously, but their defense limited the damage. By the end they didn't need to be perfect, just better than their opponents, which they were.
+The Tenth Green Cup championship did end up in the Old Wyrms' hands, though it wasn't the same kind of dominating season as the year before. The early weeks were filled with draws and their final record shows their offense was 10 TDs worse than previously, but their defense limited the damage. By the end they didn't need to be perfect, just better than their opponents, which they were.
+
+When it comes down to a winner-take-all match, the Old Wyrms are still beatable as they showed in the first round of the Champions Circuit where they lost to the Open Division Orange Goblet Champions the ponderous [Mules](mules).
 
 #### Projection GCXI
 
 W-D-L 9-1-5
 
-The Wyrms will win the Stacks division, but fall in the Burger Conference Final.
+The Wyrms are going into GCXI looking to win it all again. They have a big payroll, and the funds to absorb any financial losses. The general assumption is that they will win the Stacks division easily, but could be vulnerable in the Burger Conference Final depending on how aggressively bashy their rivals play.
 
-### Stars & Scrubs
+| Player | Position | Tier |
+|--------|----------|-----|
+| Elvis |  Thrower | Legend |
+| Jia | Thrower | Star
+| Amador | Catcher | Legend
+| Seosamh | Catcher | Superstar
+| Kelemann | Blitzer | Star
+| Rati | Blitzer | Star
+| Elisavet | Line | Emerging Star
+| Leilani | Line | Experienced
+| Katina | Line | Experienced
+| Teresia | Line | Experienced
+| Andela | Kicker | Emerging Star
+| Alva | Line | Experienced
+| Olaug | Catcher | Veteran
+| Modest | Catcher | Star
+| Belmont | Line | Emerging Star
+
+Andela and Olaug were not part of the GCX Champion team, but Andela was around for GCIX.
+
+### Stars
+
+**Currently active players** are highlighted and modern-era players whose careers are over are not marked. *Old-era players* have incomplete statistics.
 
 | Player           | Team        | Position      | W | D | L | GP | TD | Cp | Int | BH | SI | Ki | MVP | SPP |
 |------------------|-------------|---------------|--:|--:|--:|---:|---:|---:|----:|---:|---:|---:|----:|----:|
@@ -88,34 +112,33 @@ The Wyrms will win the Stacks division, but fall in the Burger Conference Final.
 | **Modest**   | Old Wyrms | Catcher  |   12 |    5 |    3 |   20 |   15 |    5 |    0 |    0 |    0 |    0 |    3 |   65 |
 | **Rati**     | Old Wyrms | Blitzer  |   25 |    3 |   11 |   39 |    9 |    4 |    0 |    8 |    2 |    1 |    2 |   63 |
 
-
-Having the second-best player the UBBL has ever seen in [[souta]] has gone pretty well for the Wyrms. That she wasn't used in the GCIX final is one of the things BludBol fans will always have an opinion on.
+Having the second-best player the UBBL has ever seen in [[souta]] has gone pretty well for the Wyrms. That she wasn't used in the GCIX final is one of the things BludBol fans will always have an opinion on. [[Elvis]] has a long way to go to catch [[souta]]
 
 #### Cup Winners
 
-* Kelemann - GCIX, GCX
-* Amador - GCIX, GCX
-* Rati - GCIX, GCX
-* Elvis - GCIX, GCX
-* Jia - GCIX, GCX
-* Elisavet - GCIX, GCX
-* Moirin - GCIX (Final only), GCX
-* Seosamh - GCIX off playoff roster, GCX
-* Belmont - GCX
-* Journee - GCX
-* Katina - GCX
-* Leilani - GCX
-* Alva - GCX
-* Menachem - GCX
-* Teresia - GCX
-* Modest - GCIX off playoff roster, GCX
-* Babar - GCIX, GCX off playoff roster
-* Andela - GCIX
-* Martti - GCIX
-* Roni - GCIX
-* Tereza - GCIX
-* Lucius - GCIX
-* Yasmani - GCIX (Final only)
+* [[Kelemann]] - GCIX, GCX
+* [[Amador]] - GCIX, GCX
+* [[Rati]] - GCIX, GCX
+* [[Elvis]] - GCIX, GCX
+* [[Jia]] - GCIX, GCX
+* [[Elisavet]] - GCIX, GCX
+* [[Moirin]] - GCIX (Final only), GCX
+* [[Babar]] - GCIX, GCX off playoff roster
+* [[Andela]] - GCIX
+* [[Martti]] - GCIX
+* [[Roni]] - GCIX
+* [[Tereza]] - GCIX
+* [[Lucius]] - GCIX
+* [[Yasmani]] - GCIX (Final only)
+* [[Seosamh]] - GCIX off playoff roster, GCX
+* [[Belmont]] - GCX
+* [[Journee]] - GCX
+* [[Katina]] - GCX
+* [[Leilani]] - GCX
+* [[Alva]] - GCX
+* [[Menachem]] - GCX
+* [[Teresia]] - GCX
+* [[Modest]] - GCIX off playoff roster, GCX
 
 ##### Team won but no rings
 
@@ -134,19 +157,16 @@ Having the second-best player the UBBL has ever seen in [[souta]] has gone prett
 * Kasimir - GCX off playoff roster
 * Souta - GCIX off Finals roster & did not receive ring
 
-
 ### Management
 
-Hems is the son of an old-Era veteran thrower for the Wyrms. He has a ruthless approach to winning. His roster manipulation in the GCIX championship run made for new rules of only allowing 4 veterans in reserve in GCX.
+Hems is the son of an old-Era veteran thrower for the Wyrms. He has a ruthless approach to winning. His roster manipulation in the GCIX championship run made for new rules of only allowing 4 veterans in reserve in GCX, though those rules have since been relaxed again.
 
 ### Fans
 
-As the winningest team in the UBBL, Wyrm fans can be among the most despised. From their end, however, the main rivalries are with the [Zensun Vagabonds](zensunvagabonds) as the two "Founders" of the UBBL, the [Irregular Cogs](irregularcogs) (mostly for historical reasons), and the [Gore Farmers](gorefarmers), who have won as many Green Cups in the modern era (and share the Stacks division with them).
+As the winningest team in the UBBL, Wyrm fans can be among the most despised. From their end, however, the main rivalries are with the [Zensun Vagabonds](zensunvagabonds) as the two "Founders" of the UBBL, the [Irregular Cogs](irregularcogs) (mostly for historical grudges around the GCI and GCII seasons), and the [Gore Farmers](gorefarmers), who have won as many Green Cups in the modern era (and share the Stacks division with them).
 
 ### Famous Games
 
 The match everyone would really like to see is the one at the end of the GCII regular season that made the Cogs/Wyrms rivalry so intense but the records have been lost.
 
-The Green Cup X championship game was pretty great.
-
-#unfinished
+The Green Cup X championship game against the [Ravenous Eagles](ravenouseagles) was pretty great.

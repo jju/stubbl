@@ -4,7 +4,7 @@ The Kaiju Dynamo are a frustrating team to cheer for. They always seem right on 
 
 ## Playbook
 
-The Dynamo use the Elizabeth Aardman playbook, with strong linemen and a big guy anchoring the centre, while the ball handling runners are chosen for speed (rather than skill, strength or durability). The basic idea of the playbook is to cage the fragile runner to a place where they can bolt for the endzone.
+The Dynamo use the Elizabeth Aardman playbook, with a front line of strong blockers and a big guy anchoring the centre, while the ball handling runners are chosen for speed (rather than skill, strength or durability). The basic idea of the playbook is to cage the fragile runner to a place where they can bolt for the endzone.
 
 ## Records
 
@@ -18,9 +18,9 @@ The Dynamo use the Elizabeth Aardman playbook, with strong linemen and a big guy
 
 ### Prizes
 
-* Green Cup I - Tough Brake of Alsoran [[team3rdplace]]
-* UBBL Challenge - Runner-Up [[team2ndplace]]
-* Green Cup VIII - Tough Brake of Alsoran [[team3rdplace]]
+* Green Cup I - Tough Brake of Alsoran [[team3rdplace#gci]]
+* UBBL Challenge - Runner-Up [[team2ndplace#ubbl challenge]]
+* Green Cup VIII - Tough Brake of Alsoran [[team3rdplace#gcviii]]
 
 
 ### Seasons
@@ -63,7 +63,9 @@ W-D-L 7-2-6
 Fighting for third place in the Heaps.
 
 
-### Stars & Scrubs
+### Stars
+
+> **Currently active players** are highlighted and modern-era players whose careers are over are not marked. *Old-era players* have incomplete statistics.
 
 | Player           | Team        | Position      | W | D | L | GP | TD | Cp | Int | BH | SI | Ki | MVP | SPP |
 |------------------|-------------|---------------|--:|--:|--:|---:|---:|---:|----:|---:|---:|---:|----:|----:|
@@ -100,6 +102,4 @@ Dynamo fans have been burned in the past by Scrying Avian teams (so the [Badger 
 
 ### Famous Games
 
-The GCVIII Classic Conference final against the [Badger Claws](badgerclaws) was the highest scoring match in UBBL history. That they lost the game because of one little slip-up means there are folk songs about it. http://68.148.52.218/stbblm/index.php?section=matches&type=report&mid=560
-
-#unfinished 
+The GCVIII Classic Conference final against the [Badger Claws](badgerclaws) was the highest scoring match in UBBL history for a few seasons. That they lost the game because of one little slip-up means there are folk songs about it.

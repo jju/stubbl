@@ -1,10 +1,10 @@
 # Arboreal Menace
 
-The Arboreal Menace are the newest entries for the Green Cup competition, having won the third UBBL Challenge for their shot. They are passers and speedsters and are part of the slow wave of skillifying Pro-Level UBBL.
+The Arboreal Menace are the newest entries for the Green Cup competition, having won the third UBBL Challenge for their shot in GCX. They are passers and speedsters and are part of the slow wave of skillifying Pro-Level UBBL.
 
 ## Playbook
 
-The Arboreal Menace use the Wary Eagle playbook, which is very similar to the Scrying Avian technique, but with slightly higher skilled (and more expensive to replace) players. The lineup includes four catchers, two blitzers and throwers that have more of an option of holding back and letting fly once the catchers are in position.
+The Arboreal Menace use the Wary Eagle playbook, which is very similar to the Scrying Avian technique, but with slightly higher skilled (and more expensive to replace) players. The lineup includes four catchers, two blitzers and throwers that have more of an option of holding back and letting fly once the catchers are in position. The heavy on a Wary Eagle team is much less mobile than on a Scrying Avian but provides an anchor for the line.
 
 ## Records
 
@@ -50,9 +50,28 @@ The fourth UBBL Challenge saw a return to form where they easily made the quarte
 
 W-D-L 8-1-6
 
-Current projections have them battling the Tatters for third place in the Outlands.
+Current projections have them battling the [Tatters](carcosantatters) for third place in the Outlands. They are bringing a more experienced roster into GCXI and it's possible they can hang in there with a very tough division.
 
-### Stars (all-time stats)
+| Player | Position | Tier |
+|--------|----------|-----|
+| Ingeborg | Thrower | Experienced |
+| Susila |  Thrower | Emerging Star
+| Laurel | Catcher | Star |
+| Attilla | Catcher | Star |
+| Sanja | Blitzer | Star |
+| Kropotkin | Blitzer | Star |
+| Unnr | Line | Experienced |
+| Chantrea | Line | Emerging Star |
+| Iago | Line | Veteran |
+| Joona | Line | Veteran |
+| Priyanka | Kicker | Experienced |
+| Georgina | Catcher | Superstar |
+| Nitika | Catcher | Star |
+| Borarinn | Heavy | Emerging Star |
+
+### Stars
+
+> **Currently active players** are highlighted and modern-era players whose careers are over are not marked.
 
 | Player           | Team        | Position      | W | D | L | GP | TD | Cp | Int | BH | SI | Ki | MVP | SPP |
 |------------------|-------------|---------------|--:|--:|--:|---:|---:|---:|----:|---:|---:|---:|----:|----:|
@@ -69,9 +88,9 @@ Current projections have them battling the Tatters for third place in the Outlan
 | **Iago**      | Arboreal Menace | Line   |   14 |    3 |   13 |   30 |    2 |    4 |    0 |    0 |    0 |    0 |    2 |   20 |
 
 
-[[Georgina]] won the StUBBL Jumper for UBBL Challenge III. They have amazingly soft hands and there are a few rumblings that they're gunning for the Pro Interception record (they're already atop the all-UBBL list though they've played fewer games than any of the other top 5 in the list).
+[[Georgina]] won the StUBBL Jumper for UBBL Challenge III. They have amazingly soft hands and there are a few rumblings that they're gunning for the Pro Interception record.
 
-[[Hartwin]] was primarily a backfield passer, though she had the arm for it, she didn't go the extreme long-passing route of a [[yosif]] or the deceased [[Adam]] or [[Ozymandias]] for the old school). The anticipation that in the Green Cup she'd need a backup did come true, and [[Susila]] is now working his way up the skill tree.
+[[Hartwin]] was primarily a backfield passer, though she had the arm for it, she didn't go the extreme long-passing route of a [[yosif]] or the deceased [[Adam]] (or [[Ozymandias]] for the old school). The anticipation that in the Green Cup she'd need a backup did come true, and [[Susila]] is now working his way up the skill tree.
 
 [[Laurel]] and [[Attilla]] are both remarkably good catchers but neither has made themselves part of the larger superstar picture in their first Green Cup campaign.
 
@@ -81,6 +100,8 @@ Criton Corp is an upspire entity.
 
 ### Fans
 
-As the Arboreal Menace have only completed their first Pro-Level season they don't have a lot of long-standing rivalries. Among Open-Level teams they bumped heads most with Thorns fans. In the Green Cup though, their natural rivals are the [Badger Claws](badgerclaws), who not only share their division (and use a similar fragile speedster playbook), but are also upstarts who've been promoted from Open-Division playand are eager to be the first to win the coveted Cup.
+As the Arboreal Menace have only completed their first Pro-Level season they don't have a lot of long-standing rivalries. Among Open-Level teams they bumped heads most with [Thorns](thorns) fans. In the Green Cup their natural rivals are the [Badger Claws](badgerclaws), who not only share their division (and use a similar fragile speedster playbook), but are also upstarts who've been promoted from Open-Division play and are eager to be the first to win the coveted Cup.
 
 ### Famous Games
+
+None yet.

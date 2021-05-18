@@ -1,6 +1,6 @@
 # Zensun Vagabonds
 
-Usually credited along with the Old Wyrms as the founders of the UBBL, the Vagabonds have a long history in fans' minds of not being great. Which is kind of funny as they did almost win the Green Cup once back in the Old-Era.
+Usually credited along with the [Old Wyrms](oldwyrms) as the founders of the UBBL, the Vagabonds have a long history in fans' minds of not being great. Which is kind of funny as they did almost win the Green Cup once back in the Old-Era.
 
 ## Playbook
 
@@ -19,7 +19,7 @@ The Vagabonds use the Hermann playbook, the original plan for playing BludBol, a
 ### Prizes
 
 * Green Cup II - Runner-Up [[team2ndplace]]
-* Green Cup X - Tough Brake of Alsoran [[team3rdplace]]
+* Green Cup X - Tough Brake of Alsoran [[team3rdplace]] & Heaps Division Champions
 
 ### Seasons
 
@@ -45,15 +45,19 @@ The Vagabonds have been getting better as of late.
 
 ### Seasons
 
-The Green Cup X season was a triumph for the Vagabonds, marred only by the playoff loss. If they can build on that success they could be hositing the Green Cup.
+The Vagabonds have a long history in which they've been fine. They would have been relegated after GCIV if the interruption hadn't happened (which is why they weren't invited to the GCV Memorial Tournament), but since that did happen they were happy to pick things up again in GCVI and keep on being fine for a few cycles.
+
+But then the Green Cup X season was a triumph for the Vagabonds, marred only by the playoff loss. If they can build on that success they could be hoisting the Green Cup.
 
 #### Projection GCXI
 
 W-D-L 7-1-7
 
-Fighting for third place in the Heaps.
+The projections are somewhat hard on the Vagabonds, because it's hard to ignore that long history, but the fact remains that the current incarnation of the team is good and also cheap, which means they have room to afford better.
 
 ### Stars & Scrubs
+
+> **Currently active players** are highlighted and modern-era players whose careers are over are not marked. *Old-era players* have incomplete statistics.
 
 | Player           | Team        | Position      | W | D | L | GP | TD | Cp | Int | BH | SI | Ki | MVP | SPP |
 |------------------|-------------|---------------|--:|--:|--:|---:|---:|---:|----:|---:|---:|---:|----:|----:|
@@ -73,14 +77,9 @@ Fighting for third place in the Heaps.
 | **Clydon**       | Zensun Vagabonds | Thrower  |   14 |    3 |   11 |   28 |    1 |   27 |    2 |    1 |    0 |    0 |    4 |   56 |
 | **Betuel**       | Zensun Vagabonds | Thrower  |   11 |    2 |    4 |   17 |    2 |   32 |    0 |    1 |    0 |    0 |    3 |   55 |
 
-[[Jonah]] and [[Clydon]] were being forced into the role of faces of the franchise before they were really ready. [[Betuel]] is rapidly rising in the ranks.
+[[Jonah]] and [[Clydon]] were being forced into the role of faces of the franchise before they were really ready. [[Betuel]] is rapidly rising in the ranks, and has a plethora of talented players ready to make catches and get the ball into endzones.
 
-The Vagabonds miss the days of having [[hulud]] anchoring their lineup.
-
-
-## History
-
-Usually credited along with the Old Wyrms as the founders of the UBBL, the Vagabonds have a long history of not being great. 
+The Vagabonds miss the days of having [[hulud]] anchoring their lineup, but [[Zaira]] is coming along as a more than competent replacement.
 
 ### Management
 
@@ -92,6 +91,4 @@ The Vagabonds' primary rivalry is with the [Old Wyrms](oldwyrms) as the pair of 
 
 ### Famous Games
 
-This loss, ending the Vagabonds' GCVIII season was [[hulud]]'s final match, as well as [[yakup]]'s. It was a great game.
-
-http://68.148.52.218/stbblm/index.php?section=matches&type=report&mid=553
+The loss that ended the Vagabonds' GCVIII season was [[hulud]]'s final match, as well as [[yakup]]'s last one in the pros. It was a great game.

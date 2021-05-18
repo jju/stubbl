@@ -1,10 +1,10 @@
 # Irregular Cogs
 
-The team of history that has never managed to re-live up to it. The Irregular Cogs won the inaugural Green Cup against their archrivals the [Old Wyrms](oldwyrms). The rest of their BludBol existence has been an attempt to hold that Green Cup again..
+The Cogs are the team of history that has never managed to re-live up to it. The Irregular Cogs won the inaugural Green Cup against their archrivals the [Old Wyrms](oldwyrms). The rest of their BludBol existence has been an attempt to hold that Green Cup again.
 
 ## Playbook
 
-The Irregular Cogs use the Drop Eagle playbook. It's an adaptation of the Hermann playbook that again requires more skilled players to run it effectively. The strategy dispenses with the catcher position entirely, instead using four skilled blitzers to run the ball, and two dedicated ball-hawks to attack the opposing ball-carriers.  The Cogs have been known to score more of their TDs on defense because of their aggressive style of defending.
+The Irregular Cogs use the Drop Eagle playbook. It's an adaptation of the Hermann playbook that again requires more skilled players to run it effectively. The strategy dispenses with the catcher position entirely, instead using four skilled blitzers and two runners to handle the ball, and two dedicated ball-hawks to attack the opposing ball-carriers. The Cogs have been known to score more of their TDs on defense because of their aggressive style of defending.
 
 ## Records
 
@@ -28,7 +28,7 @@ The Irregular Cogs use the Drop Eagle playbook. It's an adaptation of the Herman
 |-----------|--------------------|--:|--:|--:|---:|-----:|---:|---:|----:|-----:|---:|
 | Irregular Cogs | Green Cup V Memorial |    8 |    3 |    2 |     13 | 73.08 |   27 |   14 |   20 |      9 |    0 |
 | Irregular Cogs | Green Cup VII        |   13 |    0 |    5 |     18 | 72.22 |   51 |   32 |   12 |    -19 |    2 |
-| Irregular Cogs | Green Cup I          |    7 |    3 |    2 |     12 | 70.83 |   36 |   27 |   14 |    -10 |    2 |
+| Irregular Cogs | **Green Cup I**          |    7 |    3 |    2 |     12 | 70.83 |   36 |   27 |   14 |    -10 |    2 |
 | Irregular Cogs | Green Cup IX         |   11 |    1 |    5 |     17 | 67.65 |   49 |   36 |   15 |    -12 |    7 |
 | Irregular Cogs | Green Cup X          |   10 |    2 |    5 |     17 | 64.71 |   49 |   35 |   18 |     -4 |    0 |
 | Irregular Cogs | UBBL Challenge       |    2 |    1 |    1 |      4 |    62.50 |    9 |    8 |    5 |     -2 |   -1 |
@@ -42,25 +42,27 @@ The Irregular Cogs use the Drop Eagle playbook. It's an adaptation of the Herman
 
 ## History
 
-The team of history that has never managed to re-live up to it. 
+The Irregular Cogs have played a lot of BludBol, won the first Green Cup and have the second-most wins in the league. They want more.
 
 ### Seasons
 
 The Irregular Cogs won the inaugural Green Cup against their archrivals the [Old Wyrms](oldwyrms) in a thrilling 3-2 game. Then a long period of good play but few results. 
 
-In the first unified renaissance Green Cup the Irregular Cogs snuck through the GCVII season, playing well, but without the gaudy win streak of the [Machine](orbitalmachine). They amassed the most tournament points through the regular season and when the Machine was knocked out of the playoffs they looked to be a Green Cup lock. But they were defeated in the Burger Conference final by the [Ravenous Eagles](ravenouseagles) and came in third instead.
+In the first unified modern-era Green Cup (GCVII) the Irregular Cogs snuck through the season playing well, but without the gaudy win streak of the [Machine](orbitalmachine). They amassed the most tournament points through the regular season and when the Machine was knocked out of the playoffs they looked to be a Green Cup lock. But they were defeated in the Burger Conference final by the surprising [Ravenous Eagles](ravenouseagles) and came in third instead.
 
-The Cogs ended up with second place for the rookies and their best showing in many a season in a GCV Memorial tournament that doesn't count and was only a cash-grab. The Cogs are mostly happy they did better than the [Wyrms](oldwyrms) in the end.
+In the street-level GCV Memorial tournament the Cogs ended up with second place for the rookies and their best showing in many a season. Fans are well aware that it doesn't really count and was only a cash-grab but were mostly happy they did better than the [Wyrms](oldwyrms) in the end.
 
-Both Green Cups IX and X ended in the Division Finals with losses to the [Badger Claws](badgerclaws) underperforming expectations yet again. GCX even had the Cogs at the top of the standings by the end of the regular season, but a long playoff run just wasn't in the cards.
+Both Green Cups IX and X ended in the Division Finals with losses to the [Badger Claws](badgerclaws) and underperforming expectations yet again. GCX even had the Cogs at the top of the standings by the end of the regular season, but a long playoff run just wasn't in the cards.
 
 #### GCXI Projection
 
 W-D-L 9-0-6 
 
-Outlands Division Runner-Up
+There's no obvious reason the Cogs can't win the Green Cup this season. They have a big payroll and should be able to afford to develop some rookies as the season progresses. Playing for the division title is mostly about keeping the fragile [Badger Claws](badgerclaws) from getting a bye to rest up their scorers, so if things are going well early, expect them to ease up. But in GCX, the Outlands were the toughest division and they don't want to get stuck on the outside looking in.
 
 ### Stars
+
+> **Currently active players** are highlighted and modern-era players whose careers are over are not marked. *Old-era players* have incomplete statistics.
 
 | Player           | Team        | Position      | W | D | L | GP | TD | Cp | Int | BH | SI | Ki | MVP | SPP |
 |------------------|-------------|---------------|--:|--:|--:|---:|---:|---:|----:|---:|---:|---:|----:|----:|
@@ -81,19 +83,19 @@ Outlands Division Runner-Up
 | **Merlyn**     | Irregular Cogs | Runner    |   10 |    2 |    5 |   17 |    9 |   24 |    1 |    0 |    0 |    0 |    3 |   68 |
 
 
-[[besz]] played in the old-era. No one has any proof she didn't play in all the matches she says she did (as an underused backup to Halfleg), but no one quite believes her either. (Updated: Besz played 4 games in the old era. Her stats above now reflect this.) She's still good, and the heart of the Cogs, though [[Alexandros]] is trying to take over the position.
+[[besz]] played in the old-era. No one has any proof she didn't play in all the matches she says she did (as an underused backup to Halfleg), but no one quite believes her either. (Updated: Besz played 4 games in the old era. Her stats above now reflect this.) She was good for a long time, and the heart of the Cogs, though [[Alexandros]] has now taken over the position.
 
 The biggest problem with the Cogs' lineup is the value they have to give up to their opponents. Some say the team would be better if they kept a minimum of overpaid stars and went with a youth-focused approach. That's what worked in the GCV.
 
 ### Management
 
-Gryj the Hun
+Gryj the Hun was an upspirer back when they helped found the UBBL. Now they have blended right into the fabric and it's hard to imagine them anywhere else.
 
 ### Fans
 
-The fans are hugely back into the Cogs after GCIX and they are bursting for another championship.
+The fans are bursting for another championship.
 
-The Cogs and the [Old Wyrms](oldwyrms) are traditional rivals, and the fact the Cogs won the first Green Cup is the bright point for the Cogs in that history. More recently, the [Orbital Machine](orbitalmachine) made the Cogs' shit list in "the Betrayal at Dungardin" and they're always looking over their shoulders at the [Eldritch Fatality](eldritchfatality) who use the same playbook.
+The Cogs and the [Old Wyrms](oldwyrms) are traditional rivals, and the fact the Cogs won the first Green Cup is pretty much *the* bright point for the Cogs in that history. More recently, the [Orbital Machine](orbitalmachine) made the Cogs' shit list in "the Betrayal at Dungardin" and they're always looking over their shoulders at the [Eldritch Fatality](eldritchfatality) who use the same playbook.
 
 ### Famous Games
 

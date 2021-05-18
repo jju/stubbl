@@ -1,10 +1,10 @@
 # Eldritch Fatality
 
-A youngish team, they weren't active in the Green Cup before the Interruption, but have come along as fierce competitors in the Modern Era.
+A youngish team, they weren't active in the Green Cup before the interruption, but have come along as fierce competitors in the Modern Era.
 
 ## Playbook
 
-The Eldritch Fatality use the Drop Eagle playbook. It's an adaptation of the Hermann playbook that again requires more skilled players to run it effectively. The strategy dispenses with the catcher position entirely, instead using four skilled blitzers to run the ball, and two dedicated ball-hawks to attack the opposing ball-carriers. It's an aggressive defense that does as much work as their offense.
+The Eldritch Fatality use the Drop Eagle playbook. It's an adaptation of the Hermann playbook that again requires more skilled players to run it effectively. The strategy dispenses with the catcher position entirely, instead using four skilled blitzers and two runners to handle the ball, and two dedicated ball-hawks to attack the opposing ball-carriers. It's an aggressive defense that does as much work as their offense.
 
 ## Records
 
@@ -18,8 +18,9 @@ The Eldritch Fatality use the Drop Eagle playbook. It's an adaptation of the Her
 
 ### Prizes
 
-* Green Cup Classic 06 - Tough Brake of Alsoran [[team3rdplace]]
-* Green Cup IX - Classic Conference Champions [[team2ndplace]]
+* Green Cup Classic 06 - Tough Brake of Alsoran [[team3rdplace#gcc06]]
+* Green Cup VII - Pits Division Champions [[teamdivision#gcvii]]
+* Green Cup IX - Classic Conference Champions [[team2ndplace#gcix]] and Pits Champions
 
 ### Seasons
 
@@ -35,17 +36,19 @@ The Eldritch Fatality use the Drop Eagle playbook. It's an adaptation of the Her
 
 ## History
 
+The Eldritch Fatality were acitve in the lower divisions of the old-era UBBL but those records weren't kept. The Iskander family jumped at the chance to legitimize the team in the Green Cup Classic and even more so once the leagues were consolidated for GCVII.
+
 ### Seasons
 
 In Green Cup Classic 06 the Fatality were undefeated until the Orlock Machine handed them a loss in the semi-finals. They're now seen as perennial contenders with a second place (and tops of the Pits Division and Classic Conference) in Green Cup IX. That was the best the Fatality had ever done and was right in line with the pre-season expectations.
 
-Sadly for Fatality fans they followed up GCIX with an abysmal last-in-the-Pits finish. None of the projection systems had guessed things would go so badly the Fatality would face relegation so quickly (11-2-6 and Green Cup CHampion was our thought). They did fine in the UBBL Challenge IV and didn't have to face the ignominy of playing full time in the Open Division, but they will have something to prove in GCXI.  
+Sadly for Fatality fans they followed up GCIX with an abysmal last-in-the-Pits finish. None of the projection systems had guessed things would go so badly the Fatality would face relegation so quickly (11-2-6 and Green Cup Champion was our thought). They did fine in the UBBL Challenge IV and didn't have to face the ignominy of playing full time in the Open Division, but they will have something to prove in GCXI.  
 
 #### GCXI Projection
 
 W-D-L 8-1-6 
 
-Though it's hard to be super-confident, a division title seems likely.
+Though it's hard to be super-confident, a division title seems likely. But it seemed that way before GCX too.
 
 ### Stars
 
@@ -63,7 +66,7 @@ Though it's hard to be super-confident, a division title seems likely.
 | *Hermes*  | Eldritch Fatality | Attacker |   28 |    3 |   15 |   46 |   10 |    4 |    1 |    3 |    2 |    0 |    4 |   66 |
 | **Vihaio**   | Eldritch Fatality | Line   |   34 |    9 |   24 |   67 |    1 |    5 |    0 |    7 |    5 |    0 |    5 |   57 |
 
-The Fatality are just generally good at BludBol. They spread out their scoring better and with [[Filipa]] still not on the downswing there's no reason this team can't be what the [Irregular Cogs](irregularcogs) have been thought to be for their existence.
+The Fatality are just generally good at BludBol. They spread out their scoring better and with [[Filipa]] still not on the downswing there's no reason this team can't be what the [Irregular Cogs](irregularcogs) have been trying to be for their existence.
 
 ### Management
 
@@ -75,4 +78,4 @@ The Fatality have a bit of a chip on their shoulder. They are a really good team
 
 ### Famous Games
  
- #unfinished 
+ 

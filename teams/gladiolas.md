@@ -40,13 +40,13 @@ The Gladiolas have never lost more than two games in a tournament, but also have
 
 Their loss in the opening salvo of the Champions Circuit was their first taste of Pro-Level play. They liked it and want more.
 
-#### Projection OGII
+#### Projection OGIII
 
 W-D-L 7-1-2
 
 This is their year. Orange Goblet Champions.
 
-### Stars & Scrubs
+### Stars
 
 | Player           | Team        | Position      | W | D | L | GP | TD | Cp | Int | BH | SI | Ki | MVP | SPP |
 |------------------|-------------|---------------|--:|--:|--:|---:|---:|---:|----:|---:|---:|---:|----:|----:|

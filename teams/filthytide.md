@@ -1,10 +1,10 @@
 # Filthy Tide
 
-The Filthy Tide are often called the best team to never win the Green Cup. They're an Original 8 team that has had two hall-of-fame scorers in the UBBL but has never been able to convert the big win to get those stars a championship. They are currently in rebuild mode.
+The Filthy Tide are often called the best team to never win the Green Cup. They're an Original 8 team that has had two hall-of-fame scorers in the UBBL but has never been able to convert the big win to get those stars a (pro-level) championship. They have been in rebuild mode, but are banking on their new star [[Venus]] to be the difference-maker.
 
 ## Playbook
 
-The Filthy Tide uses the Scrying Avian playbook which emphasizes speed above all else, especially the health of your own players. With proper training it's possible to have a super-fast scorer onside, which makes the lack of defensive ability easier to overcome.
+The Filthy Tide uses the Scrying Avian playbook which emphasizes speed above all else, especially the health of your own players. The position slots only include 2 blitzers, but have 2 throwers, 4 catchers (sometimes more accurately labelled runners), and a heavy available. With proper training it's possible to have a super-fast scorer onside, which makes the lack of defensive ability easier to overcome.
 
 ## Records
 
@@ -43,9 +43,13 @@ The Filthy Tide uses the Scrying Avian playbook which emphasizes speed above all
 
 ## History
 
-The UBBL pennant is no Green Cup, but the Filthy Tide have been a storied team the entire existence of the league (in its various forms) and had never won anything. This victory whetted their appetite for a Green Cup somewhere in their future. Perhaps merely by playing the most matches, the Filthy Tide inflicted the most casualties in this tournament, 16 (11-5-0).
+The Tide is an integral part of the UBBL and has been from the beginning. They never really broke through in the old-era though they've had big stars. They came into the modern era trying to forge a new identity, and claimed their first team prizes in GCVI.
 
-Their 4-win GCIX campaign was devastating to a team of such history. To follow up they put their efforts in the GCV Memorial tournament to develop a replacement for Yakup. Rather than learning a more conservative style of play to match up with their GCIX team's abilities they are pinning their entire season's fortunes on [[Venus]], a young player who scored a TD and looked fast doing it.
+The Tide had an excellent GCVII season going when they ran into the bizarrely successful [Eagles](ravenouseagles) team who took Yakup out early and deflated the team.
+
+The UBBL pennant is no Green Cup, but the Filthy Tide were proud to be its first winners (and they played an amazing semi-final against the [Kaiju Dynamo](kaijudynamo) to do it). Perhaps merely by playing the most matches, the Filthy Tide inflicted the most casualties in this tournament, 16 (11-5-0).
+
+Their 4-win GCIX campaign was devastating to a team of such history. To follow up they put their efforts in the GCV Memorial tournament to develop a replacement for Yakup. Rather than learning a more conservative style of play to match up with their GCIX team's abilities they decided to try pinning their entire GCX season's fortunes on [[Venus]], a young player who scored a TD in street-level play and looked fast doing it.
 
 This approach wasn't punished too harshly in GCX, until they hit the playoffs and were steamrolled by the [Gore Farmers](gorefarmers).
 
@@ -53,9 +57,11 @@ This approach wasn't punished too harshly in GCX, until they hit the playoffs an
 
 W-D-L 7-1-7 
 
-The Tide is projected to get second in the Stacks division, but will then most likely lose in the Round of 16
+The Tide should be able to make the playoffs since they share the Stacks with a soft [TC Sump Runner team](sumprunners). Of all the teams in this Green Cup they would benefit most from getting a first-round playoff bye to avoid a round of being smashed to bits, but that means getting more wins in 15 matches than the powerhouse, defending champion [Wyrms](oldwyrms). Our projection has another round of 16 exit in store for the Tide.
 
 ### Stars
+
+> **Currently active players** are highlighted and modern-era players whose careers are over are not marked. *Old-era players* have incomplete statistics.
 
 | Player           | Team        | Position      | W | D | L | GP | TD | Cp | Int | BH | SI | Ki | MVP | SPP |
 |------------------|-------------|---------------|--:|--:|--:|---:|---:|---:|----:|---:|---:|---:|----:|----:|
@@ -77,7 +83,7 @@ The Tide is projected to get second in the Stacks division, but will then most l
 | **Tomer**            | Filthy Tide | Catcher |   13 |    5 |   18 |   36 |   13 |    3 |    1 |    1 |    0 |    0 |    4 |   66 |
 
 
-[[Somfuhr]] inflicted the most casualties of any player in the Pro Division, while for a time [[yakup]] seemed untouchable in his scoring abilities. That they couldn't convert this dynamic duo into more than a third place finish is heartbreaking. The new hope is [[Venus]], who after one pro season has more SPP than [[Sardines]] did.
+As of the start of GCXI, [[Somfuhr]] is in the Hall of Fame for inflicting the most casualties of any player in the Pro Division. For a time [[yakup]] seemed untouchable in his scoring abilities. That the team couldn't convert this dynamic duo into more than a third place Green Cup finish is heartbreaking. The new hope is [[Venus]], who after one pro season has more SPP than [[Sardines]] did.
 
 ### Management
 
