@@ -30,12 +30,12 @@ The Old Wyrms (OW) use what's known as the Excelsior playbook, where a fast frag
 
 | Team      | Season             | W  | D | L | GP | Win% | GF   | GA   | Cas  | CDif | FF   |
 |-----------|--------------------|--:|--:|--:|---:|-----:|---:|---:|----:|-----:|---:|
-| Old Wyrms | Green Cup IX         |   15 |    1 |    3 |     19 | 81.58 |   72 |   46 |   20 |    -17 |    2 |
+| Old Wyrms | **Green Cup IX**         |   15 |    1 |    3 |     19 | 81.58 |   72 |   46 |   20 |    -17 |    2 |
 | Old Wyrms | UBBL Challenge       |    3 |    0 |    1 |      4 |   75.00 |   10 |    7 |    4 |    -10 |    2 |
-| Old Wyrms | Green Cup III        |    8 |    3 |    2 |     13 | 73.08 |   43 |   25 |   11 |    -17 |    2 |
-| Old Wyrms | Green Cup X          |   11 |    5 |    3 |     19 | 71.05 |   61 |   49 |   14 |    -30 |    2 |
+| Old Wyrms | **Green Cup III**        |    8 |    3 |    2 |     13 | 73.08 |   43 |   25 |   11 |    -17 |    2 |
+| Old Wyrms | **Green Cup X**          |   11 |    5 |    3 |     19 | 71.05 |   61 |   49 |   14 |    -30 |    2 |
 | Old Wyrms | Green Cup V Memorial |    7 |    1 |    3 |     11 | 68.18 |   23 |   12 |    9 |     -9 |   -3 |
-| Old Wyrms | Green Cup IV         |    7 |    3 |    3 |     13 | 65.38 |   39 |   32 |   13 |    -27 |    2 |
+| Old Wyrms | **Green Cup IV**         |    7 |    3 |    3 |     13 | 65.38 |   39 |   32 |   13 |    -27 |    2 |
 | Old Wyrms | Green Cup II         |    6 |    2 |    3 |     11 | 63.64 |   37 |   21 |    2 |    -41 |    0 |
 | Old Wyrms | Green Cup I          |    7 |    1 |    4 |     12 |    62.50 |   40 |   28 |    6 |    -12 |    0 |
 | Old Wyrms | Green Cup VII        |    6 |    5 |    5 |     16 |  53.13 |   45 |   44 |   18 |    -39 |   -2 |

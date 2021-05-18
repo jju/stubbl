@@ -25,7 +25,7 @@ The Raptors use the Elizabeth Aardman playbook, with strong linemen and a big gu
 | Team      | Season             | W  | D | L | GP | Win% | GF   | GA   | Cas  | CDif | FF   |
 |-----------|--------------------|--:|--:|--:|---:|-----:|---:|---:|----:|-----:|---:|
 | Raptors | Rookie Rumble     |    3 |    1 |    1 |      5 |      70 |   13 |    9 |    9 |     -1 |    2 |
-| Raptors | Orange Goblet II  |    7 |    2 |    4 |     13 | 61.5385 |   26 |   25 |   21 |      1 |    4 |
+| Raptors | **Orange Goblet II**  |    7 |    2 |    4 |     13 | 61.5385 |   26 |   25 |   21 |      1 |    4 |
 | Raptors | UBBL Challenge IV |    3 |    0 |    2 |      5 |      60 |    9 |   10 |    5 |     -1 |    1 |
 
 

@@ -31,7 +31,7 @@ The Eagles use the Charles Dorf playbook, which is built on a very rigid divisio
 |-----------|--------------------|--:|--:|--:|---:|-----:|---:|---:|----:|-----:|---:|
 | Ravenous Eagles | UBBL Challenge       |    3 |    1 |    1 |      5 |      70.00 |    7 |    5 |    5 |     -2 |    0 |
 | Ravenous Eagles | Green Cup V Memorial |    9 |    0 |    4 |     13 | 69.23 |   19 |   13 |   20 |     14 |    4 |
-| Ravenous Eagles | Green Cup VII        |   11 |    2 |    6 |     19 | 63.16 |   31 |   25 |   40 |     27 |    4 |
+| Ravenous Eagles | **Green Cup VII**        |   11 |    2 |    6 |     19 | 63.16 |   31 |   25 |   40 |     27 |    4 |
 | Ravenous Eagles | Green Cup X          |    8 |    4 |    7 |     19 | 52.63 |   29 |   26 |   61 |     34 |    1 |
 | Ravenous Eagles | Green Cup VI         |    5 |    2 |    8 |     15 |      40.00 |   18 |   26 |   23 |     10 |    3 |
 | Ravenous Eagles | Green Cup VIII       |    6 |    0 |   10 |     16 |    37.50 |   16 |   24 |   34 |     14 |   -4 |

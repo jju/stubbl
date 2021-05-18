@@ -27,7 +27,7 @@ The Tatters use the Nergal playbook, which some (especially fans of pretty BludB
 
 | Team      | Season             | W  | D | L | GP | Win% | GF   | GA   | Cas  | CDif | FF   |
 |-----------|--------------------|--:|--:|--:|---:|-----:|---:|---:|----:|-----:|---:|
-| Carcosan Tatters | Green Cup II         |    7 |    3 |    2 |     12 | 70.83 |   24 |   19 |   36 |     27 |    0 |
+| Carcosan Tatters | **Green Cup II**         |    7 |    3 |    2 |     12 | 70.83 |   24 |   19 |   36 |     27 |    0 |
 | Carcosan Tatters | Green Cup III        |    6 |    3 |    2 |     11 | 68.18 |   18 |   17 |   29 |     22 |   -1 |
 | Carcosan Tatters | Green Cup VI         |   11 |    1 |    5 |     17 | 67.65 |   20 |   15 |   23 |     10 |    5 |
 | Carcosan Tatters | UBBL Challenge       |    2 |    0 |    1 |      3 | 66.67 |    4 |    3 |    7 |      3 |    1 |

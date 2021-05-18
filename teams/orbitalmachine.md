@@ -29,7 +29,7 @@ The Orbital Machine uses the Chariot playbook. This involves four massive player
 | Team      | Season             | W  | D | L | GP | Win% | GF   | GA   | Cas  | CDif | FF   |
 |-----------|--------------------|--:|--:|--:|---:|-----:|---:|---:|----:|-----:|---:|
 | Orbital Machine | Green Cup VII        |   11 |    3 |    3 |     17 | 73.53 |   29 |   17 |   42 |     33 |   -1 |
-| Orbital Machine | Green Cup Classic 06 |    6 |    1 |    3 |     10 |      65.00 |   18 |   15 |   16 |      8 |    5 |
+| Orbital Machine | **Green Cup Classic 06** |    6 |    1 |    3 |     10 |      65.00 |   18 |   15 |   16 |      8 |    5 |
 | Orbital Machine | Green Cup VIII       |    9 |    0 |    7 |     16 |   56.25 |   27 |   27 |   49 |     27 |    1 |
 | Orbital Machine | Green Cup X          |    7 |    4 |    5 |     16 |   56.25 |   27 |   27 |   40 |     26 |   -1 |
 | Orbital Machine | Green Cup IX         |    6 |    3 |    7 |     16 |  46.88 |   21 |   26 |   31 |     20 |   -1 |

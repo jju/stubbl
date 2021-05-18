@@ -27,8 +27,8 @@ The Orville-Crush approach to BludBol is traditional, simple, but also somewhat 
 | Team      | Season             | W  | D | L | GP | Win% | GF   | GA   | Cas  | CDif | FF   |
 |-----------|--------------------|--:|--:|--:|---:|-----:|---:|---:|----:|-----:|---:|
 | Gore Farmers | Green Cup IV         |    7 |    2 |    2 |     11 | 72.7273 |   22 |   13 |   28 |     21 |    3 |
-| Gore Farmers | Green Cup VI         |   10 |    3 |    4 |     17 | 67.6471 |   27 |   25 |   25 |     14 |    3 |
-| Gore Farmers | Green Cup VIII       |   11 |    3 |    5 |     19 | 65.7895 |   36 |   23 |   42 |     24 |    1 |
+| Gore Farmers | **Green Cup VI**         |   10 |    3 |    4 |     17 | 67.6471 |   27 |   25 |   25 |     14 |    3 |
+| Gore Farmers | **Green Cup VIII**       |   11 |    3 |    5 |     19 | 65.7895 |   36 |   23 |   42 |     24 |    1 |
 | Gore Farmers | UBBL Challenge       |    2 |    0 |    2 |      4 |      50 |    7 |    8 |    7 |     -2 |    2 |
 | Gore Farmers | Green Cup III        |    5 |    1 |    5 |     11 |      50 |   16 |   17 |   32 |     20 |   -1 |
 | Gore Farmers | Green Cup V Memorial |    3 |    5 |    3 |     11 |      50 |   11 |   14 |   15 |      5 |    1 |

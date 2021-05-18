@@ -28,7 +28,7 @@ The Irregular Cogs use the Drop Eagle playbook. It's an adaptation of the Herman
 |-----------|--------------------|--:|--:|--:|---:|-----:|---:|---:|----:|-----:|---:|
 | Irregular Cogs | Green Cup V Memorial |    8 |    3 |    2 |     13 | 73.08 |   27 |   14 |   20 |      9 |    0 |
 | Irregular Cogs | Green Cup VII        |   13 |    0 |    5 |     18 | 72.22 |   51 |   32 |   12 |    -19 |    2 |
-| Irregular Cogs | Green Cup I          |    7 |    3 |    2 |     12 | 70.83 |   36 |   27 |   14 |    -10 |    2 |
+| Irregular Cogs | **Green Cup I**          |    7 |    3 |    2 |     12 | 70.83 |   36 |   27 |   14 |    -10 |    2 |
 | Irregular Cogs | Green Cup IX         |   11 |    1 |    5 |     17 | 67.65 |   49 |   36 |   15 |    -12 |    7 |
 | Irregular Cogs | Green Cup X          |   10 |    2 |    5 |     17 | 64.71 |   49 |   35 |   18 |     -4 |    0 |
 | Irregular Cogs | UBBL Challenge       |    2 |    1 |    1 |      4 |    62.50 |    9 |    8 |    5 |     -2 |   -1 |

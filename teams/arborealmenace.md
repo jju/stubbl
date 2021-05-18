@@ -52,6 +52,23 @@ W-D-L 8-1-6
 
 Current projections have them battling the [Tatters](carcosantatters) for third place in the Outlands. They are bringing a more experienced roster into GCXI and it's possible they can hang in there with a very tough division.
 
+| Player | Position | Tier |
+|--------|----------|-----|
+| Ingeborg | Thrower | Experienced |
+| Susila |  Thrower | Emerging Star
+| Laurel | Catcher | Star |
+| Attilla | Catcher | Star |
+| Sanja | Blitzer | Star |
+| Kropotkin | Blitzer | Star |
+| Unnr | Line | Experienced |
+| Chantrea | Line | Emerging Star |
+| Iago | Line | Veteran |
+| Joona | Line | Veteran |
+| Priyanka | Kicker | Experienced |
+| Georgina | Catcher | Superstar |
+| Nitika | Catcher | Star |
+| Borarinn | Heavy | Emerging Star |
+
 ### Stars
 
 > **Currently active players** are highlighted and modern-era players whose careers are over are not marked.
@@ -73,7 +90,7 @@ Current projections have them battling the [Tatters](carcosantatters) for third 
 
 [[Georgina]] won the StUBBL Jumper for UBBL Challenge III. They have amazingly soft hands and there are a few rumblings that they're gunning for the Pro Interception record.
 
-[[Hartwin]] was primarily a backfield passer, though she had the arm for it, she didn't go the extreme long-passing route of a [[yosif]] or the deceased [[Adam]] or [[Ozymandias]] for the old school). The anticipation that in the Green Cup she'd need a backup did come true, and [[Susila]] is now working his way up the skill tree.
+[[Hartwin]] was primarily a backfield passer, though she had the arm for it, she didn't go the extreme long-passing route of a [[yosif]] or the deceased [[Adam]] (or [[Ozymandias]] for the old school). The anticipation that in the Green Cup she'd need a backup did come true, and [[Susila]] is now working his way up the skill tree.
 
 [[Laurel]] and [[Attilla]] are both remarkably good catchers but neither has made themselves part of the larger superstar picture in their first Green Cup campaign.
 

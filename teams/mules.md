@@ -29,7 +29,7 @@ The Mules use the Darvati Dorf playbook, which is built on a lineup slow tackler
 |-----------|--------------------|--:|--:|--:|---:|-----:|---:|---:|----:|-----:|---:|
 | Mules | Champions Circuit  |    1 |    0 |    0 |      1 |     100.00 |    2 |    1 |    2 |      2 |    1 |
 | Mules | UBBL Challenge III |    4 |    0 |    2 |      6 | 66.67 |   10 |    8 |   13 |      8 |    2 |
-| Mules | UBBL Challenge     |    2 |    1 |    1 |      4 |    62.50 |    6 |    4 |   10 |     10 |    1 |
+| Mules | **UBBL Challenge**     |    2 |    1 |    1 |      4 |    62.50 |    6 |    4 |   10 |     10 |    1 |
 | Mules | Orange Goblet      |    8 |    0 |    5 |     13 | 61.54 |   21 |   16 |   23 |     10 |    1 |
 | Mules | UBBL Challenge II  |    3 |    0 |    2 |      5 |      60.00 |    7 |    8 |   11 |      4 |    1 |
 | Mules | Orange Goblet II |    6 |    2 |    5 |     13 | 53.8462 |   20 |   18 |   30 |     22 |   -4 |
