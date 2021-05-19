@@ -1,8 +1,21 @@
 # Team
 
 
-
 ## Playbook
+
+## Active Roster
+
+| Player    | Position  | SPP | Seasons |
+|-----------|-----------|-----|---------|
+
+### Depth
+
+| Player    | Position  | SPP | Seasons |
+|-----------|-----------|-----|---------|
+
+`
+SELECT pl.name AS Player, pl.f_pos_name AS Position, sum(mp.spp) AS 'SPP', count(DISTINCT mp.f_trid) AS Seasons FROM mv_players as mp  JOIN players as pl ON mp.f_pid = pl.player_id AND mp.f_tid = pl.owned_by_team_id WHERE pl.f_tname = "Team Name" GROUP BY pl.name HAVING pl.name NOT LIKE '%.' ORDER BY pl.nr ASC;
+`
 
 ## Records
 
@@ -37,6 +50,9 @@ SELECT teams.name AS Team, tours.name AS Season, mr.won, mr.draw, mr.lost, 	mr.p
 #### Projection Next Season
 
 W-D-L ?-?-?
+
+
+
 
 
 ### Stars

@@ -6,6 +6,46 @@ The Carcosan Tatters have always been a very good team. They're defensive-minded
 
 The Tatters use the Nergal playbook, which some (especially fans of pretty BludBol) say is one of the oldest and most insidious ways to play. The lineup consists of four strong blockers, four blitzing ball handlers and whatever dregs of fodder can be pulled off the street or opposing teams. Their biggest strengths are making everything difficult for the opposition.
 
+## Active Roster
+
+| Player    | Position  | SPP | Seasons |
+|-----------|-----------|-----|---------|
+| Tycho            | Thrower          |   72 |       5 |
+| Petronela        | Line          |    6 |       3 |
+| Sparrow          | Blitzer        |  101 |       3 |
+| Arya             | Blitzer        |   59 |       4 |
+| Orna             | Blitzer        |  100 |       8 |
+| Marley           | Blitzer        |   65 |       5 |
+| Dalitso          | Blocker  |   22 |       3 |
+| FlamingLion      | Blocker  |   29 |       4 |
+| OreSmitingMaster | Blocker  |   42 |       7 |
+| Frommik          | Line          |    1 |       2 |
+| Elke             | Line          |   21 |       5 |
+| Uzmal            | Line          |   11 |       3 |
+| Lucrece          | Line          |   22 |       4 |
+| Pierre           | Heavy |   84 |       7 |
+
+
+### Depth Chart
+
+| Player    | Position  | SPP | Seasons |
+|-----------|-----------|-----|---------|
+| MaskedPain       | Blitzer        |   59 |       4 |
+| Chaggai          | Blocker  |   33 |       2 |
+| Shunmyo          | Blocker  |   33 |       2 |
+| Cain             | Kicker          |   10 |       5 |
+| Iapheth          | Line          |    7 |       5 |
+| Swanahil         | Line          |    2 |       6 |
+| Maryna           | Line          |    0 |       1 |
+| Gebhard          | Line          |    0 |       1 |
+| Steinunn         | Line          |    0 |       1 |
+| Cahal            | Line          |    0 |       1 |
+| Zeki             | Line          |    0 |       1 |
+| Eveleen          | Line          |    0 |       1 |
+| Sandra           | Line          |    0 |       1 |
+| Kenneth          | Line          |    0 |       1 |
+
+
 ## Records
 
 ### Pro Level Record (W-D-L)

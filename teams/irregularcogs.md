@@ -6,6 +6,32 @@ The Cogs are the team of history that has never managed to re-live up to it. The
 
 The Irregular Cogs use the Drop Eagle playbook. It's an adaptation of the Hermann playbook that again requires more skilled players to run it effectively. The strategy dispenses with the catcher position entirely, instead using four skilled blitzers and two runners to handle the ball, and two dedicated ball-hawks to attack the opposing ball-carriers. The Cogs have been known to score more of their TDs on defense because of their aggressive style of defending.
 
+## Active Roster
+
+| Player    | Position  | SPP | Seasons |
+|-----------|-----------|-----|---------|
+| Alexandros | Runner    |  108 |       6 |
+| Merlyn     | Runner    |   74 |       2 |
+| Frans      | Blitzer   |   55 |       2 |
+| Mackenzie  | Blitzer   |   77 |       3 |
+| Zina       | Blitzer   |   84 |       5 |
+| Hrolfr     | Blitzer   |   50 |       2 |
+| Mirche     | Lineman   |   53 |       9 |
+| Loegaire   | Lineman   |   31 |       3 |
+| Iniobong   | Lineman   |   17 |       3 |
+| Granlan    | Lineman   |    7 |       4 |
+| Matheo     | Lineman   |    7 |       3 |
+| Pinja      | Witch Elf |   35 |       2 |
+| Ignat      | Witch Elf |   76 |       6 |
+
+### Depth Chart
+
+| Player    | Position  | SPP | Seasons |
+|-----------|-----------|-----|---------|
+| Tel        | Lineman   |   17 |       5 |
+| Grumman    | Lineman   |   19 |       3 |
+| Erazem     | Witch Elf |   59 |       6 |
+
 ## Records
 
 ### Pro Level Record (W-D-L)

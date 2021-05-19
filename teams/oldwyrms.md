@@ -6,6 +6,28 @@ Even when they're bad they aren't that bad. And when they're good they're dazzli
 
 The Old Wyrms (OW) use what's known as the Excelsior playbook, where a fast fragile receiving corps works together downfield making catches in traffic and getting out of trouble. It's a shorter-passing game than the High Extension playbook used by the [Glorious Hounds](glorioushounds) but when you can avoid injury it's very effective, as the Wyrms have shown.
 
+## Active Roster
+
+| Player | Position | Tier |
+|--------|----------|-----|
+| Elvis |  Thrower | Legend |
+| Jia | Thrower | Star
+| Amador | Catcher | Legend
+| Seosamh | Catcher | Superstar
+| Kelemann | Blitzer | Star
+| Rati | Blitzer | Star
+| Elisavet | Line | Emerging Star
+| Leilani | Line | Experienced
+| Katina | Line | Experienced
+| Teresia | Line | Experienced
+| Andela | Kicker | Emerging Star
+| Alva | Line | Experienced
+| Olaug | Catcher | Veteran
+| Modest | Catcher | Star
+| Belmont | Line | Emerging Star
+
+Andela and Olaug were not part of the GCX Champion team, but Andela was around for GCIX.
+
 ## Records
 
 ### Pro Level Record (W-D-L)
@@ -66,26 +88,6 @@ When it comes down to a winner-take-all match, the Old Wyrms are still beatable 
 W-D-L 9-1-5
 
 The Wyrms are going into GCXI looking to win it all again. They have a big payroll, and the funds to absorb any financial losses. The general assumption is that they will win the Stacks division easily, but could be vulnerable in the Burger Conference Final depending on how aggressively bashy their rivals play.
-
-| Player | Position | Tier |
-|--------|----------|-----|
-| Elvis |  Thrower | Legend |
-| Jia | Thrower | Star
-| Amador | Catcher | Legend
-| Seosamh | Catcher | Superstar
-| Kelemann | Blitzer | Star
-| Rati | Blitzer | Star
-| Elisavet | Line | Emerging Star
-| Leilani | Line | Experienced
-| Katina | Line | Experienced
-| Teresia | Line | Experienced
-| Andela | Kicker | Emerging Star
-| Alva | Line | Experienced
-| Olaug | Catcher | Veteran
-| Modest | Catcher | Star
-| Belmont | Line | Emerging Star
-
-Andela and Olaug were not part of the GCX Champion team, but Andela was around for GCIX.
 
 ### Stars
 

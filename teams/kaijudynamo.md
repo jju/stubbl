@@ -6,6 +6,42 @@ The Kaiju Dynamo are a frustrating team to cheer for. They always seem right on 
 
 The Dynamo use the Elizabeth Aardman playbook, with a front line of strong blockers and a big guy anchoring the centre, while the ball handling runners are chosen for speed (rather than skill, strength or durability). The basic idea of the playbook is to cage the fragile runner to a place where they can bolt for the endzone.
 
+## Active Roster
+
+| Player    | Position  | SPP | Seasons |
+|-----------|-----------|-----|---------|
+| Starfin   | Runner    |   81 |       5 |
+| Louis     | Runner    |   32 |       2 |
+| Marco     | Runner    |   79 |       4 |
+| Fidolio   | Runner    |   31 |       5 |
+| Deepali   | Blocker   |   65 |       5 |
+| Haruna    | Blocker   |   36 |       5 |
+| Renaud    | Blocker   |   38 |       4 |
+| Brown     | Blocker   |   35 |       5 |
+| Quan      | Blocker   |   40 |       3 |
+| Euryalus  | Blocker   |   39 |       3 |
+| Vardan    | Runner    |   51 |       2 |
+| Oliwer    | Runner    |   16 |       3 |
+| Dinh      | Runner    |   17 |       3 |
+| Pentecost | Runner    |   22 |       6 |
+| Tijmen    | Heavy |   68 |       4 |
+
+### Depth
+
+| Player    | Position  | SPP | Seasons |
+|-----------|-----------|-----|---------|
+| Nelson    | Blocker   |   25 |       5 |
+| Narayan   | Blocker   |   23 |       4 |
+| Sudhir    | Blocker   |   16 |       3 |
+| Naia      | Runner    |    8 |       1 |
+| Yusef     | Runner    |    3 |       1 |
+| Bibek     | Runner    |    0 |       2 |
+| Erika     | Runner    |    0 |       2 |
+| Ion       | Runner    |    0 |       2 |
+| Leon      | Runner    |    0 |       1 |
+| Jana      | Runner    |    0 |       1 |
+| Aatos     | Runner    |    0 |       1 |
+
 ## Records
 
 ### Pro Level Record (W-D-L)

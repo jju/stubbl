@@ -6,6 +6,42 @@ The Filthy Tide are often called the best team to never win the Green Cup. They'
 
 The Filthy Tide uses the Scrying Avian playbook which emphasizes speed above all else, especially the health of your own players. The position slots only include 2 blitzers, but have 2 throwers, 4 catchers (sometimes more accurately labelled runners), and a heavy available. With proper training it's possible to have a super-fast scorer onside, which makes the lack of defensive ability easier to overcome.
 
+## Active Roster
+
+| Player    | Position  | SPP | Seasons |
+|-----------|-----------|-----|---------|
+| Geir        | Thrower       |   33 |       3 |
+| Aleksy      | Thrower       |   81 |       2 |
+| Venus       | Catcher |  128 |       2 |
+| Septimus    | Catcher |   76 |       9 |
+| Slawomir    | Blitzer       |   43 |       3 |
+| Briseida    | Blitzer       |   19 |       5 |
+| Angilberct  | Line       |    9 |       3 |
+| Emilee      | Line       |    6 |       3 |
+| Hadassah    | Line       |   21 |       4 |
+| Kgosi       | Line       |    0 |       3 |
+| Ellanher    | Line       |    8 |       2 |
+| Milica      | Catcher |   43 |       3 |
+| Othniel     | Catcher |   16 |       2 |
+| Tomer       | Catcher |   66 |       3 |
+| Uzma        | Heavy      |   51 |       4 |
+
+
+### Depth Chart
+
+| Player    | Position  | SPP | Seasons |
+|-----------|-----------|-----|---------|
+| Enrique     | Line       |    0 |       1 |
+| Karthikeyan | Line       |    0 |       2 |
+| Giselle     | Line       |    0 |       2 |
+| Dora        | Line       |    0 |       1 |
+| Daibhi      | Line       |    0 |       2 |
+| Teofil      | Line       |    0 |       1 |
+| Robin       | Line       |    0 |       1 |
+| Hanne       | Line       |    0 |       1 |
+| Idunn       | Line       |    0 |       1 |
+| Elmer       | Line       |    0 |       2 |
+
 ## Records
 
 ### Pro Level Record (W-D-L)

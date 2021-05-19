@@ -6,6 +6,44 @@ The Cackling Furies are an Old-Era expansion team that can cause a lot of injuri
 
 The Furies use the Norton playbook, which is mostly a way to get less skilled players to channel their energy into flinging themselves at the opposition in a terrible frenzy. The use a couple of strong attacking ball-hawks, some blitzers, even receivers, but all one sees when a team is going Norton is whirling masses of limbs and teeth. To do this they can't protect themselves very well, so there is a lot of roster turnover.
 
+## Active Roster
+
+| Player    | Position  | SPP | Seasons |
+|-----------|-----------|-----|---------|
+| Luanna     | Thrower        |  122 |       5 |
+| Thiemo     | Line        |   18 |       4 |
+| Aronne     | Catcher        |  121 |       5 |
+| Rickon     | Catcher        |  113 |       8 |
+| Ed         | Blitzer        |   44 |       5 |
+| Faite      | Blitzer        |    3 |       1 |
+| Hasan      | Line        |   21 |       4 |
+| Rina       | Line        |   20 |       5 |
+| Orazio     | Line        |   14 |       4 |
+| Matleena   | Line        |    7 |       4 |
+| Hin        | Attacker |   43 |       5 |
+| Sophronia  | Attacker |   78 |       8 |
+| Svyatopolk | Heavy         |    7 |       3 |
+
+### Depth Chart
+
+| Player    | Position  | SPP | Seasons |
+|-----------|-----------|-----|---------|
+| Shashi     | Catcher        |   80 |       2 |
+| Danr       | Blitzer        |   58 |       3 |
+| Puneeta    | Line        |   25 |       3 |
+| Chizoba    | Line        |    7 |       2 |
+| Jeltsje    | Line        |   20 |       1 |
+| Vinter     | Line        |   14 |       4 |
+| Frommik    | Line        |   54 |       7 |
+| Kichiro    | Line        |    0 |       1 |
+| Sevinc     | Line        |    0 |       1 |
+| Aniketos   | Line        |    0 |       1 |
+| Rafferty   | Line        |    0 |       1 |
+| Tofa       | Line        |    0 |       1 |
+| Aarthi     | Line        |    0 |       1 |
+| Mumina     | Line        |    0 |       1 |
+
+
 ## Records
 
 ### Pro Level Record (W-D-L)

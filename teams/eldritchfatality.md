@@ -6,6 +6,30 @@ A youngish team, they weren't active in the Green Cup before the interruption, b
 
 The Eldritch Fatality use the Drop Eagle playbook. It's an adaptation of the Hermann playbook that again requires more skilled players to run it effectively. The strategy dispenses with the catcher position entirely, instead using four skilled blitzers and two runners to handle the ball, and two dedicated ball-hawks to attack the opposing ball-carriers. It's an aggressive defense that does as much work as their offense.
 
+## Active Roster
+
+| Player    | Position  | SPP | Seasons |
+|-----------|-----------|-----|---------|
+| Filipa     | Runner    |  151 |       4 |
+| Ayane      | Blitzer   |   32 |       2 |
+| Beatrix    | Blitzer   |  115 |       7 |
+| Yair       | Line   |   14 |       4 |
+| Xaver      | Line   |    0 |       2 |
+| Danel      | Line   |    0 |       1 |
+| Mieczyslaw | Line   |    0 |       2 |
+| Ermenrich  | Line   |    0 |       1 |
+| Vihaio     | Line   |   64 |       8 |
+| Dunstan    | Attacker |   50 |       4 |
+| Huguo      | Attacker |   16 |       3 |
+
+
+### Depth Chart
+
+| Player    | Position  | SPP | Seasons |
+|-----------|-----------|-----|---------|
+| Atte       | Blitzer   |  164 |       3 |
+| Betul      | Blitzer   |  119 |       4 |
+
 ## Records
 
 ### Pro Level Record (W-D-L)

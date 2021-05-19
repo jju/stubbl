@@ -6,6 +6,32 @@ The Hounds are all about deep passes to wide open receivers and how that is "the
 
 The Glorious Hounds use the High Extension playbook, a venerable adaptation of the Hermann technique. Generally to play this style, you need a higher skill level. The playbook uses four receivers but only two blitzers and no big guy option. The idea is usually for the thrower to hang onto the ball longer than in the Excelsior or Drop Eagle playbooks giving the catchers time to get open downfield.
 
+## Active Roster
+
+| Player    | Position  | SPP | Seasons |
+|-----------|-----------|-----|---------|
+| Oxana    | Thrower  |   65 |       3 |
+| Cecile   | Thrower  |  110 |       6 |
+| Udo      | Catcher  |   99 |       5 |
+| Ziba     | Catcher  |   95 |       2 |
+| Veles    | Blitzer  |   45 |       3 |
+| Florinda | Blitzer  |   77 |       5 |
+| Owain    | Line  |    6 |       3 |
+| Tsutsiko | Line  |   13 |       3 |
+| Valeriy  | Line  |   19 |       3 |
+| August   | Kicker  |   28 |       3 |
+| Wawatam  | Line  |    6 |       2 |
+| Branson  | Catcher  |   62 |       3 |
+| Irenaeus | Catcher  |   58 |       3 |
+
+### Depth Chart
+
+| Player    | Position  | SPP | Seasons |
+|-----------|-----------|-----|---------|
+| Lestari  | Line  |    0 |       1 |
+| Zeenat   | Line  |    0 |       1 |
+| Aiza     | Line  |    0 |       1 |
+
 ## Records
 
 ### Pro Level Record (W-D-L)

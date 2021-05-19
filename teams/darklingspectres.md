@@ -6,6 +6,53 @@ While of late the Darkling Spectres have been mired in mediocrity, they can be a
 
 The Spectres use the traditional Unglewort playbook. They have nigh-unlimited cheap slow fodder for the line that funnel opposition towards the reliable massive blockers. Two blitzers attack opposing ball-carriers, and up to four runners supply all of the speed, though they are very fragile.
 
+## Active Roster
+
+| Player    | Position  | SPP | Seasons |
+|-----------|-----------|-----|---------|
+| Persis       | Line |    7 |       1 |
+| Gojko        | Runner    |   86 |       4 |
+| Zdravko      | Runner    |   44 |       3 |
+| Melite | Runner | 0 | 0 |
+| Xochiquetzal | Blitzer    |    9 |       2 |
+| Grid         | Blitzer    |   35 |       4 |
+| Xiomara      | Line |    7 |       1 |
+| Sumit        | Line |    6 |       2 |
+| Antinanco    | Line |    7 |       1 |
+| Austeja      | Line |    8 |       1 |
+| Hyram        | Line |    6 |       1 |
+| Amir         | Line |    7 |       2 |
+| Kole         | Line |    7 |       1 |
+| Blodeuwedd   | Line |    7 |       1 |
+
+### Depth Chart
+
+| Player    | Position  | SPP | Seasons |
+|-----------|-----------|-----|---------|
+| Olufunmi     | Runner    |   82 |       5 |
+| Channing     | Runner    |   76 |       4 |
+| Ragnar       | Runner    |   27 |       1 |
+| Lamont       | Blitzer    |   59 |       8 |
+| Cheaphat     | Blocker    |   31 |       2 |
+| Vayu         | Blocker    |   44 |       4 |
+| Onesiphorus  | Blocker    |   63 |       3 |
+| Mahesh       | Blocker    |   42 |       2 |
+| Simon        | Blocker    |   85 |       6 |
+| Henry        | Line   |   12 |       2 |
+| Marian       | Line |   14 |       5 |
+| Journee      | Line   |    0 |       2 |
+| Florrie      | Line |   22 |      10 |
+| Nail         | Line |   18 |       9 |
+| Willburg     | Line   |    2 |       2 |
+| Uilliam      | Line   |    0 |       2 |
+| Vinter       | Line   |    0 |       2 |
+| Jeltsje      | Line   |    0 |       1 |
+| Nnenna       | Line |    0 |       1 |
+| Helga        | Line |    0 |       1 |
+| Renate       | Line |    0 |       1 |
+| Elise        | Line |    0 |       1 |
+| Sheyna       | Line |    0 |       1 |
+
 ## Records
 
 ### Pro Level Record (W-D-L)

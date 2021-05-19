@@ -6,6 +6,31 @@ A dominant bashing Modern-Era team, the Orbital Machine embodies a team-oriented
 
 The Orbital Machine uses the Chariot playbook. This involves four massive players on the line with everyone else more lightly armoured but able to blitz like no one's business. Passing and ball-handling tend to be a secondary consideration and get focused into whichever players show an aptitude while the rest of the team assembles the cage to roll down the field.
 
+## Active Roster
+
+| Player    | Position  | SPP | Seasons |
+|-----------|-----------|-----|---------|
+| Ruslan   | Blitzer      |   63 |       3 |
+| Jarm     | Blitzer      |    5 |       3 |
+| Kendrick | Blitzer      |   49 |       3 |
+| Stino    | Blitzer      |   23 |       6 |
+| Spinal   | Blitzer      |   37 |       5 |
+| Odalric  | Blocker |   59 |       3 |
+| Mate     | Blocker |   51 |       4 |
+| Jothi    | Blocker |   56 |       2 |
+| Bolt     | Blocker |   45 |       5 |
+| Corinne  | Blitzer      |    8 |       3 |
+| Praveena | Blitzer      |    0 |       3 |
+| Uli      | Heavy      |   70 |       3 |
+
+### Depth
+
+| Player    | Position  | SPP | Seasons |
+|-----------|-----------|-----|---------|
+| Leppard  | Blitzer      |  125 |       6 |
+| Collar   | Blocker |   42 |       4 |
+| Anvil    | Blocker |   33 |       4 |
+
 ## Records
 
 ### Pro Level Record (W-D-L)

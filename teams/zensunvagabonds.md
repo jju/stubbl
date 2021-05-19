@@ -6,6 +6,35 @@ Usually credited along with the [Old Wyrms](oldwyrms) as the founders of the UBB
 
 The Vagabonds use the Hermann playbook, the original plan for playing BludBol, and the one that every other strategy is an adaptation of. The team has two thrower positions available, 4 catchers, 4 blitzers, a big guy and fills out the rest of the lineup with undistinguished concussion-fodder. Like most Hermann teams, the Vagabonds don't use all their specialist receivers, trusting more to a running game with the blitzers.
 
+## Active Roster
+
+| Player    | Position  | SPP | Seasons |
+|-----------|-----------|-----|---------|
+| Clydon     | Thrower  |   59 |       5 |
+| Betuel     | Thrower  |   58 |       3 |
+| Jonah      | Catcher  |   85 |       5 |
+| Padma      | Blitzer  |  100 |       4 |
+| Alizee     | Blitzer  |    9 |       1 |
+| Voos       | Blitzer  |   10 |       3 |
+| Dene       | Blitzer  |   40 |       5 |
+| Alphege    | Lineman  |    0 |       2 |
+| Leone      | Lineman  |    7 |       5 |
+| Hamza      | Lineman  |   17 |       6 |
+| Eetu       | Lineman  |    6 |       4 |
+| Everette   | Lineman  |    0 |       4 |
+| Yehochanan | Lineman  |   26 |       8 |
+| Joscelin   | Lineman  |    0 |       1 |
+| Breann     | Lineman  |    0 |       3 |
+| Mia        | Blitzer  |   42 |       4 |
+| Zaira      | Heavy     |   53 |       6 |
+
+### Depth
+
+| Player    | Position  | SPP | Seasons |
+|-----------|-----------|-----|---------|
+| Sashka     | Lineman  |    0 |       1 |
+| Seela      | Blitzer  |   22 |       2 |
+
 ## Records
 
 ### Pro Level Record (W-D-L)

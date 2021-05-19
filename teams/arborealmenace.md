@@ -6,6 +6,31 @@ The Arboreal Menace are the newest entries for the Green Cup competition, having
 
 The Arboreal Menace use the Wary Eagle playbook, which is very similar to the Scrying Avian technique, but with slightly higher skilled (and more expensive to replace) players. The lineup includes four catchers, two blitzers and throwers that have more of an option of holding back and letting fly once the catchers are in position. The heavy on a Wary Eagle team is much less mobile than on a Scrying Avian but provides an anchor for the line.
 
+## Active Roster
+
+| Player | Position | Tier |
+|--------|----------|-----|
+| Ingeborg | Thrower | Experienced |
+| Susila |  Thrower | Emerging Star
+| Laurel | Catcher | Star |
+| Attilla | Catcher | Star |
+| Sanja | Blitzer | Star |
+| Kropotkin | Blitzer | Star |
+| Unnr | Line | Experienced |
+| Chantrea | Line | Emerging Star |
+| Iago | Line | Veteran |
+| Joona | Line | Veteran |
+| Priyanka | Kicker | Experienced |
+| Georgina | Catcher | Superstar |
+| Nitika | Catcher | Star |
+| Borarinn | Heavy | Emerging Star |
+
+### Depth Chart
+
+| Player    | Position  | Tier |
+|-----------|-----------|-----|
+| Bishop | Line | Rookie |
+
 ## Records
 
 ### Pro Level Record (W-D-L)
@@ -51,23 +76,6 @@ The fourth UBBL Challenge saw a return to form where they easily made the quarte
 W-D-L 8-1-6
 
 Current projections have them battling the [Tatters](carcosantatters) for third place in the Outlands. They are bringing a more experienced roster into GCXI and it's possible they can hang in there with a very tough division.
-
-| Player | Position | Tier |
-|--------|----------|-----|
-| Ingeborg | Thrower | Experienced |
-| Susila |  Thrower | Emerging Star
-| Laurel | Catcher | Star |
-| Attilla | Catcher | Star |
-| Sanja | Blitzer | Star |
-| Kropotkin | Blitzer | Star |
-| Unnr | Line | Experienced |
-| Chantrea | Line | Emerging Star |
-| Iago | Line | Veteran |
-| Joona | Line | Veteran |
-| Priyanka | Kicker | Experienced |
-| Georgina | Catcher | Superstar |
-| Nitika | Catcher | Star |
-| Borarinn | Heavy | Emerging Star |
 
 ### Stars
 

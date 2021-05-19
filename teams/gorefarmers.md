@@ -6,6 +6,34 @@ When the Gore Farmers are good they can be very good, as evidenced by their two 
 
 The Orville-Crush approach to BludBol is traditional, simple, but also somewhat arcane. A team can use 4 strong slow and unskilled linemen, 4 faster attacking blitzers, 2 dedicated ball-handlers, 4 weak slow receivers and a nigh-unlimited supply of tough fodder. The basic idea is to get a ball handler into a cage and grind out a 2-1 win, but there are more options for the team that wishes to develop them. The Gore Farmers, for instance, *mostly* eschew the Big Guy approach.
 
+## Active Roster
+
+| Player    | Position  | SPP | Seasons |
+|-----------|-----------|-----|---------|
+| Ros        | Thrower           |   53 |       2 |
+| SkyTripper | Thrower           |   90 |       4 |
+| Aemulus    | Blitzer           |   77 |       2 |
+| Nuru       | Catcher            |   66 |       4 |
+| Aethelraed | Blitzer           |   16 |       3 |
+| Beitris    | Blitzer           |   39 |       3 |
+| Eloi       | Blocker |   36 |       2 |
+| Pasquale   | Blocker |   31 |       2 |
+| RockLobber | Blocker |   63 |       5 |
+| Emil       | Blocker |   46 |       4 |
+| Helmuth    | Line           |   21 |       5 |
+| Sylvester  | Blitzer           |   28 |       3 |
+
+### Depth Chart
+
+| Player    | Position  | SPP | Seasons |
+|-----------|-----------|-----|---------|
+| Elric      | Blitzer           |   32 |       2 |
+| Bent       | Catcher            |   32 |       4 |
+| Mashee     | Catcher            |   85 |       7 |
+| Eulaylia   | Line           |   16 |       5 |
+| Johann     | Line           |    8 |       1 |
+
+
 ## Records
 
 ### Pro Level Record (W-D-L)

@@ -6,6 +6,33 @@ The Badger Claws fought their way into Green Cup play from the Open Division thr
 
 The Badger Claws use the Scrying Avian playbook which emphasizes speed above all else, especially the health of your own players. The position slots only include 2 blitzers, but have 2 throwers, 4 catchers (sometimes more accurately labelled runners), and a heavy available. With proper training it's possible to have a super-fast scorer onside, which makes the lack of defensive ability easier to overcome.
 
+## Active Roster
+
+| Player    | Position  | SPP | Seasons |
+|-----------|-----------|-----|---------|
+| Cleve      | Thrower       |  138 |       5 |
+| Consolo    | Thrower       |   55 |       3 |
+| Aeson      | Catcher |  524 |       5 |
+| Klim       | Catcher |   25 |       2 |
+| Sunny      | Catcher |   33 |       3 |
+| Olanrewaju | Catcher |   36 |       2 |
+| Anselmo    | Line       |    7 |       4 |
+| Felicienne | Line       |    7 |       3 |
+| Marge      | Line       |   11 |       3 |
+| Gerty      | Line       |    0 |       2 |
+| Simas      | Kicker     |    7 |       4 |
+| Ejiroghene | Line       |    0 |       3 |
+| Ishkur     | Blitzer       |   10 |       1 |
+| Iris       | Blitzer       |   40 |       3 |
+| Pippin     | Heavy      |   47 |       2 |
+| Willburg   | Line       |    4 |       2 |
+
+### Depth Chart
+
+| Player    | Position  | SPP | Seasons |
+|-----------|-----------|-----|---------|
+| Rong | Catcher | 0 | 0 |
+
 ## Records
 
 ### Pro Level Record (W-D-L)

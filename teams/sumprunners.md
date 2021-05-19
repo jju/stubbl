@@ -6,6 +6,29 @@ They were once thought to be the future of BludBol in the old era UBBL, and were
 
 The Sump Runners use the Hermann playbook, the original plan for playing BludBol, and the one that every other strategy is an adaptation of. The team has two thrower positions available, 4 catchers, 4 blitzers, a big guy and fills out the rest of the lineup with undistinguished concussion-fodder. In actuality, most Hermann teams don't use all their specialist receivers, trusting more to a running game with the blitzers. The Sump Runners have some oddities in their lineup including using one of their thrower slots as a makeshift blitzer.
 
+## Active Roster
+
+| Player    | Position  | SPP | Seasons |
+|-----------|-----------|-----|---------|
+| Jacquetta | Lineman  |  143 |       5 |
+| Shay      | Thrower  |  127 |       4 |
+| Pol       | Blitzer  |   62 |       3 |
+| Metin     | Catcher  |   45 |       3 |
+| Danae     | Blitzer  |   37 |       5 |
+| Eylul     | Lineman  |   35 |       4 |
+| Hoss      | Lineman  |   60 |       9 |
+| Agus      | Lineman  |    0 |       2 |
+| Edgar     | Lineman  |   45 |       8 |
+| Berger    | Lineman  |    0 |       3 |
+| Sille     | Lineman  |    0 |       2 |
+| Zdislava  | Blitzer  |   31 |       3 |
+
+### Depth
+
+| Player    | Position  | SPP | Seasons |
+|-----------|-----------|-----|---------|
+
+
 ## Records
 
 ### Pro Level Record (W-D-L)

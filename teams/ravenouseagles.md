@@ -6,6 +6,38 @@ The Ravenous Eagles are often referred to as the Worst Green Cup Champions, whic
 
 The Eagles use the Charles Dorf playbook, which is built on a very rigid division of smash and grab labour. They use slow tacklers on the line to block off the centre, three strong blitzers and a fragile ball-handling corps (which is a faster group than the blockers, but comparatively slow across the league) to score just as much as is necessary.
 
+## Active Roster
+
+| Player    | Position  | SPP | Seasons |
+|-----------|-----------|-----|---------|
+| Bates      | Line           |   58 |       4 |
+| Leckerslie | Line           |    6 |       3 |
+| Desponia   | Blocker |   20 |       4 |
+| Jonquil    | Blocker |   40 |       4 |
+| Nedyalko   | Blocker |   10 |       4 |
+| Petrona    | Blocker |    0 |       2 |
+| Gemma      | Blocker |    0 |       2 |
+| Sanjana    | Blocker |   41 |       6 |
+| Donato     | Kicker           |    8 |       3 |
+| Niko       | Line           |   68 |       5 |
+| Imaan      | Line           |   10 |       2 |
+| Chikondi   | Blitzer        |   65 |       7 |
+| Ekua       | Blitzer        |  122 |       8 |
+| Jantine    | Heavy            |  116 |       5 |
+
+### Depth
+
+| Player    | Position  | SPP | Seasons |
+|-----------|-----------|-----|---------|
+| Wanjiku    | Line           |   20 |       4 |
+| Humbert    | Line           |   89 |       6 |
+| Calixta    | Line           |   32 |       4 |
+| Toma       | Blocker |   37 |       6 |
+| Bahij      | Blocker |   36 |       7 |
+| Rajendra   | Blitzer        |   24 |       1 |
+| Percy      | Heavy            |   95 |       4 |
+|            | Line           |   10 |       1 |
+
 ## Records
 
 ### Pro Level Record (W-D-L)
