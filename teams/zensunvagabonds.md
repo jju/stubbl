@@ -8,32 +8,32 @@ The Vagabonds use the Hermann playbook, the original plan for playing BludBol, a
 
 ## Active Roster
 
-| Player    | Position  | SPP | Seasons |
+| Player    | Position  | Tier | Seasons |
 |-----------|-----------|-----|---------|
-| Clydon     | Thrower  |   59 |       5 |
-| Betuel     | Thrower  |   58 |       3 |
-| Jonah      | Catcher  |   85 |       5 |
-| Padma      | Blitzer  |  100 |       4 |
-| Alizee     | Blitzer  |    9 |       1 |
-| Voos       | Blitzer  |   10 |       3 |
-| Dene       | Blitzer  |   40 |       5 |
-| Alphege    | Lineman  |    0 |       2 |
-| Leone      | Lineman  |    7 |       5 |
-| Hamza      | Lineman  |   17 |       6 |
-| Eetu       | Lineman  |    6 |       4 |
-| Everette   | Lineman  |    0 |       4 |
-| Yehochanan | Lineman  |   26 |       8 |
-| Joscelin   | Lineman  |    0 |       1 |
-| Breann     | Lineman  |    0 |       3 |
-| Mia        | Blitzer  |   42 |       4 |
-| Zaira      | Heavy     |   53 |       6 |
+| Clydon     | Thrower  |   Star |       5 |
+| Betuel     | Thrower  |   Star |       3 |
+| Jonah      | Catcher  |   Superstar |       5 |
+| Padma      | Blitzer  |  Superstar |       4 |
+| Alizee     | Blitzer  |    Experienced |       1 |
+| Voos       | Blitzer  |   Experienced |       3 |
+| Dene       | Blitzer  |   Emerging Star |       5 |
+| Alphege    | Lineman  |    Rookie |       2 |
+| Leone      | Lineman  |    Experienced |       5 |
+| Hamza      | Lineman  |   Veteran |       6 |
+| Eetu       | Lineman  |    Experienced |       4 |
+| Everette   | Lineman  |    Bench |       4 |
+| Yehochanan | Lineman  |   Veteran |       8 |
+| Joscelin   | Lineman  |    Rookie |       1 |
+| Breann     | Lineman  |    Bench |       3 |
+| Mia        | Blitzer  |   Emerging Star |       4 |
+| Zaira      | Heavy     |   Star |       6 |
 
 ### Depth
 
 | Player    | Position  | SPP | Seasons |
 |-----------|-----------|-----|---------|
-| Sashka     | Lineman  |    0 |       1 |
-| Seela      | Blitzer  |   22 |       2 |
+| Sashka     | Lineman  |    Rookie |       1 |
+| Seela      | Blitzer  |   Veteran |       2 |
 
 ## Records
 

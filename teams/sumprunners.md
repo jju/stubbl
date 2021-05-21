@@ -10,18 +10,18 @@ The Sump Runners use the Hermann playbook, the original plan for playing BludBol
 
 | Player    | Position  | SPP | Seasons |
 |-----------|-----------|-----|---------|
-| Jacquetta | Lineman  |  143 |       5 |
-| Shay      | Thrower  |  127 |       4 |
-| Pol       | Blitzer  |   62 |       3 |
-| Metin     | Catcher  |   45 |       3 |
-| Danae     | Blitzer  |   37 |       5 |
-| Eylul     | Lineman  |   35 |       4 |
-| Hoss      | Lineman  |   60 |       9 |
-| Agus      | Lineman  |    0 |       2 |
-| Edgar     | Lineman  |   45 |       8 |
-| Berger    | Lineman  |    0 |       3 |
-| Sille     | Lineman  |    0 |       2 |
-| Zdislava  | Blitzer  |   31 |       3 |
+| Jacquetta | Lineman  |  Superstar |       5 |
+| Shay      | Thrower  |  Superstar |       4 |
+| Pol       | Blitzer  |   Star |       3 |
+| Metin     | Catcher  |   Emerging Star |       3 |
+| Danae     | Blitzer  |   Emerging Star |       5 |
+| Eylul     | Lineman  |   Emerging Star |       4 |
+| Hoss      | Lineman  |   Star |       9 |
+| Agus      | Lineman  |    Rookie |       2 |
+| Edgar     | Lineman  |   Emerging Star |       8 |
+| Berger    | Lineman  |    Rookie |       3 |
+| Sille     | Lineman  |    Rookie |       2 |
+| Zdislava  | Blitzer  |   Emerging Star |       3 |
 
 ### Depth
 

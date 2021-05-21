@@ -10,34 +10,34 @@ The Spectres use the traditional Unglewort playbook. They have nigh-unlimited ch
 
 | Player    | Position  | SPP | Seasons |
 |-----------|-----------|-----|---------|
-| Persis       | Line |    7 |       1 |
-| Gojko        | Runner    |   86 |       4 |
-| Zdravko      | Runner    |   44 |       3 |
-| Melite | Runner | 0 | 0 |
-| Xochiquetzal | Blitzer    |    9 |       2 |
-| Grid         | Blitzer    |   35 |       4 |
-| Xiomara      | Line |    7 |       1 |
-| Sumit        | Line |    6 |       2 |
-| Antinanco    | Line |    7 |       1 |
-| Austeja      | Line |    8 |       1 |
-| Hyram        | Line |    6 |       1 |
-| Amir         | Line |    7 |       2 |
-| Kole         | Line |    7 |       1 |
-| Blodeuwedd   | Line |    7 |       1 |
+| Persis       | Line |    Experienced |       1 |
+| Gojko        | Runner    |   Superstar |       4 |
+| Zdravko      | Runner    |   Emerging Star |       3 |
+| Melite | Runner | Rookie | 0 |
+| Xochiquetzal | Blitzer    |    Experienced |       2 |
+| Grid         | Blitzer    |   Emerging Star |       4 |
+| Xiomara      | Line |    Experienced |       1 |
+| Sumit        | Line |    Experienced |       2 |
+| Antinanco    | Line |    Experienced |       1 |
+| Austeja      | Line |    Experienced |       1 |
+| Hyram        | Line |    Experienced |       1 |
+| Amir         | Line |    Experienced |       2 |
+| Kole         | Line |    Experienced |       1 |
+| Blodeuwedd   | Line |    Experienced |       1 |
 
 ### Depth Chart
 
 | Player    | Position  | SPP | Seasons |
 |-----------|-----------|-----|---------|
-| Olufunmi     | Runner    |   82 |       5 |
-| Channing     | Runner    |   76 |       4 |
-| Ragnar       | Runner    |   27 |       1 |
-| Lamont       | Blitzer    |   59 |       8 |
+| Olufunmi     | Runner    |   Superstar |       5 |
+| Channing     | Runner    |   Superstar |       4 |
+| Ragnar       | Runner    |   Veteran |       1 |
+| Lamont       | Blitzer    |   Star |       8 |
 | Cheaphat     | Blocker    |   31 |       2 |
 | Vayu         | Blocker    |   44 |       4 |
-| Onesiphorus  | Blocker    |   63 |       3 |
+| Onesiphorus  | Blocker    |   Star |       3 |
 | Mahesh       | Blocker    |   42 |       2 |
-| Simon        | Blocker    |   85 |       6 |
+| Simon        | Blocker    |   Superstar |       6 |
 | Henry        | Line   |   12 |       2 |
 | Marian       | Line |   14 |       5 |
 | Journee      | Line   |    0 |       2 |

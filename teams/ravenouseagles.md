@@ -10,33 +10,32 @@ The Eagles use the Charles Dorf playbook, which is built on a very rigid divisio
 
 | Player    | Position  | SPP | Seasons |
 |-----------|-----------|-----|---------|
-| Bates      | Line           |   58 |       4 |
-| Leckerslie | Line           |    6 |       3 |
-| Desponia   | Blocker |   20 |       4 |
-| Jonquil    | Blocker |   40 |       4 |
-| Nedyalko   | Blocker |   10 |       4 |
-| Petrona    | Blocker |    0 |       2 |
-| Gemma      | Blocker |    0 |       2 |
-| Sanjana    | Blocker |   41 |       6 |
-| Donato     | Kicker           |    8 |       3 |
-| Niko       | Line           |   68 |       5 |
-| Imaan      | Line           |   10 |       2 |
-| Chikondi   | Blitzer        |   65 |       7 |
-| Ekua       | Blitzer        |  122 |       8 |
-| Jantine    | Heavy            |  116 |       5 |
+| Bates      | Line           |   Star |       4 |
+| Leckerslie | Line           |    Experienced |       3 |
+| Desponia   | Blocker |   Veteran |       4 |
+| Jonquil    | Blocker |   Emerging Star |       4 |
+| Nedyalko   | Blocker |   Experienced |       4 |
+| Petrona    | Blocker |    Rookie |       2 |
+| Gemma      | Blocker |    Rookie |       2 |
+| Sanjana    | Blocker |   Emerging Star |       6 |
+| Donato     | Kicker           |    Experienced |       3 |
+| Niko       | Line           |   Star |       5 |
+| Imaan      | Line           |   Experienced |       2 |
+| Chikondi   | Blitzer        |   Star |       7 |
+| Ekua       | Blitzer        |  Superstar |       8 |
+| Jantine    | Heavy            |  Superstar |       5 |
 
 ### Depth
 
 | Player    | Position  | SPP | Seasons |
 |-----------|-----------|-----|---------|
-| Wanjiku    | Line           |   20 |       4 |
-| Humbert    | Line           |   89 |       6 |
-| Calixta    | Line           |   32 |       4 |
-| Toma       | Blocker |   37 |       6 |
-| Bahij      | Blocker |   36 |       7 |
-| Rajendra   | Blitzer        |   24 |       1 |
-| Percy      | Heavy            |   95 |       4 |
-|            | Line           |   10 |       1 |
+| Wanjiku    | Line           |   Veteran |       4 |
+| Humbert    | Line           |   Superstar |       6 |
+| Calixta    | Line           |   Emerging Star |       4 |
+| Toma       | Blocker |   Emerging Star |       6 |
+| Bahij      | Blocker |   Emerging Star |       7 |
+| Rajendra   | Blitzer        |   Veteran |       1 |
+| Percy      | Heavy            |   Superstar |       4 |
 
 ## Records
 

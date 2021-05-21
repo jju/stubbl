@@ -10,25 +10,25 @@ The Eldritch Fatality use the Drop Eagle playbook. It's an adaptation of the Her
 
 | Player    | Position  | SPP | Seasons |
 |-----------|-----------|-----|---------|
-| Filipa     | Runner    |  151 |       4 |
-| Ayane      | Blitzer   |   32 |       2 |
-| Beatrix    | Blitzer   |  115 |       7 |
-| Yair       | Line   |   14 |       4 |
-| Xaver      | Line   |    0 |       2 |
-| Danel      | Line   |    0 |       1 |
-| Mieczyslaw | Line   |    0 |       2 |
-| Ermenrich  | Line   |    0 |       1 |
-| Vihaio     | Line   |   64 |       8 |
-| Dunstan    | Attacker |   50 |       4 |
-| Huguo      | Attacker |   16 |       3 |
+| Filipa     | Runner    |  Superstar |       4 |
+| Ayane      | Blitzer   |   Emerging Star |       2 |
+| Beatrix    | Blitzer   |  Superstar |       7 |
+| Yair       | Line   |   Experienced |       4 |
+| Xaver      | Line   |    Rookie |       2 |
+| Danel      | Line   |    Rookie |       1 |
+| Mieczyslaw | Line   |    Rookie |       2 |
+| Ermenrich  | Line   |    Rookie |       1 |
+| Vihaio     | Line   |   Star |       8 |
+| Dunstan    | Attacker |   Emerging Star |       4 |
+| Huguo      | Attacker |   Veteran |       3 |
 
 
 ### Depth Chart
 
 | Player    | Position  | SPP | Seasons |
 |-----------|-----------|-----|---------|
-| Atte       | Blitzer   |  164 |       3 |
-| Betul      | Blitzer   |  119 |       4 |
+| Atte       | Blitzer   |  Superstar |       3 |
+| Betul      | Blitzer   |  Superstar |       4 |
 
 ## Records
 

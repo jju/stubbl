@@ -10,37 +10,37 @@ The Filthy Tide uses the Scrying Avian playbook which emphasizes speed above all
 
 | Player    | Position  | SPP | Seasons |
 |-----------|-----------|-----|---------|
-| Geir        | Thrower       |   33 |       3 |
-| Aleksy      | Thrower       |   81 |       2 |
-| Venus       | Catcher |  128 |       2 |
-| Septimus    | Catcher |   76 |       9 |
-| Slawomir    | Blitzer       |   43 |       3 |
-| Briseida    | Blitzer       |   19 |       5 |
-| Angilberct  | Line       |    9 |       3 |
-| Emilee      | Line       |    6 |       3 |
-| Hadassah    | Line       |   21 |       4 |
-| Kgosi       | Line       |    0 |       3 |
-| Ellanher    | Line       |    8 |       2 |
-| Milica      | Catcher |   43 |       3 |
-| Othniel     | Catcher |   16 |       2 |
-| Tomer       | Catcher |   66 |       3 |
-| Uzma        | Heavy      |   51 |       4 |
+| Geir        | Thrower       |   Emerging Star |       3 |
+| Aleksy      | Thrower       |   Superstar |       2 |
+| Venus       | Catcher |  Superstar |       2 |
+| Septimus    | Catcher |   Superstar |       9 |
+| Slawomir    | Blitzer       |   Emerging Star |       3 |
+| Briseida    | Blitzer       |   Veteran |       5 |
+| Angilberct  | Line       |    Experienced |       3 |
+| Emilee      | Line       |    Experienced |       3 |
+| Hadassah    | Line       |   Veteran |       4 |
+| Kgosi       | Line       |    Rookie |       3 |
+| Ellanher    | Line       |    Experienced |       2 |
+| Milica      | Catcher |   Emerging Star |       3 |
+| Othniel     | Catcher |   Veteran |       2 |
+| Tomer       | Catcher |   Star |       3 |
+| Uzma        | Heavy      |   Star |       4 |
 
 
 ### Depth Chart
 
 | Player    | Position  | SPP | Seasons |
 |-----------|-----------|-----|---------|
-| Enrique     | Line       |    0 |       1 |
-| Karthikeyan | Line       |    0 |       2 |
-| Giselle     | Line       |    0 |       2 |
-| Dora        | Line       |    0 |       1 |
-| Daibhi      | Line       |    0 |       2 |
-| Teofil      | Line       |    0 |       1 |
-| Robin       | Line       |    0 |       1 |
-| Hanne       | Line       |    0 |       1 |
-| Idunn       | Line       |    0 |       1 |
-| Elmer       | Line       |    0 |       2 |
+| Enrique     | Line       |    Rookie |       1 |
+| Karthikeyan | Line       |    Rookie |       2 |
+| Giselle     | Line       |    Rookie |       2 |
+| Dora        | Line       |    Rookie |       1 |
+| Daibhi      | Line       |    Rookie |       2 |
+| Teofil      | Line       |    Rookie |       1 |
+| Robin       | Line       |    Rookie |       1 |
+| Hanne       | Line       |    Rookie |       1 |
+| Idunn       | Line       |    Rookie |       1 |
+| Elmer       | Line       |    Rookie |       2 |
 
 ## Records
 

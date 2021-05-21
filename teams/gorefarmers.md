@@ -10,28 +10,28 @@ The Orville-Crush approach to BludBol is traditional, simple, but also somewhat 
 
 | Player    | Position  | SPP | Seasons |
 |-----------|-----------|-----|---------|
-| Ros        | Thrower           |   53 |       2 |
-| SkyTripper | Thrower           |   90 |       4 |
-| Aemulus    | Blitzer           |   77 |       2 |
-| Nuru       | Catcher            |   66 |       4 |
-| Aethelraed | Blitzer           |   16 |       3 |
-| Beitris    | Blitzer           |   39 |       3 |
-| Eloi       | Blocker |   36 |       2 |
-| Pasquale   | Blocker |   31 |       2 |
-| RockLobber | Blocker |   63 |       5 |
-| Emil       | Blocker |   46 |       4 |
-| Helmuth    | Line           |   21 |       5 |
-| Sylvester  | Blitzer           |   28 |       3 |
+| Ros        | Thrower           |   Star |       2 |
+| SkyTripper | Thrower           |   Superstar |       4 |
+| Aemulus    | Blitzer           |   Superstar |       2 |
+| Nuru       | Catcher            |   Star |       4 |
+| Aethelraed | Blitzer           |   Veteran |       3 |
+| Beitris    | Blitzer           |   Emerging Star |       3 |
+| Eloi       | Blocker |   Emerging Star |       2 |
+| Pasquale   | Blocker |   Emerging Star |       2 |
+| RockLobber | Blocker |   Star |       5 |
+| Emil       | Blocker |   Emerging Star |       4 |
+| Helmuth    | Line           |   Veteran |       5 |
+| Sylvester  | Blitzer           |   Veteran |       3 |
 
 ### Depth Chart
 
 | Player    | Position  | SPP | Seasons |
 |-----------|-----------|-----|---------|
-| Elric      | Blitzer           |   32 |       2 |
-| Bent       | Catcher            |   32 |       4 |
-| Mashee     | Catcher            |   85 |       7 |
-| Eulaylia   | Line           |   16 |       5 |
-| Johann     | Line           |    8 |       1 |
+| Elric      | Blitzer           |   Emerging Star |       2 |
+| Bent       | Catcher            |   Emerging Star |       4 |
+| Mashee     | Catcher            |   Superstar |       7 |
+| Eulaylia   | Line           |   Veteran |       5 |
+| Johann     | Line           |    Experienced |       1 |
 
 
 ## Records

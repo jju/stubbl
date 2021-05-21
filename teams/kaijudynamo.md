@@ -10,37 +10,37 @@ The Dynamo use the Elizabeth Aardman playbook, with a front line of strong block
 
 | Player    | Position  | SPP | Seasons |
 |-----------|-----------|-----|---------|
-| Starfin   | Runner    |   81 |       5 |
-| Louis     | Runner    |   32 |       2 |
-| Marco     | Runner    |   79 |       4 |
-| Fidolio   | Runner    |   31 |       5 |
-| Deepali   | Blocker   |   65 |       5 |
-| Haruna    | Blocker   |   36 |       5 |
-| Renaud    | Blocker   |   38 |       4 |
-| Brown     | Blocker   |   35 |       5 |
-| Quan      | Blocker   |   40 |       3 |
-| Euryalus  | Blocker   |   39 |       3 |
-| Vardan    | Runner    |   51 |       2 |
-| Oliwer    | Runner    |   16 |       3 |
-| Dinh      | Runner    |   17 |       3 |
-| Pentecost | Runner    |   22 |       6 |
-| Tijmen    | Heavy |   68 |       4 |
+| Starfin   | Runner    |   Superstar |       5 |
+| Louis     | Runner    |   Emerging Star |       2 |
+| Marco     | Runner    |   Superstar |       4 |
+| Fidolio   | Runner    |   Emerging Star |       5 |
+| Deepali   | Blocker   |   Star |       5 |
+| Haruna    | Blocker   |   Emerging Star |       5 |
+| Renaud    | Blocker   |   Emerging Star |       4 |
+| Brown     | Blocker   |   Emerging Star |       5 |
+| Quan      | Blocker   |   Emerging Star |       3 |
+| Euryalus  | Blocker   |   Emerging Star |       3 |
+| Vardan    | Runner    |   Star |       2 |
+| Oliwer    | Runner    |   Veteran |       3 |
+| Dinh      | Runner    |   Veteran |       3 |
+| Pentecost | Runner    |   Veteran |       6 |
+| Tijmen    | Heavy |   Star |       4 |
 
 ### Depth
 
 | Player    | Position  | SPP | Seasons |
 |-----------|-----------|-----|---------|
-| Nelson    | Blocker   |   25 |       5 |
-| Narayan   | Blocker   |   23 |       4 |
-| Sudhir    | Blocker   |   16 |       3 |
-| Naia      | Runner    |    8 |       1 |
-| Yusef     | Runner    |    3 |       1 |
-| Bibek     | Runner    |    0 |       2 |
-| Erika     | Runner    |    0 |       2 |
-| Ion       | Runner    |    0 |       2 |
-| Leon      | Runner    |    0 |       1 |
-| Jana      | Runner    |    0 |       1 |
-| Aatos     | Runner    |    0 |       1 |
+| Nelson    | Blocker   |   Veteran |       5 |
+| Narayan   | Blocker   |   Veteran |       4 |
+| Sudhir    | Blocker   |   Veteran |       3 |
+| Naia      | Runner    |    Experienced |       1 |
+| Yusef     | Runner    |    Rookie |       1 |
+| Bibek     | Runner    |    Rookie |       2 |
+| Erika     | Runner    |    Rookie |       2 |
+| Ion       | Runner    |    Rookie |       2 |
+| Leon      | Runner    |    Rookie |       1 |
+| Jana      | Runner    |    Rookie |       1 |
+| Aatos     | Runner    |    Rookie |       1 |
 
 ## Records
 

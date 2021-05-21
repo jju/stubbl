@@ -10,27 +10,27 @@ The Irregular Cogs use the Drop Eagle playbook. It's an adaptation of the Herman
 
 | Player    | Position  | SPP | Seasons |
 |-----------|-----------|-----|---------|
-| Alexandros | Runner    |  108 |       6 |
-| Merlyn     | Runner    |   74 |       2 |
-| Frans      | Blitzer   |   55 |       2 |
-| Mackenzie  | Blitzer   |   77 |       3 |
-| Zina       | Blitzer   |   84 |       5 |
-| Hrolfr     | Blitzer   |   50 |       2 |
-| Mirche     | Lineman   |   53 |       9 |
-| Loegaire   | Lineman   |   31 |       3 |
-| Iniobong   | Lineman   |   17 |       3 |
-| Granlan    | Lineman   |    7 |       4 |
-| Matheo     | Lineman   |    7 |       3 |
-| Pinja      | Witch Elf |   35 |       2 |
-| Ignat      | Witch Elf |   76 |       6 |
+| Alexandros | Runner    |  Superstar |       6 |
+| Merlyn     | Runner    |   Star |       2 |
+| Frans      | Blitzer   |   Star |       2 |
+| Mackenzie  | Blitzer   |   Superstar |       3 |
+| Zina       | Blitzer   |   Superstar |       5 |
+| Hrolfr     | Blitzer   |   Emerging Star |       2 |
+| Mirche     | Lineman   |   Star |       9 |
+| Loegaire   | Lineman   |   Emerging Star |       3 |
+| Iniobong   | Lineman   |   Veteran |       3 |
+| Granlan    | Lineman   |    Experienced |       4 |
+| Matheo     | Lineman   |    Experienced |       3 |
+| Pinja      | Witch Elf |   Emerging Star |       2 |
+| Ignat      | Witch Elf |   Superstar |       6 |
 
 ### Depth Chart
 
 | Player    | Position  | SPP | Seasons |
 |-----------|-----------|-----|---------|
-| Tel        | Lineman   |   17 |       5 |
-| Grumman    | Lineman   |   19 |       3 |
-| Erazem     | Witch Elf |   59 |       6 |
+| Tel        | Lineman   |   Veteran |       5 |
+| Grumman    | Lineman   |   Veteran |       3 |
+| Erazem     | Witch Elf |   Star |       6 |
 
 ## Records
 

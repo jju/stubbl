@@ -10,26 +10,26 @@ The Orbital Machine uses the Chariot playbook. This involves four massive player
 
 | Player    | Position  | SPP | Seasons |
 |-----------|-----------|-----|---------|
-| Ruslan   | Blitzer      |   63 |       3 |
-| Jarm     | Blitzer      |    5 |       3 |
-| Kendrick | Blitzer      |   49 |       3 |
-| Stino    | Blitzer      |   23 |       6 |
-| Spinal   | Blitzer      |   37 |       5 |
-| Odalric  | Blocker |   59 |       3 |
-| Mate     | Blocker |   51 |       4 |
-| Jothi    | Blocker |   56 |       2 |
-| Bolt     | Blocker |   45 |       5 |
-| Corinne  | Blitzer      |    8 |       3 |
-| Praveena | Blitzer      |    0 |       3 |
-| Uli      | Heavy      |   70 |       3 |
+| Ruslan   | Blitzer      |   Star |       3 |
+| Jarm     | Blitzer      |    Rookie |       3 |
+| Kendrick | Blitzer      |   Emerging Star |       3 |
+| Stino    | Blitzer      |   Veteran |       6 |
+| Spinal   | Blitzer      |   Emerging Star |       5 |
+| Odalric  | Blocker |   Star |       3 |
+| Mate     | Blocker |   Star |       4 |
+| Jothi    | Blocker |   Star |       2 |
+| Bolt     | Blocker |   Emerging Star |       5 |
+| Corinne  | Blitzer      |    Experienced |       3 |
+| Praveena | Blitzer      |    Bench |       3 |
+| Uli      | Heavy      |   Star |       3 |
 
 ### Depth
 
 | Player    | Position  | SPP | Seasons |
 |-----------|-----------|-----|---------|
-| Leppard  | Blitzer      |  125 |       6 |
-| Collar   | Blocker |   42 |       4 |
-| Anvil    | Blocker |   33 |       4 |
+| Leppard  | Blitzer      |  Superstar |       6 |
+| Collar   | Blocker |   Emerging Star |       4 |
+| Anvil    | Blocker |   Emerging Star |       4 |
 
 ## Records
 
