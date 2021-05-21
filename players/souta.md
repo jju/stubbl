@@ -1,13 +1,15 @@
 # Souta
 
-[[oldwyrms]][[catcher]][[gcvi]][[gcvii]][[uci]][[gcviii]][[gcix]]
+[[oldwyrms]][[catcher]][[gcvi]][[gcvii]][[uci]][[gcviii]][[gcix]][[gcv]][[legend]]
 
-Souta was an amazing player, overshadowed by [Aeson](aeson) but incredible. Her career ended in the cash-grab GCV Memorial after an ignominous and humiliating end to GCIX. (1.124 GSec old ~35yo)
+Souta was an amazing player, overshadowed by [Aeson](aeson) but incredible. She began with the fresh new era Old Wyrms in GCVI and racked up stats from game one (scoring the only Wyrms TD in a 2-1 loss to the [Gore Farmers](../teams/gorefarmers)). She won the GCVI, GCVII, and GCIX [Soft Hands](../prizes/softhands) awards, was the third UBBL [Centurion](../prizes/centurion), and the first Green Cup Double Centurion. Her not-quite-selfless approach to the game meant she had more completions than all but the best passers (49), and still comes in third on the all-time TD list (65).
 
-#unfinished
+The one thing Souta didn't get was a Green Cup championship. In the GCIX semifinal against the [Badger Claws](../teams/badgerclaws) a seemingly normal hit shook her up but she stayed in the match. Afterwards the coaching staff discovered her severe head trauma. While the staff say replacing her for the Final was in her own interest and for her own safety the Wyrms then refused to recognize her as part of the Championship team. Souta was devastated by the humiliation.
 
-* Birthdate: 1261.563-?
-* Deathdate: 1262.687-?
+She threw herself into the cash-grab GCV Memorial to prove that she was still the second-best player the UBBL had ever seen. She scored two TDs in her final match against the [Darkling Spectres](../teams/darklingspectres) when she was killed in the crowd.
+
+* Birthdate: 1261.563-538:296 #t1563
+* Deathdate: 1262.688-421:598 #t2688 (1.124 GSec old ~35.65yo)
 
 # Basic Stats
 

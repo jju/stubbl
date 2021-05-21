@@ -1,13 +1,13 @@
 # Bill
 
-[[eldritchfatality]][[runner]][[gcc06]][[gcvii]][[uci]][[gcviii]][[darklingspectres]][[line]][[dead]]
+[[eldritchfatality]][[runner]][[gcc06]][[gcvii]][[uci]][[gcviii]][[darklingspectres]][[line]][[superstar]][[dead]]
 
 Bill led the Eldritch Fatality from its inception and paired up with [[qtpi]] they made a very good offensive unit in Green Cup Classic 06. He pivoted into more of a throwing unit despite winning the Halfleg Award in GCC06. His 6 Completion match against the [Hunters](../teams/vanadiumhunters) in GCC06 was a record. 
 
 He suffered a crippling injury against the [Spectres](../teams/darklingspectres) in GCVIII, who then basically press-ganged him into playing for them as a shadow of his former self. That second phase of his career ended against the [Tatters](../teams/carcosantatters) in Week 13 of GCVIII.
 
-* Birthdate: 1261.606-556:596
-* Deathdate: 1262.646-966:002
+* Birthdate: 1261.606-556:596 #t1606
+* Deathdate: 1262.646-966:002 #t2646
 
 # Basic Stats
 

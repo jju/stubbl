@@ -1,13 +1,15 @@
 # Lars
 
-[[orbitalmachine]][[heavy]][[gcc06]][[gcvii]][[gcviii]]
+[[orbitalmachine]][[heavy]][[gcc06]][[gcvii]][[gcviii]][[star]][[dead]]
 
 Lars was the Orbital Machine's first Heavy and spent their rookie season duelling with [[marzhak]]. By Green Cup VIII injuries had set in and it was necessary to find a younger more healthy replacement. Lars had opted out of the first UBBL Challenge tournament giving [[Ioana]] a bit of space to develop so the Machine was ready for the eventuality.
 
 Interestingly, Lars was the first UBBL player to record 2 interceptions and they got both of them in the same match in GCC06 against the [Fatality](../teams/eldritchfatality).
 
-* Birthdate: 1261.831-313:402
-* Deathdate: 1262.635-845:934
+He was killed by [[Belenus]] with an illegal foul in the second match of GCVIII.
+
+* Birthdate: 1261.831-313:402 #t1831
+* Deathdate: 1262.635-845:934 #t2635 
 
 # Basic Stats
 
@@ -15,7 +17,7 @@ Interestingly, Lars was the first UBBL player to record 2 interceptions and they
 
 | Player           | Team        | Position      | W | D | L | GP | TD | Cp | Int | BH | SI | Ki | MVP | SPP |
 |------------------|-------------|---------------|--:|--:|--:|---:|---:|---:|----:|---:|---:|---:|----:|----:|
-| Lars  | [Orbital Machine](../teams/orbitalmachine) | Minotaur |   18 |    4 |    7 |   29 |    1 |    0 |    2 |   11 |    6 |    1 |    6 |   73 |
+| Lars  | [Orbital Machine](../teams/orbitalmachine) | Heavy |   18 |    4 |    7 |   29 |    1 |    0 |    2 |   11 |    6 |    1 |    6 |   73 |
 
 ## By Season
 

@@ -1,15 +1,15 @@
 # Hulud
 
-[[zensunvagabonds]][[heavy]][[oe-veteran]][[gcvi]][[gcvii]][[uci]][[gcviii]][[retired]]
+[[zensunvagabonds]][[heavy]][[oe-veteran]][[gcvi]][[gcvii]][[uci]][[gcviii]][[superstar]][[retired]]
 
 Hulud is the (pre-GCXI) leader in UBBL games played. He was there from the beginning of the Zensun Vagabonds, and from current records it appears he never missed a match. 
 
 After the Interruption when he returned with the Vagabonds he took a pay cut as most of the old veterans did, which meant he missed out on his actual earning potential.
 
-He retired after GCVIII. 1262.652.4 (1.15GSec ~37yo)
+He retired after GCVIII and can often be found on the sidelines at Vagabonds matches where players say they are using him for shade.
 
-* Birthdate 1261.492-393:739
-* Retiredate 1262.652-400:000
+* Birthdate 1261.492-393:739 #t1492
+* Retiredate 1262.652-400:000 #t2652 (1.15GSec ~37yo)
 
 # Basic Stats
 
@@ -17,7 +17,7 @@ He retired after GCVIII. 1262.652.4 (1.15GSec ~37yo)
 
 | Player           | Team        | Position      | W  | D | L | GP   | TD   | Cp | Int | BH   | SI   | Ki   | MVP  | SPP  |
 |------------------|-------------|---------------|----|---|---|------|------|----|-----|------|------|------|------|------|
-| Hulud | [Zensun Vagabonds](../teams/zensunvagabonds) | Heavy     |   30 |   20 |   39 |   89 |    0 |    1 |    0 |   15 |    10 |    3 |    7 |   92 |
+| Hulud | [Zensun Vagabonds](../teams/zensunvagabonds) | Heavy     |   30 |   20 |   39 |   **89** |    0 |    1 |    0 |   15 |    10 |    3 |    7 |   92 |
 
 ## By Season
 
@@ -31,8 +31,9 @@ He retired after GCVIII. 1262.652.4 (1.15GSec ~37yo)
 
 # Prize Stats
 
-* Fan Favourite - GCVII [[fanfavourite#gcvii]]
 * Carmine Fist - GCVI [[carminefist#gcvi]]
+* Fan Favourite - GCVII [[fanfavourite#gcvii]]
+
 
 | Player | Team         | Season          | GP | TD  | Rsh | Cp   | CpDst | Ctch | Int | Cas  | Blk | Sck | MVP | SPP  |
 |--------|--------------|-----------------|----|-----|-----|------|-------|------|-----|------|-----|-----|-----|------|

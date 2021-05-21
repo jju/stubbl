@@ -41,6 +41,7 @@ Unless specified, we're dealing with the 1262 epoch.
 	* Week 13 676.1
 * GCV Memorial 1262.683MSec -> 697Msec
 	* Week 4 687.1
+	* Week 5 688.1 #t2688.4 Souta dies
 	* Week 7 690.1
 * UCIII 1262.704-105:029 (704.1) -> 711-356:440 (711.4)
 * Gargantuan Brutes cease operations 1262.712-000:000
@@ -70,6 +71,7 @@ Unless specified, we're dealing with the 1262 epoch.
 	* Week 3 716.2
 	* Week 4 
 * UCIV 735.0 -> 742.5
+* Champions Circuit 743.0 744.0 745.0
 * OGII 750.0 -> 764.0
 	* Week 1 750.0
 	* Week 2 751.0
@@ -77,6 +79,7 @@ Unless specified, we're dealing with the 1262 epoch.
 	* Week 4 753.0
 	* Week 5 754.0
 	* Week 6 755.0 start -> labour strife 758.3
+	* 
 * GCXI 760.0 -> 780.0 
 
 

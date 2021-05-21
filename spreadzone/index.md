@@ -1,16 +1,22 @@
+# spreadZone
+
 Hey there BludBol fans and welcome to the SpreadZone, your source for all the doings in the UBBL coming up on the eleventh Green Cup season.
 
-With the preseason training camps coming to a close and rosters being finalized for GCXI, let's take a look at the divisions.
+One of the biggest stories this season is the fate of [[Aeson]]. The legendary catcher for the [Badger Claws](../teams/badgerclaws) doesn't really have a lot to prove in the UBBL, so it doesn't really make a lot of sense for the team to be pouring resources into those (practically guaranteed) TDs Aeson collects.
 
-In the Stacks the [Old Wyrms](../teams/oldwyrms) are defending champions, with massive skills and a monster payroll going for the three-peat while the [Filthy Tide](../teams/filthytide) are hoping their phenom scorer can keep on moving in her sophomore season and get the Tide some playoff wins. The [Gore Farmers](../teams/gorefarmers) are (surprisingly with their history) putting together a very competitive team, but we here at SZ don't see them making a huge run in the regular season, not with the [TyrolCorp Sump Runners](../teams/sumprunners) occupying the bottom rung of the division and not seeming to be making any big adjustments.
+The problem for team management is that the players' union finally got pay bumps negotiated. Through GCX, players were compensated at a standard rate depending solely on their on-field performance. The argument was that teams didn't pay them less when they got injured (as usually happens in BludBol) so this was fair to everyone. The GCIX payroll shenanigans put the lie to this and showed that management was not doing their part in maintaining the health of their players, mostly in order to keep their value as low as possible. (For some teams this was explained as maintaining onfield competitive advantage but for others it was clearly meant to take in as many resources as possible.)
 
-The Outlands division looks way more competitive for GCXI. The [Badger Claws](../teams/badgerclaws) still have the biggest star in the game but [Aeson](../players/aeson) has mentioned this might be his final season, so player development looks like an imperative at least early in the season. The [Irregular Cogs](../teams/irregularcogs) have the personnel to be really good, but they've been stumbling recently come playoff time so there are some arguments against going all in for the regular season. That said, the [Arboreal Menace](../teams/arborealmenace) are poised to fight for their first shot at Green Cup playoffs though that will require bettering the defensive powerhouse [Carcosan Tatters](../teams/carcosantatters).
+Now players are able to negotiate bonuses based on their service time and for awards of excellence. These aren't huge in and of themselves, but in the case of a dominant force like [[Aeson]] it actually brought his salary up near the tops of the league, befitting his stats (and remarkable avoidance of injury). But with Aeson commanding more compensation, it starts to look a little better for the team to be developing alternative methods to try and win games (especially given their lack of Green Cup playoff success).
 
-The Heaps division had some of the biggest surprises last season, including a terrible [Glorious Hounds](../teams/glorioushounds) team. They seem to have shaken that off and winning UBBL Challenge IV in the mean time has given them a lot more confidence. The [Orbital Machine](../teams/orbitalmachine) has been shedding fans after the last season but our projections have them playing respectable bashy BludBol. The [Kaiju Dynamo](../teams/kaijudynamo) outperformed their expectations in GCX, but the same can be said about the [Zensun Vagabonds](../teams/zensunvagabonds). Which of those teams can play up to this season's hopes? Only the next 15 matches will tell.
+To that end, the rookie [[Rong]] has been signed for the GCXI season. This actually took a bit of financial finagling for the team which took advantage of the other major offseason development in the ability for players to sign with other teams (which compensates both the players and their former teams). The Claws sold [[Donat]] to the Open Division [Vanadium Hunters](../teams/vanadiumhunters) for the second Orange Goblet tournament. Donat had been injured before the new medical regimes were instituted and was being kept on the Claws' payroll as a less-reliable backup to Aeson. Donat's career ended in his first match for the Hunters, but the Claws had already been paid and could now afford to develop a rookie.
 
-Then of course we have the Pits. This is the division where we've got two rebuilding teams in the [Eldritch Fatality](..teams/eldritchfatality) and the [Cackling Furies](..teams/cacklingfuries). The Fatality were lousy in GCX, surprising everyone and they don't have the funds so far to fund a big new push. The [Darkling Spectres](../teams/darklingspectres) are running out a strange new lineup for them, which a lot of people have a hard time envisioning as a successful one. All this ineptitude probably leaves the division ripe for the [Ravenous Eagles](../teams/ravenouseagles) to sneak through to the division title again, but it's hard to say.
+Word from the team makes it sound like [[Aeson]] will have a limited role this season until the playoff eligibility begins in Week 11, giving [[Rong]] and the rest of the team some time to develop a nonAeson-specific way to win matches. We're sure he's still aiming to achieve 150 pro-level TDs before retiring, and if the team looks to be stumbling badly he might be brought in to get more points earlier.
 
-So here's how we think the season is going to shake out:
+The Claws are definitely a team to watch this season.
+
+From [previously in the spreadZone](gcxi-picks): 
+
+Here's how we think the season is going to shake out:
 
 | Burger Conference | | Classic Conference | |
 |---------------------|--|------------|----|
@@ -20,4 +26,4 @@ So here's how we think the season is going to shake out:
 | Gore Farmers | Arboreal Menace | Kaiju Dynamo | Cackling Furies |
 | TC Sump Runners | Carcosan Tatters | Zensun Vagabonds | Darkling Spectres |
 
-Questions about our gut picks? Just want to share your thoughts? We'll be previewing some of the stories we'll be following this season soon.
+Comments on how you think Aeson should be used? Let us know: spreadzone@thedubiousmonk.net

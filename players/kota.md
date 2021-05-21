@@ -4,10 +4,10 @@
 
 Though Kota got into a few matches in GCC06, she didn't make an impression and still qualified as a rookie for GCVII, where she tore things up.
 
-By the end of GCVIII, she was slowing down and couldn't be the speedy deep threat the Furies wanted.
+By the end of GCVIII, she was slowing down and couldn't be the speedy deep threat the Furies wanted so she was cut.
 
-* Birthdate: 1261.937-162:873
-* Retiredate: 1262.650-000:000
+* Birthdate: 1261.937-162:873 #t1937
+* Retiredate: 1262.650-000:000 #t2650 
 
 # Basic Stats
 

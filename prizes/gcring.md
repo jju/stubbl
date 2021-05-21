@@ -77,7 +77,7 @@
 * [[Elvis]] - GCIX, GCX
 * [[Jia]] - GCIX, GCX
 * [[Elisavet]] - GCIX, GCX
-* [[Moirin]] - GCIX (Final only), GCX
+* [[moirin]] - GCIX (Final only), GCX
 * [[Babar]] - GCIX, GCX off playoff roster
 * [[Andela]] - GCIX
 * [[Martti]] - GCIX
@@ -94,7 +94,7 @@
 * [[Elvis]] - GCIX, GCX
 * [[Jia]] - GCIX, GCX
 * [[Elisavet]] - GCIX, GCX
-* [[Moirin]] - GCIX (Final only), GCX
+* [[moirin]] - GCIX (Final only), GCX
 * [[Seosamh]] - GCIX off playoff roster, GCX
 * [[Belmont]] - GCX
 * [[Journee]] - GCX

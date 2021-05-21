@@ -36,23 +36,28 @@ ORDER BY rush_td ASC;
 
 | team              | total_touches | td   | touches_td |
 |-------------------|---------------|------|------------|
-| Badger Claws      |           404 |  136 |     2.9706 |
-| Glorious Hounds   |           746 |  198 |     3.7677 |
-| Kaiju Dynamo      |           605 |  157 |     3.8535 |
-| Irregular Cogs    |           659 |  168 |     3.9226 |
-| Eldritch Fatality |           640 |  162 |     3.9506 |
-| Filthy Tide       |           739 |  185 |     3.9946 |
-| Zensun Vagabonds  |           599 |  145 |     4.1310 |
-| Old Wyrms         |           795 |  191 |     4.1623 |
-| Darkling Spectres |           534 |  113 |     4.7257 |
-| Orbital Machine   |           445 |   93 |     4.7849 |
-| TC Sump Runners   |           562 |  117 |     4.8034 |
-| Cackling Furies   |           498 |  100 |     4.9800 |
-| Carcosan Tatters  |           414 |   81 |     5.1111 |
+| Mules             |             6 |    2 |     3.0000 |
+| Badger Claws      |           622 |  200 |     3.1100 |
+| Arboreal Menace   |           155 |   41 |     3.7805 |
+| Irregular Cogs    |           820 |  216 |     3.7963 |
+| Kaiju Dynamo      |           745 |  193 |     3.8601 |
+| Glorious Hounds   |           919 |  238 |     3.8613 |
+| Eldritch Fatality |           776 |  200 |     3.8800 |
+| Filthy Tide       |           935 |  235 |     3.9787 |
+| Old Wyrms         |          1022 |  252 |     4.0556 |
+| Zensun Vagabonds  |           790 |  193 |     4.0933 |
+| Thorns            |             9 |    2 |     4.5000 |
+| Darkling Spectres |           671 |  148 |     4.5338 |
+| Cackling Furies   |           663 |  140 |     4.7357 |
+| Orbital Machine   |           569 |  119 |     4.7815 |
+| Carcosan Tatters  |           517 |  106 |     4.8774 |
+| Gladiolas         |            10 |    2 |     5.0000 |
+| TC Sump Runners   |           718 |  140 |     5.1286 |
 | Vanadium Hunters  |           389 |   72 |     5.4028 |
-| Gore Farmers      |           558 |  101 |     5.5248 |
-| Ravenous Eagles   |           456 |   79 |     5.7722 |
+| Ravenous Eagles   |           592 |  109 |     5.4312 |
+| Gore Farmers      |           742 |  131 |     5.6641 |
 | Gargantuan Brutes |           354 |   56 |     6.3214 |
+
 
 ```
 SELECT pl.f_tname AS team, sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches) AS total_touches, sum(md.td) AS td,	(sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches)) / sum(md.td) AS touches_td 
@@ -64,7 +69,7 @@ ORDER BY touches_td ASC;
 
 The Touches stat needs a bit of explanation. In BludBol we count a "touch" of the ball whenever a player picks up, catches, intercepts, or receives a handoff. If every kickoff was caught by a player who then ran it in for a TD then we would get a Touch/TD rate of 1. That's not usually how the game is played, of course.
 
-It is entirely unsurprising that the [Badger Claws](../teams/badgerclaws) have the lowest Touch/TD rate in the Pro Circuit (BC 2.97). Their entire modus operandi when receiving the kick has been for Cleve to get the ball, deliver it to Aeson, who scores. That's a 2.0 Touch/TD rate. When Yakup was operating a t his peak for the [Filthy Tide](../teams/filthytide) in Green Cup VII and the first UBBL Challenge, the Tide was doing very similar numbers. (FT 3.11 in GCVII vs 2.80 in the UBBL Challenge, the only tournament thus far the Tide has won)
+It is entirely unsurprising that the [Badger Claws](../teams/badgerclaws) have the lowest Touch/TD rate in the Pro Circuit (BC 3.11 though this is up a bit from their 2.97 before GCX). Their entire modus operandi when receiving the kick has been for Cleve to get the ball, deliver it to Aeson, who scores. That's a 2.0 Touch/TD rate. When Yakup was operating at his peak for the [Filthy Tide](../teams/filthytide) in Green Cup VII and the first UBBL Challenge, the Tide was doing very similar numbers. (FT 3.11 in GCVII vs 2.80 in the UBBL Challenge, the only tournament thus far the Tide has won)
 
 | team        | season               | total_touches | td   | touches_td |
 |-------------|----------------------|---------------|------|------------|
@@ -73,6 +78,7 @@ It is entirely unsurprising that the [Badger Claws](../teams/badgerclaws) have t
 | Filthy Tide | Green Cup V Memorial |            62 |   21 |     2.9524 |
 | Filthy Tide | Green Cup VII        |           171 |   55 |     3.1091 |
 | Filthy Tide | Green Cup VI         |           173 |   46 |     3.7609 |
+| Filthy Tide | Green Cup X          |           196 |   50 |     3.9200 |
 | Filthy Tide | Green Cup IX         |           204 |   45 |     4.5333 |
 | Filthy Tide | Green Cup VIII       |           191 |   39 |     4.8974 |
 
@@ -88,16 +94,16 @@ Obviously, it's difficult to keep that sort of thing up over a team's history. T
 
 | team              | season         | total_touches | td   | touches_td |
 |-------------------|----------------|---------------|------|------------|
-| Badger Claws      | Green Cup IX   |           183 |   75 |     2.4400 |
-| Filthy Tide       | Green Cup VII  |           171 |   55 |     3.1091 |
-| Kaiju Dynamo      | Green Cup VIII |           178 |   55 |     3.2364 |
-| Old Wyrms         | Green Cup IX   |           241 |   71 |     3.3944 |
-| Glorious Hounds   | Green Cup VII  |           204 |   60 |     3.4000 |
-| Zensun Vagabonds  | Green Cup VII  |           163 |   47 |     3.4681 |
-| Kaiju Dynamo      | Green Cup IX   |           171 |   49 |     3.4898 |
-| Glorious Hounds   | Green Cup IX   |           209 |   58 |     3.6034 |
-| Badger Claws      | Green Cup VIII |           221 |   61 |     3.6230 |
-| Eldritch Fatality | Green Cup IX   |           204 |   56 |     3.6429 |
+| Badger Claws      | Green Cup IX      |           183 |   75 |     2.4400 |
+| Filthy Tide       | Green Cup VII     |           171 |   55 |     3.1091 |
+| Kaiju Dynamo      | Green Cup VIII    |           178 |   55 |     3.2364 |
+| Irregular Cogs    | Green Cup X       |           161 |   48 |     3.3542 |
+| Old Wyrms         | Green Cup IX      |           241 |   71 |     3.3944 |
+| Glorious Hounds   | Green Cup VII     |           204 |   60 |     3.4000 |
+| Badger Claws      | Green Cup X       |           218 |   64 |     3.4063 |
+| Zensun Vagabonds  | Green Cup VII     |           163 |   47 |     3.4681 |
+| Kaiju Dynamo      | Green Cup IX      |           171 |   49 |     3.4898 |
+| Eldritch Fatality | Green Cup X       |           136 |   38 |     3.5789 |
 
 ```
 SELECT  pl.f_tname AS team, tours.name AS season, sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches) AS total_touches,  sum(md.td) AS td, (sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches)) / sum(md.td) AS touches_td 
@@ -111,16 +117,16 @@ LIMIT 10;
 
 | name        | team          | gp | total_touches | sum(md.td) | tds_touch |
 |-------------|------------------|----|---------------|------------|-----------|
-| **Aeson**      | Badger Claws     | 37 |           100 |         86 |    0.8600 |
-| Souta      | Old Wyrms        | 60 |           157 |         65 |    0.4140 |
-| **Costache**    | Glorious Hounds  | 31 |            75 |         60 |    0.8000 |
-| Yakup      | Filthy Tide      | 42 |            74 |         55 |    0.7432 |
-| Sabah      | Kaiju Dynamo     | 41 |            68 |         52 |    0.7647 |
-| **Dragos**     | Irregular Cogs   | 53 |            67 |         35 |    0.5224 |
-| Donat      | Badger Claws     | 33 |            54 |         35 |    0.6481 |
-| **Babar**      | Old Wyrms        | 59 |            60 |         29 |    0.4833 |
-| Bahiyya    | Zensun Vagabonds | 39 |            45 |         29 |    0.6444 |
-| KneeMasher | Gore Farmers     | 47 |            77 |         28 |    0.3636 |
+| **Aeson**     | Badger Claws      | 54 |           155 |        138 |    0.8903 |
+| Costache | Glorious Hounds   | 46 |           101 |         74 |    0.7327 |
+| Souta    | Old Wyrms         | 60 |           157 |         65 |    0.4140 |
+| Sabah    | Kaiju Dynamo      | 48 |            81 |         61 |    0.7531 |
+| Yakup    | Filthy Tide       | 42 |            74 |         55 |    0.7432 |
+| **Atte**      | Eldritch Fatality | 34 |            66 |         40 |    0.6061 |
+| Dragos   | Irregular Cogs    | 53 |            67 |         35 |    0.5224 |
+| Donat    | Badger Claws      | 33 |            54 |         35 |    0.6481 |
+| **Venus**     | Filthy Tide       | 14 |            44 |         35 |    0.7955 |
+| **Babar**     | Old Wyrms         | 59 |            60 |         29 |    0.4833 |
 
 ```
 SELECT pl.name, pl.f_tname, count(DISTINCT md.f_match_id) AS gp, sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches) AS total_touches, sum(md.td), sum(md.td) / (sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches)) AS tds_touch 
@@ -131,33 +137,33 @@ ORDER BY sum(md.td) DESC, gp DESC
 LIMIT 10;
 ```
 
-These are the top scorers in the Pro Circuit, along with their reliability rating. How good is Aeson? 86% of the time he gets the ball, he scores. The only players more "reliable" are bashers who never ever touch the ball but for one spectacular moment.
+These are the top scorers in the Pro Circuit, along with their reliability rating. How good is Aeson? 89% of the time he gets the ball, he scores. The only players more "reliable" are bashers who never ever touch the ball but for one spectacular moment.
 
 | name       | team           | gp | total_touches | sum(md.td) | tds_touch |
 |------------|-------------------|----|---------------|------------|-----------|
-| Florrie    | Darkling Spectres | 62 |             1 |          1 |    1.0000 |
-| *TallHexer* | Gore Farmers      | 51 |             1 |          1 |    1.0000 |
-| *Noir*      | TC Sump Runners   | 49 |             1 |          1 |    1.0000 |
-| Rivet      | Orbital Machine   | 42 |             1 |          1 |    1.0000 |
-| Percy     | Ravenous Eagles   | 40 |             1 |          1 |    1.0000 |
-| *Horymir*   | Filthy Tide       | 19 |             1 |          1 |    1.0000 |
-| *Ioana*     | Orbital Machine   | 16 |             2 |          2 |    1.0000 |
-| Odalric    | Orbital Machine   | 16 |             3 |          3 |    1.0000 |
-| Zaira      | Zensun Vagabonds  | 15 |             1 |          1 |    1.0000 |
-| Dene       | Zensun Vagabonds  | 15 |             1 |          1 |    1.0000 |
-| *Dian*      | Filthy Tide       | 14 |             1 |          1 |    1.0000 |
-| *Tatjana*   | TC Sump Runners   |  7 |             1 |          1 |    1.0000 |
-| Olaug      | Old Wyrms         |  2 |             2 |          2 |    1.0000 |
-| Hachiro    | Gargantuan Brutes |  1 |             2 |          2 |    1.0000 |
-| *Phemie*    | Glorious Hounds   |  1 |             2 |          2 |    1.0000 |
-| Chikondi   | Ravenous Eagles   | 48 |            10 |          9 |    0.9000 |
-| Aeson     | Badger Claws      | 37 |           100 |         86 |    0.8600 |
-| *Maren*     | TC Sump Runners   | 10 |             7 |          6 |    0.8571 |
-| Costache   | Glorious Hounds   | 31 |            75 |         60 |    0.8000 |
-| *Green*     | Eldritch Fatality |  9 |             5 |          4 |    0.8000 |
+| **Florrie**    | Darkling Spectres | 78 |             1 |          1 |    1.0000 |
+| TallHexer | Gore Farmers      | 51 |             1 |          1 |    1.0000 |
+| Noir      | TC Sump Runners   | 49 |             1 |          1 |    1.0000 |
+| Rivet     | Orbital Machine   | 42 |             1 |          1 |    1.0000 |
+| **Percy**      | Ravenous Eagles   | 40 |             1 |          1 |    1.0000 |
+| **Zaira**      | Zensun Vagabonds  | 33 |             1 |          1 |    1.0000 |
+| **Hamza**      | Zensun Vagabonds  | 32 |             1 |          1 |    1.0000 |
+| **Odalric**    | Orbital Machine   | 32 |             3 |          3 |    1.0000 |
+| **Hadassah**   | Filthy Tide       | 25 |             1 |          1 |    1.0000 |
+| Horymir   | Filthy Tide       | 19 |             1 |          1 |    1.0000 |
+| Ioana     | Orbital Machine   | 16 |             2 |          2 |    1.0000 |
+| Dian      | Filthy Tide       | 14 |             1 |          1 |    1.0000 |
+| **Eimilios**   | Old Wyrms         | 14 |             3 |          3 |    1.0000 |
+| **Corinne**    | Orbital Machine   |  8 |             2 |          2 |    1.0000 |
+| Tatjana   | TC Sump Runners   |  7 |             1 |          1 |    1.0000 |
+| **Hachiro**    | Gargantuan Brutes |  1 |             2 |          2 |    1.0000 |
+| Phemie    | Glorious Hounds   |  1 |             2 |          2 |    1.0000 |
+| **Sukhdeep**   | Thorns            |  1 |             1 |          1 |    1.0000 |
+| **Chikondi**   | Ravenous Eagles   | 68 |            10 |          9 |    0.9000 |
+| **Aeson**      | Badger Claws      | 54 |           155 |        138 |    0.8903 |
 
 
-There are a few players in the Pros who've made a big impact in non-obvious ways. The top 15 players in the above chart are players who, the only times they touched the ball managed to score. Odalric has done it 3 times.
+There are a few players in the Pros who've made a big impact in non-obvious ways. The top 15 players in the above chart are players who, the only times they touched the ball managed to score. Odalric and Eimilios have both done it 3 times.
 
 ```
 SELECT pl.name, pl.f_tname, count(DISTINCT md.f_match_id) AS gp, sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches) AS total_touches, sum(md.td), sum(md.td) / (sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches)) AS tds_touch 
@@ -172,23 +178,22 @@ Conversely, let's look at the players who've touched the ball a whole lot in the
 
 | player      | team              | gp | total_touches | sum(md.td) | tds_touch |
 |-------------|-------------------|----|---------------|------------|-----------|
-| Cleve      | Badger Claws      | 36 |           140 |          0 |    0.0000 |
-| Elvis       | Old Wyrms         | 32 |           127 |          0 |    0.0000 |
-| Melchor    | Vanadium Hunters  | 33 |            89 |          0 |    0.0000 |
-| Evander    | Old Wyrms         | 32 |            72 |          0 |    0.0000 |
-| *Mutasim*    | TC Sump Runners   | 18 |            64 |          0 |    0.0000 |
-| *Vlad*       | Gargantuan Brutes | 25 |            57 |          0 |    0.0000 |
-| Jacquetta   | TC Sump Runners   | 16 |            52 |          0 |    0.0000 |
-| *Garth*      | TC Sump Runners   | 16 |            52 |          0 |    0.0000 |
-| *GutTwister* | Gore Farmers      | 17 |            38 |          0 |    0.0000 |
-| *Sinta*      | Gore Farmers      |  7 |            23 |          0 |    0.0000 |
+| **Elvis**       | Old Wyrms         | 52 |           181 |          0 |    0.0000 |
+| **Cleve**       | Badger Claws      | 44 |           158 |          0 |    0.0000 |
+| **Melchor**     | Vanadium Hunters  | 33 |            89 |          0 |    0.0000 |
+| **Evander**     | Old Wyrms         | 32 |            72 |          0 |    0.0000 |
+| Mutasim    | TC Sump Runners   | 18 |            64 |          0 |    0.0000 |
+| **Consolo**     | Badger Claws      | 19 |            64 |          0 |    0.0000 |
+| Vlad       | Gargantuan Brutes | 25 |            57 |          0 |    0.0000 |
+| Garth      | TC Sump Runners   | 16 |            52 |          0 |    0.0000 |
+| GutTwister | Gore Farmers      | 17 |            38 |          0 |    0.0000 |
+| Hartwin    | Arboreal Menace   |  9 |            29 |          0 |    0.0000 |
 
-Most of these could find the endzone at some point, but the fact that the [Gargantuan Brutes](../teams/gargantuanbrutes) have now folded makes Vlad's achievement of 25 matches over three seasons and 57 touches the saddest.
+Most of these could find the endzone at some point, but the fact that the [Gargantuan Brutes](../teams/gargantuanbrutes) have now folded makes Vlad's achievement of 25 matches over three seasons and 57 touches the saddest. Elvis has moved up in these ranks, which you would imagine he's going to want to keep going at least until he passes [[Yosif]] on the all-time passing leaderboard.
 
 ```
-SELECT pl.name AS player, pl.f_tname AS team,	count(DISTINCT md.f_match_id) AS gp, sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches) AS total_touches, sum(md.td), sum(md.td) / (sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches)) AS tds_touch 
-FROM match_data_es AS mx JOIN match_data AS md ON mx.f_pid = md.f_player_id AND mx.f_mid = md.f_match_id JOIN players AS pl 
-		ON mx.f_pid = pl.player_id 
+SELECT pl.name AS player, pl.f_tname AS team, count(DISTINCT md.f_match_id) AS gp, sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches) AS total_touches, sum(md.td), sum(md.td) / (sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches)) AS tds_touch 
+FROM match_data_es AS mx JOIN match_data AS md ON mx.f_pid = md.f_player_id AND mx.f_mid = md.f_match_id JOIN players AS pl ON mx.f_pid = pl.player_id 
 WHERE md.f_did = 1
 GROUP BY pl.name, pl.f_tname 
 HAVING sum(md.td) = 0 AND total_touches >0 

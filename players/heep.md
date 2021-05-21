@@ -1,13 +1,13 @@
 # Heep
 
-[[carcosantatters]][[blitzer]][[gcc6]][[gcvii]][[uci]][[gcviii]][[retired]]
+[[orbitalmachine]][[blitzer]][[gcc6]][[gcvii]][[uci]][[gcviii]][[superstar]][[retired]]
 
-Heep was a blitzer for the Orbital Machine and their undisputed leader. He was a ducker and weaver, a bobber and blazing speed for a generally conservatively run team. He won the Sardines Crown for the (short) GCC06 season and was the Green Cup Classic MVP, making him the actual first player to hoist the real Green Cup in victory since the old-era. This gave Heep a bit more clout and when he put his voice behind a unification of the Classic and Burger leagues people listened.
+Heep was a blitzer for the Orbital Machine and their undisputed leader. He was a ducker and weaver, a bobber and blazing speed for a generally conservatively run team. He won the Sardine Crown for the (short) GCC06 season and was the Green Cup Classic MVP, making him the actual first player to hoist the real Green Cup in victory since the old-era. This gave Heep a bit more clout socially and when he put his voice behind a unification of the Classic and Burger leagues people listened.
 
 As the seasons wore on, Heep got more fragile and he didn't put up too much of a fight after the back injury he took from the [Ravenous Eagles](../teams/ravenouseagles)' [[Chikondi]] in the final regular season match of GCVIII made even walking up stairs unbearable.
 
-* Birthdate: 1262.006-384:985
-* Career Enddate: 1262.648-836:154
+* Birthdate: 1262.006-384:985 #t2006
+* Retiredate: 1262.648-836:154 #t2648
 
 # Basic Stats
 

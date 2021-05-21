@@ -14,11 +14,11 @@ The Sump Runners use the Hermann playbook, the original plan for playing BludBol
 | Shay      | Thrower  |  Superstar |       4 |
 | Pol       | Blitzer  |   Star |       3 |
 | Metin     | Catcher  |   Emerging Star |       3 |
-| Danae     | Blitzer  |   Emerging Star |       5 |
-| Eylul     | Lineman  |   Emerging Star |       4 |
+| Danae     | Blitzer  |   Seasoned Veteran |       5 |
+| Eylul     | Lineman  |   Seasoned Veteran |       4 |
 | Hoss      | Lineman  |   Star |       9 |
 | Agus      | Lineman  |    Rookie |       2 |
-| Edgar     | Lineman  |   Emerging Star |       8 |
+| Edgar     | Lineman  |   Seasoned Veteran |       8 |
 | Berger    | Lineman  |    Rookie |       3 |
 | Sille     | Lineman  |    Rookie |       2 |
 | Zdislava  | Blitzer  |   Emerging Star |       3 |

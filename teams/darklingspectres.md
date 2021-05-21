@@ -15,7 +15,7 @@ The Spectres use the traditional Unglewort playbook. They have nigh-unlimited ch
 | Zdravko      | Runner    |   Emerging Star |       3 |
 | Melite | Runner | Rookie | 0 |
 | Xochiquetzal | Blitzer    |    Experienced |       2 |
-| Grid         | Blitzer    |   Emerging Star |       4 |
+| Grid         | Blitzer    |   Seasoned Veteran |       4 |
 | Xiomara      | Line |    Experienced |       1 |
 | Sumit        | Line |    Experienced |       2 |
 | Antinanco    | Line |    Experienced |       1 |
@@ -33,25 +33,25 @@ The Spectres use the traditional Unglewort playbook. They have nigh-unlimited ch
 | Channing     | Runner    |   Superstar |       4 |
 | Ragnar       | Runner    |   Veteran |       1 |
 | Lamont       | Blitzer    |   Star |       8 |
-| Cheaphat     | Blocker    |   31 |       2 |
-| Vayu         | Blocker    |   44 |       4 |
+| Cheaphat     | Blocker    |   Emerging Star |       2 |
+| Vayu         | Blocker    |   Seasoned Veteran |       4 |
 | Onesiphorus  | Blocker    |   Star |       3 |
-| Mahesh       | Blocker    |   42 |       2 |
+| Mahesh       | Blocker    |   Emerging Star |       2 |
 | Simon        | Blocker    |   Superstar |       6 |
-| Henry        | Line   |   12 |       2 |
-| Marian       | Line |   14 |       5 |
-| Journee      | Line   |    0 |       2 |
-| Florrie      | Line |   22 |      10 |
-| Nail         | Line |   18 |       9 |
-| Willburg     | Line   |    2 |       2 |
-| Uilliam      | Line   |    0 |       2 |
-| Vinter       | Line   |    0 |       2 |
-| Jeltsje      | Line   |    0 |       1 |
-| Nnenna       | Line |    0 |       1 |
-| Helga        | Line |    0 |       1 |
-| Renate       | Line |    0 |       1 |
-| Elise        | Line |    0 |       1 |
-| Sheyna       | Line |    0 |       1 |
+| Henry        | Line   |   Experienced |       2 |
+| Marian       | Line |   Experienced |       5 |
+| Journee      | Line   |    Rookie |       2 |
+| Florrie      | Line |   Veteran |      10 |
+| Nail         | Line |   Veteran |       9 |
+| Willburg     | Line   |    Rookie |       2 |
+| Uilliam      | Line   |    Rookie |       2 |
+| Vinter       | Line   |    Rookie |       2 |
+| Jeltsje      | Line   |    Rookie |       1 |
+| Nnenna       | Line |    Rookie |       1 |
+| Helga        | Line |    Rookie |       1 |
+| Renate       | Line |    Rookie |       1 |
+| Elise        | Line |    Rookie |       1 |
+| Sheyna       | Line |    Rookie |       1 |
 
 ## Records
 

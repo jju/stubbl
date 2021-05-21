@@ -16,7 +16,7 @@ The Vagabonds use the Hermann playbook, the original plan for playing BludBol, a
 | Padma      | Blitzer  |  Superstar |       4 |
 | Alizee     | Blitzer  |    Experienced |       1 |
 | Voos       | Blitzer  |   Experienced |       3 |
-| Dene       | Blitzer  |   Emerging Star |       5 |
+| Dene       | Blitzer  |   Seasoned Veteran |       5 |
 | Alphege    | Lineman  |    Rookie |       2 |
 | Leone      | Lineman  |    Experienced |       5 |
 | Hamza      | Lineman  |   Veteran |       6 |
@@ -25,7 +25,7 @@ The Vagabonds use the Hermann playbook, the original plan for playing BludBol, a
 | Yehochanan | Lineman  |   Veteran |       8 |
 | Joscelin   | Lineman  |    Rookie |       1 |
 | Breann     | Lineman  |    Bench |       3 |
-| Mia        | Blitzer  |   Emerging Star |       4 |
+| Mia        | Blitzer  |   Seasoned Veteran |       4 |
 | Zaira      | Heavy     |   Star |       6 |
 
 ### Depth

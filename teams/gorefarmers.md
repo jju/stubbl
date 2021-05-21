@@ -19,7 +19,7 @@ The Orville-Crush approach to BludBol is traditional, simple, but also somewhat 
 | Eloi       | Blocker |   Emerging Star |       2 |
 | Pasquale   | Blocker |   Emerging Star |       2 |
 | RockLobber | Blocker |   Star |       5 |
-| Emil       | Blocker |   Emerging Star |       4 |
+| Emil       | Blocker |   Seasoned Veteran |       4 |
 | Helmuth    | Line           |   Veteran |       5 |
 | Sylvester  | Blitzer           |   Veteran |       3 |
 
@@ -28,7 +28,7 @@ The Orville-Crush approach to BludBol is traditional, simple, but also somewhat 
 | Player    | Position  | SPP | Seasons |
 |-----------|-----------|-----|---------|
 | Elric      | Blitzer           |   Emerging Star |       2 |
-| Bent       | Catcher            |   Emerging Star |       4 |
+| Bent       | Catcher            |   Seasoned Veteran |       4 |
 | Mashee     | Catcher            |   Superstar |       7 |
 | Eulaylia   | Line           |   Veteran |       5 |
 | Johann     | Line           |    Experienced |       1 |

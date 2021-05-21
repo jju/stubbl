@@ -1,11 +1,11 @@
 # Daividh
 
-[[glorioushounds]][[catcher]][[gcvi]][[gcvii]][[dead]]
+[[glorioushounds]][[catcher]][[gcvi]][[gcvii]][[superstar]][[dead]]
 
 Daividh was the first homegrown Modern Era star. He performed with grace in his first season, but was developing into a tougher defensive player for the Hounds when he was killed in GCVII by a Heavy freebooting with the last-place [Tatters](../teams/carcosantatters).
 
-* Birthdate: 1261.518-319:128
-* Deathdate: 1262.618-415:606
+* Birthdate: 1261.518-319:128 #t1518
+* Deathdate: 1262.618-415:606 #t2618
 
 # Basic Stats
 

@@ -1,11 +1,11 @@
 # Leibniz
 
-[[vanadiumhunters]][[blitzer]][[gcc06]][[gcvii]][[uci]][[gcviii]][[uciv]][[retired]]
+[[vanadiumhunters]][[blitzer]][[gcc06]][[gcvii]][[uci]][[gcviii]][[uciv]][[seasonedveteran]][[retired]]
 
 A prime candidate for the "Whatever happened to..." file, Leibniz dazzled fans in the GCC06 but never really became a star, until well into his decline. He wasn't picked for the inaugural Orange Goblet season, and is basically now a slow gap filler in tournaments that don't matter for the Hunters. He still itches to play though.
 
-* Birthdate: 1261.264-258:875
-* Retiredate: 1262.749-000:000
+* Birthdate: 1261.264-258:875 #t1264
+* Retiredate: 1262.749-000:000 #t2749 
 
 # Basic Stats
 

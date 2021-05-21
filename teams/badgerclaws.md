@@ -10,28 +10,28 @@ The Badger Claws use the Scrying Avian playbook which emphasizes speed above all
 
 | Player    | Position  | SPP | Seasons |
 |-----------|-----------|-----|---------|
-| Cleve      | Thrower       |  138 |       5 |
-| Consolo    | Thrower       |   55 |       3 |
-| Aeson      | Catcher |  524 |       5 |
-| Klim       | Catcher |   25 |       2 |
-| Sunny      | Catcher |   33 |       3 |
-| Olanrewaju | Catcher |   36 |       2 |
-| Anselmo    | Line       |    7 |       4 |
-| Felicienne | Line       |    7 |       3 |
-| Marge      | Line       |   11 |       3 |
-| Gerty      | Line       |    0 |       2 |
-| Simas      | Kicker     |    7 |       4 |
-| Ejiroghene | Line       |    0 |       3 |
-| Ishkur     | Blitzer       |   10 |       1 |
-| Iris       | Blitzer       |   40 |       3 |
-| Pippin     | Heavy      |   47 |       2 |
-| Willburg   | Line       |    4 |       2 |
+| Cleve      | Thrower       |  Superstar |       5 |
+| Consolo    | Thrower       |   Star |       3 |
+| Aeson      | Catcher |  Legend |       5 |
+| Klim       | Catcher |   Veteran |       2 |
+| Sunny      | Catcher |   Emerging Star |       3 |
+| Olanrewaju | Catcher |   Emerging Star |       2 |
+| Anselmo    | Line       |    Experienced |       4 |
+| Felicienne | Line       |    Experienced |       3 |
+| Marge      | Line       |   Experienced |       3 |
+| Gerty      | Line       |    Rookie |       2 |
+| Simas      | Kicker     |    Experienced |       4 |
+| Ejiroghene | Line       |    Rookie |       3 |
+| Ishkur     | Blitzer       |   Experienced |       1 |
+| Iris       | Blitzer       |   Emerging Star |       3 |
+| Pippin     | Heavy      |   Emerging Star |       2 |
+| Willburg   | Line       |    Rookie |       2 |
 
 ### Depth Chart
 
 | Player    | Position  | SPP | Seasons |
 |-----------|-----------|-----|---------|
-| Rong | Catcher | 0 | 0 |
+| Rong | Catcher | Rookie | 0 |
 
 ## Records
 

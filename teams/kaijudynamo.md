@@ -13,11 +13,11 @@ The Dynamo use the Elizabeth Aardman playbook, with a front line of strong block
 | Starfin   | Runner    |   Superstar |       5 |
 | Louis     | Runner    |   Emerging Star |       2 |
 | Marco     | Runner    |   Superstar |       4 |
-| Fidolio   | Runner    |   Emerging Star |       5 |
+| Fidolio   | Runner    |   Seasoned Veteran |       5 |
 | Deepali   | Blocker   |   Star |       5 |
-| Haruna    | Blocker   |   Emerging Star |       5 |
-| Renaud    | Blocker   |   Emerging Star |       4 |
-| Brown     | Blocker   |   Emerging Star |       5 |
+| Haruna    | Blocker   |   Seasoned Veteran |       5 |
+| Renaud    | Blocker   |   Seasoned Veteran |       4 |
+| Brown     | Blocker   |   Seasoned Veteran |       5 |
 | Quan      | Blocker   |   Emerging Star |       3 |
 | Euryalus  | Blocker   |   Emerging Star |       3 |
 | Vardan    | Runner    |   Star |       2 |

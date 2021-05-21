@@ -1,9 +1,11 @@
 # Aelfsige
 
-Aelfsige was to many people the reason to watch the [Gentlefolk](gentlefolk) play. When she was killed in week 3 of OGII #t2752.4 it was a similar moment to seeing the end of Sabah in GCX.
+[[gentlefolk]][[blocker]][[thrower]][[heavy]][[uci]][[ucii]][[uciii]][[ogi]][[uciv]][[ogii]][[star]][[dead]]
 
-* Birthdate: 1261.860-651:043
-* Deathdate: 1262.752-413:273 (~28yo)
+Aelfsige was to many people the reason to watch the [Gentlefolk](gentlefolk) play. Sheactually had the skills to get passes downfield and could withstand a few hits doing it. When she was killed in week 3 of OGII it was a similar moment to seeing the end of [Sabah](sabah) in GCX.
+
+* Birthdate: 1261.860-651:043 #t1860 
+* Deathdate: 1262.752-413:273 #t2752 (~28yo)
 
 # Basic Stats
 
@@ -11,7 +13,7 @@ Aelfsige was to many people the reason to watch the [Gentlefolk](gentlefolk) pla
 
 | Player           | Team        | Position      | W | D | L | GP | TD | Cp | Int | BH | SI | Ki | MVP | SPP |
 |------------------|-------------|---------------|--:|--:|--:|---:|---:|---:|----:|---:|---:|---:|----:|----:|
-| Aelfsige | Gentlefolk | Blocker / Thrower     |    7 |    4 |   16 |   27 |  7 |   10 | 0 |    4 |    1 |    1 |    2 |   53 |
+| Aelfsige | [Gentlefolk](../teams/gentlefolk) | Blocker / Thrower     |    7 |    4 |   16 |   27 |  7 |   10 | 0 |    4 |    1 |    1 |    2 |   53 |
 
 ## By Season
 
@@ -26,6 +28,8 @@ Aelfsige was to many people the reason to watch the [Gentlefolk](gentlefolk) pla
 | Aelfsige | Gentlefolk | Orange Goblet II   |    0 |    0 |    3 |    1 |    0 |    0 |    1 |    0 |    0 |    0 |    5 |
 
 # Prize Stats
+
+* Team Leader Completions (10)
 
 | Player | Team         | Season          | GP | TD | Rsh | Cp | CpDst | Ctch | Int | Cas | Blk | Sck | MVP | SPP |
 |--------|--------------|-----------------|---:|---:|----:|---:|------:|-----:|----:|----:|----:|----:|----:|----:|

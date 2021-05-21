@@ -19,7 +19,7 @@ The Eldritch Fatality use the Drop Eagle playbook. It's an adaptation of the Her
 | Mieczyslaw | Line   |    Rookie |       2 |
 | Ermenrich  | Line   |    Rookie |       1 |
 | Vihaio     | Line   |   Star |       8 |
-| Dunstan    | Attacker |   Emerging Star |       4 |
+| Dunstan    | Attacker |   Seasoned Veteran |       4 |
 | Huguo      | Attacker |   Veteran |       3 |
 
 

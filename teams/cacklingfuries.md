@@ -10,38 +10,37 @@ The Furies use the Norton playbook, which is mostly a way to get less skilled pl
 
 | Player    | Position  | SPP | Seasons |
 |-----------|-----------|-----|---------|
-| Luanna     | Thrower        |  122 |       5 |
-| Thiemo     | Line        |   18 |       4 |
-| Aronne     | Catcher        |  121 |       5 |
-| Rickon     | Catcher        |  113 |       8 |
-| Ed         | Blitzer        |   44 |       5 |
-| Faite      | Blitzer        |    3 |       1 |
-| Hasan      | Line        |   21 |       4 |
-| Rina       | Line        |   20 |       5 |
-| Orazio     | Line        |   14 |       4 |
-| Matleena   | Line        |    7 |       4 |
-| Hin        | Attacker |   43 |       5 |
-| Sophronia  | Attacker |   78 |       8 |
-| Svyatopolk | Heavy         |    7 |       3 |
+| Luanna     | Thrower        |  Superstar |       5 |
+| Thiemo     | Line        |   Veteran |       4 |
+| Aronne     | Catcher        |  Superstar |       5 |
+| Rickon     | Catcher        |  Superstar |       8 |
+| Ed         | Blitzer        |   Seasoned Veteran |       5 |
+| Faite      | Blitzer        |    Rookie |       1 |
+| Hasan      | Line        |   Veteran |       4 |
+| Rina       | Line        |   Veteran |       5 |
+| Orazio     | Line        |   Experienced |       4 |
+| Matleena   | Line        |    Experienced |       4 |
+| Hin        | Attacker |   Seasoned Veteran |       5 |
+| Sophronia  | Attacker |   Superstar |       8 |
+| Svyatopolk | Heavy         |    Experienced |       3 |
 
 ### Depth Chart
 
 | Player    | Position  | SPP | Seasons |
 |-----------|-----------|-----|---------|
-| Shashi     | Catcher        |   80 |       2 |
-| Danr       | Blitzer        |   58 |       3 |
-| Puneeta    | Line        |   25 |       3 |
-| Chizoba    | Line        |    7 |       2 |
-| Jeltsje    | Line        |   20 |       1 |
-| Vinter     | Line        |   14 |       4 |
-| Frommik    | Line        |   54 |       7 |
-| Kichiro    | Line        |    0 |       1 |
-| Sevinc     | Line        |    0 |       1 |
-| Aniketos   | Line        |    0 |       1 |
-| Rafferty   | Line        |    0 |       1 |
-| Tofa       | Line        |    0 |       1 |
-| Aarthi     | Line        |    0 |       1 |
-| Mumina     | Line        |    0 |       1 |
+| Shashi     | Catcher        |   Superstar |       2 |
+| Danr       | Blitzer        |   Star |       3 |
+| Puneeta    | Line        |   Veteran |       3 |
+| Chizoba    | Line        |    Experienced |       2 |
+| Jeltsje    | Line        |   Veteran |       1 |
+| Vinter     | Line        |   Experienced |       4 |
+| Kichiro    | Line        |    Rookie |       1 |
+| Sevinc     | Line        |    Rookie |       1 |
+| Aniketos   | Line        |    Rookie |       1 |
+| Rafferty   | Line        |    Rookie |       1 |
+| Tofa       | Line        |    Rookie |       1 |
+| Aarthi     | Line        |    Rookie |       1 |
+| Mumina     | Line        |    Rookie |       1 |
 
 
 ## Records

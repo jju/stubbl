@@ -1,12 +1,14 @@
 # Evander
 
-[[oldwyrms]][[thrower]][[gcvi]][[gcvii]][[gcviii]][[gcxi]][[active]]
+[[oldwyrms]][[thrower]][[gcvi]][[gcvii]][[gcviii]][[gcxi]][[superstar]][[active]]
 
-Writeup
+Evander led the Old Wyrms through their early modern-era revamp, and well, those weren't great seasons for the Wyrms. It wasn't due to ineptitude on his part. He won the passing award in that first season and did even better in GCVII (though [[Yosif]] was entering his prime completion-gathering seasons then too, so prizes got harder to come by).
 
-With the Wyrms being flush with cash after the GCX win, Evander has been tagged as a reserve player for GCXI.
+Evander was cut early in GCVIII in an effort to develop some new blood and that ended up working out well, allowing [[Elvis]] more room to become a star himself. With the Wyrms being flush with cash after the GCX win, Evander has been tagged as a reserve player for GCXI.
 
-Birthdate: 1261.780
+* Birthdate: 1261.780-119:360 #t1780
+* Retiredate: 1262.635-799:999 #t2635
+* Unretiredate: 1262.759-000:000 #t2759 
 
 # Basic Stats
 

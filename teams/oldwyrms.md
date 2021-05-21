@@ -124,7 +124,7 @@ Having the second-best player the UBBL has ever seen in [[souta]] has gone prett
 * [[Elvis]] - GCIX, GCX
 * [[Jia]] - GCIX, GCX
 * [[Elisavet]] - GCIX, GCX
-* [[Moirin]] - GCIX (Final only), GCX
+* [[moirin]] - GCIX (Final only), GCX
 * [[Babar]] - GCIX, GCX off playoff roster
 * [[Andela]] - GCIX
 * [[Martti]] - GCIX

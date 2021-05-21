@@ -13,11 +13,11 @@ The Eagles use the Charles Dorf playbook, which is built on a very rigid divisio
 | Bates      | Line           |   Star |       4 |
 | Leckerslie | Line           |    Experienced |       3 |
 | Desponia   | Blocker |   Veteran |       4 |
-| Jonquil    | Blocker |   Emerging Star |       4 |
+| Jonquil    | Blocker |   Seasoned Veteran |       4 |
 | Nedyalko   | Blocker |   Experienced |       4 |
 | Petrona    | Blocker |    Rookie |       2 |
 | Gemma      | Blocker |    Rookie |       2 |
-| Sanjana    | Blocker |   Emerging Star |       6 |
+| Sanjana    | Blocker |   Seasoned Veteran |       6 |
 | Donato     | Kicker           |    Experienced |       3 |
 | Niko       | Line           |   Star |       5 |
 | Imaan      | Line           |   Experienced |       2 |
@@ -31,9 +31,9 @@ The Eagles use the Charles Dorf playbook, which is built on a very rigid divisio
 |-----------|-----------|-----|---------|
 | Wanjiku    | Line           |   Veteran |       4 |
 | Humbert    | Line           |   Superstar |       6 |
-| Calixta    | Line           |   Emerging Star |       4 |
-| Toma       | Blocker |   Emerging Star |       6 |
-| Bahij      | Blocker |   Emerging Star |       7 |
+| Calixta    | Line           |   Seasoned Veteran |       4 |
+| Toma       | Blocker |   Seasoned Veteran |       6 |
+| Bahij      | Blocker |   Seasoned Veteran |       7 |
 | Rajendra   | Blitzer        |   Veteran |       1 |
 | Percy      | Heavy            |   Superstar |       4 |
 

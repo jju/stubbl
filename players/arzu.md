@@ -1,11 +1,11 @@
 # Arzu
 
-[[irregularcogs]][[attacker]][[gcvi]][[gcvii]]
+[[irregularcogs]][[attacker]][[gcvi]][[gcvii]][[emergingstar]][[retired]]
 
 Arzu was a blisteringly good attacking force in GCVI, even better at laying down blocks than their veteran co-star [[Crobuzon]]. Sadly, GCVII was not kind and their career ended against the [Cackling Furies](../teams/cacklingfuries) when they failed to judge a dodge precisely and snapped a leg beyond all hope of repair. 
 
-* Birthdate: 1261.745
-* Career Ended: 1262.610-0
+* Birthdate: 1261.745-661:828 #t1745
+* Career Ended: 1262.610-903:216 #t2610
 
 # Basic Stats
 

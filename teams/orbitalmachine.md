@@ -14,11 +14,11 @@ The Orbital Machine uses the Chariot playbook. This involves four massive player
 | Jarm     | Blitzer      |    Rookie |       3 |
 | Kendrick | Blitzer      |   Emerging Star |       3 |
 | Stino    | Blitzer      |   Veteran |       6 |
-| Spinal   | Blitzer      |   Emerging Star |       5 |
+| Spinal   | Blitzer      |   Seasoned Veteran |       5 |
 | Odalric  | Blocker |   Star |       3 |
 | Mate     | Blocker |   Star |       4 |
 | Jothi    | Blocker |   Star |       2 |
-| Bolt     | Blocker |   Emerging Star |       5 |
+| Bolt     | Blocker |   Seasoned Veteran |       5 |
 | Corinne  | Blitzer      |    Experienced |       3 |
 | Praveena | Blitzer      |    Bench |       3 |
 | Uli      | Heavy      |   Star |       3 |
@@ -28,8 +28,8 @@ The Orbital Machine uses the Chariot playbook. This involves four massive player
 | Player    | Position  | SPP | Seasons |
 |-----------|-----------|-----|---------|
 | Leppard  | Blitzer      |  Superstar |       6 |
-| Collar   | Blocker |   Emerging Star |       4 |
-| Anvil    | Blocker |   Emerging Star |       4 |
+| Collar   | Blocker |   Seasoned Veteran |       4 |
+| Anvil    | Blocker |   Seasoned Veteran |       4 |
 
 ## Records
 

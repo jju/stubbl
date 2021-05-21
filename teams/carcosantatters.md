@@ -10,40 +10,40 @@ The Tatters use the Nergal playbook, which some (especially fans of pretty BludB
 
 | Player    | Position  | SPP | Seasons |
 |-----------|-----------|-----|---------|
-| Tycho            | Thrower          |   72 |       5 |
-| Petronela        | Line          |    6 |       3 |
-| Sparrow          | Blitzer        |  101 |       3 |
-| Arya             | Blitzer        |   59 |       4 |
-| Orna             | Blitzer        |  100 |       8 |
-| Marley           | Blitzer        |   65 |       5 |
-| Dalitso          | Blocker  |   22 |       3 |
-| FlamingLion      | Blocker  |   29 |       4 |
-| OreSmitingMaster | Blocker  |   42 |       7 |
-| Frommik          | Line          |    1 |       2 |
-| Elke             | Line          |   21 |       5 |
-| Uzmal            | Line          |   11 |       3 |
-| Lucrece          | Line          |   22 |       4 |
-| Pierre           | Heavy |   84 |       7 |
+| Tycho            | Thrower          |   Star |       5 |
+| Petronela        | Line          |    Experienced |       3 |
+| Sparrow          | Blitzer        |  Superstar |       3 |
+| Arya             | Blitzer        |   Star |       4 |
+| Orna             | Blitzer        |  Superstar |       8 |
+| Marley           | Blitzer        |   Star |       5 |
+| Dalitso          | Blocker  |   Veteran |       3 |
+| FlamingLion      | Blocker  |   Veteran |       4 |
+| OreSmitingMaster | Blocker  |   Seasoned Veteran |       7 |
+| Frommik          | Line          |    Rookie |       2 |
+| Elke             | Line          |   Rookie |       5 |
+| Uzmal            | Line          |   Experienced |       3 |
+| Lucrece          | Line          |   Veteran |       4 |
+| Pierre           | Heavy |   Superstar |       7 |
 
 
 ### Depth Chart
 
 | Player    | Position  | SPP | Seasons |
 |-----------|-----------|-----|---------|
-| MaskedPain       | Blitzer        |   59 |       4 |
-| Chaggai          | Blocker  |   33 |       2 |
-| Shunmyo          | Blocker  |   33 |       2 |
-| Cain             | Kicker          |   10 |       5 |
-| Iapheth          | Line          |    7 |       5 |
-| Swanahil         | Line          |    2 |       6 |
-| Maryna           | Line          |    0 |       1 |
-| Gebhard          | Line          |    0 |       1 |
-| Steinunn         | Line          |    0 |       1 |
-| Cahal            | Line          |    0 |       1 |
-| Zeki             | Line          |    0 |       1 |
-| Eveleen          | Line          |    0 |       1 |
-| Sandra           | Line          |    0 |       1 |
-| Kenneth          | Line          |    0 |       1 |
+| MaskedPain       | Blitzer        |   Star |       4 |
+| Chaggai          | Blocker  |   Emerging Star |       2 |
+| Shunmyo          | Blocker  |   Emerging Star |       2 |
+| Cain             | Kicker          |   Experienced |       5 |
+| Iapheth          | Line          |    Experienced |       5 |
+| Swanahil         | Line          |    Bench |       6 |
+| Maryna           | Line          |    Rookie |       1 |
+| Gebhard          | Line          |    Rookie |       1 |
+| Steinunn         | Line          |    Rookie |       1 |
+| Cahal            | Line          |    Rookie |       1 |
+| Zeki             | Line          |    Rookie |       1 |
+| Eveleen          | Line          |    Rookie |       1 |
+| Sandra           | Line          |    Rookie |       1 |
+| Kenneth          | Line          |    Rookie |       1 |
 
 
 ## Records

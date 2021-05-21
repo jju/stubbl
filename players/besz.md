@@ -1,15 +1,15 @@
 # Besz
 
-[[irregularcogs]][[runner]][[oe-veteran]][[gcvi]][[gcvii]][[uci]][[gcviii]][[ucii]][[gcix]][[retired]]
+[[irregularcogs]][[runner]][[oe-veteran]][[gcvi]][[gcvii]][[uci]][[gcviii]][[ucii]][[gcix]][[legend]][[retired]]
 
-Besz is a veteran of the old UBBL, though she joined the Cogs as a replacement for Halfleg and didn't play with the legend. Her Games Played stat was for some time inflated beyond its true standing (she had 4 games in the Old-Era and the unofficial recorded GPs are 47).
+Besz is a veteran of the old UBBL, though she joined the Cogs as a replacement for [[Halfleg]] and didn't play with the legend. Her Games Played stat was for some time inflated beyond its true standing (she had 4 games in the Old-Era and the unofficial recorded GPs are 47).
 
 That said, records of the old-era UBBL are spotty but we're pretty sure she achieved enough playing time to get some veteran-type status (21 SPP) which would be enough to propel her to legendary status (and the pay bump it brings) now. This was an ongoing dispute with the Irregular Cogs' management, but has since been resolved.
 
-Soft retirement before GCX at 1.173GSec old (~37yo).
+She retired before GCX but has been linked to some sort of broadcasting future.
 
-* Birthdate 1261.541-575:537
-* Retiredate 1262.712-000:000
+* Birthdate 1261.541-575:537 #t1541
+* Retiredate 1262.712-000:000 #t2712 1.173GSec old (~37yo)
 
 
 # Basic Stats
@@ -18,7 +18,7 @@ Soft retirement before GCX at 1.173GSec old (~37yo).
 
 | Player           | Team        | Position      | W  | D | L | GP   | TD   | Cp | Int | BH   | SI   | Ki   | MVP  | SPP  |
 |------------------|-------------|---------------|----|---|---|------|------|----|-----|------|------|------|------|------|
-| Besz  | Irregular Cogs | Runner   |   33 |   4 |   23 |  64 |   29 |  105 |    0 |    0 |    1 |    0 |    4 |  204 |
+| Besz  | [Irregular Cogs](../teams/irregularcogs) | Runner   |   33 |   4 |   23 |  64 |   29 |  105 |    0 |    0 |    1 |    0 |    4 |  204 |
 
 ## By Season
 
