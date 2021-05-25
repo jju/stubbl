@@ -6,7 +6,7 @@ The Carcosan Tatters have always been a very good team. They're defensive-minded
 
 The Tatters use the Nergal playbook, which some (especially fans of pretty BludBol) say is one of the oldest and most insidious ways to play. The lineup consists of four strong blockers, four blitzing ball handlers and whatever dregs of fodder can be pulled off the street or opposing teams. Their biggest strengths are making everything difficult for the opposition.
 
-## Active Roster
+## Lineup
 
 | Player    | Position  | SPP | Seasons |
 |-----------|-----------|-----|---------|
@@ -26,7 +26,7 @@ The Tatters use the Nergal playbook, which some (especially fans of pretty BludB
 | Pierre           | Heavy |   Superstar |       7 |
 
 
-### Depth Chart
+### Bench
 
 | Player    | Position  | SPP | Seasons |
 |-----------|-----------|-----|---------|

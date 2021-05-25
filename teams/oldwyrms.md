@@ -8,25 +8,51 @@ The Old Wyrms (OW) use what's known as the Excelsior playbook, where a fast frag
 
 ## Active Roster
 
-| Player | Position | Tier |
-|--------|----------|-----|
-| Elvis |  Thrower | Legend |
-| Jia | Thrower | Star
-| Amador | Catcher | Legend
-| Seosamh | Catcher | Superstar
-| Kelemann | Blitzer | Star
-| Rati | Blitzer | Star
-| Elisavet | Line | Emerging Star
-| Leilani | Line | Experienced
-| Katina | Line | Experienced
-| Teresia | Line | Experienced
-| Andela | Kicker | Emerging Star
-| Alva | Line | Experienced
-| Olaug | Catcher | Veteran
-| Modest | Catcher | Star
-| Belmont | Line | Emerging Star
+| Player    | Position  | SPP | Seasons |
+|-----------|-----------|-----|---------|
+| Elvis     | Thrower  |  Legend |       7 |
+| Jia       | Thrower  |   Star |       3 |
+| Amador    | Catcher  |  Legend |       5 |
+| Seosamh   | Catcher  |   Superstar |       3 |
+| Kelemann  | Blitzer  |   Superstar |       3 |
+| Rati      | Blitzer  |   Star |       5 |
+| Elisavet  | Lineman  |   Seasoned Veteran |       7 |
+| Leilani   | Lineman  |    Experienced |       3 |
+| Katina    | Lineman  |    Experienced |       2 |
+| Teresia   | Lineman  |    Experienced |       2 |
+| Andela    | Lineman  |   Emerging Star |       3 |
+| Alva      | Lineman  |    Experienced |       2 |
+| Olaug     | Catcher  |   Veteran |       2 |
+| Modest    | Catcher  |   Star |       3 |
+| Belmont   | Lineman  |   Emerging Star |       3 |
 
 Andela and Olaug were not part of the GCX Champion team, but Andela was around for GCIX.
+
+### Bench
+| Player    | Position  | SPP | Seasons |
+|-----------|-----------|-----|---------|
+| Chandan   | Thrower  |   Star |       5 |
+| Evander   | Thrower  |   Superstar |       4 |
+| Martti    | Catcher  |    Rookie |       1 |
+| Roni      | Catcher  |   Superstar |       5 |
+| Eimilios  | Blitzer  |   Veteran |       2 |
+| Lucius    | Lineman  |   Veteran |       5 |
+| Devika    | Catcher  |   Veteran |       4 |
+| Babar     | Catcher  |  Legend |       7 |
+| Menachem  | Lineman  |    Experienced |       3 |
+| Yasmani   | Lineman  |    Rookie |       1 |
+| Zipfruder | Lineman  |    Rookie |       2 |
+| Fariha    | Lineman  |    Rookie |       2 |
+| Inaya     | Lineman  |    Rookie |       1 |
+| Xun       | Lineman  |    Rookie |       1 |
+| Raza      | Lineman  |    Rookie |       1 |
+| Xiuying   | Lineman  |    Rookie |       1 |
+| Indah     | Lineman  |    Rookie |       1 |
+| Elcin     | Lineman  |    Rookie |       1 |
+| Hui       | Lineman  |    Rookie |       1 |
+| Journee   | Lineman  |   Experienced |       2 |
+| Vilma     | Lineman  |    Rookie |       2 |
+
 
 ## Records
 

@@ -6,7 +6,7 @@ Usually credited along with the [Old Wyrms](oldwyrms) as the founders of the UBB
 
 The Vagabonds use the Hermann playbook, the original plan for playing BludBol, and the one that every other strategy is an adaptation of. The team has two thrower positions available, 4 catchers, 4 blitzers, a big guy and fills out the rest of the lineup with undistinguished concussion-fodder. Like most Hermann teams, the Vagabonds don't use all their specialist receivers, trusting more to a running game with the blitzers.
 
-## Active Roster
+## Lineup
 
 | Player    | Position  | Tier | Seasons |
 |-----------|-----------|-----|---------|
@@ -17,22 +17,22 @@ The Vagabonds use the Hermann playbook, the original plan for playing BludBol, a
 | Alizee     | Blitzer  |    Experienced |       1 |
 | Voos       | Blitzer  |   Experienced |       3 |
 | Dene       | Blitzer  |   Seasoned Veteran |       5 |
-| Alphege    | Lineman  |    Rookie |       2 |
-| Leone      | Lineman  |    Experienced |       5 |
-| Hamza      | Lineman  |   Veteran |       6 |
-| Eetu       | Lineman  |    Experienced |       4 |
-| Everette   | Lineman  |    Bench |       4 |
-| Yehochanan | Lineman  |   Veteran |       8 |
-| Joscelin   | Lineman  |    Rookie |       1 |
-| Breann     | Lineman  |    Bench |       3 |
+| Alphege    | Line  |    Rookie |       2 |
+| Leone      | Line  |    Experienced |       5 |
+| Hamza      | Line  |   Veteran |       6 |
+| Eetu       | Line  |    Experienced |       4 |
+| Everette   | Line  |    Bench |       4 |
+| Yehochanan | Line  |   Veteran |       8 |
+| Joscelin   | Line  |    Rookie |       1 |
+| Breann     | Line  |    Bench |       3 |
 | Mia        | Blitzer  |   Seasoned Veteran |       4 |
 | Zaira      | Heavy     |   Star |       6 |
 
-### Depth
+### Bench
 
 | Player    | Position  | SPP | Seasons |
 |-----------|-----------|-----|---------|
-| Sashka     | Lineman  |    Rookie |       1 |
+| Sashka     | Line  |    Rookie |       1 |
 | Seela      | Blitzer  |   Veteran |       2 |
 
 ## Records

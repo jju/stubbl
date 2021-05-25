@@ -6,28 +6,29 @@ They were once thought to be the future of BludBol in the old era UBBL, and were
 
 The Sump Runners use the Hermann playbook, the original plan for playing BludBol, and the one that every other strategy is an adaptation of. The team has two thrower positions available, 4 catchers, 4 blitzers, a big guy and fills out the rest of the lineup with undistinguished concussion-fodder. In actuality, most Hermann teams don't use all their specialist receivers, trusting more to a running game with the blitzers. The Sump Runners have some oddities in their lineup including using one of their thrower slots as a makeshift blitzer.
 
-## Active Roster
+## Lineup
 
 | Player    | Position  | SPP | Seasons |
 |-----------|-----------|-----|---------|
-| Jacquetta | Lineman  |  Superstar |       5 |
+| Jacquetta | Line  |  Superstar |       5 |
 | Shay      | Thrower  |  Superstar |       4 |
 | Pol       | Blitzer  |   Star |       3 |
 | Metin     | Catcher  |   Emerging Star |       3 |
 | Danae     | Blitzer  |   Seasoned Veteran |       5 |
-| Eylul     | Lineman  |   Seasoned Veteran |       4 |
-| Hoss      | Lineman  |   Star |       9 |
-| Agus      | Lineman  |    Rookie |       2 |
-| Edgar     | Lineman  |   Seasoned Veteran |       8 |
-| Berger    | Lineman  |    Rookie |       3 |
-| Sille     | Lineman  |    Rookie |       2 |
+| Eylul     | Line  |   Seasoned Veteran |       4 |
+| Hoss      | Line  |   Star |       9 |
+| Agus      | Line  |    Rookie |       2 |
+| Edgar     | Line  |   Seasoned Veteran |       8 |
+| Berger    | Line  |    Rookie |       3 |
+| Sille     | Line  |    Rookie |       2 |
 | Zdislava  | Blitzer  |   Emerging Star |       3 |
 
-### Depth
+### Bench
 
 | Player    | Position  | SPP | Seasons |
 |-----------|-----------|-----|---------|
 
+Yes, we foresee this 0 bench players situation will end up being a major problem if the Sump Runners want to win. Two superstars cannot carry a team in the UBBL.
 
 ## Records
 

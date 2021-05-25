@@ -6,7 +6,7 @@ The Cogs are the team of history that has never managed to re-live up to it. The
 
 The Irregular Cogs use the Drop Eagle playbook. It's an adaptation of the Hermann playbook that again requires more skilled players to run it effectively. The strategy dispenses with the catcher position entirely, instead using four skilled blitzers and two runners to handle the ball, and two dedicated ball-hawks to attack the opposing ball-carriers. The Cogs have been known to score more of their TDs on defense because of their aggressive style of defending.
 
-## Active Roster
+## Lineup
 
 | Player    | Position  | SPP | Seasons |
 |-----------|-----------|-----|---------|
@@ -24,7 +24,7 @@ The Irregular Cogs use the Drop Eagle playbook. It's an adaptation of the Herman
 | Pinja      | Witch Elf |   Emerging Star |       2 |
 | Ignat      | Witch Elf |   Superstar |       6 |
 
-### Depth Chart
+### Bench
 
 | Player    | Position  | SPP | Seasons |
 |-----------|-----------|-----|---------|

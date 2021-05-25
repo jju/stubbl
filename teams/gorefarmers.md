@@ -6,7 +6,7 @@ When the Gore Farmers are good they can be very good, as evidenced by their two 
 
 The Orville-Crush approach to BludBol is traditional, simple, but also somewhat arcane. A team can use 4 strong slow and unskilled linemen, 4 faster attacking blitzers, 2 dedicated ball-handlers, 4 weak slow receivers and a nigh-unlimited supply of tough fodder. The basic idea is to get a ball handler into a cage and grind out a 2-1 win, but there are more options for the team that wishes to develop them. The Gore Farmers, for instance, *mostly* eschew the Big Guy approach.
 
-## Active Roster
+## Lineup
 
 | Player    | Position  | SPP | Seasons |
 |-----------|-----------|-----|---------|
@@ -23,7 +23,7 @@ The Orville-Crush approach to BludBol is traditional, simple, but also somewhat 
 | Helmuth    | Line           |   Veteran |       5 |
 | Sylvester  | Blitzer           |   Veteran |       3 |
 
-### Depth Chart
+### Bench
 
 | Player    | Position  | SPP | Seasons |
 |-----------|-----------|-----|---------|
