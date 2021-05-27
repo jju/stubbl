@@ -67,7 +67,7 @@ With an overall Win% below the 33% seen as the bare minimum of acceptability for
 
 It's a shame [[marzhak]] wasn't on a better team. Players with his profile can be great. He was better than his old-era predecessor, [[Lophand]].
 
-Before the Open Division got a major season (the Orange Goblet), [[Votyris]] was one of the top players in the division.
+Before the Open Division got a major season (the Orange Goblet), [[votyris]] was one of the top players in the division.
 
 ### Management
 

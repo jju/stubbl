@@ -60,7 +60,7 @@
 
 ## ubbl challenge ii
 
-[[Votyris]]
+[[votyris]]
 
 ## ubbl challenge iii
 

@@ -59,3 +59,4 @@ In the individual player stat pages we keep the basic box scores under Basic Sta
 * [[Frommik]] [[cacklingfuries]]->[[carcosantatters]]
 * [[bill]] [[eldritchfatality]]->[[darklingspectres]]
 * [[Bahiyya]] [[zensunvagabonds]]->[[carcosantatters]]
+* [[Gadisa]] [[umberhulks]] -> [[newcursed]]
