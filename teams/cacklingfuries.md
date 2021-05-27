@@ -6,7 +6,7 @@ The Cackling Furies are an Old-Era expansion team that can cause a lot of injuri
 
 The Furies use the Norton playbook, which is mostly a way to get less skilled players to channel their energy into flinging themselves at the opposition in a terrible frenzy. The use a couple of strong attacking ball-hawks, some blitzers, even receivers, but all one sees when a team is going Norton is whirling masses of limbs and teeth. To do this they can't protect themselves very well, so there is a lot of roster turnover.
 
-## Active Roster
+## Lineup
 
 | Player    | Position  | SPP | Seasons |
 |-----------|-----------|-----|---------|
@@ -24,7 +24,7 @@ The Furies use the Norton playbook, which is mostly a way to get less skilled pl
 | Sophronia  | Attacker |   Superstar |       8 |
 | Svyatopolk | Heavy         |    Experienced |       3 |
 
-### Depth Chart
+### Bench
 
 | Player    | Position  | SPP | Seasons |
 |-----------|-----------|-----|---------|

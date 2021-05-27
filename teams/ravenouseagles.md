@@ -6,7 +6,7 @@ The Ravenous Eagles are often referred to as the Worst Green Cup Champions, whic
 
 The Eagles use the Charles Dorf playbook, which is built on a very rigid division of smash and grab labour. They use slow tacklers on the line to block off the centre, three strong blitzers and a fragile ball-handling corps (which is a faster group than the blockers, but comparatively slow across the league) to score just as much as is necessary.
 
-## Active Roster
+## Lineup
 
 | Player    | Position  | SPP | Seasons |
 |-----------|-----------|-----|---------|
@@ -25,7 +25,7 @@ The Eagles use the Charles Dorf playbook, which is built on a very rigid divisio
 | Ekua       | Blitzer        |  Superstar |       8 |
 | Jantine    | Heavy            |  Superstar |       5 |
 
-### Depth
+### Bench
 
 | Player    | Position  | SPP | Seasons |
 |-----------|-----------|-----|---------|

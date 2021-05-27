@@ -6,7 +6,7 @@ A dominant bashing Modern-Era team, the Orbital Machine embodies a team-oriented
 
 The Orbital Machine uses the Chariot playbook. This involves four massive players on the line with everyone else more lightly armoured but able to blitz like no one's business. Passing and ball-handling tend to be a secondary consideration and get focused into whichever players show an aptitude while the rest of the team assembles the cage to roll down the field.
 
-## Active Roster
+## Lineup
 
 | Player    | Position  | SPP | Seasons |
 |-----------|-----------|-----|---------|
@@ -23,7 +23,7 @@ The Orbital Machine uses the Chariot playbook. This involves four massive player
 | Praveena | Blitzer      |    Bench |       3 |
 | Uli      | Heavy      |   Star |       3 |
 
-### Depth
+### Bench
 
 | Player    | Position  | SPP | Seasons |
 |-----------|-----------|-----|---------|

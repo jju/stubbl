@@ -6,30 +6,31 @@ The Arboreal Menace are the newest entries for the Green Cup competition, having
 
 The Arboreal Menace use the Wary Eagle playbook, which is very similar to the Scrying Avian technique, but with slightly higher skilled (and more expensive to replace) players. The lineup includes four catchers, two blitzers and throwers that have more of an option of holding back and letting fly once the catchers are in position. The heavy on a Wary Eagle team is much less mobile than on a Scrying Avian but provides an anchor for the line.
 
-## Active Roster
+## Lineup
 
-| Player | Position | Tier |
-|--------|----------|-----|
-| Ingeborg | Thrower | Experienced |
-| Susila |  Thrower | Emerging Star
-| Laurel | Catcher | Star |
-| Attilla | Catcher | Star |
-| Sanja | Blitzer | Star |
-| Kropotkin | Blitzer | Star |
-| Unnr | Line | Experienced |
-| Chantrea | Line | Emerging Star |
-| Iago | Line | Veteran |
-| Joona | Line | Veteran |
-| Priyanka | Kicker | Experienced |
-| Georgina | Catcher | Superstar |
-| Nitika | Catcher | Star |
-| Borarinn | Heavy | Emerging Star |
+| Player | Position | Tier | Seasons |
+|--------|----------|-----|-----|
+| Ingeborg  | Thrower   |   Experienced |       2 |
+| Susila    | Thrower   |   Emerging Star |       2 |
+| Laurel    | Catcher   |   Star |       3 |
+| Attilla   | Catcher   |   Star |       6 |
+| Sanja     | Wardancer |   Star |       6 |
+| Kropotkin | Wardancer |   Star |       4 |
+| Unnr      | Lineman   |   Experienced |       6 |
+| Chantrea  | Lineman   |   Seasoned Veteran |       6 |
+| Iago      | Lineman   |   Veteran |       6 |
+| Joona     | Lineman   |   Veteran |       6 |
+| Priyanka  | Lineman   |   Experienced |       6 |
+| Georgina  | Catcher   |   Superstar |       6 |
+| Nitika    | Catcher   |   Star |       3 |
+| Borarinn  | Treeman   |   Emerging Star |       4 |
 
-### Depth Chart
 
-| Player    | Position  | Tier |
-|-----------|-----------|-----|
-| Bishop | Line | Rookie |
+### Bench
+
+| Player | Position | Tier | Seasons |
+|--------|----------|-----|-----|
+| Bishop    | Lineman   |   Rookie |       3 |
 
 ## Records
 

@@ -6,7 +6,7 @@ A youngish team, they weren't active in the Green Cup before the interruption, b
 
 The Eldritch Fatality use the Drop Eagle playbook. It's an adaptation of the Hermann playbook that again requires more skilled players to run it effectively. The strategy dispenses with the catcher position entirely, instead using four skilled blitzers and two runners to handle the ball, and two dedicated ball-hawks to attack the opposing ball-carriers. It's an aggressive defense that does as much work as their offense.
 
-## Active Roster
+## Lineup
 
 | Player    | Position  | SPP | Seasons |
 |-----------|-----------|-----|---------|
@@ -23,7 +23,7 @@ The Eldritch Fatality use the Drop Eagle playbook. It's an adaptation of the Her
 | Huguo      | Attacker |   Veteran |       3 |
 
 
-### Depth Chart
+### Bench
 
 | Player    | Position  | SPP | Seasons |
 |-----------|-----------|-----|---------|

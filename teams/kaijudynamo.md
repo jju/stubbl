@@ -6,7 +6,7 @@ The Kaiju Dynamo are a frustrating team to cheer for. They always seem right on 
 
 The Dynamo use the Elizabeth Aardman playbook, with a front line of strong blockers and a big guy anchoring the centre, while the ball handling runners are chosen for speed (rather than skill, strength or durability). The basic idea of the playbook is to cage the fragile runner to a place where they can bolt for the endzone.
 
-## Active Roster
+## Lineup
 
 | Player    | Position  | SPP | Seasons |
 |-----------|-----------|-----|---------|
@@ -26,7 +26,7 @@ The Dynamo use the Elizabeth Aardman playbook, with a front line of strong block
 | Pentecost | Runner    |   Veteran |       6 |
 | Tijmen    | Heavy |   Star |       4 |
 
-### Depth
+### Bench
 
 | Player    | Position  | SPP | Seasons |
 |-----------|-----------|-----|---------|

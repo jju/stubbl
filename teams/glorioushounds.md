@@ -6,7 +6,7 @@ The Hounds are all about deep passes to wide open receivers and how that is "the
 
 The Glorious Hounds use the High Extension playbook, a venerable adaptation of the Hermann technique. Generally to play this style, you need a higher skill level. The playbook uses four receivers but only two blitzers and no big guy option. The idea is usually for the thrower to hang onto the ball longer than in the Excelsior or Drop Eagle playbooks giving the catchers time to get open downfield.
 
-## Active Roster
+## Lineup
 
 | Player    | Position  | SPP | Seasons |
 |-----------|-----------|-----|---------|
@@ -24,7 +24,7 @@ The Glorious Hounds use the High Extension playbook, a venerable adaptation of t
 | Branson  | Catcher  |   Star |       3 |
 | Irenaeus | Catcher  |   Star |       3 |
 
-### Depth Chart
+### Bench
 
 | Player    | Position  | SPP | Seasons |
 |-----------|-----------|-----|---------|

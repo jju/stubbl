@@ -6,7 +6,7 @@ The Badger Claws fought their way into Green Cup play from the Open Division thr
 
 The Badger Claws use the Scrying Avian playbook which emphasizes speed above all else, especially the health of your own players. The position slots only include 2 blitzers, but have 2 throwers, 4 catchers (sometimes more accurately labelled runners), and a heavy available. With proper training it's possible to have a super-fast scorer onside, which makes the lack of defensive ability easier to overcome.
 
-## Active Roster
+## Lineup
 
 | Player    | Position  | SPP | Seasons |
 |-----------|-----------|-----|---------|
@@ -27,7 +27,7 @@ The Badger Claws use the Scrying Avian playbook which emphasizes speed above all
 | Pippin     | Heavy      |   Emerging Star |       2 |
 | Willburg   | Line       |    Rookie |       2 |
 
-### Depth Chart
+### Bench
 
 | Player    | Position  | SPP | Seasons |
 |-----------|-----------|-----|---------|
