@@ -12,12 +12,12 @@ The game goes faster than you expected, and it's really hard to tell exactly wha
 
 After a few big re-ordering of the players after one of the orange and blue-clad players went scampering up the sidelines, you figured out that the Tide seem to be faster and better at scoring than the Cogs. Without any explanation on the screen and barely any sound, the whole thing was weirdly unsatisfying.
 
-In the end the {$followingTeam} won 5-0, though you had to look it up on the message boards afterwards. It was only on the boards afterwards that you learned [[Chomps]] had actually killed one of the Cogs' rookie throwers.
+In the end the {$followingTeam} won 5-0, though you had to look it up on the message boards afterwards. It was only on the boards afterwards that you learned [[chomps]] had actually killed one of the Cogs' rookie throwers.
 
 It sounds like these are going to be the most interesting players to watch, or at least the ones the message-boarders are most excited about.
 
 * [[Fikri]] - Thrower
-* [[Chomps]] - Old-Era Veteran Blitzer
+* [[chomps]] - Old-Era Veteran Blitzer
 * [[Iapheth]] - Catcher
 * [[Silas]] - Thrower
 

@@ -6,7 +6,7 @@
 
 * [[aeson]] 461 (active)
 * [[souta]] 276
-* [[Costache]] 250
+* [[costache]] 250
 
 # modern era
 
@@ -24,7 +24,7 @@
 
 ## gcviii
 
-[[Costache]]
+[[costache]]
 
 ## gcix
 

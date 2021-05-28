@@ -6,7 +6,7 @@ Lars was the Orbital Machine's first Heavy and spent their rookie season duellin
 
 Interestingly, Lars was the first UBBL player to record 2 interceptions and they got both of them in the same match in GCC06 against the [Fatality](../teams/eldritchfatality).
 
-He was killed by [[Belenus]] with an illegal foul in the second match of GCVIII.
+He was killed by [[belenus]] with an illegal foul in the second match of GCVIII and the team put out a bounty on Belenus, leading to an early retirement.
 
 * Birthdate: 1261.831-313:402 #t1831
 * Deathdate: 1262.635-845:934 #t2635 

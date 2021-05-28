@@ -32,7 +32,7 @@ For most blocks in a season.
 
 ## gcx
 
-[[Deepali]]
+[[deepali]]
 
 # old-era
 

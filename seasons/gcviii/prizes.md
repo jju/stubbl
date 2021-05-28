@@ -1,12 +1,12 @@
 # gcviii
 
-* [[mvp]] - [[Costache]]
-* [[sardinecrown]] - [[Costache]]
+* [[mvp]] - [[costache]]
+* [[sardinecrown]] - [[costache]]
 * [[carminefist]] - [[Somfuhr]]
-* [[softhands]] - [[Costache]]
+* [[softhands]] - [[costache]]
 * [[relentlesscannon]] - [[yosif]]
 * [[halflegaward]] - [[Nakayama]]
 * [[hunteraward]] - [[Mandawuy]]
 * [[dervishaward]] - [[rohit]]
-* [[fanfavourite]] - [[Belenus]]
-* [[rookieofyear]] - [[Costache]]
+* [[fanfavourite]] - [[belenus]]
+* [[rookieofyear]] - [[costache]]

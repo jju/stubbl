@@ -17,7 +17,7 @@ In the end the {$followingTeam} lost 5-0, though you had to look it up on the me
 It sounds like these are going to be the most interesting players to watch, or at least the ones the message-boarders are most excited about.
 
 * [[besz]] - Old-Era Veteran Runner
-* [[Dragos]] - Blitzer
+* [[dragos]] - Blitzer
 * [[arzu]] - Blitzer
 * [[Karsten]] - Blitzer
 

@@ -40,7 +40,7 @@ Aeson came up in the UBBL Challenge with [[donat]]. In their first pro season th
 * Halfleg Award - GCX [[halflegaward#gcx]]
 * Soft Hands Award - GCX [[softhands#gcx]]
 * Quadruple Centurion [[centurion]]
-* Best Single Match Performance - GCX [[bestsinglematch]]
+* Best Single Match Performance - GCX [[bestmatch]]
 * MVP - All-Time [[mvp#all-time]]
 
 | Player | Team         | Season          | GP | TD  | Rsh | Cp   | CpDst | Ctch | Int | Cas  | Blk | Sck | MVP | SPP  |

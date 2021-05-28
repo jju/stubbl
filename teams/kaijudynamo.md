@@ -124,7 +124,7 @@ Fighting for third place in the Heaps.
 
 [[Starfin]] will do his best to get the ball to a scorer, but he is no [[Nakayama]].
 
-Since Sabah's development as a Sardines-style speedster, the offense has relied much more on [[Deepali]] opening a hole for [[Sabah]] to bolt through and score from the line of scrimmage. [[Sabah]] was basically the entire strategy of the GCVIII through early GCX teams, and she was great at the time. In GCX they had to work with secondary players, like [[Marco]] and [[Vardan]] who seem to be rewarding a more careful approach to the game.
+Since Sabah's development as a Sardines-style speedster, the offense has relied much more on [[deepali]] opening a hole for [[Sabah]] to bolt through and score from the line of scrimmage. [[Sabah]] was basically the entire strategy of the GCVIII through early GCX teams, and she was great at the time. In GCX they had to work with secondary players, like [[Marco]] and [[Vardan]] who seem to be rewarding a more careful approach to the game.
 
 ### Management
 

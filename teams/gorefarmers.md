@@ -130,7 +130,7 @@ The current star is [[Aemulus]] who provides a fine alternative to [[Mashee]] as
 * [[RockLobber]] VIII
 * [[Elric]] VIII
 * [[Fang]] VIII
-* [[Belenus]] VIII
+* [[belenus]] VIII
 * [[Nuru]] VIII
 * [[TinyDancer]] VIII
 * [[Eulaylia]] VIII

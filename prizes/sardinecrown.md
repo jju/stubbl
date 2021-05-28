@@ -5,7 +5,7 @@
 # all-time
 
 * [[aeson]] 138 (Active)
-* [[Costache]] 74
+* [[costache]] 74
 
 # modern era
 
@@ -23,7 +23,7 @@
 
 ## gcviii
 
-[[Costache]]
+[[costache]]
 
 ## gcix
 

@@ -1,4 +1,4 @@
-# soft hands awad
+# soft hands award
 
 For most catches in a season (fewest dropped passes is the tiebreaker)
 
@@ -24,7 +24,7 @@ For most catches in a season (fewest dropped passes is the tiebreaker)
 
 ## gcviii
 
-[[Costache]]
+[[costache]]
 
 ## gcix
 

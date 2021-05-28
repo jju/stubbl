@@ -37,7 +37,7 @@ Yakup retired from pro BludBol at the end of GCVIII (652.4) but then returned fo
 * MVP - GCVII [[mvp#gcvii]]
 * Halfleg Award - GCVI [[halflegaward#gcvii]]
 * First Centurion [[centurion]]
-* Best Single Match Performance [[bestsinglematch]]
+* Best Single Match Performance [[bestmatch]]
 
 | Player | Team         | Season          | GP | TD  | Rsh | Cp   | CpDst | Ctch | Int | Cas  | Blk | Sck | MVP | SPP  |
 |--------|--------------|-----------------|----|-----|-----|------|-------|------|-----|------|-----|-----|-----|------|

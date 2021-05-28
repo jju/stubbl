@@ -7,6 +7,6 @@
 * [[relentlesscannon]] - [[Luanna]]
 * [[halflegaward]] - [[aeson]]
 * [[hunteraward]] - [[Spinal]]
-* [[dervishaward]] - [[Deepali]]
+* [[dervishaward]] - [[deepali]]
 * [[fanfavourite]] - [[Desponia]]
 * [[rookieofyear]] - [[Venus]]

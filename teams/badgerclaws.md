@@ -101,7 +101,7 @@ Obviously when we talk about the Badger Claws we have to talk about the best pla
 
 Aeson and [[donat]] started out similarly but Donat got a serious concussion and development slowed. In the off-season after GCX, Donat was the first player in the UBBL to be sold under the new free agency rules. He ended up with the Open Division [Vanadium Hunters](vanadiumhunters) for Orange Goblet II, where he was crippled in his first match and withdrew from BludBol entirely.
 
-[[Cleve]] is one of the biggest stars in the UBBL who has never scored a touchdown (3rd in the all-UBBL list and 3rd in the Pro Division). What makes it even more remarkable is how many times he touches the ball without going for the endzone himself.
+[[cleve]] is one of the biggest stars in the UBBL who has never scored a touchdown (3rd in the all-UBBL list and 3rd in the Pro Division). What makes it even more remarkable is how many times he touches the ball without going for the endzone himself.
 
 It will eventually be a problem that all their good players have peaked and are getting more expensive by the season and there's not a lot of skill waiting in the wings. 
 

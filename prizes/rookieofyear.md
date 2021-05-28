@@ -22,7 +22,7 @@ For most SPP in a season by a player starting the season with 0 SPP.
 
 ## gcviii
 
-* [[Costache]] - 112
+* [[costache]] - 112
 
 ## gcix
 

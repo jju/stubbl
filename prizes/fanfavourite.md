@@ -24,7 +24,7 @@ For most MVP awards (as chosen by the fans) in a season.
 
 ## gcviii
 
-[[Belenus]]
+[[belenus]]
 
 ## gcix
 

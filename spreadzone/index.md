@@ -2,7 +2,7 @@
 
 Hey there BludBol fans and welcome to the [SpreadZone](index), your source for all the doings in the UBBL coming up on the eleventh Green Cup season.
 
-This season should see a couple of big milestones reached by members of the [Ravenous Eagles](../teams/ravenouseagles): [[Jantine]] needs to inflict just one casualty to claim the all-time Carmine Fist from [[somfuhr]], and [[Ekua]] will be looking to play in 6 matches to take the longevity prize from [[hulud]].
+This season should see a couple of big milestones reached by members of the [Ravenous Eagles](../teams/ravenouseagles): [[Jantine]] needs to inflict just one casualty to claim the all-time Carmine Fist from [[somfuhr]], and [[ekua]] will be looking to play in 6 matches to take the longevity prize from [[hulud]].
 
 Beyond those individual awards what could we see the Eagles do? They will be hunting for another Iron Fist and to take advantage of their weak division to make yet another playoff run. The regular season might give the Eagles time to develop some support for their big 3 bashers. They made a trade within the division to the [Furies](../teams/cacklingfuries) to get some more dexterity on the skilly side of the ball so could they improve their TD differential (since their defense is among the best in the Pros already). 
 

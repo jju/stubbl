@@ -15,7 +15,7 @@ It's sort of a down week in the schedule, with only the Arboreal Menace vs Badge
 
 # recap
 
-This week saw the scoring race really heat up with a new three-way tie for first place between [[atte]] [[Sabah]] and [[aeson]] at 7 TDs apiece with [[Costache]] right behind at 6. Player of the Week was the young upstart [[Venus]] with 14 SPP.
+This week saw the scoring race really heat up with a new three-way tie for first place between [[atte]] [[Sabah]] and [[aeson]] at 7 TDs apiece with [[costache]] right behind at 6. Player of the Week was the young upstart [[Venus]] with 14 SPP.
 
 Both teams seem to be satisfied with the single point in a mostly blizzard-fuelled matchup. ZV 2 - OM 2
 
