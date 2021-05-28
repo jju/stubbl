@@ -31,6 +31,7 @@ Unless specified, we're dealing with the 1262 epoch.
 	* Week 11 618.4
 * UC 1262.623-692:349 (623.7) -> 631-329:544 (631.4)
 * GCVIII 1262.633-862:797 (633.8) -> 652-328:975 (652.4)
+	* Week 1 634.2
 	* Week 2 635.8
 	* Week 3 636.8
 	* Week 13 646.9
