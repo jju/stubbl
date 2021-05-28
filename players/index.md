@@ -58,4 +58,4 @@ In the individual player stat pages we keep the basic box scores under Basic Sta
 * [[Henry]] [[kaijudynamo]]->[[darklingspectres]]
 * [[Frommik]] [[cacklingfuries]]->[[carcosantatters]]
 * [[bill]] [[eldritchfatality]]->[[darklingspectres]]
-* [[Bahiyya]] [[zensunvagabonds]]->[[carcosantatters]]
+* [[bahiyya]] [[zensunvagabonds]]->[[carcosantatters]]

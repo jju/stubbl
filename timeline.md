@@ -38,6 +38,7 @@ Unless specified, we're dealing with the 1262 epoch.
 * UCII 1262.653-483:178 (653.4) -> 660-714:477 (660.7)
 * GCIX 1262.662-993:705 (662.9) -> 681-662:000 (681.7)
 	* Week 3 666.0
+	* Week 8 671.1 (671.4 CT vs SR)
 	* Week 13 676.1
 * GCV Memorial 1262.683MSec -> 697Msec
 	* Week 4 687.1

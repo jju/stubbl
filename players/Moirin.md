@@ -33,8 +33,8 @@ Deathdate: 1262.745-788:294
 
 # Prize Stats
 
-* Green Cup Champion - Green Cup IX [[gcring#gcix]]
-* Green Cup Champion - Green Cup X [[gcring#gcx]]
+* Green Cup Champion - Green Cup IX [[champ#gcix]]
+* Green Cup Champion - Green Cup X [[champ#gcx]]
 
 | Player | Team         | Season          | GP | TD | Rsh | Cp | CpDst | Ctch | Int | Cas | Blk | Sck | MVP | SPP |
 |--------|--------------|-----------------|---:|---:|----:|---:|------:|-----:|----:|----:|----:|----:|----:|----:|

@@ -6,7 +6,7 @@ Tooms II was the undoubted star of the Darkling Spectres for most of his career.
 
 Many argue he should have handed the ball off more, as he did not have an impeccable completion rate, and near the end he was slower and would often miss matches, but the Spectres fans loved him.
 
-His career-ending injury came in GCX at the hands of [[Ekua]] after many excellent games. At the time he was 9th in SPP for the UBBL Pro division.
+His career-ending injury came in GCX at the hands of [[ekua]] after many excellent games. At the time he was 9th in SPP for the UBBL Pro division.
 
 * Birthdate: 1261.992-652:185
 * Careerenddate: 1262.718-122:086

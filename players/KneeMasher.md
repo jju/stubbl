@@ -1,4 +1,4 @@
-[[gorefarmers]][[centurion]][[blitzer]][[gcvi]][[gcring#vi]]
+[[gorefarmers]][[centurion]][[blitzer]][[gcvi]][[champ#vi]]
 
 Birthdate: 1261.718
 

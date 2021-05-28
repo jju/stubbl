@@ -5,7 +5,11 @@ For most Casualties in a season.
 # all-time
 
 * [[Somfuhr]] 50
-* [[Jantine]] 50 (Active)
+* [[jantine]] 50 (Active)
+
+
+## former
+
 * [[rohit]] 49
 
 # modern era
@@ -24,15 +28,15 @@ For most Casualties in a season.
 
 ## gcviii
 
-[[Somfuhr]]
+[[somfuhr]]
 
 ## gcix
 
-[[Jantine]]
+[[jantine]]
 
 ## gcx
 
-[[Jantine]]
+[[jantine]]
 
 # old-era
 

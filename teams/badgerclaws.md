@@ -99,7 +99,7 @@ There is no doubt that the Badger Claws can score. The question is if their defe
 
 Obviously when we talk about the Badger Claws we have to talk about the best player the UBBL has ever seen, [Aeson](../players/aeson). Aeson's SPP total in GCIX alone eclipse hundreds of players.
 
-Aeson and [[Donat]] started out similarly but Donat got a serious concussion and development slowed. In the off-season after GCX, Donat was the first player in the UBBL to be sold under the new free agency rules. He ended up with the Open Division [Vanadium Hunters](vanadiumhunters) for Orange Goblet II, where he was crippled in his first match and withdrew from BludBol entirely.
+Aeson and [[donat]] started out similarly but Donat got a serious concussion and development slowed. In the off-season after GCX, Donat was the first player in the UBBL to be sold under the new free agency rules. He ended up with the Open Division [Vanadium Hunters](vanadiumhunters) for Orange Goblet II, where he was crippled in his first match and withdrew from BludBol entirely.
 
 [[Cleve]] is one of the biggest stars in the UBBL who has never scored a touchdown (3rd in the all-UBBL list and 3rd in the Pro Division). What makes it even more remarkable is how many times he touches the ball without going for the endzone himself.
 

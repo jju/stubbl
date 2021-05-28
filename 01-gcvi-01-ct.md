@@ -14,7 +14,7 @@ Apparently the {$followingTeam} won 1-0, though you had to look it up on the mes
 
 It sounds like these are going to be the most interesting players to watch, or at least the ones the message-boarders are most excited about.
 
-* [[Adeno]] - Old-Era Veteran Blocker
+* [[adeno]] - Old-Era Veteran Blocker
 * [[Dementia]] - Old-Era Veteran Blitzer
 * [[MaskedPain]] - rookie Blitzer
 * [[Pierre]] - Big Guy (started late?)

@@ -1,4 +1,6 @@
-Hey there BludBol fans and welcome to the SpreadZone, your source for all the doings in the UBBL coming up on the eleventh Green Cup season.
+# spreadZone - GCXI Picks
+
+Hey there BludBol fans and welcome to the [SpreadZone](index), your source for all the doings in the UBBL coming up on the eleventh Green Cup season.
 
 With the preseason training camps coming to a close and rosters being finalized for GCXI, let's take a look at the divisions.
 

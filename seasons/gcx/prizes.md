@@ -2,7 +2,7 @@
 
 * [[mvp]] - [[aeson]]
 * [[sardinecrown]] - [[aeson]]
-* [[carminefist]] - [[Jantine]]
+* [[carminefist]] - [[jantine]]
 * [[softhands]] - [[aeson]]
 * [[relentlesscannon]] - [[Luanna]]
 * [[halflegaward]] - [[aeson]]

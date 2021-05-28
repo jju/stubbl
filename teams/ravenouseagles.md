@@ -83,7 +83,7 @@ In GCVII, the Eagles fought from third place in the Outlands division to win it 
 
 Green Cup VIII was another last-place finish in the Outlands division (though their points total would have put them in second place if they were in the Heaps). 
 
-With the new divisions in place in GCIX there was some thought teams bashy teams like the Eagles would be at a disadvantage. That seemed to be somewhat the case, but fans had a blast watching [[Jantine]] mow through opposing teams. Their GCVII Championship meant that even being last in the Pits they weren't subject to relegation. Led by Jantine, they inflicted the most casualties 43 (28-12-3) en route to a last place finish in their division (after realignment this was now the Pits, feeding an intradivisional rivalry with the [Spectres](darklingspectres)) but they also stole the first Iron Fist from the [Orbital Machine](orbitalmachine) in the new era.
+With the new divisions in place in GCIX there was some thought teams bashy teams like the Eagles would be at a disadvantage. That seemed to be somewhat the case, but fans had a blast watching [[jantine]] mow through opposing teams. Their GCVII Championship meant that even being last in the Pits they weren't subject to relegation. Led by Jantine, they inflicted the most casualties 43 (28-12-3) en route to a last place finish in their division (after realignment this was now the Pits, feeding an intradivisional rivalry with the [Spectres](darklingspectres)) but they also stole the first Iron Fist from the [Orbital Machine](orbitalmachine) in the new era.
 
 Outside the Pro Division the Eagles put together a wonderful GCV Memorial season with their retirees and rookies, then got it all together for an exciting final match. Sure this didn't mean anything but it's fun to win. The Eagles actually tied with the [Irregular Cogs](irregularcogs) for Casualties inflicted (20), but their casualty composition (11-5-4) meant they ended more careers and had a better differential (14) so they won the prize.
 
@@ -111,14 +111,14 @@ We've seen the Eagles make a dashing playoff run before, and with the Spectres s
 | Lumusi   | Ravenous Eagles | Blocker |   34 |   10 |   38 |   82 |    0 |    1 |    1 |    6 |    3 |    1 |    5 |   48 |
 | Sigfrido | Ravenous Eagles | Line           |   19 |    3 |   20 |   42 |    8 |    4 |    0 |    1 |    1 |    0 |    2 |   42 |
 
-[[Jantine]] and [[percy]] have been the biggest stars of the Eagles, who haven't been trying to dominate as much as get into position to put a little run together like they did in GCVII. 
+[[jantine]] and [[percy]] have been the biggest stars of the Eagles, who haven't been trying to dominate as much as get into position to put a little run together like they did in GCVII. 
 
 The Eagles have developed a lot of journeymen, especially in GCV, but their style of play doesn't leave a lot of room for the Line players to really develop into flashy stars.
 
 #### Cup Winners
 
-* [[Ekua]] VII
-* [[Chikondi]] VII
+* [[ekua]] VII
+* [[chikondi]] VII
 * [[Frediano]] VII
 * [[Mahendra]] VII
 * [[Percy]] VII
@@ -152,7 +152,7 @@ Their best match was probably the (GCVII Conference Final) where they pulled off
 
 The Eagles' [[Frediano]] received the kick and immediately moved into a cage while [[Sigfrido]] headed downfield. The Cogs withdrew from the cage, leaving Frediano to reform the cage to his left while Sigfrido headed further towards the endzone. The Cogs attempted to get in the faces of both ends of the potential scoring battery, which was neutralized, but then Frediano darted towards the sideline. [[venkata]] wrestled Sigfrido to the ground in the endzone, but he got up and out of the way for Frediano to be freed from a swarm to make the pass and catch. IC 0 - RE 1
 
-The second quarter began with a short kick by Sigfrido. [[Dragos]] got the ball to [[besz]] after Venkata opened up a hole on their right. After the Eagles swarmed back on the Cogs, Besz stumbled trying to get away from [[Ekua]], and wound up knocked out. [[Birgitta]] recovered the fumbled ball, but was then sacked by [[Anant]], who stumbled and lost the ball trying to get clear (this whole time Saxa was waiting patiently downfield). Ekua cleared a path to the ball for Eliott, who picked it up but was immediately pushed into the crowd by Dragos. The ball ended up at midfield where Sigfrido grabbed it, tossed it to Birgitta who made a run for the endzone, but tripped as she pushed herself too fast! Dragos couldn't get the ball downfield far enough and the half ended. IC 0 - RE 1
+The second quarter began with a short kick by Sigfrido. [[Dragos]] got the ball to [[besz]] after Venkata opened up a hole on their right. After the Eagles swarmed back on the Cogs, Besz stumbled trying to get away from [[ekua]], and wound up knocked out. [[Birgitta]] recovered the fumbled ball, but was then sacked by [[Anant]], who stumbled and lost the ball trying to get clear (this whole time Saxa was waiting patiently downfield). Ekua cleared a path to the ball for Eliott, who picked it up but was immediately pushed into the crowd by Dragos. The ball ended up at midfield where Sigfrido grabbed it, tossed it to Birgitta who made a run for the endzone, but tripped as she pushed herself too fast! Dragos couldn't get the ball downfield far enough and the half ended. IC 0 - RE 1
 
 The second half kicked off with a perfect defence by the Eagles. The Cogs headed to their left into the slightly less-threatening jaws of Ekua and Chikondi. Besz dumped off to Saxa, who darted through the center to make a just good enough pass to Dragos in the endzone. IC 1 - RE 1
 

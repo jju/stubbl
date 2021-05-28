@@ -29,6 +29,7 @@ The Old Wyrms (OW) use what's known as the Excelsior playbook, where a fast frag
 Andela and Olaug were not part of the GCX Champion team, but Andela was around for GCIX.
 
 ### Bench
+
 | Player    | Position  | SPP | Seasons |
 |-----------|-----------|-----|---------|
 | Chandan   | Thrower  |   Star |       5 |
@@ -38,7 +39,7 @@ Andela and Olaug were not part of the GCX Champion team, but Andela was around f
 | Eimilios  | Blitzer  |   Veteran |       2 |
 | Lucius    | Lineman  |   Veteran |       5 |
 | Devika    | Catcher  |   Veteran |       4 |
-| Babar     | Catcher  |  Legend |       7 |
+| Babar     | Catcher  |  Superstar |       7 |
 | Menachem  | Lineman  |    Experienced |       3 |
 | Yasmani   | Lineman  |    Rookie |       1 |
 | Zipfruder | Lineman  |    Rookie |       2 |
@@ -140,18 +141,18 @@ The Wyrms are going into GCXI looking to win it all again. They have a big payro
 | **Modest**   | Old Wyrms | Catcher  |   12 |    5 |    3 |   20 |   15 |    5 |    0 |    0 |    0 |    0 |    3 |   65 |
 | **Rati**     | Old Wyrms | Blitzer  |   25 |    3 |   11 |   39 |    9 |    4 |    0 |    8 |    2 |    1 |    2 |   63 |
 
-Having the second-best player the UBBL has ever seen in [[souta]] has gone pretty well for the Wyrms. That she wasn't used in the GCIX final is one of the things BludBol fans will always have an opinion on. [[Elvis]] has a long way to go to catch [[souta]]
+Having the second-best player the UBBL has ever seen in [[souta]] has gone pretty well for the Wyrms. That she wasn't used in the GCIX final is one of the things BludBol fans will always have an opinion on. [[elvis]] has a long way to go to catch [[souta]]
 
 #### Cup Winners
 
 * [[Kelemann]] - GCIX, GCX
 * [[Amador]] - GCIX, GCX
 * [[Rati]] - GCIX, GCX
-* [[Elvis]] - GCIX, GCX
+* [[elvis]] - GCIX, GCX
 * [[Jia]] - GCIX, GCX
 * [[Elisavet]] - GCIX, GCX
 * [[moirin]] - GCIX (Final only), GCX
-* [[Babar]] - GCIX, GCX off playoff roster
+* [[babar]] - GCIX, GCX off playoff roster
 * [[Andela]] - GCIX
 * [[Martti]] - GCIX
 * [[Roni]] - GCIX

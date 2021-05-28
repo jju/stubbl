@@ -10,14 +10,14 @@ A Green Cup Centurion is a player who is in the top 16 players ranked by Pro Div
 4. [[Sabah]]
 5. [[besz]]
 6. [[yakup]]
-7. [[Elvis]]
+7. [[elvis]]
 8. [[yosif]]
-9. [[Atte]] * new post GCX
+9. [[atte]] * new post GCX
 10. [[rohit]]
 11. [[toomsii]]
 12. [[Amador]] * new post GCX
 13. [[Filipa]] * new post GCX
-14. [[Babar]]
+14. [[babar]]
 15. [[KneeMasher]]
 16. [[Dragos]] 
 
@@ -32,7 +32,7 @@ A Green Cup Centurion is a player who is in the top 16 players ranked by Pro Div
 7. [[Silas]]
 8. [[Mayu]]
 9. [[bill]]
-10. [[Bahiyya]]
+10. [[bahiyya]]
 
 ## all-UBBL
 

@@ -2,9 +2,9 @@
 
 * [[mvp]] - [[aeson]]
 * [[sardinecrown]] - [[aeson]]
-* [[carminefist]] - [[Jantine]]
+* [[carminefist]] - [[jantine]]
 * [[softhands]] - [[souta]]
-* [[relentlesscannon]] - [[Elvis]]
+* [[relentlesscannon]] - [[elvis]]
 * [[halflegaward]] - [[aeson]]
 * [[hunteraward]] - [[Dunstan]]
 * [[dervishaward]] - [[Marley]]

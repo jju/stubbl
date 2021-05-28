@@ -2,7 +2,7 @@
 
 [[carcosantatters]][[blocker]][[gcvi]][[gcvii]][[gcviii]][[gcix]][[dead]]
 
-Ravenous Oblivion was a stalwart badass blocking machine until she was killed by [[Jantine]] in GCIX. Her career highight was getting the first Fan Fanvourite award in her rookie season, but she kept in on the line slowing peopl down doing the unsung work of slowing them down.
+Ravenous Oblivion was a stalwart badass blocking machine until she was killed by [[jantine]] in GCIX. Her career highight was getting the first Fan Fanvourite award in her rookie season, but she kept in on the line slowing peopl down doing the unsung work of slowing them down.
 
 * Birthdate: 1261.791-959:974
 * Deathdate: 1262.676-122:725

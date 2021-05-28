@@ -82,7 +82,7 @@ There's a lot of history in the list of star Hunters, but modern-era success has
 
 ### Management
 
-The Noordennen family that runs the Hunters were the first to jump on the free agency model, using some of their Orange Goblet winnings to purchase [[Donat]] from the [Badger Claws](badgerclaws).
+The Noordennen family that runs the Hunters were the first to jump on the free agency model, using some of their Orange Goblet winnings to purchase [[donat]] from the [Badger Claws](badgerclaws).
 
 ### Fans
 

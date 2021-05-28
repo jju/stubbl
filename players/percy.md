@@ -1,10 +1,10 @@
 # Percy
 
-[[ravenouseagles]][[heavy]][[gcvi]][[gcvii]][[gcviii]][[active]]
+[[ravenouseagles]][[heavy]][[gcvi]][[gcvii]][[gcviii]][[superstar]][[active]]
 
-Percy is one of the Heavies the Ravenous Eagles have had the good fortune to employ. Part of the Green Cup VII winning team, Percy did a lot of smashing. In GCIX he took a mentorship role with the team, allowing [[Jantine]] to take his spot on the roster. Now that funding has increased going into GCXI, Percy is available to split the Heavy role when [[Jantine]] requires a break (if she'll give up the games to get [[carminefist]] honours).
+Percy is one of the Heavies the Ravenous Eagles have had the good fortune to employ. Part of the Green Cup VII winning team, Percy did a lot of smashing. In GCIX he took a mentorship role with the team, allowing [[jantine]] to take his spot on the roster. Now that funding has increased going into GCXI, Percy is available to split the Heavy role when [[jantine]] requires a break (if she'll give up the games to get [[carminefist]] honours).
 
-Birthdate: 1261.657
+* Birthdate: 1261.657-801:444 #t1657
 
 # Basic Stats
 
@@ -25,7 +25,8 @@ Birthdate: 1261.657
 
 # Prize Stats
 
-* Prize - Season [[dervishaward#gcvii]]
+* Dervish Award - Green Cup VII [[dervishaward#gcvii]]
+* Green Cup Champion - Green Cup VII [[champ#vii]]
 
 | Player | Team         | Season          | GP | TD | Rsh | Cp | CpDst | Ctch | Int | Cas | Blk | Sck | MVP | SPP |
 |--------|--------------|-----------------|---:|---:|----:|---:|------:|-----:|----:|----:|----:|----:|----:|----:|

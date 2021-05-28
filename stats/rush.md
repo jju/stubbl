@@ -189,7 +189,7 @@ Conversely, let's look at the players who've touched the ball a whole lot in the
 | GutTwister | Gore Farmers      | 17 |            38 |          0 |    0.0000 |
 | Hartwin    | Arboreal Menace   |  9 |            29 |          0 |    0.0000 |
 
-Most of these could find the endzone at some point, but the fact that the [Gargantuan Brutes](../teams/gargantuanbrutes) have now folded makes Vlad's achievement of 25 matches over three seasons and 57 touches the saddest. Elvis has moved up in these ranks, which you would imagine he's going to want to keep going at least until he passes [[Yosif]] on the all-time passing leaderboard.
+Most of these could find the endzone at some point, but the fact that the [Gargantuan Brutes](../teams/gargantuanbrutes) have now folded makes Vlad's achievement of 25 matches over three seasons and 57 touches the saddest. Elvis has moved up in these ranks, which you would imagine he's going to want to keep going at least until he passes [[yosif]] on the all-time passing leaderboard.
 
 ```
 SELECT pl.name AS player, pl.f_tname AS team, count(DISTINCT md.f_match_id) AS gp, sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches) AS total_touches, sum(md.td), sum(md.td) / (sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches)) AS tds_touch 

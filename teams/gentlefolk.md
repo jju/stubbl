@@ -26,9 +26,9 @@ The Gentlefolk have folded as they could not maintain an overall 33% winning per
 |-----------|--------------------|--:|--:|--:|---:|-----:|---:|---:|----:|-----:|---:|
 | Gentlefolk | StUBBL Scramble    |    1 |    0 |    0 |      1 |     100 |    1 |    0 |    1 |      0 |    0 |
 | Gentlefolk | UBBL Challenge IV  |    1 |    0 |    1 |      2 |      50 |    3 |    9 |    7 |      5 |    1 |
-| Gentlefolk | Orange Goblet      |    3 |    3 |    5 |     11 | 40.9091 |   11 |   16 |   19 |     -1 |    0 |
+| Gentlefolk | Orange Goblet      |    3 |    3 |    5 |     11 | 40.91 |   11 |   16 |   19 |     -1 |    0 |
 | Gentlefolk | UBBL Challenge II  |    1 |    1 |    2 |      4 |    37.5 |    3 |    5 |   14 |      3 |    0 |
-| Gentlefolk | UBBL Challenge     |    1 |    0 |    2 |      3 | 33.3333 |    4 |    8 |    8 |      2 |    1 |
+| Gentlefolk | UBBL Challenge     |    1 |    0 |    2 |      3 | 33.33 |    4 |    8 |    8 |      2 |    1 |
 | Gentlefolk | Orange Goblet II   |    2 |    0 |    8 |     10 |      20 |   10 |   29 |   13 |     -9 |   -2 |
 | Gentlefolk | UBBL Challenge III |    0 |    0 |    3 |      3 |       0 |    4 |    7 |    9 |      4 |    0 |
 
