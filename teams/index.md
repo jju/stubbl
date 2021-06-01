@@ -1,4 +1,4 @@
-# green cup teams (733.9)
+# green cup teams (760.0)
 * [Arboreal Menace](arborealmenace) [[arborealmenace]]
 * [Badger Claws](badgerclaws) [[badgerclaws]]
 * [Cackling Furies](cacklingfuries) [[cacklingfuries]]
@@ -17,37 +17,38 @@
 * [Zensun Vagabonds](zensunvagabonds) [[zensunvagabonds]]
 
 ## former green cup teams
-* [Gargantuan Brutes](gargantuanbrutes) [[gargantuanbrutes]]
+* [Gargantuan Brutes](gargantuanbrutes) [[gargantuanbrutes]] - Folded
 * [Vanadium Hunters](vanadiumhunters) [[vanadiumhunters]]
-* [[poets]]
+* [Poets](poets) [[poets]] - Folded
 
 # orange goblet teams
 
 * [Mules](mules) [[mules]]
-* [Thorns](thorns) [[thorns]]
 * [Gladiolas](gladiolas) [[gladiolas]]
 * [Thrillers](thrillers)[[thrillers]]
 * [Warthogs](warthogs)[[warthogs]]
 * [Deep Dreamers](deepdreamers) [[deepdreamers]]
-* [Gentlefolk](gentlefolk) [[gentlefolk]]
 * [Geometers](geometers) [[geometers]]
 * [Raptors](raptors) [[raptors]]
-* [Carrion Pickers](carrionpickers) [[carrionpickers]]
 * [Vanadium Hunters](vanadiumhunters) [[vanadiumhunters]]
+* [Magpies](magpies) [[magpies]]
+* [Umber Hulks](umberhulks) [[umberhulks]]
+* [Hoods](hoods) [[hoods]]
+
 
 ## former orange goblet teams
 
+* [Thorns](thorns) [[thorns]]
+* [Carrion Pickers](carrionpickers) [[carrionpickers]]
 * [Particulates](particulates) [[particulates]]
-* [Hoods](hoods) [[hoods]]
+* [Gentlefolk](gentlefolk) [[gentlefolk]] - Folded
 
 # street teams
 
-* [[newcursed]]
-* [[magpies]]
-* [[umberhulks]]
-* [[storminggiants]]
-* [[enginestokers]]
-* [[roadkillz]]
+* [New Cursed](newcursed) [[newcursed]]
+* [Storming Giants](storminggiants) [[storminggiants]]
+* [Engine Stokers](enginestokers) [[enginestokers]]
+* [Roadkillz](roadkillz) [[roadkillz]]
 
 # pro records
 
