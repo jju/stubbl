@@ -119,7 +119,7 @@ The starting lineup being shown off in pre-GCXI training camps is surprising. Wh
 | Eberardo    | Darkling Spectres | Runner    |    7 |    1 |    6 |   14 |   13 |    2 |    0 |    0 |    0 |    0 |    2 |   51 |
 | Bambino     | Darkling Spectres | Runner    |   26 |    8 |   28 |   62 |   11 |    7 |    0 |    2 |    0 |    0 |    1 |   49 |
 
-For a very long time this team relied way too much on [[toomsii]] who was fragile as hell, but they didn't have anyone really special in the wings to replace him. Now [[Channing]] takes that role but with the support of [[Gojko]] and [[Olufunmi]] they can spread some of the offensive work around a bit better. 
+For a very long time this team relied way too much on [[toomsii]] who was fragile as hell, but they didn't have anyone really special in the wings to replace him. Now [[Channing]] takes that role but with the support of [[gojko]] and [[Olufunmi]] they can spread some of the offensive work around a bit better. 
 
 ### Management
 

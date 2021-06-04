@@ -22,4 +22,16 @@ So here's how we think the season is going to shake out:
 | Gore Farmers | Arboreal Menace | Kaiju Dynamo | Cackling Furies |
 | TC Sump Runners | Carcosan Tatters | Zensun Vagabonds | Darkling Spectres |
 
+There is an alternative projection technique that you might also be interested in where some of these races play out quite differently:
+
+| Burger Conference | | Classic Conference | |
+|---------------------|--|------------|----|
+| *Stacks* | *Outlands* | *Heaps* | *Pits* |
+| Old Wyrms | Arboreal Menace | Glorious Hounds | Eldritch Fatality |
+| Filthy Tide | Irregular Cogs | Kaiju Dynamo | Cackling Furies |
+| Gore Farmers | Badger Claws | Zensun Vagabonds | Ravenous Eagles |
+| TC Sump Runners | Carcosan Tatters | Orbital Machine | Darkling Spectres |
+
+This system never really trusts in defensively-oriented teams, so bear that in mind as you look at the Outlands.
+
 Questions about our gut picks? Just want to share your thoughts? We'll be previewing some of the stories we'll be following this season soon.

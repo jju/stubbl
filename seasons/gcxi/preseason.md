@@ -8,33 +8,33 @@ Here's what the standings could look like by the end of the regular season.
 
 ### Stacks
 
-* OW 9-1-5
-* FT 7-1-7
-* GF 7-0-8
-* SR 6-0-9
+* OW 9-1-5 / 1
+* FT 7-1-7 / 6
+* GF 7-0-8 / 14
+* SR 6-0-9 / 15
 
 ### Outlands
 
-* BC 9-1-5
-* IC 9-0-6
-* AR 8-1-6
-* CT 8-1-6
+* BC 9-1-5 / 4
+* IC 9-0-6 / 3
+* AR 8-1-6 / 2
+* CT 8-1-6 / 12
 
 ## Classic Conference
 
 ### Heaps
 
-* OM 8-1-6
-* GH 8-0-7
-* KD 7-2-6
-* ZV 7-1-7
+* OM 8-1-6 / 13
+* GH 8-0-7 / 5
+* KD 7-2-6 / 6
+* ZV 7-1-7 / 8
 
 ### Pits
 
-* EF 8-1-6
-* RE 7-1-7
-* CF 6-3-6
-* DS 6-2-7
+* EF 8-1-6 / 9
+* RE 7-1-7 / 11
+* CF 6-3-6 / 10
+* DS 6-2-7 / 15
 
 
 | Burger Conference | | Classic Conference | |

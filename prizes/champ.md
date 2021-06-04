@@ -59,7 +59,7 @@
 * [[ToothGrinder]] VI, VIII
 * [[TallHexer]] VI, VIII
 * [[SpaceFiller]] VI, VIII
-* [[SkyTripper]] VIII
+* [[skytripper]] VIII
 * [[RockLobber]] VIII
 * [[Elric]] VIII
 * [[Fang]] VIII

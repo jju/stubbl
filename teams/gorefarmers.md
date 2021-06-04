@@ -107,7 +107,7 @@ The Gore Farmers have a decent payroll going into the GCXI season, bringing back
 
 That the Gore Farmers have won two modern-era Green Cups with only one legitimate superstar (who is now retired - [[KneeMasher]]) is an impressive testament to the power of a solid line and the traditional caging methods of play. [[GutTwister]] retired after GCVI as a veteran of the old-era UBBL. He says he was glad to get a ring, but felt sidelined despite his abilities.
 
-The current star is [[Aemulus]] who provides a fine alternative to [[Mashee]] as a scoring threat from outside the cage.
+The current star is [[aemulus]] who provides a fine alternative to [[Mashee]] as a scoring threat from outside the cage.
 
 #### Cup Winners
 
@@ -126,7 +126,7 @@ The current star is [[Aemulus]] who provides a fine alternative to [[Mashee]] as
 * [[CakeStomper]] VI
 * [[HobNailer]] VI
 * [[JunkKicker]] VI
-* [[SkyTripper]] VIII
+* [[skytripper]] VIII
 * [[RockLobber]] VIII
 * [[Elric]] VIII
 * [[Fang]] VIII
