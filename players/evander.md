@@ -12,7 +12,7 @@ Evander was cut early in GCVIII in an effort to develop some new blood and that 
 
 # Basic Stats
 
-## Pro Totals (pre-GCXI)
+## Pro Totals
 
 | Player           | Team        | Position      | W  | D | L | GP   | TD   | Cp | Int | BH   | SI   | Ki   | MVP  | SPP  |
 |------------------|-------------|---------------|----|---|---|------|------|----|-----|------|------|------|------|------|

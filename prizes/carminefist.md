@@ -60,7 +60,7 @@ For most Casualties in a season.
 
 ## ubbl challenge
 
-[[Galley]]
+[[galley]]
 
 ## ubbl challenge ii
 
@@ -68,11 +68,11 @@ For most Casualties in a season.
 
 ## ubbl challenge iii
 
-[[Katka]]
+[[katka]]
 
 ## orange goblet
 
-[[Katka]]
+[[katka]]
 
 ## ubbl challenge iv
 

@@ -28,7 +28,7 @@ For most blocks in a season.
 
 ## gcix
 
-[[Marley]]
+[[marley]]
 
 ## gcx
 

@@ -24,11 +24,11 @@ For most sacks in a season.
 
 ## gcviii
 
-[[Mandawuy]]
+[[mandawuy]]
 
 ## gcix
 
-[[Dunstan]]
+[[dunstan]]
 
 ## gcx
 

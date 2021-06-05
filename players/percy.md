@@ -1,6 +1,6 @@
 # Percy
 
-[[ravenouseagles]][[heavy]][[gcvi]][[gcvii]][[gcviii]][[superstar]][[active]]
+[[ravenouseagles]][[heavy]][[gcvi]][[gcvii]][[gcviii]][[gcxi]][[superstar]][[active]]
 
 Percy is one of the Heavies the Ravenous Eagles have had the good fortune to employ. Part of the Green Cup VII winning team, Percy did a lot of smashing. In GCIX he took a mentorship role with the team, allowing [[jantine]] to take his spot on the roster. Now that funding has increased going into GCXI, Percy is available to split the Heavy role when [[jantine]] requires a break (if she'll give up the games to get [[carminefist]] honours).
 

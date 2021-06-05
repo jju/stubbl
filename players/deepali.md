@@ -1,8 +1,8 @@
 # Deepali
 
-[[kaijudynamo]][[blocker]][[uci]][[gcviii]][[gcix]][[gcx]][[uciv]][[star]][[active]]
+[[kaijudynamo]][[blocker]][[uci]][[gcviii]][[gcix]][[gcx]][[uciv]][[gcxi]][[star]][[active]]
 
-Deepali played an important role during the [[Sabah]] years with the Dynamo, tasked with opening a hole for her to dart through and score. Without that essential work on offense there's no chance she could have become the superstar she was.
+Deepali played an important role during the [[sabah]] years with the Dynamo, tasked with opening a hole for her to dart through and score. Without that essential work on offense there's no chance she could have become the superstar she was.
 
 * Birthdate: 1261.669-088:524 #t1669
 

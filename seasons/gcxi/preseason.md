@@ -2,6 +2,8 @@ The roster rules have changed again in GCXI. There is no Value Cap after the str
 
 The Green Cup playoffs are sticking with their attritional roster model, where the 16 players selected for the playoffs are the only ones allowed to the team for the run, no substitutions. That playoff 16 also has to have been under contract for the final five rounds of the regular season (no signing a star just for the playoffs).
 
+The other minor change is due to the quick nature of Orange Goblet II and the desire to have an OGIII tournament running concurrently with the Green Cup. This season there is a minor status prize for the top three teams after Week 5 - a date with the top teams from Orange Goblet II in the Champions Circuit. So a hot start could be beneficial for team prestige at least.
+
 Here's what the standings could look like by the end of the regular season.
 
 ## Burger Conference

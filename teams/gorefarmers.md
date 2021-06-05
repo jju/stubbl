@@ -105,13 +105,13 @@ The Gore Farmers have a decent payroll going into the GCXI season, bringing back
 | TallHexer    | Gore Farmers | Blocker |   27 |    6 |   22 |   55 |    1 |    0 |    0 |    5 |    0 |    0 |    8 |   53 |
 | StoneLicker  | Gore Farmers | Blitzer           |   17 |    4 |   16 |   37 |    6 |    0 |    0 |   12 |    5 |    0 |    0 |   52 |
 
-That the Gore Farmers have won two modern-era Green Cups with only one legitimate superstar (who is now retired - [[KneeMasher]]) is an impressive testament to the power of a solid line and the traditional caging methods of play. [[GutTwister]] retired after GCVI as a veteran of the old-era UBBL. He says he was glad to get a ring, but felt sidelined despite his abilities.
+That the Gore Farmers have won two modern-era Green Cups with only one legitimate superstar (who is now retired - [[kneemasher]]) is an impressive testament to the power of a solid line and the traditional caging methods of play. [[GutTwister]] retired after GCVI as a veteran of the old-era UBBL. He says he was glad to get a ring, but felt sidelined despite his abilities.
 
-The current star is [[Aemulus]] who provides a fine alternative to [[Mashee]] as a scoring threat from outside the cage.
+The current star is [[Aemulus]] who provides a fine alternative to [[mashee]] as a scoring threat from outside the cage.
 
 #### Cup Winners
 
-* [[KneeMasher]] VI, VIII
+* [[kneemasher]] VI, VIII
 * [[BeardPuller]] VI, VIII
 * [[GrimThrasher]] VI, VIII
 * [[ToothGrinder]] VI, VIII
@@ -119,8 +119,8 @@ The current star is [[Aemulus]] who provides a fine alternative to [[Mashee]] as
 * [[SpaceFiller]] VI, VIII
 * [[GutTwister]] VI
 * [[KnuckleBiter]] VI
-* [[Mashee]] VI
-* [[StoneLicker]] VI
+* [[mashee]] VI
+* [[stonelicker]] VI
 * [[RibCracker]] VI
 * [[TuskOfGruumsh]] VI
 * [[CakeStomper]] VI
@@ -138,7 +138,7 @@ The current star is [[Aemulus]] who provides a fine alternative to [[Mashee]] as
 
 ### Tactics
 
-As noted above, the Gore Farmers play a traditional bashing, caging style of BludBol. What has made them a good team has been having options to deviate from that plan. When [[KneeMasher]] was still active he was a terror to passing teams and had the raw abilities to power the ball to TD himself on the other side of the field from the cage. [[Mashee]] has not been as prolific and usually only takes the field when her role is crystal clear, but that has included some of the Farmers' biggest games.
+As noted above, the Gore Farmers play a traditional bashing, caging style of BludBol. What has made them a good team has been having options to deviate from that plan. When [[kneemasher]] was still active he was a terror to passing teams and had the raw abilities to power the ball to TD himself on the other side of the field from the cage. [[mashee]] has not been as prolific and usually only takes the field when her role is crystal clear, but that has included some of the Farmers' biggest games.
 
 ### Management
 

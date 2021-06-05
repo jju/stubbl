@@ -119,7 +119,7 @@ The Tide should be able to make the playoffs since they share the Stacks with a 
 | **Tomer**            | Filthy Tide | Catcher |   13 |    5 |   18 |   36 |   13 |    3 |    1 |    1 |    0 |    0 |    4 |   66 |
 
 
-As of the start of GCXI, [[Somfuhr]] is in the Hall of Fame for inflicting the most casualties of any player in the Pro Division. For a time [[yakup]] seemed untouchable in his scoring abilities. That the team couldn't convert this dynamic duo into more than a third place Green Cup finish is heartbreaking. The new hope is [[Venus]], who after one pro season has more SPP than [[Sardines]] did.
+As of the start of GCXI, [[Somfuhr]] is in the Hall of Fame for inflicting the most casualties of any player in the Pro Division. For a time [[yakup]] seemed untouchable in his scoring abilities. That the team couldn't convert this dynamic duo into more than a third place Green Cup finish is heartbreaking. The new hope is [[Venus]], who after one pro season has more SPP than [[sardines]] did.
 
 ### Management
 

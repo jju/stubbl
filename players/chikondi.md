@@ -1,6 +1,6 @@
 # Chikondi
 
-[[ravenouseagles]][[blitzer]][[gcvi]][[gcvii]][[gcviii]][[gcx]][[star]][[active]]
+[[ravenouseagles]][[blitzer]][[gcvi]][[gcvii]][[gcviii]][[gcx]][[gcxi]][[star]][[active]]
 
 Chikondi is one of the stars of the Ravenous Eagles, though he often ends up being the second fiddle to [[ekua]] and third fiddle to whoever the team's Heavy is at the time. He is tough and fast (for an Eagle) and had three solid Green Cup seasons before sitting out GCIX for the sake of getting [[Rajendra]] a season's worth of play. Coming back in GCX, he really didn't play up to expectations, though he blocked far more than in previous years.
 

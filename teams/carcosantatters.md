@@ -116,7 +116,7 @@ The Tatters could be in position to upset for a Divisional title, but hopes are 
 
 The Tatters thrive on teamwork and defense, neither of which lends itself well to big flashy stars taking over a match. Back in the Old-Era [[BSEncef]] (now the team's manager) was one of those big flashy stars, but he hasn't tried to develop that kind of mindset in the current players. [[Gention]] had been holding things down as the best player for the last couple of tournaments (since the awful GCVII campaign in which there was a major redevelopment), but [[Sparrow]] will soon be taking her place and may emerge as the next superstar.
 
-Though [[Pierre]] is third on the active list for SPP and healthy, it was in flux until quite late whether he would suit up for the GCXI season. Also of note, [[adeno]] was an old veteran who didn't do much in the revitalization but has played for the team by far the longest.
+Though [[pierre]] is third on the active list for SPP and healthy, it was in flux until quite late whether he would suit up for the GCXI season. Also of note, [[adeno]] was an old veteran who didn't do much in the revitalization but has played for the team by far the longest.
 
 ### Management
 

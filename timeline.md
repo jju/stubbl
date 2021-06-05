@@ -34,7 +34,17 @@ Unless specified, we're dealing with the 1262 epoch.
 	* Week 1 634.2
 	* Week 2 635.8
 	* Week 3 636.8
+	* Week 4 637.8
+	* Week 5 638.9
+	* Week 6 639.9
+	* Week 7 640.7
+	* Week 8 641.7
+	* Week 9 642.7 #t2642 
+	* Week 10 643.7 #t2643
+	* Week 11 644.8
+	* Week 12 645.8
 	* Week 13 646.9
+	* Week 14 647.9
 	* Week 15 648.8
 * UCII 1262.653-483:178 (653.4) -> 660-714:477 (660.7)
 * GCIX 1262.662-993:705 (662.9) -> 681-662:000 (681.7)
@@ -42,9 +52,17 @@ Unless specified, we're dealing with the 1262 epoch.
 	* Week 8 671.1 (671.4 CT vs SR)
 	* Week 13 676.1
 * GCV Memorial 1262.683MSec -> 697Msec
+	* Week 1 683.1
+	* Week 2 684.3 #t2684 
+	* Week 3 685.8
 	* Week 4 687.1
 	* Week 5 688.1 #t2688.4 Souta dies
 	* Week 7 690.1
+	* Week 8 691.1
+	* Week 9 692.1
+	* Week 10 693.1
+	* Week 11 694.1
+	* QF 695.1 #t2695 
 * UCIII 1262.704-105:029 (704.1) -> 711-356:440 (711.4)
 * Gargantuan Brutes cease operations 1262.712-000:000
 * GCX 1262.714-981:187 (714.9) ->  733-758:059 (733.8)

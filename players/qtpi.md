@@ -1,6 +1,6 @@
 # Qtpi
 
-[[eldritchfatality]][[runner]][[gcc06]][[gcvii]][[uci]][[gcviii]][[gcix]][[uciv]][[retired]]
+[[eldritchfatality]][[runner]][[gcc06]][[gcvii]][[uci]][[gcviii]][[gcix]][[uciv]][[superstar]][[retired]]
 
 Qtpi has been an important part of the Eldritch Fatality's success in the UBBL,and some say the reason they performed so poorly in GCX was because she was not on the roster. The team currently doesn't have the resources to keep her in the mix now that she is past her prime, which is sad.
 

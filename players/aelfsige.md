@@ -2,7 +2,7 @@
 
 [[gentlefolk]][[blocker]][[thrower]][[heavy]][[uci]][[ucii]][[uciii]][[ogi]][[uciv]][[ogii]][[star]][[dead]]
 
-Aelfsige was to many people the reason to watch the [Gentlefolk](../teams/gentlefolk) play. She actually had the skills to get passes downfield and could withstand a few hits doing it. When she was killed in week 3 of OGII it was a similar moment to seeing the end of [Sabah](sabah) in GCX.
+Aelfsige was to many people the reason to watch the [Gentlefolk](../teams/gentlefolk) play. She actually had the skills to get passes downfield and could withstand a few hits doing it. When she was killed in week 3 of OGII it was a similar moment to seeing the end of [Sabah](sabah.md) in GCX.
 
 * Birthdate: 1261.860-651:043 #t1860 
 * Deathdate: 1262.752-413:273 #t2752 (~28yo)

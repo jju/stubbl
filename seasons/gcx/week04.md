@@ -15,7 +15,7 @@ It's sort of a down week in the schedule, with only the Arboreal Menace vs Badge
 
 # recap
 
-This week saw the scoring race really heat up with a new three-way tie for first place between [[atte]] [[Sabah]] and [[aeson]] at 7 TDs apiece with [[costache]] right behind at 6. Player of the Week was the young upstart [[Venus]] with 14 SPP.
+This week saw the scoring race really heat up with a new three-way tie for first place between [[atte]] [[sabah]] and [[aeson]] at 7 TDs apiece with [[costache]] right behind at 6. Player of the Week was the young upstart [[Venus]] with 14 SPP.
 
 Both teams seem to be satisfied with the single point in a mostly blizzard-fuelled matchup. ZV 2 - OM 2
 
@@ -46,6 +46,6 @@ The Stacks are not going according to plan, especially not for the defending GCI
 
 The Badger Claws drew first blood on the Arboreal Menace, this week, giving the Tatters the division lead in the league's toughest grouping.
 
-The Hounds have been struggling to make a move, especially worrying since they were hoping for a breakthrough season. The Vagabonds and Machine drew their match this week, which they both might regret if [[Sabah]] continues to heat up and push the Dynamo up the win column.
+The Hounds have been struggling to make a move, especially worrying since they were hoping for a breakthrough season. The Vagabonds and Machine drew their match this week, which they both might regret if [[sabah]] continues to heat up and push the Dynamo up the win column.
 
 The Pits have the most separation between the good teams and the less-so. That those groups are precisely inverted from what was expected in the preseason is surprising, but Eagles fans will take it.

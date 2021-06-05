@@ -1,6 +1,6 @@
 # Ekua
 
-[[ravenouseagles]][[blitzer]][[gcvi]][[gcvii]][[gcviii]][[gcix]][[gcx]][[superstar]][[active]]
+[[ravenouseagles]][[blitzer]][[gcvi]][[gcvii]][[gcviii]][[gcix]][[gcx]][[gcxi]][[superstar]][[active]]
 
 Ekua is closing in on having the longest UBBL career ever. They are 6 matches shy of [[hulud]]'s record (which included four seasons in the Old Era). They have put in solid seasons every year without getting any major in-season awards.
 

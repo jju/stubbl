@@ -155,7 +155,7 @@ Having the second-best player the UBBL has ever seen in [[souta]] has gone prett
 * [[babar]] - GCIX, GCX off playoff roster
 * [[Andela]] - GCIX
 * [[Martti]] - GCIX
-* [[Roni]] - GCIX
+* [[roni]] - GCIX
 * [[Tereza]] - GCIX
 * [[Lucius]] - GCIX
 * [[Yasmani]] - GCIX (Final only)

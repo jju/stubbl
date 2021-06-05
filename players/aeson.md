@@ -1,6 +1,6 @@
 # Aeson
 
-[[badgerclaws]][[catcher]][[uci]][[gcviii]][[gcix]][[gcx]][[active]][[legend]]
+[[badgerclaws]][[catcher]][[uci]][[gcviii]][[gcix]][[gcx]][[gcxi]][[active]][[legend]]
 
 Aeson was 0.58GSec old when he made his debut for the Badger Claws.
 

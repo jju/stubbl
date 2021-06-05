@@ -1,6 +1,6 @@
 # spreadZone - GCXI Badger Claws
 
-Hey there BludBol fans and welcome to the [SpreadZone](index), your source for all the doings in the UBBL coming up on the eleventh Green Cup season.
+Hey there BludBol fans and welcome to the [SpreadZone](spreadzone/index.md), your source for all the doings in the UBBL coming up on the eleventh Green Cup season.
 
 One of the biggest stories this season is the fate of [Aeson](../players/aeson). The legendary catcher for the [Badger Claws](../teams/badgerclaws) doesn't really have a lot to prove in the UBBL, so it doesn't really make a lot of sense for the team to be pouring resources into those (practically guaranteed) TDs Aeson collects.
 

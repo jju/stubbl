@@ -25,7 +25,7 @@ For most rushing distance in a season.
 
 ## gcviii
 
-[[Nakayama]]
+[[nakayama]]
 
 ## gcix
 

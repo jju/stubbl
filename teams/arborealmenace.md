@@ -97,7 +97,7 @@ Current projections have them battling the [Tatters](carcosantatters) for third 
 | **Iago**      | Arboreal Menace | Line   |   14 |    3 |   13 |   30 |    2 |    4 |    0 |    0 |    0 |    0 |    2 |   20 |
 
 
-[[Georgina]] won the StUBBL Jumper for UBBL Challenge III. They have amazingly soft hands and there are a few rumblings that they're gunning for the Pro Interception record.
+[[georgina]] won the StUBBL Jumper for UBBL Challenge III. They have amazingly soft hands and there are a few rumblings that they're gunning for the Pro Interception record.
 
 [[Hartwin]] was primarily a backfield passer, though she had the arm for it, she didn't go the extreme long-passing route of a [[yosif]] or the deceased [[Adam]] (or [[Ozymandias]] for the old school). The anticipation that in the Green Cup she'd need a backup did come true, and [[Susila]] is now working his way up the skill tree.
 

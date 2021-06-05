@@ -1,6 +1,6 @@
 # Elvis
 
-[[oldwyrms]][[thrower]][[uci]][[gcviii]][[gcix]][[gcx]][[legend]][[active]]
+[[oldwyrms]][[thrower]][[uci]][[gcviii]][[gcix]][[gcx]][[gcxi]][[legend]][[active]]
 
 Elvis is one of the best Throwers the UBBL has seen, and unlike the holder of the all-time title, [Yosif](yosif), he also has a couple of Green Cup championships to go with his [Relentless Cannon](../prizes/relentlesscannon) award.
 

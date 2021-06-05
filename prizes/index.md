@@ -22,7 +22,7 @@ The pro division awards a number of official prizes (plus a Player of the Week a
 | TC Sump Runners | 3 |  | 3 |
 | Arboreal Menace | 1 |  | 1 |
 
-The italicized teams are ones who have won the coveted Green Cup. It is quite common for Eagles fans to parade their championship gear around when other fans (especially those of the Hounds) disparage the Eagles' style of play. As of this writing the Eagles' highest ranked player [[ekua]] on the SPP tally is in 18th place, while the Hounds have three players above him ([[costache]], [[yosif]] and [[Oiva]] - none of whom are under contract for GCXI).
+The italicized teams are ones who have won the coveted Green Cup. It is quite common for Eagles fans to parade their championship gear around when other fans (especially those of the Hounds) disparage the Eagles' style of play. As of this writing the Eagles' highest ranked player [[ekua]] on the SPP tally is in 18th place, while the Hounds have three players above him ([[costache]], [[yosif]] and [[oiva]] - none of whom are under contract for GCXI).
 
 ## Individual Awards
 

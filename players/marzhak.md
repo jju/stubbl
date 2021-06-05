@@ -1,13 +1,13 @@
 # Marzhak
 
-[[gargantuanbrutes]][[heavy]][[gcc06]][[gcvii]][[uci]][[ucii]][[gcix]]
+[[gargantuanbrutes]][[heavy]][[gcc06]][[gcvii]][[uci]][[ucii]][[gcix]][[superstar]][[retired]]
 
 Marzhak was one of the main heavies used by the Brutes, and their most successful player of all time. Seen as the successor to [[Lophand]] Marzhak did her best to destroy the competition to create holes for the skilled players to get through. The holes were usually opened but the skill never really followed. When the Brutes folded, we lost the chance to see Marzhak really compete in her prime.
 
 Fortunately for Marzhak, she got paid. Until the salary reforms at the end of GCX, she was the best resourced player in the UBBL.
 
-* Birthdate: 1261.559
-* Retiredate: 1262.712-000:000
+* Birthdate: 1261.559-877:693 #t1559
+* Retiredate: 1262.712-000:000 #t2712 
 
 # Basic Stats
 

@@ -1,6 +1,6 @@
 # gcii
 
-* [[mvp]] - [[Sardines]]
+* [[mvp]] - [[sardines]]
 * [[carminefist]] - [[Lophand]]
 * [[dervishaward]] - [[Lophand]]
 * [[hunteraward]] - [[Lophand]]

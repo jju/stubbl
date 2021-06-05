@@ -1,5 +1,5 @@
 # Atte 
-[[eldritchfatality]][[blitzer]][[gcix]][[gcx]][[uciv]][[superstar]][[active]]
+[[eldritchfatality]][[blitzer]][[gcix]][[gcx]][[uciv]][[gcxi]][[superstar]][[active]]
 
 Atte is one of the newer generation of blitzers for the Fatality, the ones that weren't original to the modern incarnation of the team. She's been a great player, well in the mix for the Sardines Crown race in GCX despite the team losing and losing and losing. 
 

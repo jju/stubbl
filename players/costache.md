@@ -1,6 +1,6 @@
 # Costache
 
-[[glorioushounds]][[gcviii]][[gcix]][[gcx]][[uciv]][[legend]][[retired]][[Katka]]
+[[glorioushounds]][[gcviii]][[gcix]][[gcx]][[uciv]][[legend]][[retired]]
 
 One of the best receivers and biggest stars of the UBBL, Costache isn't quite as fast as she used to be and the Hounds have issues with paying her like a legend in Pro-Level games. But she helped deliver the team a pennant, and is said to be okay with retiring on that.
 

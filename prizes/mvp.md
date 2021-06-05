@@ -42,7 +42,7 @@
 
 ## gcii
 
-[[Sardines]]
+[[sardines]]
 
 ## gciii
 
@@ -64,7 +64,7 @@
 
 ## ubbl challenge iii
 
-[[Georgina]]
+[[georgina]]
 
 ## orange goblet
 

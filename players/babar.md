@@ -1,6 +1,6 @@
 # Babar
 
-[[oldwyrms]][[catcher]][[gcvi]][[gcvii]][[uci]][[gcviii]][[gcix]][[superstar]][[active]]
+[[oldwyrms]][[catcher]][[gcvi]][[gcvii]][[uci]][[gcviii]][[gcix]][[gcxi]][[superstar]][[active]]
 
 Babar was one of the original modern-era catchers for the Old Wyrms and suffered through some ghastly seasons on his way to becoming Green Cup champion in GCIX. He sat out GCX but with the influx of resources following that second championship, they managed to get his salary covered and he is sitting on the bench to begin the eleventh Green Cup season.
 

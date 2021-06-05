@@ -2,7 +2,7 @@
 
 [[vanadiumhunters]][[thrower]][[gcc06]][[gcvii]][[veteran]][[dead]]
 
-Kobe had a lot of potential as a Hermann-schooled thrower. She was coming up in the traditional run and gun style but that ended early in GCVII after a bizarre run-in with [[Nakayama]] of the [Dynamo](../teams/kaijudynamo).
+Kobe had a lot of potential as a Hermann-schooled thrower. She was coming up in the traditional run and gun style but that ended early in GCVII after a bizarre run-in with [[nakayama]] of the [Dynamo](../teams/kaijudynamo).
 
 * Birthdate: 1262.006-257:291 #t2006
 * Career Enddate: 1262.611-055:887 #t2611 

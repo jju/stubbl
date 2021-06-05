@@ -1,6 +1,6 @@
 # spreadZone
 
-Hey there BludBol fans and welcome to the [SpreadZone](index), your source for all the doings in the UBBL coming up on the eleventh Green Cup season.
+Hey there BludBol fans and welcome to the [SpreadZone](spreadzone/index.md), your source for all the doings in the UBBL coming up on the eleventh Green Cup season.
 
 It's unclear exactly why fans of the [Orbital Machine](../teams/orbitalmachine) are so down on their team going into the eleventh Green Cup. They have solid players but not a lot of funding, so they're taking the (somewhat dubious) approach of sitting their best player to start the season in the hopes they can weather the storm early and build up a reserve for injuries later.
 

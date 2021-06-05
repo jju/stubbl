@@ -1,11 +1,11 @@
 # Baraz
 
-[[glorioushounds]][[catcher]][[gcvi]][[gcvii]][[uci]][[gcviii]][[star]]
+[[glorioushounds]][[catcher]][[gcvi]][[gcvii]][[uci]][[gcviii]][[star]][[dead]]
 
 Baraz was given the early unenviable task of being the defensive safety for the Glorious Hounds. She thrived in the role, getting the Hunter Award for most Sacks in her rookie season. She didn't quite manage to keep up in the combined league of GCVII but was definitely in the mix. Her career ended in GCVII Week 5 against the [Old Wyrms](../teams/oldwyrms) at the hands of the Hounds fans for some imagined slight against the unwritten rules of BludBol.
 
 * Birthdate: 1261.657-470:284 #t1657
-* Career End/Deathdate: 1262.638? #t2638 (~0.981 GSec or ~31yo)
+* Career End/Deathdate: 1262.638-? #t2638 (~0.981 GSec or ~31yo)
 
 # Basic Stats
 

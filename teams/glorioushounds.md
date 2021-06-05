@@ -101,7 +101,7 @@ This season there's no way they roll over and come in last place again. They hav
 
 [[yosif]] was the best pure passer the UBBL has seen, and that includes Ozymandias, who has actually (amazingly) seemed to be okay with the eclipsing of his talent.
 
-[[Oiva]] was an excellent ball-hawk, but not quite the Green Cup best.
+[[oiva]] was an excellent ball-hawk, but not quite the Green Cup best.
 
 [[Ziba]] isn't high up in the pantheon of Glorious Greats yet, but she's the fastest catcher the team has ever had, and with proper support, could make a run at some of the individual prizes currently held on lockdown by [[aeson]].
 

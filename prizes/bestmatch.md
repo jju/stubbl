@@ -34,7 +34,7 @@ SELECT pl.name,  pl.f_tname,  tours.name, mt.round, md.td,  md.cp,  md.intcpt,  
 | Klik      | Gargantuan Brutes | Green Cup IX   |     5 |    0 |    6 |      0 |    0 |    0 |    0 |    0 |    6 |
 | Elvis     | Old Wyrms         | Green Cup IX   |    13 |    0 |    6 |      0 |    0 |    0 |    0 |    0 |    6 |
 
-[[cleve]][[yosif]][[Hartwin]][[elvis]][[Nakayama]][[melisa]][[klik]]
+[[cleve]][[yosif]][[Hartwin]][[elvis]][[nakayama]][[melisa]][[klik]]
 
 # top 10 Cas
 

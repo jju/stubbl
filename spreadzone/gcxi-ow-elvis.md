@@ -1,6 +1,6 @@
 # spreadZone
 
-Hey there BludBol fans and welcome to the [SpreadZone](index), your source for all the doings in the UBBL coming up on the eleventh Green Cup season.
+Hey there BludBol fans and welcome to the [SpreadZone](spreadzone/index.md), your source for all the doings in the UBBL coming up on the eleventh Green Cup season.
 
 The [Old Wyrms](../teams/oldwyrms) are defending champions this season, much like they were at the beginning of GCX, but the expectations this go-round are much higher (well, not higher exactly, just more pressurized). 
 

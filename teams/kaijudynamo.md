@@ -86,7 +86,7 @@ The old era version of the team started off its history with a third-place finis
 
 When the UBBL restarted, the Dynamo were left out of the GCVI season, for reasons of mediocrity they were told. IngenIOUs Corp (a payday loan concern) bought the rights to the name and jumped at the chance to play in the Green Cup Classic 06 season instead. They performed to their mediocre expectations, and were folded into the merged league for GCVII, in which they performed almost exactly as well.
 
-When the Kaiju Dynamo entered the first UBBL Challenge after GCVII they had a single goal: developing [[Sabah]] into a superspeedy scoring threat. They had seen the individual success of [[yakup]] and when they had a potential rival, they pushed and pushed. That they managed to pull off second place in the tournament while fielding mostly rookies and scrubs is a testament to the weirdness of BludBol.
+When the Kaiju Dynamo entered the first UBBL Challenge after GCVII they had a single goal: developing [[sabah]] into a superspeedy scoring threat. They had seen the individual success of [[yakup]] and when they had a potential rival, they pushed and pushed. That they managed to pull off second place in the tournament while fielding mostly rookies and scrubs is a testament to the weirdness of BludBol.
 
 With Sabah's help the Dynamo finished on top of the GCVIII regular season standings, defying all expectations. It was just a tiny bit of bad luck that kept them from the Classic Conference title. The players aren't too distraught, though the doubters will probably see this as the team's peak. They had a winning record in GCIX, but again, couldn't string together the wins they needed in the playoffs.
 
@@ -122,9 +122,9 @@ Fighting for third place in the Heaps.
 | Morgan   | Kaiju Dynamo | Blocker   |   19 |    7 |   16 |   42 |    0 |    0 |    0 |    4 |    4 |    0 |    7 |   51 |
 | **Vardan**    | Kaiju Dynamo | Runner    |    5 |    1 |    4 |   10 |   11 |    8 |    0 |    0 |    0 |    0 |    2 |   51 |
 
-[[Starfin]] will do his best to get the ball to a scorer, but he is no [[Nakayama]].
+[[starfin]] will do his best to get the ball to a scorer, but he is no [[nakayama]].
 
-Since Sabah's development as a Sardines-style speedster, the offense has relied much more on [[deepali]] opening a hole for [[Sabah]] to bolt through and score from the line of scrimmage. [[Sabah]] was basically the entire strategy of the GCVIII through early GCX teams, and she was great at the time. In GCX they had to work with secondary players, like [[Marco]] and [[Vardan]] who seem to be rewarding a more careful approach to the game.
+Since Sabah's development as a Sardines-style speedster, the offense has relied much more on [[deepali]] opening a hole for [[sabah]] to bolt through and score from the line of scrimmage. [[sabah]] was basically the entire strategy of the GCVIII through early GCX teams, and she was great at the time. In GCX they had to work with secondary players, like [[Marco]] and [[Vardan]] who seem to be rewarding a more careful approach to the game.
 
 ### Management
 

@@ -28,7 +28,7 @@ For most MVP awards (as chosen by the fans) in a season.
 
 ## gcix
 
-[[Euryalus]]
+[[euryalus]]
 
 ## gcx
 

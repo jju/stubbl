@@ -1,5 +1,5 @@
 # vi
-* [[KneeMasher]] VI, VIII
+* [[kneemasher]] VI, VIII
 * [[BeardPuller]] VI, VIII
 * [[GrimThrasher]] VI, VIII
 * [[ToothGrinder]] VI, VIII
@@ -7,8 +7,8 @@
 * [[SpaceFiller]] VI, VIII
 * [[GutTwister]] VI
 * [[KnuckleBiter]] VI
-* [[Mashee]] VI
-* [[StoneLicker]] VI
+* [[mashee]] VI
+* [[stonelicker]] VI
 * [[RibCracker]] VI
 * [[TuskOfGruumsh]] VI
 * [[CakeStomper]] VI
@@ -53,7 +53,7 @@
 
 
 # viii
-* [[KneeMasher]] VI, VIII
+* [[kneemasher]] VI, VIII
 * [[BeardPuller]] VI, VIII
 * [[GrimThrasher]] VI, VIII
 * [[ToothGrinder]] VI, VIII
@@ -81,7 +81,7 @@
 * [[babar]] - GCIX, GCX off playoff roster
 * [[Andela]] - GCIX
 * [[Martti]] - GCIX
-* [[Roni]] - GCIX
+* [[roni]] - GCIX
 * [[Tereza]] - GCIX
 * [[Lucius]] - GCIX
 * [[Yasmani]] - GCIX (Final only)
