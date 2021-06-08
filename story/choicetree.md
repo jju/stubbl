@@ -35,3 +35,14 @@ But you do sometimes miss writing for people.
 > "Fuck it. I'll write your bullshit, but first I'm going to a bar."->[[01-stacks]]
 > "Fuck off. I'm a writer, not a cliche-scrummer."->[[01-resist]]
 
+:: writer
+
+You read the EDS' message again. `Give the public what they want.` Ha. You fell for this the last time a bludbol season began. EDS is good at stroking the ego.
+
+And yet. That piece you wrote about Sabah and how the team recovered wasn't bad. You could do better this time without wasting all that effort needing to just get up to speed with what was even happening on the field. But scores and play by play aren't your thing.
+
+`You can write what you want, the way you want it. Write up the scores, or pieces on the players or whatever. But do your thing. That thing that made everyone down here cling to every dispatch from the gang wars. This will be just like that. But with rules.`
+
+Rules. There were rules back in the gangster times. Rules that got people stabbed and shot and half their faces melted off. That's what you channelled last season, the pointlessness of people dying. For some reason it went over well. You could do that again, right? You just need a hook.
+
+
