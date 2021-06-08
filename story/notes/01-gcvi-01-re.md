@@ -18,7 +18,7 @@ It sounds like these are going to be the most interesting players to watch, or a
 
 * [[chikondi]] - Blitzer
 * [[percy]] - Heavy
-* [[Twig]] - Old-Era Veteran Line
+* [[twig]] - Old-Era Veteran Line
 
 So that was a week of bludbol. The {$followingTeam} are 0-0-1. What now?
 

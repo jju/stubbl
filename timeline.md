@@ -24,6 +24,7 @@ Unless specified, we're dealing with the 1262 epoch.
 * GCIV 1262.163-652:653 (163.6)
 * GCV 1262.193-871:137 (193.8) Interrupted 
 * GCVI 1262.570-636:345 (570.6) -> 588-725:173 (588.8)
+	* Week 12 582.8 #t2583 
 * GCC06 1262.578-665:147 (578.7) -> 588-665:208 (588.6)
 * GCVII 1262.606-843:983 (606.8)-> 622-753:488 (622.8)
 	* Week 3 610.0
@@ -49,6 +50,7 @@ Unless specified, we're dealing with the 1262 epoch.
 * UCII 1262.653-483:178 (653.4) -> 660-714:477 (660.7)
 * GCIX 1262.662-993:705 (662.9) -> 681-662:000 (681.7)
 	* Week 3 666.0
+	* Week 5 668.0 #t2688
 	* Week 8 671.1 (671.4 CT vs SR)
 	* Week 13 676.1
 * GCV Memorial 1262.683MSec -> 697Msec
@@ -99,9 +101,17 @@ Unless specified, we're dealing with the 1262 epoch.
 	* Week 4 753.0
 	* Week 5 754.0
 	* Week 6 755.0 start -> labour strife 758.3
-	* 
-* GCXI 760.0 -> 780.0 
-	* Week 1 760.0
+	* Week 7 758.5
+	* Week 8 759.5
+	* Week 9 760.5
+	* Week 10 761.5
+	* Week 11 762.5
+	* QF 764.0
+	* SF 765.0
+	* OG Final 766.0
+* GCXI 772.0 -> 792.0 
+	* Week 1 772.0 #t2772
+	*  
 
 
 
@@ -112,6 +122,6 @@ Current era players birthdates:
 * GCVIII: 1261.574 - 1262.114
 * GCIX: 1261.604 - 1262.144
 * GCX: 1261.634 - 1262.174
-* GCXI: 1262.664 - 1262.204
+* GCXI: 1261.664 - 1262.204
 
 Old era player birthdates: 1260.933 - 1261.533 (random 600)

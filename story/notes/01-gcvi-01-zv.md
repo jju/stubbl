@@ -19,7 +19,7 @@ It sounds like these are going to be the most interesting players to watch, or a
 * [[hulud]] - Old-Era Veteran Heavy
 * [[Lucrece]] - Catcher
 * [[rohit]] - Blitzer
-* [[Subrahmanya]] - Thrower
+* [[subrahmanya]] - Thrower
 
 So that was a week of bludbol. The {$followingTeam} are 0-0-1. What now?
 
