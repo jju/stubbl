@@ -1,6 +1,6 @@
 # start
 
-#t2712
+#t2760
 
 And you wake up. Again. You shake off the memories of before, back when the Stacks were a killing ground but you were alive. There are stimulants waiting for you in the machine. And depressants if you're not ready to face the world just yet.
 
@@ -41,8 +41,25 @@ You read the EDS' message again. `Give the public what they want.` Ha. You fell 
 
 And yet. That piece you wrote about Sabah and how the team recovered wasn't bad. You could do better this time without wasting all that effort needing to just get up to speed with what was even happening on the field. But scores and play by play aren't your thing.
 
-`You can write what you want, the way you want it. Write up the scores, or pieces on the players or whatever. But do your thing. That thing that made everyone down here cling to every dispatch from the gang wars. This will be just like that. But with rules.`
+`You can write what you want, the way you want it. You don't need to write up the scores, or the tactics or whatever. Just do your thing. That thing you bottled up last year with the Sabah story. Or that made everyone down here cling to every dispatch from the gang wars. This can be just like that. It's like you wrote, 'BludBol is the gangster life. But with rules.''`
 
-Rules. There were rules back in the gangster times. Rules that got people stabbed and shot and half their faces melted off. That's what you channelled last season, the pointlessness of people dying. For some reason it went over well. You could do that again, right? You just need a hook.
+Rules. That's the bit people remember these days from the Sabah story, but the line is wrong. There were rules back in the gangster times. Rules that got people stabbed and shot and half their faces melted off. That's what you were trying to channel last season, the pointlessness of people dying. For some reason it went over well. You could do that again, right? You're good at this. You used to be at least. You just need a hook.
 
+> Find a player whose story needs telling.
+> Find a team whose story needs telling.
 
+:: aficionado
+
+You smile at EDS. As if you were going to forget the contract began today. The preliminaries are out of the way and the Green Cup campaign is about to begin. BludBol coverage begins now. 
+
+It's not like it was back, oh 200 Megaseconds ago when EDS woke you up with appeals to your ego though no one had heard from you in half your lifetime. No one was clamouring for anything now despite what they said. EDS' message is still floating around your terminal:
+
+`You remember bludbol? It's back. We don't have anyone writing about it. We missed out, thought it was bullshit back in the last go-round, but people loved it. People cared. We need someone on the story this time.`
+
+And you did miss writing for people.
+
+`You can write what you want, the way you want it. Write up the scores, or pieces on the players or whatever. But do your thing. That thing that made everyone down here cling to every dispatch from the gang wars. This bludbol will be just like that. But with rules.`
+
+Rules. There were rules back in the gangster times. Rules that got people stabbed and shot and half their faces melted off. That was why people read your scribbles. Nobody actually cares about pointless games, do they?
+
+It's funny to think of now, but that's what you thought back then.
