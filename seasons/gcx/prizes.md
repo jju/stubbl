@@ -9,4 +9,4 @@
 * [[hunteraward]] - [[Spinal]]
 * [[dervishaward]] - [[deepali]]
 * [[fanfavourite]] - [[Desponia]]
-* [[rookieofyear]] - [[Venus]]
+* [[rookieofyear]] - [[venus]]

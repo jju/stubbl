@@ -48,7 +48,7 @@
 * [[Warren]] VII
 * [[Sigfrido]] VII
 * [[Eliott]] VII
-* [[Twig]] VII
+* [[twig]] VII
 * [[Birgitta]] VII
 
 

@@ -1,6 +1,6 @@
 # Filthy Tide
 
-The Filthy Tide are often called the best team to never win the Green Cup. They're an Original 8 team that has had two hall-of-fame scorers in the UBBL but has never been able to convert the big win to get those stars a (pro-level) championship. They have been in rebuild mode, but are banking on their new star [[Venus]] to be the difference-maker.
+The Filthy Tide are often called the best team to never win the Green Cup. They're an Original 8 team that has had two hall-of-fame scorers in the UBBL but has never been able to convert the big win to get those stars a (pro-level) championship. They have been in rebuild mode, but are banking on their new star [[venus]] to be the difference-maker.
 
 ## Playbook
 
@@ -85,7 +85,7 @@ The Tide had an excellent GCVII season going when they ran into the bizarrely su
 
 The UBBL pennant is no Green Cup, but the Filthy Tide were proud to be its first winners (and they played an amazing semi-final against the [Kaiju Dynamo](kaijudynamo) to do it). Perhaps merely by playing the most matches, the Filthy Tide inflicted the most casualties in this tournament, 16 (11-5-0).
 
-Their 4-win GCIX campaign was devastating to a team of such history. To follow up they put their efforts in the GCV Memorial tournament to develop a replacement for Yakup. Rather than learning a more conservative style of play to match up with their GCIX team's abilities they decided to try pinning their entire GCX season's fortunes on [[Venus]], a young player who scored a TD in street-level play and looked fast doing it.
+Their 4-win GCIX campaign was devastating to a team of such history. To follow up they put their efforts in the GCV Memorial tournament to develop a replacement for Yakup. Rather than learning a more conservative style of play to match up with their GCIX team's abilities they decided to try pinning their entire GCX season's fortunes on [[venus]], a young player who scored a TD in street-level play and looked fast doing it.
 
 This approach wasn't punished too harshly in GCX, until they hit the playoffs and were steamrolled by the [Gore Farmers](gorefarmers).
 
@@ -119,7 +119,7 @@ The Tide should be able to make the playoffs since they share the Stacks with a 
 | **Tomer**            | Filthy Tide | Catcher |   13 |    5 |   18 |   36 |   13 |    3 |    1 |    1 |    0 |    0 |    4 |   66 |
 
 
-As of the start of GCXI, [[Somfuhr]] is in the Hall of Fame for inflicting the most casualties of any player in the Pro Division. For a time [[yakup]] seemed untouchable in his scoring abilities. That the team couldn't convert this dynamic duo into more than a third place Green Cup finish is heartbreaking. The new hope is [[Venus]], who after one pro season has more SPP than [[sardines]] did.
+As of the start of GCXI, [[Somfuhr]] is in the Hall of Fame for inflicting the most casualties of any player in the Pro Division. For a time [[yakup]] seemed untouchable in his scoring abilities. That the team couldn't convert this dynamic duo into more than a third place Green Cup finish is heartbreaking. The new hope is [[venus]], who after one pro season has more SPP than [[sardines]] did.
 
 ### Management
 

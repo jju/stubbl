@@ -1,7 +1,10 @@
 # Subrahmanya 
-[[zensunvagabonds]][[centurion]][[thrower]][[gcvi]]
+[[zensunvagabonds]][[thrower]][[gcvi]][[gcvii]][[uci]][[gcviii]][[ucii]][[gcix]][[superstar]][[dead]]
 
-* Birthdate: 1261.531 #t1531
+Subrahmanya was heavily concussed twice in his first three matches and medical advice would have kept him off the field entirely, but he went on to play in 50 more matches as a protected deep-threat passer. He garnered a number of accolades by the end of his career.
+
+* Birthdate: 1261.531-426:948 #t1531
+* Deathdate: 1262.668-941:821 #t2668 
 
 # Basic Stats
 
@@ -24,7 +27,7 @@
 
 # Prize Stats
 
-* Prize - Season [[prizes/index]]
+* Green Cup Centurion (Former) [[centurion#former]]
 
 | Player | Team         | Season          | GP | TD | Rsh | Cp | CpDst | Ctch | Int | Cas | Blk | Sck | MVP | SPP |
 |--------|--------------|-----------------|---:|---:|----:|---:|------:|-----:|----:|----:|----:|----:|----:|----:|

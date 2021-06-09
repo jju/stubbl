@@ -30,7 +30,7 @@ For most SPP in a season by a player starting the season with 0 SPP.
 
 ## gcx
 
-* [[Venus]] - 120
+* [[venus]] - 120
 
 ## gcxi
 
