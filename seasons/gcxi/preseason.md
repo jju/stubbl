@@ -47,3 +47,4 @@ Here's what the standings could look like by the end of the regular season. One 
 | Gore Farmers | Arboreal Menace | Kaiju Dynamo | Cackling Furies |
 | TC Sump Runners | Carcosan Tatters | Zensun Vagabonds | Darkling Spectres |
 
+After Week 5 there will be a brief break for a round in the Champions Circuit. Preseason projections have the Old Wyrms, Arboreal Menace and Badger Claws representing the Green Cup against the Raptors, Mules and Gladiolas from the Orange Goblet.

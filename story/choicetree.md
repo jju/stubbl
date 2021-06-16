@@ -62,4 +62,9 @@ And you did miss writing for people.
 
 Rules. There were rules back in the gangster times. Rules that got people stabbed and shot and half their faces melted off. That was why people read your scribbles. Nobody actually cares about pointless games, do they?
 
-It's funny to think of now, but that's what you thought back then.
+It's funny to think of now, but that's what you thought back then. So what's the plan for this season's coverage?
+
+> The business of BludBol
+> Interesting player storylines
+> Teams and tactics.
+> Take it week by week and see what unfolds.

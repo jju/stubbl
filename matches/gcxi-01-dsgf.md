@@ -13,3 +13,13 @@ Farmers got a nice and easy TD and then pushed the rookie [[melite]] out of boun
 > Kickoffs: DS-Changing Weather, GF-Quick Snap, GF-High Kick, DS-Pitch Invasion
 
 [[darklingspectres]][[gorefarmers]][[gcxi]]
+
+[[aficionado]]
+
+Before this match the Spectres had announced they were actually serious about the lineup they were going to field. You tried to get the skinny on what was really going on but no one in the Spectres' front office would return your messages. In the end they performed a bit better than expected but the Gore Farmers used their stars to win as they should have.
+
+Are you writing anything about this match?
+
+> A report of what happened on the field.
+> An analysis piece on exactly why the Spectres' lineup was so strange.
+> Just notes for now.

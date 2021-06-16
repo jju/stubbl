@@ -111,7 +111,7 @@ Unless specified, we're dealing with the 1262 epoch.
 	* OG Final 766.0
 * GCXI 772.0 -> 792.0 
 	* Week 1 772.0 #t2772
-	*  
+	*  Week 2 773.0 #t2773 
 
 
 
