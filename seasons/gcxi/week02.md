@@ -30,10 +30,10 @@ SpreadZone was picking the Menace as heavy favourites and it seems they knew som
 
 | Stacks | W-D-L | Outlands | W-D-L | Heaps | W-D-L | Pits | W-D-L |
 |-------|-----|--|--|------|------|--|--|
-| Filthy Tide | 1-0-0 | Irregular Cogs | 1-0-0 | Zensun Vagabonds | 1-0-1 | Eldritch Fatality | 1-0-0 |
-| Gore Farmers | 1-0-0 | Arboreal Menace | 1-0-1 | Kaiju Dynamo | 1-0-1 | Ravenous Eagles | 1-0-0 |
-| Old Wyrms | 0-1-0 | Carcosan Tatters | 0-1-0 | Glorious Hounds | 0-1-0 | Cackling Furies | 0-1-1 |
-| TC Sump Runners | 0-1-0 | Badger Claws | 0-0-2 | Orbital Machine | 0-1-1 | Darkling Spectres | 0-0-1 |
+| Old Wyrms | 1-1-0 | Arboreal Menace | 1-0-1 | Glorious Hounds | 1-1-0 | Eldritch Fatality | 2-0-0 |
+| Filthy Tide | 1-1-0 | Irregular Cogs | 1-0-1 | Zensun Vagabonds | 1-0-1 | Ravenous Eagles | 1-0-1 |
+| Gore Farmers | 1-0-1 | Carcosan Tatters | 0-2-0 | Kaiju Dynamo | 1-0-1 | Darkling Spectres | 1-0-1 |
+| TC Sump Runners | 0-1-1 | Badger Claws | 0-0-2 | Orbital Machine | 0-1-1 | Cackling Furies | 0-1-1 |
 
 
 ## player of the week standings
