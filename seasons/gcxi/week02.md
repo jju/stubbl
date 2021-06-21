@@ -20,18 +20,20 @@
 * [Irregular Cogs](../../teams/irregularcogs) - [Glorious Hounds](../../teams/glorioushounds) (IC) #t2773.8
 * [Carcosan Tatters](../../teams/carcosantatters) - [Filthy Tide](../../teams/filthytide) (FT) (or CT) #t2773.9
 
-[[gcxi-02-bczv]]
+The last-place teams met and the Vagabonds proved that the "go cheap" technique doesn't work for everyone. The Badger Claws will be making some lineup changes for Week 3. BC 2 - ZV 5 [[gcxi-02-bczv]]
 
-[[]]
+The Furies came out swinging and though the Dynamo pressured early with a blitzing effort they managed to score. The Dynamo used the rest of the half to even it up and then made an end to end to end effort to pull off the win. CF 1 - KD 2 [[gcxi-02-cfkd]]
+
+SpreadZone was picking the Menace as heavy favourites and it seems they knew something about [[Laurel]] who had a breakout match. AM 4 - OM 2 [[gcxi-02-amom]]
 
 ## standings
 
 | Stacks | W-D-L | Outlands | W-D-L | Heaps | W-D-L | Pits | W-D-L |
 |-------|-----|--|--|------|------|--|--|
 | Filthy Tide | 1-0-0 | Irregular Cogs | 1-0-0 | Zensun Vagabonds | 1-0-1 | Eldritch Fatality | 1-0-0 |
-| Gore Farmers | 1-0-0 | Carcosan Tatters | 0-1-0 | Orbital Machine | 0-1-0 | Ravenous Eagles | 1-0-0 |
-| Old Wyrms | 0-1-0 | Arboreal Menace | 0-0-1 | Glorious Hounds | 0-1-0 | Cackling Furies | 0-1-0 |
-| TC Sump Runners | 0-1-0 | Badger Claws | 0-0-2 | Kaiju Dynamo | 0-0-1 | Darkling Spectres | 0-0-1 |
+| Gore Farmers | 1-0-0 | Arboreal Menace | 1-0-1 | Kaiju Dynamo | 1-0-1 | Ravenous Eagles | 1-0-0 |
+| Old Wyrms | 0-1-0 | Carcosan Tatters | 0-1-0 | Glorious Hounds | 0-1-0 | Cackling Furies | 0-1-1 |
+| TC Sump Runners | 0-1-0 | Badger Claws | 0-0-2 | Orbital Machine | 0-1-1 | Darkling Spectres | 0-0-1 |
 
 ## player of the week standings
 
