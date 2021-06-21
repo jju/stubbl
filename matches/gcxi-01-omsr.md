@@ -21,5 +21,5 @@ So you watched a bludbol match. The two teams, the Orbital Machine and the Sump 
 Are you writing anything about this match?
 
 > A report of what you remember happening on the field.
-> A piece on violence in the stands.
+[elifScreen]> A piece on violence in the stands.[continue]
 > Just notes for now.

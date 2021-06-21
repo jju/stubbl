@@ -35,6 +35,7 @@ SpreadZone was picking the Menace as heavy favourites and it seems they knew som
 | Old Wyrms | 0-1-0 | Carcosan Tatters | 0-1-0 | Glorious Hounds | 0-1-0 | Cackling Furies | 0-1-1 |
 | TC Sump Runners | 0-1-0 | Badger Claws | 0-0-2 | Orbital Machine | 0-1-1 | Darkling Spectres | 0-0-1 |
 
+
 ## player of the week standings
 
 | Player    | Team              | TDs  | Rush | Cp   | CpDist | Ctch | Int  | Cas  | Blck | Sck  | MVP  | SPP  |
