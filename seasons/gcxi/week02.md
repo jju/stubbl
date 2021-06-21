@@ -28,10 +28,10 @@
 
 | Stacks | W-D-L | Outlands | W-D-L | Heaps | W-D-L | Pits | W-D-L |
 |-------|-----|--|--|------|------|--|--|
-| Filthy Tide | 1-0-0 | Irregular Cogs | 1-0-0 | Zensun Vagabonds | 1-0-1 | Eldritch Fatality | 1-0-0 |
-| Gore Farmers | 1-0-0 | Carcosan Tatters | 0-1-0 | Orbital Machine | 0-1-0 | Ravenous Eagles | 1-0-0 |
-| Old Wyrms | 0-1-0 | Arboreal Menace | 0-0-1 | Glorious Hounds | 0-1-0 | Cackling Furies | 0-1-0 |
-| TC Sump Runners | 0-1-0 | Badger Claws | 0-0-2 | Kaiju Dynamo | 0-0-1 | Darkling Spectres | 0-0-1 |
+| Old Wyrms | 1-1-0 | Irregular Cogs | 1-0-0 | Zensun Vagabonds | 1-0-1 | Eldritch Fatality | 1-0-0 |
+| Gore Farmers | 1-0-1 | Carcosan Tatters | 0-1-0 | Orbital Machine | 0-1-0 | Ravenous Eagles | 1-0-1 |
+| Filthy Tide | 1-0-0 | Arboreal Menace | 0-0-1 | Glorious Hounds | 0-1-0 | Cackling Furies | 0-1-1 |
+| TC Sump Runners | 0-1-0 | Badger Claws | 0-0-2 | Kaiju Dynamo | 1-0-1 | Darkling Spectres | 1-0-1 |
 
 ## player of the week standings
 

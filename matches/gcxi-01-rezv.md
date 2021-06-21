@@ -14,3 +14,10 @@ The Eagles go into this match with room to establish themselves again as Iron Fi
 
 [[aficionado]]
 
+The Eagles have won the Iron Fist award the past two seasons and Jantine has been an important part of that, so you watched the beginning of the eleventh Green Cup season with a lot of anticipation since this could be the match that Jantine takes over from [[Somfuhr]] on top of the all-time Casualty leaderboard. The team was ready for celebrating the milestone and managed the match perfectly to come out with an underdog win as well.
+
+Are you writing anything about this match?
+
+> A report of what happened on the field.
+> A piece highlighting some of Jantine's greatest hits over the seasons.
+> Just notes for now.
