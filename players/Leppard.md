@@ -2,9 +2,7 @@
 
 [[orbitalmachine]][[blitzer]][[gcc6]][[gcvii]][[gcviii]][[gcix]][[gcx]][[uciv]][[gcxi]][[superstar]][[active]]
 
-
-
-* Birthdate: 
+* Birthdate: 1261.876-535:886 #t1876 
 
 # Basic Stats
 

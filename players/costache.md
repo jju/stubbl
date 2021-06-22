@@ -32,6 +32,7 @@ One of the best receivers and biggest stars of the UBBL, Costache isn't quite as
 * Best Single Match Performance (Former) [[bestmatch]]
 * UBBL Challenge IV Champion
 * Green Cup Double Centurion [[centurion]]
+* All-Star - GCX, GCIX, GCVIII [[allstars]]
 
 | Player | Team         | Season          | GP | TD | Rsh | Cp | CpDst | Ctch | Int | Cas | Blk | Sck | MVP | SPP |
 |--------|--------------|-----------------|---:|---:|----:|---:|------:|-----:|----:|----:|----:|----:|----:|----:|
