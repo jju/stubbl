@@ -22,7 +22,7 @@
 
 # Prize Stats
 
-* [[noprize]]
+* All-Star - GCX [[allstars#gcx]]
 
 | Player | Team         | Season          | GP | TD | Rsh | Cp | CpDst | Ctch | Int | Cas | Blk | Sck | MVP | SPP |
 |--------|--------------|-----------------|---:|---:|----:|---:|------:|-----:|----:|----:|----:|----:|----:|----:|

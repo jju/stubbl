@@ -42,6 +42,7 @@ Aeson came up in the UBBL Challenge with [[donat]]. In their first pro season th
 * Quadruple Centurion [[centurion]]
 * Best Single Match Performance - GCX [[bestmatch]]
 * MVP - All-Time [[mvp#all-time]]
+* All-Star - GCX, GCIX, GCVIII [[allstars]]
 
 | Player | Team         | Season          | GP | TD  | Rsh | Cp   | CpDst | Ctch | Int | Cas  | Blk | Sck | MVP | SPP  |
 |--------|--------------|-----------------|----|-----|-----|------|-------|------|-----|------|-----|-----|-----|------|
