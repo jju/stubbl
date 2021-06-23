@@ -8,7 +8,7 @@ The Badger Claws brought back the big gun since they can't let the division get 
 
 > Weather: Nice, Very Sunny, Nice
 > Toss: BC-Receive
-> Kickoffs: CF-PerfectDefense (BC-1), BC-GettheRef (CF-1), CF-CheeringFans (BC-2), BC-CHangingWeatherVerySunny (CF-2Half), BC-QuickSnap (BC-3), BC-ChangingWeatherNice (CF-3), 
+> Kickoffs: CF-PerfectDefense (BC-1), BC-GettheRef (CF-1), CF-CheeringFans (BC-2), BC-ChangingWeatherVerySunny (CF-2Half), BC-QuickSnap (BC-3), BC-ChangingWeatherNice (CF-3), CF-HighKick (BC-4), BC-?? (CF-4), CF-CheeringFansBC (BC-5), BC-RiotLong (Final)
 
 [[cacklingfuries]][[badgerclaws]][[gcxi]]
 
