@@ -26,6 +26,16 @@ The Furies came out swinging and though the Dynamo pressured early with a blitzi
 
 SpreadZone was picking the Menace as heavy favourites and it seems they knew something about [[Laurel]] who had a breakout match. AM 4 - OM 2 [[gcxi-02-amom]]
 
+The Spectres pulled off a win against the (weridly only slightly favoured) Eagles. RE 1 - DS 2 [[gcxi-02-reds]]
+
+The Fatality continue to show that GCX was a fluke. SR 1 - EF 4 [[gcxi-02-sref]]
+
+In the Stacks the Farmers are glad to have gotten this match over with, as this week the Wyrms looked like the unstoppable defending champions they weren't in Week 1. GF 1 - OW 5 [[gcxi-02-gfow]]
+
+The Cogs looked off in Week 2 or maybe the Hounds had just recovered their pennant-winning swagger. IC 1 - GH 3 [[gcxi-02-icgh]]
+
+The Tide could only keep up with the Wyrms instead of growing an advantage, while the Tatters have to feel lucky to be keeping the speedsters at bay so far this campaign. CT 2 - FT 2 [[gcxi-02-ctft]]
+
 ## standings
 
 | Stacks | W-D-L | Outlands | W-D-L | Heaps | W-D-L | Pits | W-D-L |
@@ -40,8 +50,13 @@ SpreadZone was picking the Menace as heavy favourites and it seems they knew som
 
 | Player    | Team              | TDs  | Rush | Cp   | CpDist | Ctch | Int  | Cas  | Blck | Sck  | MVP  | SPP  |
 |-----------|-------------------|------|------|------|--------|------|------|------|------|------|------|------|
-
-
-```
-SELECT pl.name AS Player, pl.f_tname AS Team, sum(md.td) AS TDs, sum(mx.rushing_distance_move) AS Rush, sum(md.cp) AS Cp,	sum(mx.pass_distance) AS CpDist, sum(mx.catches) AS Ctch, sum(md.intcpt) AS "Int", sum(md.bh) + sum(md.si) + sum(md.ki) AS Cas, sum(mx.inflicted_blocks) AS Blck, sum(mx.inflicted_sacks) AS Sck, sum(md.mvp) AS MVPs, (sum(md.td) * 3) + sum(md.cp) + (sum(md.intcpt) * 2) + (sum(md.bh) * 2) + (sum(md.si) * 2) + (sum(md.ki) * 2) + (sum(md.mvp) * 5) AS SPP FROM match_data AS md JOIN match_data_es AS mx ON md.f_player_id = mx.f_pid AND md.f_match_id = mx.f_mid JOIN players AS pl ON md.f_player_id = pl.player_id AND md.f_team_id = pl.owned_by_team_id JOIN matches AS mt ON mt.match_id = md.f_match_id JOIN tours ON mt.f_tour_id = tours.tour_id WHERE tours.name = "Green Cup XI" AND mt.round = 2 GROUP BY pl.name, pl.f_tname ORDER BY SPP DESC LIMIT 10;
-```
+| Padma   | Zensun Vagabonds  |    4 |   28 |    0 |      0 |    2 |    0 |    0 |    2 |    0 |    0 |   12 |
+| Laurel  | Arboreal Menace   |    4 |   43 |    0 |      0 |    3 |    0 |    0 |    0 |    0 |    0 |   12 |
+| Ayane   | Eldritch Fatality |    2 |   11 |    0 |      0 |    1 |    0 |    0 |    3 |    1 |    1 |   11 |
+| Tomer   | Filthy Tide       |    1 |   18 |    0 |      0 |    0 |    0 |    0 |    2 |    0 |    1 |    8 |
+| Dalitso | Carcosan Tatters  |    0 |    0 |    0 |      0 |    0 |    0 |    1 |    9 |    0 |    1 |    7 |
+| Susila  | Arboreal Menace   |    0 |    7 |    2 |     16 |    0 |    0 |    0 |    0 |    0 |    1 |    7 |
+| Petrona | Ravenous Eagles   |    0 |    0 |    0 |      0 |    0 |    0 |    1 |    3 |    0 |    1 |    7 |
+| Sille   | TC Sump Runners   |    0 |    0 |    0 |      0 |    0 |    0 |    1 |    3 |    0 |    1 |    7 |
+| Olaug   | Old Wyrms         |    2 |   34 |    1 |      1 |    2 |    0 |    0 |    2 |    0 |    0 |    7 |
+| Amador  | Old Wyrms         |    2 |   16 |    0 |      0 |    2 |    0 |    0 |    0 |    0 |    0 |    6 |
