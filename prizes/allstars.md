@@ -59,3 +59,22 @@ A Green Cup All-Star is a player who is in the top 16 players ranked by SPP in a
 14. [[Ioana]]
 15. [[toomsii]]
 16. [[Tomer]]
+
+## gcvii
+
+1. [[Yakup]]
+2. [[Oiva]]
+3. [[Rohit]]
+4. [[Saxa]]
+5. [[Souta]]
+6. [[Bill]]
+7. [[Besz]]
+8. [[Mako]]
+9. [[Kota]]
+10. [[Dragos]]
+11. [[ToomsII]]
+12. [[Mandawuy]]
+13. [[Bahiyya]]
+14. [[Yosif]]
+15. [[Heep]]
+16. [[Olufunmi]]

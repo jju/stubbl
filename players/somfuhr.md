@@ -53,7 +53,14 @@ It was Somfuhr's insistence that got him on the field for the street-level (and 
 
 
 
-| Player     | BH   | SI   | Ki   | Blk | Blz | Sck | Sck_Blk | Cas_Blk |
-|------------|------|------|------|--------|---------|-------|------------|-----------|
-| Somfuhr    | 36 | 9 | 5 | 464 | 199 | 13 | 0.0280 | 0.1078 |
+## blocks and fouls
 
+| Player | Team | Season | Cas | BH | SI | Ki | Blk | Sck | SckBlkRate | CasBlkRate | Fouls | fBH | fSI | fKi | Ejections |
+|---|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| Somfuhr | Filthy Tide | Green Cup VI         |           9 |          5 |          1 |          3 |    132 |     2 |     0.0152 |    0.0682 |     0 |    0 |    0 |    0 |         0 |
+| Somfuhr | Filthy Tide | Green Cup VII        |          13 |         12 |          0 |          1 |    138 |     6 |     0.0435 |    0.0942 |     0 |    0 |    0 |    0 |         0 |
+| Somfuhr | Filthy Tide | UBBL Challenge       |           6 |          5 |          1 |          0 |     52 |     2 |     0.0385 |    0.1154 |     0 |    0 |    0 |    0 |         0 |
+| Somfuhr | Filthy Tide | Green Cup VIII       |          24 |         16 |          7 |          1 |    151 |     4 |     0.0265 |    0.1589 |     0 |    0 |    0 |    0 |         0 |
+| Somfuhr | Filthy Tide | Green Cup IX         |           4 |          3 |          1 |          0 |     43 |     1 |     0.0233 |    0.0930 |     0 |    0 |    0 |    0 |         0 |
+| Somfuhr | Filthy Tide | Green Cup V Memorial |           5 |          1 |          3 |          1 |     41 |     0 |     0.0000 |    0.1220 |     0 |    0 |    0 |    0 |         0 |
+| Somfuhr | Filthy Tide | Total |          **61** |         42 |         13 |          6 |    557 |    15 |     0.0269 |    0.1095 |     0 |    0 |    0 |    0 |         0 |

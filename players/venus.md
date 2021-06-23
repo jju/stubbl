@@ -24,6 +24,7 @@ Venus was "discovered" in the Green Cup V Memorial tournament and is now the gre
 # Prize Stats
 
 * Rookie of the Year - Green Cup X [[rookieofyear#gcx]]
+* All-Star - GCX [[allstars#gcx]]
 
 | Player | Team         | Season          | GP | TD | Rsh | Cp | CpDst | Ctch | Int | Cas | Blk | Sck | MVP | SPP |
 |--------|--------------|-----------------|---:|---:|----:|---:|------:|-----:|----:|----:|----:|----:|----:|----:|

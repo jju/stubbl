@@ -26,7 +26,7 @@ Gojko is one of the only truly skilled players on the GCXI version of the Spectr
 
 # Prize Stats
 
-* [[noprize]]
+* All-Star - GCX [[allstars#gcx]]
 
 | Player | Team         | Season          | GP | TD | Rsh | Cp | CpDst | Ctch | Int | Cas | Blk | Sck | MVP | SPP |
 |--------|--------------|-----------------|---:|---:|----:|---:|------:|-----:|----:|----:|----:|----:|----:|----:|

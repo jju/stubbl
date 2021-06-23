@@ -4,7 +4,7 @@
 
 Pick: ZV
 
-The Eagles go into this match with room to establish themselves again as Iron Fist difference makers. They dropped any receivers focusing entirely on the run against a soft looking Vagabond line, and it played out well enough. There was some trouble in the backfield early in the second half but the Eagles did some excellent work containing it and [[Donato]] got the insurance TD out of it. RE 2 - ZV 0
+The Eagles go into this match with room to establish themselves again as Iron Fist difference makers. They dropped any receivers focusing entirely on the run against a soft looking Vagabond line, and it played out well enough. There was some trouble in the backfield early in the second half but the Eagles did some excellent work containing it and [[donato]] got the insurance TD out of it. RE 2 - ZV 0
 
 > Weather: Nice
 > Toss: RE-Receive

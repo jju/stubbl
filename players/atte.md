@@ -27,6 +27,7 @@ Atte is the victim of the Fatality's fundscraping as GCXI opens, which puts her 
 # Prize Stats
 
 * Green Cup Centurion [[centurion]]
+* All-Star - GCX [[allstars#gcx]]
 
 | Player | Team         | Season          | GP | TD | Rsh | Cp | CpDst | Ctch | Int | Cas | Blk | Sck | MVP | SPP |
 |--------|--------------|-----------------|---:|---:|----:|---:|------:|-----:|----:|----:|----:|----:|----:|----:|
