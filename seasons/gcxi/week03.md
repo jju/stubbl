@@ -20,16 +20,22 @@
 * [Darkling Spectres](../../teams/darklingspectres) - [Eldritch Fatality](../../teams/eldritchfatality) (EF+) #t2774.8
 * [Ravenous Eagles](../../teams/ravenouseagles)- [Glorious Hounds](../../teams/glorioushounds) (GH) #t2774.9
 
+The Badger Claws needed to get their legend out of the workout room, but [[aeson]] delivered the win against the Furies. CF 4 - BC 5 [[gcxi-03-cfbc]]
 
+The Cogs have something wrong with them when they can't put away the lowly Sump Runners IC 2 - SR 2 [[gcxi-03-icsr]]
+
+[[gcxi-03-owom]]
+
+The Tatters still don't have a win after facing three offensive powerhouses. CT 2 - AM 4 [[gcxi-03-ctam]]
 
 ## standings
 
 | Stacks | W-D-L | Outlands | W-D-L | Heaps | W-D-L | Pits | W-D-L |
 |-------|-----|--|--|------|------|--|--|
 | Old Wyrms | 1-1-0 | Arboreal Menace | 1-0-1 | Glorious Hounds | 1-1-0 | Eldritch Fatality | 2-0-0 |
-| Filthy Tide | 1-1-0 | Irregular Cogs | 1-0-1 | Zensun Vagabonds | 1-0-1 | Ravenous Eagles | 1-0-1 |
+| Filthy Tide | 1-1-0 | Irregular Cogs | 1-1-1 | Zensun Vagabonds | 1-0-1 | Ravenous Eagles | 1-0-1 |
 | Gore Farmers | 1-0-1 | Carcosan Tatters | 0-2-0 | Kaiju Dynamo | 1-0-1 | Darkling Spectres | 1-0-1 |
-| TC Sump Runners | 0-1-1 | Badger Claws | 0-0-2 | Orbital Machine | 0-1-1 | Cackling Furies | 0-1-1 |
+| TC Sump Runners | 0-2-1 | Badger Claws | 1-0-2 | Orbital Machine | 0-1-1 | Cackling Furies | 0-1-2 |
 
 
 ## player of the week standings

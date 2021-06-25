@@ -27,6 +27,7 @@
 # Prize Stats
 
 * All-Star - GCX [[allstars#gcx]]
+* Green Cup Champion - GCX [[champ#x]]
 
 | Player | Team         | Season          | GP | TD | Rsh | Cp | CpDst | Ctch | Int | Cas | Blk | Sck | MVP | SPP |
 |--------|--------------|-----------------|---:|---:|----:|---:|------:|-----:|----:|----:|----:|----:|----:|----:|

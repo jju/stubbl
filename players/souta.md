@@ -36,6 +36,7 @@ She threw herself into the cash-grab GCV Memorial to prove that she was still th
 * Soft Hands Award - GCVII [[softhands#gcvii]]
 * Soft Hands Award - GCIX[[softhands#gcix]]
 * Green Cup Double Centurion [[centurion]]
+* All-Star - GCIX [[allstars#gcix]]
 
 | Player | Team         | Season          | GP | TD  | Rsh | Cp   | CpDst | Ctch | Int | Cas  | Blk | Sck | MVP | SPP  |
 |--------|--------------|-----------------|----|-----|-----|------|-------|------|-----|------|-----|-----|-----|------|

@@ -35,6 +35,7 @@ While his introduction to the league came in the UBBL Challenge, his first full 
 * Green Cup Centurion [[centurion]]
 * Green Cup Champion - Green Cup IX [[champ#ix]] 
 * Green Cup Champion - Green Cup X [[champ#x]]
+* All-Star - GCIX [[allstars#gcix]]
 
 | Player | Team         | Season          | GP | TD | Rsh | Cp | CpDst | Ctch | Int | Cas | Blk | Sck | MVP | SPP |
 |--------|--------------|-----------------|---:|---:|----:|---:|------:|-----:|----:|----:|----:|----:|----:|----:|
