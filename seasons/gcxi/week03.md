@@ -28,6 +28,10 @@ The Cogs have something wrong with them when they can't put away the lowly Sump 
 
 The Tatters still don't have a win after facing three offensive powerhouses. CT 2 - AM 4 [[gcxi-03-ctam]]
 
+Early blunders dug the Tide a hole they couldn't escape from in this match. KD 5 - FT 3 [[gcxi-03-kdft]]
+
+Now that's what we'd expect these Spectres to look like. DS 0 - EF 5 [[gcxi-03-dsef]]
+
 ## standings
 
 | Stacks | W-D-L | Outlands | W-D-L | Heaps | W-D-L | Pits | W-D-L |
