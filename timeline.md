@@ -110,8 +110,10 @@ Unless specified, we're dealing with the 1262 epoch.
 	* SF 765.0
 	* OG Final 766.0
 * GCXI 772.0 -> 792.0 
-	* Week 1 772.0 #t2772
-	*  Week 2 773.0 #t2773 
+	* Week 1 772.0 #t2772 [[seasons/gcxi/week01]]
+	* Week 2 773.0 #t2773 [[seasons/gcxi/week02]]
+	* Week 3 774.0 #t2774 [[seasons/gcxi/week03]]
+	* Week 4 775.0 #t2775 [[seasons/gcxi/week04]]
 
 
 
