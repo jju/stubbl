@@ -20,6 +20,9 @@
 * [Ravenous Eagles](../../teams/ravenouseagles) - [Gore Farmers](../../teams/gorefarmers) (Even) (RE) #t2775.8
 * [Arboreal Menace](../../teams/arborealmenace) - [Glorious Hounds](../../teams/glorioushounds) (AM) (or GH) #t2775.9
 
+Now that the Spectres have been decisively knocked back down to last place in the division, perhaps they'll pull a Badger Claws move and bust out their good players once again. CF 5 - DS 0 [[gcxi-04-cfds]]
+
+The Tide did what was necessary despite the Sump Runners never really giving up the ghost. SR 3 - FT 5 [[gcxi-04-srft]]
 
 
 ## standings
@@ -28,8 +31,8 @@
 |-------|-----|--|--|------|------|--|--|
 | Gore Farmers | 2-0-1 | Arboreal Menace | 2-0-1 | Kaiju Dynamo | 2-0-1 | Eldritch Fatality | 3-0-0 |
 | Old Wyrms | 1-2-0 | Irregular Cogs | 1-1-1 | Glorious Hounds | 1-2-0 | Ravenous Eagles | 1-1-1 |
-| Filthy Tide | 1-1-1 | Badger Claws | 1-0-2 | Zensun Vagabonds | 1-0-2 | Darkling Spectres | 1-0-2 |
-| TC Sump Runners | 0-2-1 | Carcosan Tatters | 0-2-1 | Orbital Machine | 0-2-1 | Cackling Furies | 0-1-2 |
+| Filthy Tide | 2-1-1 | Badger Claws | 1-0-2 | Zensun Vagabonds | 1-0-2 | Cackling Furies | 1-1-2 |
+| TC Sump Runners | 0-2-2 | Carcosan Tatters | 0-2-1 | Orbital Machine | 0-2-1 | Darkling Spectres | 1-0-3 |
 
 
 ## player of the week standings

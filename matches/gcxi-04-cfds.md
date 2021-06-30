@@ -4,11 +4,11 @@
 
 Pick: Furies
 
+The Furies did their job and probably changed the course of the Spectres' season. The match itself was a showcase for [[Luanna]] to exhibit her passing prowess and retake the Relentless Cannon lead from [[Susila]] (at least until their Week 4 match)
 
-
-> Weather: 
+> Weather: Nice
 > Toss: CF-Receive
-> Kickoffs: DS-HighKick (CF-1), CF-PerfectDefense (CF-2), CF-QuickSnap (CF-3), CF-GettheRef (Half)
+> Kickoffs: DS-HighKick (CF-1), CF-PerfectDefense (CF-2), CF-QuickSnap (CF-3), CF-GettheRef (Half), CF-CheeringFansDS (CF-4), CF-BrilliantCoachingDS (CF-5)
 
 [[cacklingfuries]][[darklingspectres]][[gcxi]]
 
