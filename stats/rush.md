@@ -36,35 +36,32 @@ ORDER BY rush_td ASC;
 
 | team              | total_touches | td   | touches_td |
 |-------------------|---------------|------|------------|
-| Mules             |             6 |    2 |     3.0000 |
-| Badger Claws      |           622 |  200 |     3.1100 |
-| Arboreal Menace   |           155 |   41 |     3.7805 |
-| Irregular Cogs    |           820 |  216 |     3.7963 |
-| Kaiju Dynamo      |           745 |  193 |     3.8601 |
-| Glorious Hounds   |           919 |  238 |     3.8613 |
-| Eldritch Fatality |           776 |  200 |     3.8800 |
-| Filthy Tide       |           935 |  235 |     3.9787 |
-| Old Wyrms         |          1022 |  252 |     4.0556 |
-| Zensun Vagabonds  |           790 |  193 |     4.0933 |
-| Thorns            |             9 |    2 |     4.5000 |
-| Darkling Spectres |           671 |  148 |     4.5338 |
-| Cackling Furies   |           663 |  140 |     4.7357 |
-| Orbital Machine   |           569 |  119 |     4.7815 |
-| Carcosan Tatters  |           517 |  106 |     4.8774 |
-| Gladiolas         |            10 |    2 |     5.0000 |
-| TC Sump Runners   |           718 |  140 |     5.1286 |
-| Vanadium Hunters  |           389 |   72 |     5.4028 |
-| Ravenous Eagles   |           592 |  109 |     5.4312 |
-| Gore Farmers      |           742 |  131 |     5.6641 |
-| Gargantuan Brutes |           354 |   56 |     6.3214 |
+| Mules             |             6 |    2 |       3.00 |
+| Badger Claws      |           659 |  209 |       3.15 |
+| Arboreal Menace   |           215 |   58 |       3.71 |
+| Irregular Cogs    |           852 |  224 |       3.80 |
+| Eldritch Fatality |           827 |  216 |       3.83 |
+| Glorious Hounds   |           975 |  251 |       3.88 |
+| Kaiju Dynamo      |           781 |  201 |       3.89 |
+| Filthy Tide       |           983 |  251 |       3.92 |
+| Old Wyrms         |          1058 |  262 |       4.04 |
+| Zensun Vagabonds  |           829 |  201 |       4.12 |
+| Thorns            |             9 |    2 |       4.50 |
+| Darkling Spectres |           693 |  151 |       4.59 |
+| Cackling Furies   |           716 |  152 |       4.71 |
+| Orbital Machine   |           602 |  126 |       4.78 |
+| Carcosan Tatters  |           545 |  113 |       4.82 |
+| Gladiolas         |            10 |    2 |       5.00 |
+| TC Sump Runners   |           768 |  148 |       5.19 |
+| Ravenous Eagles   |           615 |  114 |       5.39 |
+| Vanadium Hunters  |           389 |   72 |       5.40 |
+| Gore Farmers      |           785 |  136 |       5.77 |
+| Gargantuan Brutes |           354 |   56 |       6.32 |
+
 
 
 ```
-SELECT pl.f_tname AS team, sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches) AS total_touches, sum(md.td) AS td,	(sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches)) / sum(md.td) AS touches_td 
-FROM match_data_es AS mx JOIN match_data AS md ON mx.f_pid = md.f_player_id AND mx.f_mid = md.f_match_id JOIN players AS pl ON mx.f_pid = pl.player_id 
-WHERE md.f_did = 1 
-GROUP BY pl.f_tname 
-ORDER BY touches_td ASC;
+SELECT pl.f_tname AS team, sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches) AS total_touches, sum(md.td) AS td,round(((sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches)) / sum(md.td)),2) AS touches_td  FROM match_data_es AS mx JOIN match_data AS md ON mx.f_pid = md.f_player_id AND mx.f_mid = md.f_match_id JOIN players AS pl ON mx.f_pid = pl.player_id  WHERE md.f_did = 1  GROUP BY pl.f_tname  ORDER BY touches_td ASC;
 ```
 
 The Touches stat needs a bit of explanation. In BludBol we count a "touch" of the ball whenever a player picks up, catches, intercepts, or receives a handoff. If every kickoff was caught by a player who then ran it in for a TD then we would get a Touch/TD rate of 1. That's not usually how the game is played, of course.
@@ -94,19 +91,20 @@ Obviously, it's difficult to keep that sort of thing up over a team's history. T
 
 | team              | season         | total_touches | td   | touches_td |
 |-------------------|----------------|---------------|------|------------|
-| Badger Claws      | Green Cup IX      |           183 |   75 |     2.4400 |
-| Filthy Tide       | Green Cup VII     |           171 |   55 |     3.1091 |
-| Kaiju Dynamo      | Green Cup VIII    |           178 |   55 |     3.2364 |
-| Irregular Cogs    | Green Cup X       |           161 |   48 |     3.3542 |
-| Old Wyrms         | Green Cup IX      |           241 |   71 |     3.3944 |
-| Glorious Hounds   | Green Cup VII     |           204 |   60 |     3.4000 |
-| Badger Claws      | Green Cup X       |           218 |   64 |     3.4063 |
-| Zensun Vagabonds  | Green Cup VII     |           163 |   47 |     3.4681 |
-| Kaiju Dynamo      | Green Cup IX      |           171 |   49 |     3.4898 |
-| Eldritch Fatality | Green Cup X       |           136 |   38 |     3.5789 |
+| Ravenous Eagles   | Champions Circuit |             2 |    1 |       2.00 |
+| Badger Claws      | Green Cup IX      |           183 |   75 |       2.44 |
+| Mules             | Champions Circuit |             6 |    2 |       3.00 |
+| Filthy Tide       | Green Cup XI      |            48 |   16 |       3.00 |
+| Old Wyrms         | Champions Circuit |             3 |    1 |       3.00 |
+| Filthy Tide       | Green Cup VII     |           171 |   55 |       3.11 |
+| Eldritch Fatality | Green Cup XI      |            51 |   16 |       3.19 |
+| Kaiju Dynamo      | Green Cup VIII    |           178 |   55 |       3.24 |
+| Irregular Cogs    | Green Cup X       |           161 |   48 |       3.35 |
+| Old Wyrms         | Green Cup IX      |           241 |   71 |       3.39 |
+
 
 ```
-SELECT  pl.f_tname AS team, tours.name AS season, sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches) AS total_touches,  sum(md.td) AS td, (sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches)) / sum(md.td) AS touches_td 
+SELECT  pl.f_tname AS team, tours.name AS season, sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches) AS total_touches,  sum(md.td) AS td, round(((sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches)) / sum(md.td)),2) AS touches_td 
 FROM match_data_es AS mx  JOIN match_data AS md  ON mx.f_pid = md.f_player_id AND mx.f_mid = md.f_match_id  JOIN players AS pl  ON mx.f_pid = pl.player_id JOIN tours ON mx.f_trid = tours.tour_id 
 WHERE mx.f_did = 1 
 GROUP BY pl.f_tname, mx.f_trid  
@@ -117,24 +115,19 @@ LIMIT 10;
 
 | name        | team          | gp | total_touches | sum(md.td) | tds_touch |
 |-------------|------------------|----|---------------|------------|-----------|
-| **Aeson**     | Badger Claws      | 54 |           155 |        138 |    0.8903 |
-| Costache | Glorious Hounds   | 46 |           101 |         74 |    0.7327 |
-| Souta    | Old Wyrms         | 60 |           157 |         65 |    0.4140 |
-| Sabah    | Kaiju Dynamo      | 48 |            81 |         61 |    0.7531 |
-| Yakup    | Filthy Tide       | 42 |            74 |         55 |    0.7432 |
-| **Atte**      | Eldritch Fatality | 34 |            66 |         40 |    0.6061 |
-| Dragos   | Irregular Cogs    | 53 |            67 |         35 |    0.5224 |
-| Donat    | Badger Claws      | 33 |            54 |         35 |    0.6481 |
-| **Venus**     | Filthy Tide       | 14 |            44 |         35 |    0.7955 |
-| **Babar**     | Old Wyrms         | 59 |            60 |         29 |    0.4833 |
+| **Aeson**     | Badger Claws      | 56 |           159 |        141 |      0.89 |
+| Costache | Glorious Hounds   | 46 |           101 |         74 |      0.73 |
+| Souta    | Old Wyrms         | 60 |           157 |         65 |      0.41 |
+| Sabah    | Kaiju Dynamo      | 48 |            81 |         61 |      0.75 |
+| Yakup    | Filthy Tide       | 42 |            74 |         55 |      0.74 |
+| **Venus**     | Filthy Tide       | 18 |            57 |         46 |      0.81 |
+| **Atte**      | Eldritch Fatality | 37 |            80 |         44 |      0.55 |
+| Dragos   | Irregular Cogs    | 53 |            67 |         35 |      0.52 |
+| **Rickon**    | Cackling Furies   | 42 |            78 |         35 |      0.45 |
+| Donat    | Badger Claws      | 33 |            54 |         35 |      0.65 |
 
 ```
-SELECT pl.name, pl.f_tname, count(DISTINCT md.f_match_id) AS gp, sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches) AS total_touches, sum(md.td), sum(md.td) / (sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches)) AS tds_touch 
-FROM match_data_es AS mx JOIN match_data AS md ON mx.f_pid = md.f_player_id AND mx.f_mid = md.f_match_id JOIN players AS pl ON mx.f_pid = pl.player_id 
-WHERE mx.f_did = 1
-GROUP BY pl.name, pl.f_tname 
-ORDER BY sum(md.td) DESC, gp DESC 
-LIMIT 10;
+SELECT pl.name, pl.f_tname, count(DISTINCT md.f_match_id) AS gp, sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches) AS total_touches, sum(md.td), round(sum(md.td) / (sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches)),2) AS tds_touch FROM match_data_es AS mx JOIN match_data AS md ON mx.f_pid = md.f_player_id AND mx.f_mid = md.f_match_id JOIN players AS pl ON mx.f_pid = pl.player_id WHERE mx.f_did = 1 GROUP BY pl.name, pl.f_tname ORDER BY sum(md.td) DESC, gp DESC LIMIT 10;
 ```
 
 These are the top scorers in the Pro Circuit, along with their reliability rating. How good is Aeson? 89% of the time he gets the ball, he scores. The only players more "reliable" are bashers who never ever touch the ball but for one spectacular moment.

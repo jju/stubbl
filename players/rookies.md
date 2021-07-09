@@ -30,3 +30,6 @@
 * [[Akhenaton]] - [[orbitalmachine]]
 * [[Petrona]] - [[ravenouseagles]]
 * [[Gemma]] - [[ravenouseagles]]
+* [[Koralo]] - [[eldritchfatality]]
+* [[Dawa]] - [[arborealmenace]]
+* [[alFadl]] - [[carcosantatters]]

@@ -26,6 +26,7 @@
 
 * StUBBL Jumper - UBBL Challenge IV [[mvp#ubbl challenge iv]]
 * All-Star - GCX [[allstars#gcx]]
+* Player of the Week - GCXI [[seasons/gcxi/week04]]
 
 | Player | Team         | Season          | GP | TD | Rsh | Cp | CpDst | Ctch | Int | Cas | Blk | Sck | MVP | SPP |
 |--------|--------------|-----------------|---:|---:|----:|---:|------:|-----:|----:|----:|----:|----:|----:|----:|

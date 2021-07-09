@@ -24,24 +24,45 @@ Now that the Spectres have been decisively knocked back down to last place in th
 
 The Tide did what was necessary despite the Sump Runners never really giving up the ghost. SR 3 - FT 5 [[gcxi-04-srft]]
 
+CT 1 - KD 0 [[gcxi-04-ctkd]]
+
+Not the results the Claws were looking for, plus serious injuries to four of their skilled position players. BC 0 - OM 2 [[gcxi-04-bcom]]
+
+ZV 2 - EF 3 [[gcxi-04-zvef]]
+
+IC 3 - OW 2 [[gcxi-04-icow]]
+
+RE 1 - GF 0 [[gcxi-04-regf]]
+
+AM 4 - GH 7 [[gcxi-04-amgh]]
 
 ## standings
 
 | Stacks | W-D-L | Outlands | W-D-L | Heaps | W-D-L | Pits | W-D-L |
 |-------|-----|--|--|------|------|--|--|
-| Gore Farmers | 2-0-1 | Arboreal Menace | 2-0-1 | Kaiju Dynamo | 2-0-1 | Eldritch Fatality | 3-0-0 |
-| Old Wyrms | 1-2-0 | Irregular Cogs | 1-1-1 | Glorious Hounds | 1-2-0 | Ravenous Eagles | 1-1-1 |
-| Filthy Tide | 2-1-1 | Badger Claws | 1-0-2 | Zensun Vagabonds | 1-0-2 | Cackling Furies | 1-1-2 |
-| TC Sump Runners | 0-2-2 | Carcosan Tatters | 0-2-1 | Orbital Machine | 0-2-1 | Darkling Spectres | 1-0-3 |
+| Filthy Tide | 2-1-1 | Irregular Cogs | 2-1-1 | Glorious Hounds | 2-2-0 | Eldritch Fatality | 4-0-0 |
+| Gore Farmers | 2-0-2 | Arboreal Menace | 2-0-2 | Kaiju Dynamo | 2-0-2 | Ravenous Eagles | 2-1-1 |
+| Old Wyrms | 1-2-1 | Carcosan Tatters | 1-2-1 | Orbital Machine | 1-2-1 | Cackling Furies | 1-1-2 |
+| TC Sump Runners | 0-2-2 | Badger Claws | 1-0-3 | Zensun Vagabonds | 1-0-3 | Darkling Spectres | 1-0-3 |
 
 
 ## player of the week standings
 
 | Player    | Team              | TDs  | Rush | Cp   | CpDist | Ctch | Int  | Cas  | Blck | Sck  | MVP  | SPP  |
 |-----------|-------------------|------|------|------|--------|------|------|------|------|------|------|------|
+| Ziba     | Glorious Hounds   |    6 |   64 |    0 |      0 |    4 |    0 |    0 |    1 |    0 |    0 |   18 |
+| Laurel   | Arboreal Menace   |    4 |   40 |    0 |      0 |    3 |    0 |    0 |    0 |    0 |    0 |   12 |
+| Rickon   | Cackling Furies   |    3 |   23 |    0 |      0 |    3 |    1 |    0 |    1 |    0 |    0 |   11 |
+| Koralo   | Eldritch Fatality |    2 |   24 |    4 |     10 |    3 |    0 |    0 |    1 |    0 |    0 |   10 |
+| Corinne  | Orbital Machine   |    1 |   16 |    1 |      0 |    3 |    0 |    0 |    2 |    0 |    1 |    9 |
+| Betuel   | Zensun Vagabonds  |    0 |   17 |    3 |      5 |    1 |    0 |    0 |    0 |    0 |    1 |    8 |
+| Briseida | Filthy Tide       |    2 |   18 |    0 |      0 |    0 |    1 |    0 |    8 |    1 |    0 |    8 |
+| Thiemo   | Cackling Furies   |    1 |    0 |    0 |      0 |    0 |    0 |    0 |    3 |    0 |    1 |    8 |
+| Uli      | Orbital Machine   |    0 |    0 |    0 |      0 |    0 |    0 |    4 |   15 |    0 |    0 |    8 |
+| Venus    | Filthy Tide       |    2 |   26 |    0 |      0 |    1 |    0 |    0 |    0 |    0 |    0 |    6 |
 
 
 
 ```
-SELECT pl.name AS Player, pl.f_tname AS Team, sum(md.td) AS TDs, sum(mx.rushing_distance_move) AS Rush, sum(md.cp) AS Cp,	sum(mx.pass_distance) AS CpDist, sum(mx.catches) AS Ctch, sum(md.intcpt) AS "Int", sum(md.bh) + sum(md.si) + sum(md.ki) AS Cas, sum(mx.inflicted_blocks) AS Blck, sum(mx.inflicted_sacks) AS Sck, sum(md.mvp) AS MVPs, (sum(md.td) * 3) + sum(md.cp) + (sum(md.intcpt) * 2) + (sum(md.bh) * 2) + (sum(md.si) * 2) + (sum(md.ki) * 2) + (sum(md.mvp) * 5) AS SPP FROM match_data AS md JOIN match_data_es AS mx ON md.f_player_id = mx.f_pid AND md.f_match_id = mx.f_mid JOIN players AS pl ON md.f_player_id = pl.player_id AND md.f_team_id = pl.owned_by_team_id JOIN matches AS mt ON mt.match_id = md.f_match_id JOIN tours ON mt.f_tour_id = tours.tour_id WHERE tours.name = "Green Cup XI" AND mt.round = 3 GROUP BY pl.name, pl.f_tname ORDER BY SPP DESC LIMIT 10;
+SELECT pl.name AS Player, pl.f_tname AS Team, sum(md.td) AS TDs, sum(mx.rushing_distance_move) AS Rush, sum(md.cp) AS Cp,	sum(mx.pass_distance) AS CpDist, sum(mx.catches) AS Ctch, sum(md.intcpt) AS "Int", sum(md.bh) + sum(md.si) + sum(md.ki) AS Cas, sum(mx.inflicted_blocks) AS Blck, sum(mx.inflicted_sacks) AS Sck, sum(md.mvp) AS MVPs, (sum(md.td) * 3) + sum(md.cp) + (sum(md.intcpt) * 2) + (sum(md.bh) * 2) + (sum(md.si) * 2) + (sum(md.ki) * 2) + (sum(md.mvp) * 5) AS SPP FROM match_data AS md JOIN match_data_es AS mx ON md.f_player_id = mx.f_pid AND md.f_match_id = mx.f_mid JOIN players AS pl ON md.f_player_id = pl.player_id AND md.f_team_id = pl.owned_by_team_id JOIN matches AS mt ON mt.match_id = md.f_match_id JOIN tours ON mt.f_tour_id = tours.tour_id WHERE tours.name = "Green Cup XI" AND mt.round = 4 GROUP BY pl.name, pl.f_tname ORDER BY SPP DESC LIMIT 10;
 ```
