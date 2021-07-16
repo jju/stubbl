@@ -4,7 +4,7 @@
 
 Pick: Claws 
 
-The Tatters couldn't quite manage to keep the Claws out of the endzone enough to make a difference. This probably puts an end to most of the star Tatters' seasons to make this a devleopmental workout.
+The Tatters couldn't quite manage to keep the Claws out of the endzone enough to make a difference. This probably puts an end to most of the star Tatters' seasons to make this a series of developmental workouts.
 
 > Weather: Nice
 > Toss: CT-Receive

@@ -20,22 +20,46 @@
 * [Old Wyrms](../../teams/oldwyrms) - [Glorious Hounds](../../teams/glorioushounds) (OW) #t2776.8
 * [Ravenous Eagles](../../teams/ravenouseagles) - [Kaiju Dynamo](../../teams/kaijudynamo) (KD) #t2776.9
 
-[[]]
+The Menace got the win they needed, but never really ran away with the match until the bitter end. AM 5 - SR 3 [[gcxi-05-amsr]]
+
+The Tide romped through the Spectres even with a down match from Venus. DS 0 - FT 4 [[gcxi-05-dsft]]
+
+The Tatters couldn't quite manage to keep the Claws out of the endzone enough to make a difference. CT 2 - BC 3 [[gcxi-05-ctbc]]
+
+The Fatality had a nice easy game collecting their fifth win and keeping things close while the Furies got some reps with their rookies in the snow. CF 1 - EF 2 [[gcxi-05-cfef]]
+
+The Gore Farmers never had a lead in this match, but they scrambled their asses off to get the draw when the snow stopped. GF 2 - OM 2 [[gcxi-05-gfom]]
+
+The freebooters weren't helpful but the Vagabonds got the development they needed, while the Cogs did their best to claim a Champions Circuit berth. IC 5 - ZV 1 [[gcxi-05-iczv]]
+
+What a disappointment for the Hounds. The Wyrms were going in without an immediate need for the win and were using a depleted lineup. A muffed catch and a botched pickup were enough to cough up a defeat. OW 5 - GH 4 [[gcxi-05-owgh]]
+
+The Dynamo had solid play from everyone and kept the underskilled Eagles from getting a cage truly set up. They grabbed fourth place in the Green Cup 1/3 of the way through, which was not quite enough to make the Champions Circuit. RE 0 - KD 4 [[gcxi-05-rekd]]
 
 ## standings
 
 | Stacks | W-D-L | Outlands | W-D-L | Heaps | W-D-L | Pits | W-D-L |
 |-------|-----|--|--|------|------|--|--|
-| Filthy Tide | 3-1-1 | Irregular Cogs | 2-1-1 | Glorious Hounds | 2-2-0 | Eldritch Fatality | 4-0-0 |
-| Gore Farmers | 2-0-2 | Arboreal Menace | 3-0-2 | Kaiju Dynamo | 2-0-2 | Ravenous Eagles | 2-1-1 |
-| Old Wyrms | 1-2-1 | Badger Claws | 2-0-3 | Orbital Machine | 1-2-1 | Cackling Furies | 1-1-2 |
-| TC Sump Runners | 0-2-3 | Carcosan Tatters | 1-2-2 | Zensun Vagabonds | 1-0-3 | Darkling Spectres | 1-0-4 |
+| Filthy Tide | 3-1-1 | Irregular Cogs | 3-1-1 | Kaiju Dynamo | 3-0-2 | Eldritch Fatality | 5-0-0 |
+| Old Wyrms | 1-2-1 | Arboreal Menace | 3-0-2 | Glorious Hounds | 2-2-1 | Ravenous Eagles | 2-1-2 |
+| Gore Farmers | 2-1-2 | Badger Claws | 2-0-3 | Orbital Machine | 1-3-1 | Cackling Furies | 1-1-3 |
+| TC Sump Runners | 0-2-3 | Carcosan Tatters | 1-2-2 | Zensun Vagabonds | 1-0-4 | Darkling Spectres | 1-0-4 |
 
 
 ## player of the week standings
 
 | Player    | Team              | TDs  | Rush | Cp   | CpDist | Ctch | Int  | Cas  | Blck | Sck  | MVP  | SPP  |
 |-----------|-------------------|------|------|------|--------|------|------|------|------|------|------|------|
+| Ziba      | Glorious Hounds |    4 |   51 |    0 |      0 |    3 |    0 |    0 |    2 |    1 |    0 |   12 |
+| Frans     | Irregular Cogs  |    2 |   18 |    0 |      0 |    1 |    0 |    0 |    0 |    0 |    1 |   11 |
+| Pol       | TC Sump Runners |    1 |   11 |    0 |      0 |    1 |    0 |    1 |    6 |    0 |    1 |   10 |
+| Martti    | Old Wyrms       |    3 |   27 |    1 |      2 |    5 |    0 |    0 |    1 |    0 |    0 |   10 |
+| Merlyn    | Irregular Cogs  |    3 |   27 |    1 |      0 |    4 |    0 |    0 |    4 |    0 |    0 |   10 |
+| Laurel    | Arboreal Menace |    3 |   48 |    0 |      0 |    3 |    0 |    0 |    0 |    0 |    0 |    9 |
+| Fidolio   | Kaiju Dynamo    |    3 |   18 |    0 |      0 |    1 |    0 |    0 |    0 |    0 |    0 |    9 |
+| Klim      | Badger Claws    |    1 |    8 |    0 |      0 |    0 |    0 |    0 |    0 |    0 |    1 |    8 |
+| Olaug     | Old Wyrms       |    1 |   39 |    5 |      3 |    4 |    0 |    0 |    6 |    0 |    0 |    8 |
+| Kropotkin | Arboreal Menace |    0 |    0 |    0 |      0 |    0 |    0 |    1 |    5 |    1 |    1 |    7 |
 
 
 
