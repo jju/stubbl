@@ -28,9 +28,9 @@
 | Stacks | W-D-L | Outlands | W-D-L | Heaps | W-D-L | Pits | W-D-L |
 |-------|-----|--|--|------|------|--|--|
 | Filthy Tide | 3-1-1 | Irregular Cogs | 3-1-1 | Kaiju Dynamo | 3-0-2 | Eldritch Fatality | 5-0-0 |
-| Old Wyrms | 1-2-1 | Arboreal Menace | 3-0-2 | Glorious Hounds | 2-2-1 | Ravenous Eagles | 3-1-2 |
+| Old Wyrms | 1-2-1 | Arboreal Menace | 3-0-2 | Glorious Hounds | 3-2-1 | Ravenous Eagles | 3-1-2 |
 | Gore Farmers | 2-1-2 | Badger Claws | 2-0-3 | Orbital Machine | 1-3-1 | Cackling Furies | 1-1-3 |
-| TC Sump Runners | 0-2-4 | Carcosan Tatters | 1-2-2 | Zensun Vagabonds | 1-0-4 | Darkling Spectres | 1-0-4 |
+| TC Sump Runners | 0-2-4 | Carcosan Tatters | 1-2-2 | Zensun Vagabonds | 1-0-4 | Darkling Spectres | 1-0-5 |
 
 
 ## player of the week standings
