@@ -1,6 +1,6 @@
 # week 02
 
-[Previously](week01) 
+[Previously](seasons/gcxi/week01.md) 
 #t2773
 
 * business storyline IC-GH [[warreporter]] learn history of GryjHun, RE-DS [[aficionado]] give the Spectres' weirdass lineup one more shot

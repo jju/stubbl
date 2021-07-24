@@ -1,6 +1,6 @@
 # ogii
 
-* [[team1stplace]] - [[raptors]]
+* [[team1stplace]] - [[virtuaraptors]]
 * [[team2ndplace]] - [[mules]]
 * [[team3rdplace]] - [[gladiolas]]
 * [[teamcasualties]] - [[mules]]

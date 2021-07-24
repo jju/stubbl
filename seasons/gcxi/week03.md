@@ -1,6 +1,6 @@
 # week 03
 
-[Previously](week02) 
+[Previously](seasons/gcxi/week02.md) 
 #t2774
 
 * business storyline CF-BC [[warreporter]] bringing back Aeson for wins, DS-EF [[aficionado]] can the Fatality keep running on fumes?, RE-GH [[writer]] Hounds out of cash entirely while the Eagles are sitting on new player contracts they can't sign
