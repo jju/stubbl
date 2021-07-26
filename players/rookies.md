@@ -1,5 +1,10 @@
 # rookies
 
+```
+SELECT pl.name AS Player,  pl.f_tname AS Team, pl.f_pos_name AS Position,  sum(mp.won) AS W, sum(mp.draw) AS D, sum(mp.lost) AS L, sum(mp.played) AS GP, sum(mp.td) AS TD, sum(mp.cp) AS Cp, sum(mp.intcpt) AS "Int", sum(mp.bh) AS BH, sum(mp.si) AS SI, sum(mp.ki) AS Ki, sum(mp.mvp) AS MVP, sum(mp.spp) AS SPP FROM mv_players AS mp  JOIN players AS pl ON mp.f_pid = pl.player_id AND mp.f_tid = pl.owned_by_team_id  JOIN tours ON mp.f_trid = tours.tour_id AND mp.f_did = tours.f_did WHERE mp.f_did = 1 AND GP < 7 GROUP BY pl.name, pl.f_tname, pl.f_pos_name ORDER BY SPP DESC limit 11;
+```
+
+
 ## gcxi
 * [[Kgosi]] - [[filthytide]]
 * [[Agus]] - [[sumprunners]]
@@ -39,3 +44,43 @@
 * [[Aarthi]] - [[cacklingfuries]]
 * [[Rafferty]] - [[cacklingfuries]]
 * [[Lazar]] - [[irregularcogs]]
+* [[Ravil]] - [[glorioushounds]]
+* [[Aiza]] - [[glorioushounds]]
+
+## ogiii
+
+* [[Adnan]] - [[deepdreamers]]
+* [[Gijsbert]] - [[deepdreamers]]
+* [[Marques]] - [[gladiolas]]
+* [[Rhode]] - [[gladiolas]]
+* [[Geretrudis]] - [[thrillers]]
+* [[Svetomir]] - [[thrillers]]
+* [[Renat]] - [[umberhulks]]
+* [[Lea]] - [[umberhulks]] 
+* [[Kitty]] - [[umberhulks]]
+* [[Unnamed]] - [[umberhulks]]
+* [[Pit]] - [[geometers]]
+* [[Yu]] - [[geometers]]
+* [[Nida]] - [[geometers]]
+* [[Bushra]] - [[magpies]]
+* [[Quanah]] - [[magpies]]
+* [[Yun]] - [[magpies]]
+* [[Elouise]] - [[magpies]]
+* [[Aygul]] - [[mules]]
+* [[Ratna]] - [[mules]]
+* [[Juan]] - [[mules]]
+* [[Yijun]] - [[mules]]
+* [[Marai]] - [[mules]]
+* [[Cloelia]] - [[warthogs]]
+* [[Eleonora]] - [[warthogs]]
+* [[Stitholf]] - [[warthogs]]
+* [[Lidmila]] - [[warthogs]]
+* [[Freja]] - [[virtuaraptors]]
+* [[Sampo]] - [[virtuaraptors]]
+* [[Jewel]] - [[virtuaraptors]]
+* [[Madalin]] - [[virtuaraptors]]
+* [[Seher]] - [[virtuaraptors]]
+* [[Rani]] - [[virtuaraptors]]
+* [[Zahida]] - [[vanadiumhunters]]
+* [[Farhan]] - [[vanadiumhunters]]
+* [[Leifur]] - [[vanadiumhunters]]

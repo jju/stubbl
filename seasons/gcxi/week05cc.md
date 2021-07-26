@@ -10,7 +10,7 @@ The Champions Circuit was designed as a showcase for the top 3 teams in the Gree
 
 * [Irregular Cogs](../../teams/irregularcogs) - [Gladiolas](../../teams/gladiolas) #t2777.5
 * [Filthy Tide](../../teams/filthytide) - [Mules](../../teams/mules) #t2777.7
-* [Raptors](../../teams/raptors) - [Eldritch Fatality](../../teams/eldritchfatality) #t2777.9
+* [Raptors](virtuaraptors.md) - [Eldritch Fatality](../../teams/eldritchfatality) #t2777.9
 
 The Cogs decided to give [[besz]] one last kick at the ball before her retirement in this exhibition match.
 

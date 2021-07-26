@@ -1,0 +1,1 @@
+The third Orange Goblet tournament was begun with  an unrestricted playoff run with substitutions allowed, something they aren't doing in the pro circuit.

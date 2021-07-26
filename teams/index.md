@@ -29,7 +29,7 @@
 * [Warthogs](warthogs)[[warthogs]]
 * [Deep Dreamers](deepdreamers) [[deepdreamers]]
 * [Geometers](geometers) [[geometers]]
-* [Raptors](raptors) [[raptors]]
+* [Raptors](virtuaraptors.md) [[virtuaraptors]]
 * [Vanadium Hunters](vanadiumhunters) [[vanadiumhunters]]
 * [Magpies](magpies) [[magpies]]
 * [Umber Hulks](umberhulks) [[umberhulks]]
