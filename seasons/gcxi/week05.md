@@ -66,3 +66,90 @@ The Dynamo had solid play from everyone and kept the underskilled Eagles from ge
 ```
 SELECT pl.name AS Player, pl.f_tname AS Team, sum(md.td) AS TDs, sum(mx.rushing_distance_move) AS Rush, sum(md.cp) AS Cp,	sum(mx.pass_distance) AS CpDist, sum(mx.catches) AS Ctch, sum(md.intcpt) AS "Int", sum(md.bh) + sum(md.si) + sum(md.ki) AS Cas, sum(mx.inflicted_blocks) AS Blck, sum(mx.inflicted_sacks) AS Sck, sum(md.mvp) AS MVPs, (sum(md.td) * 3) + sum(md.cp) + (sum(md.intcpt) * 2) + (sum(md.bh) * 2) + (sum(md.si) * 2) + (sum(md.ki) * 2) + (sum(md.mvp) * 5) AS SPP FROM match_data AS md JOIN match_data_es AS mx ON md.f_player_id = mx.f_pid AND md.f_match_id = mx.f_mid JOIN players AS pl ON md.f_player_id = pl.player_id AND md.f_team_id = pl.owned_by_team_id JOIN matches AS mt ON mt.match_id = md.f_match_id JOIN tours ON mt.f_tour_id = tours.tour_id WHERE tours.name = "Green Cup XI" AND mt.round = 5 GROUP BY pl.name, pl.f_tname ORDER BY SPP DESC LIMIT 10;
 ```
+
+## season leaderboards
+
+```
+SELECT pl.name AS Player, pl.f_tname AS Team, sum(md.td) AS TDs, sum(mx.rushing_distance_move) AS Rush, sum(md.cp) AS Cp,	sum(mx.pass_distance) AS CpDist, sum(mx.catches) AS Ctch, sum(md.intcpt) AS "Int", sum(md.bh) + sum(md.si) + sum(md.ki) AS Cas, sum(mx.inflicted_blocks) AS Blck, sum(mx.inflicted_sacks) AS Sck, sum(md.mvp) AS MVPs, (sum(md.td) * 3) + sum(md.cp) + (sum(md.intcpt) * 2) + (sum(md.bh) * 2) + (sum(md.si) * 2) + (sum(md.ki) * 2) + (sum(md.mvp) * 5) AS SPP FROM match_data AS md JOIN match_data_es AS mx ON md.f_player_id = mx.f_pid AND md.f_match_id = mx.f_mid JOIN players AS pl ON md.f_player_id = pl.player_id AND md.f_team_id = pl.owned_by_team_id JOIN matches AS mt ON mt.match_id = md.f_match_id JOIN tours ON mt.f_tour_id = tours.tour_id WHERE tours.name = "Green Cup XI" GROUP BY pl.name, pl.f_tname ORDER BY SPP DESC LIMIT 5;
+```
+
+### mvp
+
+| Player            | Team             | TDs  | Rush | Cp   | CpDist | Ctch | Int | Cas  | Blck | Sck | MVP | SPP  |
+|-------------------|------------------|------|------|------|----------|---------|---|---|--------|-------|------|------|
+| Laurel | Arboreal Menace   |   13 |  187 |    0 |      0 |   16 |    0 |    0 |    0 |    0 |    1 |   44 |
+| Ziba   | Glorious Hounds   |   13 |  152 |    0 |      0 |   12 |    0 |    0 |    3 |    1 |    0 |   39 |
+| Venus  | Filthy Tide       |   12 |  178 |    0 |      0 |    9 |    0 |    0 |    0 |    0 |    0 |   36 |
+| Ayane  | Eldritch Fatality |    9 |   42 |    1 |      3 |    5 |    0 |    0 |   10 |    1 |    1 |   33 |
+| Olaug  | Old Wyrms         |    5 |  109 |    7 |      5 |    8 |    1 |    0 |   13 |    0 |    1 |   29 |
+
+Top 5
+
+### TDs
+
+| Player            | Team             | TDs  | Rush | Cp   | CpDist | Ctch | Int | Cas  | Blck | Sck | MVP | SPP  |
+|-------------------|------------------|------|------|------|----------|---------|---|---|--------|-------|------|------|
+| Laurel | Arboreal Menace |   13 |  187 |    0 |      0 |   16 |    0 |    0 |    0 |    0 |    1 |   44 |
+| Ziba   | Glorious Hounds |   13 |  152 |    0 |      0 |   12 |    0 |    0 |    3 |    1 |    0 |   39 |
+| Venus  | Filthy Tide     |   12 |  178 |    0 |      0 |    9 |    0 |    0 |    0 |    0 |    0 |   36 |
+
+Top 3
+
+### passing
+
+| Player            | Team             | TDs  | Rush | Cp   | CpDist | Ctch | Int | Cas  | Blck | Sck | MVP | SPP  |
+|-------------------|------------------|------|------|------|----------|---------|---|---|--------|-------|------|------|
+| Luanna | Cackling Furies |    0 |   57 |   20 |     84 |    0 |    0 |    0 |    6 |    0 |    0 |   20 |
+| Susila | Arboreal Menace |    0 |   69 |   20 |    100 |    0 |    0 |    0 |    5 |    0 |    1 |   25 |
+| Oxana  | Glorious Hounds |    0 |   69 |   17 |     78 |    1 |    1 |    0 |    4 |    0 |    0 |   19 |
+
+Top 3
+
+### rushing
+
+| Player            | Team             | TDs  | Rush | Cp   | CpDist | Ctch | Int | Cas  | Blck | Sck | MVP | SPP  |
+|-------------------|------------------|------|------|------|----------|---------|---|---|--------|-------|------|------|
+| Laurel | Arboreal Menace |   13 |  187 |    0 |      0 |   16 |    0 |    0 |    0 |    0 |    1 |   44 |
+| Venus  | Filthy Tide     |   12 |  178 |    0 |      0 |    9 |    0 |    0 |    0 |    0 |    0 |   36 |
+| Ziba   | Glorious Hounds |   13 |  152 |    0 |      0 |   12 |    0 |    0 |    3 |    1 |    0 |   39 |
+
+### catches
+
+| Player            | Team             | TDs  | Rush | Cp   | CpDist | Ctch | Int | Cas  | Blck | Sck | MVP | SPP  |
+|-------------------|------------------|------|------|------|----------|---------|---|---|--------|-------|------|------|
+| Laurel | Arboreal Menace |   13 |  187 |    0 |      0 |   16 |    0 |    0 |    0 |    0 |    1 |   44 |
+| Aronne | Cackling Furies |    2 |   98 |    4 |     -3 |   13 |    0 |    0 |   12 |    1 |    0 |   10 |
+| Ziba   | Glorious Hounds |   13 |  152 |    0 |      0 |   12 |    0 |    0 |    3 |    1 |    0 |   39 |
+
+### casualties
+
+| Player            | Team             | TDs  | Rush | Cp   | CpDist | Ctch | Int | Cas  | Blck | Sck | MVP | SPP  |
+|-------------------|------------------|------|------|------|----------|---------|---|---|--------|-------|------|------|
+| [[Jantine]] | Ravenous Eagles |    0 |    0 |    0 |      0 |    0 |    0 |    9 |   52 |    1 |    0 |   18 |
+| Uli     | Orbital Machine |    0 |    0 |    0 |      0 |    0 |    0 |    8 |   63 |    2 |    0 |   16 |
+| Pippin  | Badger Claws    |    0 |    0 |    0 |      0 |    0 |    0 |    4 |   21 |    0 |    0 |    8 |
+
+### sacks
+
+| Player            | Team             | TDs  | Rush | Cp   | CpDist | Ctch | Int | Cas  | Blck | Sck | MVP | SPP  |
+|-------------------|------------------|------|------|------|----------|---------|---|---|--------|-------|------|------|
+| Dunstan  | Eldritch Fatality |    0 |    2 |    1 |      5 |    0 |    0 |    2 |   48 |    3 |    0 |    5 |
+| Chikondi | Ravenous Eagles   |    0 |    0 |    0 |      0 |    0 |    0 |    0 |   18 |    2 |    0 |    0 |
+| Haruna   | Kaiju Dynamo      |    0 |    0 |    0 |      0 |    0 |    0 |    0 |   14 |    2 |    0 |    0 |
+
+
+### blocks
+
+| Player            | Team             | TDs  | Rush | Cp   | CpDist | Ctch | Int | Cas  | Blck | Sck | MVP | SPP  |
+|-------------------|------------------|------|------|------|----------|---------|---|---|--------|-------|------|------|
+| Uli     | Orbital Machine |    0 |    0 |    0 |      0 |    0 |    0 |    8 |   63 |    2 |    0 |   16 |
+| Rati    | Old Wyrms       |    0 |    0 |    0 |      0 |    0 |    0 |    2 |   58 |    1 |    0 |    4 |
+| Jantine | Ravenous Eagles |    0 |    0 |    0 |      0 |    0 |    0 |    9 |   52 |    1 |    0 |   18 |
+
+### mvps
+
+| Player            | Team             | TDs  | Rush | Cp   | CpDist | Ctch | Int | Cas  | Blck | Sck | MVP | SPP  |
+|-------------------|------------------|------|------|------|----------|---------|---|---|--------|-------|------|------|
+| Matheo | Irregular Cogs  |    1 |    7 |    0 |      0 |    1 |    0 |    0 |    4 |    0 |    3 |   18 |
+| Donato | Ravenous Eagles |    3 |   59 |    0 |      0 |    1 |    0 |    1 |    1 |    1 |    3 |   26 |
+| Ishkur | Badger Claws    |    0 |    0 |    0 |      0 |    0 |    0 |    0 |   22 |    0 |    3 |   15 |
