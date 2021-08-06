@@ -62,3 +62,4 @@ In the individual player stat pages we keep the basic box scores under Basic Sta
 * [[Gadisa]] [[umberhulks]] -> [[newcursed]]
 * [[Valeriy]] [[glorioushounds]] -> [[carcosantatters]]
 * [[Kichiro]] [[cacklingfuries]] -> [[darklingspectres]]
+* [[Alizee]] [[zensunvagabonds]] -> [[carcosantatters]]
