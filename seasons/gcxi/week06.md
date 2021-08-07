@@ -39,10 +39,10 @@ The Dynamo hung onto the ball the entire second half without even scoring, makin
 
 | Stacks | W-D-L | Outlands | W-D-L | Heaps | W-D-L | Pits | W-D-L |
 |-------|-----|--|--|------|------|--|--|
-| Filthy Tide | 4-1-1 | Irregular Cogs | 3-1-1 | Kaiju Dynamo | 4-0-2 | Eldritch Fatality | 5-0-0 |
-| Old Wyrms | 2-2-2 | Arboreal Menace | 4-0-2 | Glorious Hounds | 3-2-1 | Ravenous Eagles | 3-1-2 |
-| Gore Farmers | 2-1-3 | Badger Claws | 2-0-4 | Orbital Machine | 1-3-2 | Cackling Furies | 2-1-3 |
-| TC Sump Runners | 0-2-4 | Carcosan Tatters | 2-2-2 | Zensun Vagabonds | 1-0-5 | Darkling Spectres | 1-0-5 |
+| Filthy Tide | 4-1-1 | Arboreal Menace | 4-0-2 | Kaiju Dynamo | 4-0-2 | Eldritch Fatality | 6-0-0 |
+| Old Wyrms | 2-2-2 | Irregular Cogs | 3-1-2 | Glorious Hounds | 3-2-1 | Ravenous Eagles | 3-1-2 |
+| Gore Farmers | 2-1-3 | Carcosan Tatters | 2-2-2 | Orbital Machine | 1-3-2 | Cackling Furies | 2-1-3 |
+| TC Sump Runners | 0-2-4 | Badger Claws | 2-0-4 | Zensun Vagabonds | 1-0-5 | Darkling Spectres | 1-0-5 |
 
 
 ## player of the week standings
