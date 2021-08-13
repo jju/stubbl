@@ -1,4 +1,4 @@
 # ubbl challenge iv
 
-* [[mvp]] - [[Ziba]]
+* [[mvp]] - [[ziba]]
 * [[carminefist]] - [[Borislav]]

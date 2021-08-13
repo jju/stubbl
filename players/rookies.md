@@ -15,7 +15,7 @@ SELECT pl.name AS Player,  pl.f_tname AS Team, pl.f_pos_name AS Position,  sum(m
 * [[Gerty]] - [[badgerclaws]]
 * [[Ejiroghene]] - [[badgerclaws]]
 * [[Faite]] - [[cacklingfuries]]
-* [[Jarm]] - [[orbitalmachine]]
+* [[jarm]] - [[orbitalmachine]]
 * [[Praveena]] - [[orbitalmachine]]
 * [[Alphege]] - [[zensunvagabonds]]
 * [[Everette]] - [[zensunvagabonds]]
@@ -47,6 +47,9 @@ SELECT pl.name AS Player,  pl.f_tname AS Team, pl.f_pos_name AS Position,  sum(m
 * [[Ravil]] - [[glorioushounds]]
 * [[Aiza]] - [[glorioushounds]]
 * [[Zalmon]] - [[oldwyrms]]
+* [[Ophelia]] - [[badgerclaws]]
+* [[Vibiana]] - [[gorefarmers]]
+* [[Nikola]] - [[gorefarmers]]
 
 ## ogiii
 

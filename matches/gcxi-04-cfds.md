@@ -4,7 +4,7 @@
 
 Pick: Furies
 
-The Furies did their job and probably changed the course of the Spectres' season. The match itself was a showcase for [[Luanna]] to exhibit her passing prowess and retake the Relentless Cannon lead from [[Susila]] (at least until their Week 4 match)
+The Furies did their job and probably changed the course of the Spectres' season. The match itself was a showcase for [[luanna]] to exhibit her passing prowess and retake the Relentless Cannon lead from [[susila]] (at least until their Week 4 match)
 
 > Weather: Nice
 > Toss: CF-Receive

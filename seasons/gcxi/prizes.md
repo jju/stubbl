@@ -4,13 +4,13 @@
 * [[team2ndplace]] - 
 * [[team3rdplace]] - 
 * [[teamcasualties]] - 
-* [[mvp]] -  /  / 
-* [[sardinecrown]] -   /  / 
-* [[carminefist]] -   /  / 
-* [[softhands]] -   /  / 
-* [[relentlesscannon]] -   /  / 
-* [[halflegaward]] -   /  / 
-* [[hunteraward]] -   /  / 
-* [[dervishaward]] -   /  / 
-* [[fanfavourite]] -   /  / 
-* [[rookieofyear]] -   /  / 
+* [[mvp]] -  [[ziba]] /  / 
+* [[sardinecrown]] - [[ziba]]  /  / 
+* [[carminefist]] -  [[uli]] /  / 
+* [[softhands]] -  [[laurel]] /  / 
+* [[relentlesscannon]] -  [[luanna]] /  / 
+* [[halflegaward]] -  [[venus]] /  / 
+* [[hunteraward]] -  [[ekua]] /  / 
+* [[dervishaward]] -  [[uli]] /  / 
+* [[fanfavourite]] -  [[donato]] /  / 
+* [[rookieofyear]] -  [[jarm]] /  / 

@@ -4,7 +4,7 @@
 
 Pick: Menace (Hounds)
 
-With duelling speedsters [[Ziba]] and [[Laurel]] this could have been an incredibly highscoring match. As it was, the Menace couldn't get the conveyor belt working through Laurel to the endzone as efficiently as the Hounds (supported by two perfect defences and a blitz in the first half) so it was just a regularly high-scoring match.
+With duelling speedsters [[ziba]] and [[laurel]] this could have been an incredibly highscoring match. As it was, the Menace couldn't get the conveyor belt working through Laurel to the endzone as efficiently as the Hounds (supported by two perfect defences and a blitz in the first half) so it was just a regularly high-scoring match.
 
 > Weather: Nice
 > Toss: GH-Receive

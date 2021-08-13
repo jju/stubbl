@@ -93,7 +93,7 @@ After that it took a long time to work back to a winning season in Green Cup pla
 
 W-D-L 6-3-6
 
-The Furies are hoping for a chance at the divisional title, but will have to work to make the playoffs first. Keeping [[Aronne]] and [[Luanna]] healthy for a playoff run is going to be a major goal.
+The Furies are hoping for a chance at the divisional title, but will have to work to make the playoffs first. Keeping [[Aronne]] and [[luanna]] healthy for a playoff run is going to be a major goal.
 
 ### Stars
 
@@ -116,7 +116,7 @@ The Furies are hoping for a chance at the divisional title, but will have to wor
 | Borghild | Cackling Furies | Catcher        |    8 |    7 |    4 |   19 |   18 |           2 |             0 |    0 |    1 |    1 |    0 |   60 |
 | **Danr**      | Cackling Furies | Blitzer        |   13 |   11 |    7 |   31 |    9 |    2 |    1 |    3 |    2 |    0 |    3 |   56 |
 
-While the old-era superstar [[Rodrik]] is still atop the Furies' leaderboard, [[Aronne]] is the future for this team. [[Luanna]]'s surprise passing performance in GCX got her the Relentless Cannon award for the season, and could be an indication of a more well-rounded approach to future BludBol.
+While the old-era superstar [[Rodrik]] is still atop the Furies' leaderboard, [[Aronne]] is the future for this team. [[luanna]]'s surprise passing performance in GCX got her the Relentless Cannon award for the season, and could be an indication of a more well-rounded approach to future BludBol.
 
 ### Management
 

@@ -72,7 +72,7 @@
 
 ## ubbl challenge iv
 
-[[Ziba]]
+[[ziba]]
 
 ## orange goblet ii
 

@@ -4,17 +4,17 @@
 
 Pick: Even
 
+The Spectres slowplayed the first half avoiding any major injuries and then took advantage of the open field to begin the second for a quick turnaround before letting the defense take advantage of a botched play up the sidelines.
 
-
-> Weather: Pouring Rain
+> Weather: Pouring Rain, Nice
 > Toss: OM-Receive
-> Kickoffs: DS-BrilliantCoachingDS (OM-1), OM-CheeringFansDS (DS-1Half), 
+> Kickoffs: DS-BrilliantCoachingDS (OM-1), OM-CheeringFansDS (DS-1Half), OM-PitchInvasion (DS-2), DS-ChangingWeatherNice (DS-3), DS-QuickSnap (Final)
 
 [[sumprunners]][[carcosantatters]][[gcxi]]
 
 [[warreporter]] 
 
-Uli's surprising emergence over Jantine
+Uli's surprising emergence over Jantine fizzled in this match.
 
 ### playoff race
 

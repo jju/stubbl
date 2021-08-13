@@ -24,7 +24,7 @@ The last-place teams met and the Vagabonds proved that the "go cheap" technique 
 
 The Furies came out swinging and though the Dynamo pressured early with a blitzing effort they managed to score. The Dynamo used the rest of the half to even it up and then made an end to end to end effort to pull off the win. CF 1 - KD 2 [[gcxi-02-cfkd]]
 
-SpreadZone was picking the Menace as heavy favourites and it seems they knew something about [[Laurel]] who had a breakout match. AM 4 - OM 2 [[gcxi-02-amom]]
+SpreadZone was picking the Menace as heavy favourites and it seems they knew something about [[laurel]] who had a breakout match. AM 4 - OM 2 [[gcxi-02-amom]]
 
 The Spectres pulled off a win against the (weridly only slightly favoured) Eagles. RE 1 - DS 2 [[gcxi-02-reds]]
 

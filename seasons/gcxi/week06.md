@@ -60,7 +60,7 @@ The Dynamo hung onto the ball the entire second half without even scoring, makin
 | Roze      | Gore Farmers      |    0 |    0 |    0 |      0 |    0 |    0 |    1 |    2 |    0 |    1 |    7 |
 | Olufunmi  | Darkling Spectres |    2 |   41 |    1 |      3 |    3 |    0 |    0 |    2 |    0 |    0 |    7 |
 
-[[Ziba]] had a heckuva week.
+[[ziba]] had a heckuva week.
 
 
 ```

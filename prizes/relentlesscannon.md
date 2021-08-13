@@ -6,8 +6,9 @@ For most completions (with Completion Distance as a tie-breaker)
 
 # all-time
 
+* [[elvis]] 156
 * [[yosif]] 152
-* [[elvis]] 138 (Active)
+
 
 # modern era
 
@@ -33,7 +34,7 @@ For most completions (with Completion Distance as a tie-breaker)
 
 ## gcx
 
-[[Luanna]]
+[[luanna]]
 
 # old-era
 
