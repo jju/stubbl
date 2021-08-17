@@ -2,7 +2,7 @@
 
 [[gorefarmers]][[thrower]][[gcvii]][[uci]][[gcviii]][[gcx]][[gcxi]][[superstar]][[active]]
 
-Brought in as a replacement for the retiring [[GutTwister]] Sky Tripper is the leader of the Gore Farmers.
+Brought in as a replacement for the retiring [[guttwister]] Sky Tripper is the leader of the Gore Farmers.
 
 * Birthdate: 1261.744-600:834 #t1744
 
