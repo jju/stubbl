@@ -16,7 +16,7 @@ In the end the {$followingTeam} won 2-1, though you had to look it up on the mes
 
 It sounds like these are going to be the most interesting players to watch, or at least the ones the message-boarders are most excited about.
 
-* [[GutTwister]] - Old-Era Veteran Thrower
+* [[guttwister]] - Old-Era Veteran Thrower
 * [[kneemasher]] - Thrower
 * [[mashee]] - Catcher
 * [[stonelicker]] - Old-Era Veteran Blitzer

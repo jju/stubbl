@@ -5,7 +5,7 @@
 * [[ToothGrinder]] VI, VIII
 * [[TallHexer]] VI, VIII
 * [[SpaceFiller]] VI, VIII
-* [[GutTwister]] VI
+* [[guttwister]] VI
 * [[KnuckleBiter]] VI
 * [[mashee]] VI
 * [[stonelicker]] VI

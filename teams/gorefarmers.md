@@ -105,7 +105,7 @@ The Gore Farmers have a decent payroll going into the GCXI season, bringing back
 | TallHexer    | Gore Farmers | Blocker |   27 |    6 |   22 |   55 |    1 |    0 |    0 |    5 |    0 |    0 |    8 |   53 |
 | StoneLicker  | Gore Farmers | Blitzer           |   17 |    4 |   16 |   37 |    6 |    0 |    0 |   12 |    5 |    0 |    0 |   52 |
 
-That the Gore Farmers have won two modern-era Green Cups with only one legitimate superstar (who is now retired - [[kneemasher]]) is an impressive testament to the power of a solid line and the traditional caging methods of play. [[GutTwister]] retired after GCVI as a veteran of the old-era UBBL. He says he was glad to get a ring, but felt sidelined despite his abilities.
+That the Gore Farmers have won two modern-era Green Cups with only one legitimate superstar (who is now retired - [[kneemasher]]) is an impressive testament to the power of a solid line and the traditional caging methods of play. [[guttwister]] retired after GCVI as a veteran of the old-era UBBL. He says he was glad to get a ring, but felt sidelined despite his abilities.
 
 The current star is [[aemulus]] who provides a fine alternative to [[Mashee]] as a scoring threat from outside the cage.
 
@@ -117,7 +117,7 @@ The current star is [[aemulus]] who provides a fine alternative to [[Mashee]] as
 * [[ToothGrinder]] VI, VIII
 * [[TallHexer]] VI, VIII
 * [[SpaceFiller]] VI, VIII
-* [[GutTwister]] VI
+* [[guttwister]] VI
 * [[KnuckleBiter]] VI
 * [[mashee]] VI
 * [[stonelicker]] VI
