@@ -1,6 +1,6 @@
 # week 04
 
-[Previously](week03) 
+[Previously](seasons/gcxi/week03.md) 
 #t2775
 
 * business storyline CF-DS [[aficionado]] the logic of the tank, RE-GF [[writer]] those new players just sitting there waiting, BC-OM [[warreporter]] the rivalry behind the ownership groups and how it plays out on the field,  
