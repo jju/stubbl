@@ -2,9 +2,9 @@
 
 [[zensunvagabonds]][[line]][[gcvi]][[gcvii]][[gcviii]][[gcix]][[gcx]][[uci]][[uciii]][[seasonedveteran]][[dead]]
 
-Because of a data entry mistake Ashtad is often listed as one of the top players for matches played, but he didn't actually play in the old-era as those records indicate which inflate his totals by 45. The stats below are correct. [[besz]] has similar discrepancies in her old-era stats though she did play a few matches in GCIV.
+Because of a data entry mistake Ashtad is often listed as one of the top players for matches played, but he didn't actually play in the old-era as those records indicate which inflate his GP totals by 45. The stats below are correct. [[besz]] has similar discrepancies in her old-era stats though she did play a few matches in GCIV.
 
-* Birthdate: 1261.
+* Birthdate: 1261.885-569:547 #t1885
 * Deathdate: 1262.732-964:354 #t2732
 
 # Basic Stats

@@ -2,7 +2,9 @@
 
 [[cacklingfuries]][[catcher]][[gcx]][[uciv]][[gcxi]][[superstar]][[active]]
 
-* Birthdate: 1262.077-123:384
+In GCXI Shashi has been held off the table until the playoff hunt heats up in an effort to develop some replacements.
+
+* Birthdate: 1262.077-123:384 #t2077
 
 # Basic Stats
 

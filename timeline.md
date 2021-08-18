@@ -96,25 +96,30 @@ Unless specified, we're dealing with the 1262 epoch.
 * UCIV 735.0 -> 742.5
 * Champions Circuit 743.0 744.0 745.0
 * OGII 750.0 -> 764.0
-	* Week 1 750.0
-	* Week 2 751.0
-	* Week 3 752.0
-	* Week 4 753.0
-	* Week 5 754.0
-	* Week 6 755.0 start -> labour strife 758.3
-	* Week 7 758.5
-	* Week 8 759.5
-	* Week 9 760.5
-	* Week 10 761.5
-	* Week 11 762.5
-	* QF 764.0
-	* SF 765.0
-	* OG Final 766.0
+	* Week 1 750.0 #t2750 [[seasons/ogii/week01]]
+	* Week 2 751.0 #t2751 [[seasons/ogii/week02]]
+	* Week 3 752.0 #t2752 [[seasons/ogii/week03]]
+	* Week 4 753.0 #t2753 [[seasons/ogii/week04]]
+	* Week 5 754.0 #t2754 [[seasons/ogii/week05]]
+	* Week 6 755.0 start -> labour strife 758.3 #t2755 [[seasons/ogii/week06]]
+	* Week 7 758.5 #t2758 [[seasons/ogii/week07]]
+	* Week 8 759.5 #t2759 [[seasons/ogii/week08]]
+	* Week 9 760.5 #t2760 [[seasons/ogii/week09]]
+	* Week 10 761.5 #t2761 [[seasons/ogii/week10]]
+	* Week 11 762.5 #t2762 [[seasons/ogii/week11]]
+	* QF 764.0 #t2764 [[week12-quarterfinals]]
+	* SF 765.0 #t2765 [[week13-semifinals]]
+	* OG Final 766.0 #t2766 [[week14-finals]]
 * GCXI 772.0 -> 792.0 
 	* Week 1 772.0 #t2772 [[seasons/gcxi/week01]]
 	* Week 2 773.0 #t2773 [[seasons/gcxi/week02]]
 	* Week 3 774.0 #t2774 [[seasons/gcxi/week03]]
 	* Week 4 775.0 #t2775 [[seasons/gcxi/week04]]
+	* Week 5 776.0 #t2776 [[seasons/gcxi/week05]]
+	* Week 6 777.0 #t2777 [[seasons/gcxi/week07]]
+	* Week 7 778.0 #t2778 [[seasons/gcxi/week08]]
+	* Week 8 779.0 #t2779 [[seasons/gcxi/week08]]
+	* 
 
 
 

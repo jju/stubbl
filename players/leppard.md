@@ -26,7 +26,7 @@
 
 # Prize Stats
 
-* [[noprize]]
+* Green Cup Champion - GCC06 [[champ#06]]
 
 | Player | Team         | Season          | GP | TD | Rsh | Cp | CpDst | Ctch | Int | Cas | Blk | Sck | MVP | SPP |
 |--------|--------------|-----------------|---:|---:|----:|---:|------:|-----:|----:|----:|----:|----:|----:|----:|

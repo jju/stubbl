@@ -15,7 +15,7 @@ A Green Cup Centurion is a player who is in the top 16 players ranked by Pro Div
 9. [[atte]] * new post GCX
 10. [[rohit]]
 11. [[toomsii]]
-12. [[Amador]] * new post GCX
+12. [[amador]] * new post GCX
 13. [[Filipa]] * new post GCX
 14. [[babar]]
 15. [[kneemasher]]

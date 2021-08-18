@@ -1,9 +1,11 @@
 # Uzma
 
-[[filthytide]][[heavy]][[gcix]][[uciii]][[gcx]][[uciv]][[gcxi]][[seasonedveteran]][[dead]]
+[[filthytide]][[heavy]][[gcix]][[uciii]][[gcx]][[uciv]][[gcxi]][[seasonedveteran]][[retired]]
 
-* Birthdate: 1261.
-* Deathdate: 1262.
+Uzma was never as much a part of Tide lore as Somfuhr, but she did a respectable job for the team. The [Carcosan Tatters](../teams/carcosantatters) tried to poach her when her injuries in GCXI got too severe, but she spurned them.
+
+* Birthdate: 1261.642-812:100 #t1642
+* Deathdate: 1262.773-997:467 #t2773
 
 # Basic Stats
 

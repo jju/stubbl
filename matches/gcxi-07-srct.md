@@ -4,7 +4,7 @@
 
 Pick: Sump Runners
 
-Going into this match neither team has a very clear edge, so what makes them suit up and give anything on the field? In the end the final play was a feat of derring-do by [[Shay]] and the rookie [[Xesus]] to get the win.
+Going into this match neither team has a very clear edge, so what makes them suit up and give anything on the field? In the end the final play was a feat of derring-do by [[shay]] and the rookie [[Xesus]] to get the win.
 
 > Weather: Nice
 > Toss: CT-Kick

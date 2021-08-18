@@ -2,6 +2,8 @@
 
 [[oldwyrms]][[catcher]][[gcix]][[gcx]][[gcxi]][[star]][[active]]
 
+Modest was left off the roster for the GCIX championship run but was a big part of GCX.
+
 * Birthdate: 1262.020-206:431 #t2020
 * Deathdate: 1262.
 

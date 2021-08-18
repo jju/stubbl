@@ -2,7 +2,7 @@
 
 [[badgerclaws]][[thrower]][[uci]][[gcviii]][[gcix]][[gcx]][[gcxi]][[active]][[superstar]]
 
-Cleve is the long-time leader of the Badger Claws, who has been an important part of the team's successes (mostly in getting the ball to [[Aeson]]). He sat out the first two thirds of GCX to allow for [[Consolo]] to take a more active role, but when [[Haman]] was killed, the team brought him back. He remains one of the UBBL's biggest superstars who've never scored a TD (especially notable since he's not a casualty-inflicting powerhouse).
+Cleve is the long-time leader of the Badger Claws, who has been an important part of the team's successes (mostly in getting the ball to [[Aeson]]). He sat out the first two thirds of GCX to allow for [[consolo]] to take a more active role, but when [[Haman]] was killed, the team brought him back. He remains one of the UBBL's biggest superstars who've never scored a TD (especially notable since he's not a casualty-inflicting powerhouse).
 
 * Birthdate: 1261.638-003:241 #t1638
 

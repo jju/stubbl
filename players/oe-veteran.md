@@ -7,7 +7,7 @@
 * [[eloquence]]
 * [[hulud]]
 * [[pesci]]
-* [[Rickon]]
+* [[rickon]]
 * [[sardines]]
 * [[snow]]
 * [[twig]]

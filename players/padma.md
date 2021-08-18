@@ -2,7 +2,9 @@
 
 [[zensunvagabonds]][[blitzer]][[uciii]][[gcx]][[gcxi]][[superstar]][[active]]
 
-* Birthdate: 1262.026-301:390
+Padma was one of the key players in the Vagabonds excellent GCX season.
+
+* Birthdate: 1262.026-301:390 #t2026
 
 # Basic Stats
 

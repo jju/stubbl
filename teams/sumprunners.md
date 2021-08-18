@@ -98,7 +98,7 @@ If the Sump Runners don't come in last place in the Stacks, practically the enti
 | Branka    | TC Sump Runners | Catcher  |    9 |    4 |   16 |   29 |    9 |    1 |    1 |    1 |    0 |    0 |    3 |   47 |
 | **Edgar**      | TC Sump Runners | Line  |   25 |   14 |   39 |   78 |    0 |    4 |    2 |    5 |    5 |    1 |    3 |   45 |
 
-The Sump Runners play a slightly unorthodox version of the traditional allrounder Hermann strategy. [[jacquetta]] actually plays the role of a traditional Thrower, while [[Shay]]'s positioning is more like a Blitzer.
+The Sump Runners play a slightly unorthodox version of the traditional allrounder Hermann strategy. [[jacquetta]] actually plays the role of a traditional Thrower, while [[shay]]'s positioning is more like a Blitzer.
 
 ### Management
 

@@ -112,7 +112,7 @@ The current star is [[aemulus]] who provides a fine alternative to [[Mashee]] as
 #### Cup Winners
 
 * [[kneemasher]] VI, VIII
-* [[BeardPuller]] VI, VIII
+* [[beardpuller]] VI, VIII
 * [[GrimThrasher]] VI, VIII
 * [[ToothGrinder]] VI, VIII
 * [[TallHexer]] VI, VIII

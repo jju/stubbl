@@ -2,6 +2,8 @@
 
 [[irregularcogs]][[runner]][[gcx]][[uciv]][[gcxi]][[superstar]][[active]]
 
+Merlyn takes a bit of an odd approach to BludBol, basically daring someone to try and take the ball from him. He's a bit of a bully and his teammates aren't big fans. 
+
 * Birthdate: 1261.679-072:112 #t1679
 
 # Basic Stats

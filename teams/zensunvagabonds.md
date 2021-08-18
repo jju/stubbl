@@ -106,7 +106,7 @@ The projections are somewhat hard on the Vagabonds, because it's hard to ignore 
 | **Clydon**       | Zensun Vagabonds | Thrower  |   14 |    3 |   11 |   28 |    1 |   27 |    2 |    1 |    0 |    0 |    4 |   56 |
 | **Betuel**       | Zensun Vagabonds | Thrower  |   11 |    2 |    4 |   17 |    2 |   32 |    0 |    1 |    0 |    0 |    3 |   55 |
 
-[[Jonah]] and [[Clydon]] were being forced into the role of faces of the franchise before they were really ready. [[Betuel]] is rapidly rising in the ranks, and has a plethora of talented players ready to make catches and get the ball into endzones.
+[[Jonah]] and [[Clydon]] were being forced into the role of faces of the franchise before they were really ready. [[betuel]] is rapidly rising in the ranks, and has a plethora of talented players ready to make catches and get the ball into endzones.
 
 The Vagabonds miss the days of having [[hulud]] anchoring their lineup, but [[Zaira]] is coming along as a more than competent replacement.
 

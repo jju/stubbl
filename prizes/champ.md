@@ -1,6 +1,6 @@
 # vi
 * [[kneemasher]] VI, VIII
-* [[BeardPuller]] VI, VIII
+* [[beardpuller]] VI, VIII
 * [[GrimThrasher]] VI, VIII
 * [[ToothGrinder]] VI, VIII
 * [[TallHexer]] VI, VIII
@@ -21,7 +21,7 @@
 * [[Ozzy]] 06
 * [[Heep]] 06
 * [[Lucio]] 06
-* [[Leppard]] 06
+* [[leppard]] 06
 * [[Rivet]] 06
 * [[Bolt]] 06
 * [[Collar]] 06
@@ -54,7 +54,7 @@
 
 # viii
 * [[kneemasher]] VI, VIII
-* [[BeardPuller]] VI, VIII
+* [[beardpuller]] VI, VIII
 * [[GrimThrasher]] VI, VIII
 * [[ToothGrinder]] VI, VIII
 * [[TallHexer]] VI, VIII
@@ -72,7 +72,7 @@
 # ix
 
 * [[Kelemann]] - GCIX, GCX
-* [[Amador]] - GCIX, GCX
+* [[amador]] - GCIX, GCX
 * [[Rati]] - GCIX, GCX
 * [[elvis]] - GCIX, GCX
 * [[Jia]] - GCIX, GCX
@@ -89,13 +89,13 @@
 # x
 
 * [[Kelemann]] - GCIX, GCX
-* [[Amador]] - GCIX, GCX
+* [[amador]] - GCIX, GCX
 * [[Rati]] - GCIX, GCX
 * [[elvis]] - GCIX, GCX
 * [[Jia]] - GCIX, GCX
 * [[Elisavet]] - GCIX, GCX
 * [[moirin]] - GCIX (Final only), GCX
-* [[Seosamh]] - GCIX off playoff roster, GCX
+* [[seosamh]] - GCIX off playoff roster, GCX
 * [[Belmont]] - GCX
 * [[Journee]] - GCX
 * [[Katina]] - GCX
@@ -103,4 +103,4 @@
 * [[Alva]] - GCX
 * [[Menachem]] - GCX
 * [[Teresia]] - GCX
-* [[Modest]] - GCIX off playoff roster, GCX
+* [[modest]] - GCIX off playoff roster, GCX

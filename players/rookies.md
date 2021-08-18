@@ -35,7 +35,7 @@ SELECT pl.name AS Player,  pl.f_tname AS Team, pl.f_pos_name AS Position,  sum(m
 * [[Akhenaton]] - [[orbitalmachine]]
 * [[Petrona]] - [[ravenouseagles]]
 * [[Gemma]] - [[ravenouseagles]]
-* [[Koralo]] - [[eldritchfatality]]
+* [[koralo]] - [[eldritchfatality]]
 * [[Dawa]] - [[arborealmenace]]
 * [[alFadl]] - [[carcosantatters]]
 * [[Aniketos]] - [[cacklingfuries]]

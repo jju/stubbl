@@ -6,7 +6,7 @@ For most catches in a season (fewest dropped passes is the tiebreaker)
 
 * [[souta]] 120
 * [[aeson]] 116 (Active)
-* [[Amador]] 81 (Active)
+* [[amador]] 81 (Active)
 
 # modern era
 

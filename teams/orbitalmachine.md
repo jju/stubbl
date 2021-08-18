@@ -103,7 +103,7 @@ The Machine is due for another deep playoff run and this season could be the one
 * [[Ozzy]] 06
 * [[Heep]] 06
 * [[Lucio]] 06
-* [[Leppard]] 06
+* [[leppard]] 06
 * [[Rivet]] 06
 * [[Bolt]] 06
 * [[Collar]] 06

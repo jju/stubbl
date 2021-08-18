@@ -4,7 +4,7 @@
 
 Pick: Wyrms
 
-The opening rock salvo took [[Florinda]] out of the opening drive which could have knocked the Hounds' [[ziba]]-focused offense for a loop right off the hop, as Florinda usually is in charge of clearing Ziba a path, but they got through anyway. Later in the first half Ziba fumbled a pass which meant they didn't end the first with a lead. Then Oxana fumbled the pickup in the dying moments so they couldn't tie it up. What a disappointment for the Hounds.
+The opening rock salvo took [[florinda]] out of the opening drive which could have knocked the Hounds' [[ziba]]-focused offense for a loop right off the hop, as Florinda usually is in charge of clearing Ziba a path, but they got through anyway. Later in the first half Ziba fumbled a pass which meant they didn't end the first with a lead. Then Oxana fumbled the pickup in the dying moments so they couldn't tie it up. What a disappointment for the Hounds.
 
 > Weather: Nice
 > Toss: GH-Receive

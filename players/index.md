@@ -36,7 +36,7 @@ In the individual player stat pages we keep the basic box scores under Basic Sta
 * [[Bozhidar]] [[thorns]]->[[thrillers]]
 * [[Willburg]] [[badgerclaws]]->[[darklingspectres]]
 * [[Vinter]] [[cacklingfuries]]->[[darklingspectres]]
-* [[Uzma]] [[filthytide]]->[[carcosantatters]]
+* [[uzma]] [[filthytide]]->[[carcosantatters]]
 * [[Uilliam]] [[glorioushounds]]->[[darklingspectres]]
 * [[tycho]] [[vanadiumhunters]]->[[carcosantatters]] *Way better for [[carcosantatters]]*
 * [[Swanahil]] [[filthytide]]->[[carcosantatters]]

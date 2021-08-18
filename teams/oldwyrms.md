@@ -146,7 +146,7 @@ Having the second-best player the UBBL has ever seen in [[souta]] has gone prett
 #### Cup Winners
 
 * [[Kelemann]] - GCIX, GCX
-* [[Amador]] - GCIX, GCX
+* [[amador]] - GCIX, GCX
 * [[Rati]] - GCIX, GCX
 * [[elvis]] - GCIX, GCX
 * [[Jia]] - GCIX, GCX
@@ -159,7 +159,7 @@ Having the second-best player the UBBL has ever seen in [[souta]] has gone prett
 * [[Tereza]] - GCIX
 * [[Lucius]] - GCIX
 * [[Yasmani]] - GCIX (Final only)
-* [[Seosamh]] - GCIX off playoff roster, GCX
+* [[seosamh]] - GCIX off playoff roster, GCX
 * [[Belmont]] - GCX
 * [[Journee]] - GCX
 * [[Katina]] - GCX
@@ -167,7 +167,7 @@ Having the second-best player the UBBL has ever seen in [[souta]] has gone prett
 * [[Alva]] - GCX
 * [[Menachem]] - GCX
 * [[Teresia]] - GCX
-* [[Modest]] - GCIX off playoff roster, GCX
+* [[modest]] - GCIX off playoff roster, GCX
 
 ##### Team won but no rings
 

@@ -1,9 +1,10 @@
 # Corinne
 
-[[orbitalmachine]][[blitzer]][[gcix]][[gcx]][[uciv]][[gcxi]][[veteran]]
+[[orbitalmachine]][[blitzer]][[kicker]][[gcix]][[gcx]][[uciv]][[gcxi]][[veteran]]
 
-* Birthdate: 1261.
-* Deathdate: 1262.
+Corinne is a decent enough role-player on the Machine, a team that cycles players through interchangeably. She's a bit disgruntled and would switch teams in a heartbeat if someone else would take her contract.
+
+* Birthdate: 1262.138-003:939 #t2138
 
 # Basic Stats
 
@@ -11,7 +12,7 @@
 
 | Player           | Team        | Position      | W | D | L | GP | TD | Cp | Int | BH | SI | Ki | MVP | SPP |
 |------------------|-------------|---------------|--:|--:|--:|---:|---:|---:|----:|---:|---:|---:|----:|----:|
-| Corinne | [Orbital Machine](../teams/orbitalmachine) | Blitzer |    4 |    5 |    3 |   12 |    4 |    1 |    0 |    1 |    0 |    0 |    1 |   20 |
+| Corinne | [Orbital Machine](../teams/orbitalmachine) | Kicker |    4 |    5 |    3 |   12 |    4 |    1 |    0 |    1 |    0 |    0 |    1 |   20 |
 
 ```
 SELECT  pl.name AS Player,  pl.f_tname AS Team, pl.f_pos_name AS Position,  sum(mp.won) AS W, sum(mp.draw) AS D, sum(mp.lost) AS L, sum(mp.played) AS GP, sum(mp.td) AS TD, sum(mp.cp) AS Cp, sum(mp.intcpt) AS "Int", sum(mp.bh) AS BH, sum(mp.si) AS SI, sum(mp.ki) AS Ki, sum(mp.mvp) AS MVP, sum(mp.spp) AS SPP FROM mv_players AS mp  JOIN players AS pl ON mp.f_pid = pl.player_id AND mp.f_tid = pl.owned_by_team_id  JOIN tours ON mp.f_trid = tours.tour_id AND mp.f_did = tours.f_did  WHERE mp.f_did = 1 AND pl.name = "Corinne" GROUP BY pl.name, pl.f_tname, pl.f_pos_name ORDER BY SPP DESC limit 11;

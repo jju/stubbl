@@ -2,6 +2,8 @@
 
 [[kaijudynamo]][[runner]][[gcx]][[gcxi]][[star]][[active]]
 
+Louis has come up in the shadow of the [[sabah]] era and is taking his place as a key offensive weapon.
+
 * Birthdate: 1262.037-764:553 #t2037
 
 # Basic Stats
