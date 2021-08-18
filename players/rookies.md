@@ -39,7 +39,7 @@ SELECT pl.name AS Player,  pl.f_tname AS Team, pl.f_pos_name AS Position,  sum(m
 * [[Dawa]] - [[arborealmenace]]
 * [[alFadl]] - [[carcosantatters]]
 * [[Aniketos]] - [[cacklingfuries]]
-* [[Mumina]] - [[cacklingfuries]]
+* [[mumina]] - [[cacklingfuries]]
 * [[Tofa]] - [[cacklingfuries]]
 * [[Aarthi]] - [[cacklingfuries]]
 * [[Rafferty]] - [[cacklingfuries]]
