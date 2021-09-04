@@ -94,7 +94,7 @@ SELECT pl.f_tname AS Team, sum(md.cp) AS Cp, sum(mx.pass_attempts) AS Attempts, 
 
 Now this table shows us the Dynamo's real strength of play: the handoff. They hand off the ball almost twice as much as they pass (KD 1.82 Handoff/Pass) and score even more than they pass (KD 1.99 TD/Pass). This makes a lot of sense because remember that they also have a sub 50% completion rate. It's somewhat interesting to note the similarities with the Ravenous Eagles, who've parlayed similar, though less extreme, rates (RE 1.69 Handoff/Pass and RE 1.52 TD/Pass) into tournament wins. These teams do this and keep their interception rate way down (KD 4% RE 2%). They're making less-risky passes, and getting picked off at about the same rate as the really good passing teams (OW 5% GH 2%). 
 
-It should be apparent, looking at this that the Darkling Spectres need to stop throwing the ball. They are picked off a lot and at the highest rate (DS 12%) while completing only half their attempts. The Cogs have a similar interceptions thrown rate, but their ccuracy is up at 65%.
+It should be apparent, looking at this that the Darkling Spectres need to stop throwing the ball. They are picked off a lot and at the highest rate (DS 12%) while completing only half their attempts. The Cogs have a similar interceptions thrown rate, but their accuracy is up at 65%.
 
 | team              | cp   | attempts | comp_pct | td   | td_pass | intcpt_thrown | intcpt_rate | sum(mx.handoffs) | hand_pass |
 |-------------------|------|----------|----------|------|---------|---------------|-------------|------------------|-----------|
