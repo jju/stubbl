@@ -1,6 +1,6 @@
 # week 05
 
-[Previously](week04) 
+[Previously](seasons/gcxi/week04.md) 
 #t2776
 
 * business storyline FT-DS [[aficionado]] the logic of the tank vs a team really trying to win, RE-KD [[writer]] those new players just sitting there waiting (with the prize money from the CC at stake the Eagles really would like to get in), GF-OM [[warreporter]] the rivalry behind the ownership groups (aficionados vs pragmatist gangsetrs) and how it plays out on the field,  

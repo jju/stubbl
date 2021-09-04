@@ -4,29 +4,39 @@
 
 ## matchups
 
- 
+ The matches this week ensured a little bit of separation. The Magpies are following the Raptors' example of being very good in their first taste of big(ger) league play.
 
 
 ## standings
 
 | Team | W-D-L |
 |-------|-----|
+| Mules | 3-0-0 |
+| Raptors | 3-0-0 |
+| Magpies | 2-1-0 |
 | Gladiolas | 2-0-0 |
-| Mules | 2-0-0 |
-| Raptors | 2-0-0 |
-| Magpies | 1-1-0 |
-| Thrillers | 1-0-1 |
-| Deep Dreamers | 0-1-1 |
-| Umber Hulks | 0-1-1 |
-| Vanadium Hunters | 0-1-1 |
-| Warthogs | 0-0-1 |
-| Geometers | 0-0-2 |
-| Hoods | 0-0-1 |
+| Geometers | 1-0-2 |
+| Thrillers | 1-0-2 |
+| Hoods | 1-0-1 |
+| Deep Dreamers | 0-1-2 |
+| Umber Hulks | 0-1-2 |
+| Vanadium Hunters | 0-1-2 |
+| Warthogs | 0-0-2 |
 
 ## player of the week standings
 
 | Player            | Team             | TDs  | Rush | Cp   | CpDist | Ctch | Int | Cas  | Blck | Sck | MVP | SPP  |
 |-------------------|------------------|------|------|------|----------|---------|---|---|--------|-------|------|------|
+| Freja    | Raptors          |    3 |   39 |    0 |      0 |    1 |    0 |    0 |    0 |    0 |    0 |    9 |
+| Syeda    | Magpies          |    1 |   13 |    0 |      0 |    1 |    0 |    0 |    1 |    0 |    1 |    8 |
+| Waltraut | Raptors          |    1 |    6 |    0 |      0 |    0 |    0 |    0 |    1 |    0 |    1 |    8 |
+| Emmet    | Warthogs         |    0 |    0 |    0 |      0 |    0 |    0 |    1 |    6 |    0 |    1 |    7 |
+| Zahida   | Vanadium Hunters |    0 |   13 |    2 |      5 |    0 |    0 |    0 |    0 |    0 |    1 |    7 |
+| Ahmad    | Umber Hulks      |    0 |    1 |    0 |      0 |    0 |    1 |    0 |    3 |    0 |    1 |    7 |
+| Adedayo  | Hoods            |    0 |    0 |    0 |      0 |    0 |    0 |    1 |    4 |    1 |    1 |    7 |
+| Shankte  | Geometers        |    2 |   19 |    0 |      0 |    1 |    0 |    0 |    0 |    0 |    0 |    6 |
+| Umut     | Mules            |    2 |   23 |    0 |      0 |    1 |    0 |    0 |    0 |    0 |    0 |    6 |
+| Ragu     | Warthogs         |    2 |   25 |    0 |      0 |    1 |    0 |    0 |    0 |    0 |    0 |    6 |
 
 
 ```

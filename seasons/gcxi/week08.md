@@ -5,35 +5,43 @@
 
 #t2780
 
-~~After Week 6 the projections got all reshuffled. Apparently spreadZone has now decided the undefeated Fatality might not be a total fluke and could do well this season, and the Wyrms may have a harder row to hoe.
+Crossing the midseason point and the Sump Runners no longer occupy the basement spot.
 
-* business storyline EF-GF [[warreporter]] how does an undefeated team keep sharp and keep the money flowing, SR-CT [[aficionado]] defense and the art of weathering the bad game, [[writer]] 
-* player storyline OM-DS [[warreporter]] Uli's surprising emergence over Jantine, RE-AM [[writer]] brute longevity vs Laurel's beauty, BC-IC [[aficionado]] Aeson's return and what his stats are looking like
-* team storyline FT-OW [[aficionado]] playoff implications and seeing the defending champs falter a bit, GH-KD [[writer]] battle for the division and coming off Ziba's great week do the Dynamo have an answer?, ZV-CF [[warreporter]] 
-* Playoffs: Intradivisional: BC-IC, FT-OW, GH-KD really imporant to get any separation in the divisional title hunt (or get the BC out of the basement)
+* business storyline GF-CT [[aficionado]] the Tatters' traditional just do enough approach compared with the Farmers' boom and bust, 
+* player storyline RE-OM [[warreporter]] Uli vs Jantine head to head, [[writer]] DS-AM, BC-KD [[aficionado]] letting Klim get some reps and how the Dynamo have been working in the post-Sabah era  
+* team storyline OW-SR [[writer]] losing a star and what it does to a team, GH-ZV [[aficionado]] the injured players and underperforming Vagabonds, CF-IC [[warreporter]]  
+* Playoffs: Intradivisional: OW-SR if the Sump Runners win they will be tied in the standings!?, GH-ZV first and fourth; GC preview FT-EF the top 2 teams facing off
 
 
 ## matchups
 
-* [TC Sump Runners](../../teams/sumprunners) - [Carcosan Tatters](../../teams/carcosantatters) (SR) #t2779.1
-* [Orbital Machine](../../teams/orbitalmachine) - [Darkling Spectres](../../teams/darklingspectres) (Even) #t2779.2
-* [Zensun Vagabonds](../../teams/zensunvagabonds) - [Cackling Furies](../../teams/cacklingfuries) (ZV) #t2779.3
-* [Badger Claws](../../teams/badgerclaws) - [Irregular Cogs](../../teams/irregularcogs) (BC) #t2779.4
-* [Eldritch Fatality](../../teams/eldritchfatality) - [Gore Farmers](../../teams/gorefarmers) (EF+) #t2779.5
-* [Filthy Tide](../../teams/filthytide) - [Old Wyrms](../../teams/oldwyrms) (Even) #t2779.7
-* [Ravenous Eagles](../../teams/ravenouseagles) - [Arboreal Menace](../../teams/arborealmenace) (AM+) #t2779.8
-* [Glorious Hounds](../../teams/glorioushounds) - [Kaiju Dynamo](../../teams/kaijudynamo) (Even) #t2779.9
+* [Glorious Hounds](../../teams/glorioushounds) - [Zensun Vagabonds](../../teams/zensunvagabonds) (GH+) #t2780.1
+* [Old Wyrms](../../teams/oldwyrms) - [TC Sump Runners](../../teams/sumprunners) (OW+) #t2780.2
+* [Darkling Spectres](../../teams/darklingspectres) - [Arboreal Menace](../../teams/arborealmenace) (AM+) #t2780.3
+* [Ravenous Eagles](../../teams/ravenouseagles) - [Orbital Machine](../../teams/orbitalmachine) (OM) #t2780.4
+* [Gore Farmers](../../teams/gorefarmers) - [Carcosan Tatters](../../teams/carcosantatters) (Even) #t2780.5
+* [Cackling Furies](../../teams/cacklingfuries) - [Irregular Cogs](../../teams/irregularcogs) (IC+) #t2780.7
+* [Kaiju Dynamo](../../teams/kaijudynamo) - [Badger Claws](../../teams/badgerclaws) (BC) #t2780.8
+* [Filthy Tide](../../teams/filthytide) - [Eldritch Fatality](../../teams/eldritchfatality) (FT) #t2780.9
 
+The Hounds showed that they should not be counted out any more than the Fatality this season by destroying the Vagabonds. GH 6 - ZV 1 [[gcxi-08-ghzv]]
 
+The Wyrms got a draw that felt as bad as a loss against their divisional punching-bag Sump Runners. OW 3 - SR 3 [[gcxi-08-owsr]]
+
+The Spectres scored a major upset that hinged on an early perfect defensive alignment to throw off the Menace's quick scoring gameplan. DS 6 - AM 4 [[gcxi-08-dsam]]
+
+The Uli vs Jantine showdown went to Uli, who knocked out the Eagles' star (after a brief scare that Jantine may have died), but the Eagles got the win. RE 1 - OM 0 [[gcxi-08-reom]]
+
+The Gore Farmers took advantage of sloppy play by the Tatters in the first half and pressed their advantage in the second. Long-term the effects of losing Tycho in this game will be the most deeply felt. GF 1 - CT 0 [[gcxi-08-gfct]]
 
 ## standings
 
 | Stacks | W-D-L | Outlands | W-D-L | Heaps | W-D-L | Pits | W-D-L |
 |-------|-----|--|--|------|------|--|--|
-| Filthy Tide | 5-1-1 | Arboreal Menace | 4-1-2 | Glorious Hounds | 4-2-1 | Eldritch Fatality | 7-0-0 |
-| Old Wyrms | 2-2-3 | Irregular Cogs | 3-1-3 | Kaiju Dynamo | 4-0-3 | Ravenous Eagles | 3-2-2 |
-| Gore Farmers | 2-1-4 | Badger Claws | 3-0-4 | Orbital Machine | 1-3-3 | Cackling Furies | 2-2-3 |
-| TC Sump Runners | 1-2-4 | Carcosan Tatters | 2-2-3 | Zensun Vagabonds | 1-1-5 | Darkling Spectres | 2-0-5 |
+| Filthy Tide | 5-1-1 | Arboreal Menace | 4-1-3 | Glorious Hounds | 5-2-1 | Eldritch Fatality | 7-0-0 |
+| Old Wyrms | 2-3-3 | Irregular Cogs | 3-1-3 | Kaiju Dynamo | 4-0-3 | Ravenous Eagles | 4-2-2 |
+| Gore Farmers | 2-1-4 | Badger Claws | 3-0-4 | Orbital Machine | 1-3-4 | Cackling Furies | 2-2-3 |
+| TC Sump Runners | 1-3-4 | Carcosan Tatters | 2-2-3 | Zensun Vagabonds | 1-1-6 | Darkling Spectres | 3-0-5 |
 
 
 ## player of the week standings
