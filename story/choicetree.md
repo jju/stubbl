@@ -35,6 +35,10 @@ But you do sometimes miss writing for people.
 > "Fuck it. I'll write your bullshit, but first I'm going to a bar."->[[01-stacks]]
 > "Fuck off. I'm a writer, not a cliche-scrummer."->[[01-resist]]
 
+:: 01-research
+
+You have never been the type to use the wire for research, not for anything important. The things that happen on the streets are specifically done out there to stay off the feeds. That said, there is a danger in 
+
 :: writer
 
 You read the EDS' message again. `Give the public what they want.` Ha. You fell for this the last time a bludbol season began. EDS is good at stroking the ego.
