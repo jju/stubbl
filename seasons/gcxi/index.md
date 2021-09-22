@@ -1,6 +1,8 @@
 # Green Cup XI
 
-The eleventh Green Cup season 
+The eleventh Green Cup season.
+
+Playoff roster construction is facing some new rules. Not only do the 16 players selected for the playoffs not get any subs past that, but everyone on the playoff roster must have played in at least 5 matches for their team in the season.
 
 * [[seasons/gcxi/preseason]]
 * [[seasons/gcxi/week01]]

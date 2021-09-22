@@ -1,6 +1,6 @@
 # champions circuit round 2
 
-[Previously](week05) 
+[Previously](seasons/gcxi/week05.md) 
 #t2777
 
 The Champions Circuit was designed as a showcase for the top 3 teams in the Green Cup and Orange Goblet tournaments, but with ongoing negotiations over league amalgamations there was a decision to step up the excitement and offer a bit of cash for a 1/3 of the way through the Green Cup version before the third Orange Goblet tournament begins.

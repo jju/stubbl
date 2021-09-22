@@ -50,6 +50,7 @@ SELECT pl.name AS Player,  pl.f_tname AS Team, pl.f_pos_name AS Position,  sum(m
 * [[Ophelia]] - [[badgerclaws]]
 * [[Vibiana]] - [[gorefarmers]]
 * [[Nikola]] - [[gorefarmers]]
+* [[Ilanit]] - [[eldritchfatality]]
 
 ## ogiii
 

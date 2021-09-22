@@ -4,28 +4,35 @@
 
 ## matchups
 
- 
+ The Raptors continued their winning streak now putting them in a tie for the second-longest in UBBL history.
 
 ## standings
 
 | Team | W-D-L |
 |-------|-----|
-| Mules | 3-0-0 |
-| Raptors | 3-0-0 |
-| Magpies | 2-1-0 |
-| Gladiolas | 2-0-0 |
-| Geometers | 1-0-2 |
-| Thrillers | 1-0-2 |
-| Hoods | 1-0-1 |
-| Deep Dreamers | 0-1-2 |
-| Umber Hulks | 0-1-2 |
+| Raptors | 4-0-0 |
+| Magpies | 3-1-0 |
+| Mules | 3-1-0 |
+| Gladiolas | 2-1-0 |
+| Deep Dreamers | 1-1-2 |
+| Geometers | 1-1-2 |
+| Thrillers | 1-1-2 |
+| Hoods | 1-0-2 |
+| Umber Hulks | 0-1-3 |
 | Vanadium Hunters | 0-1-2 |
-| Warthogs | 0-0-2 |
+| Warthogs | 0-0-3 |
 
 ## player of the week standings
 
 | Player            | Team             | TDs  | Rush | Cp   | CpDist | Ctch | Int | Cas  | Blck | Sck | MVP | SPP  |
 |-------------------|------------------|------|------|------|----------|---------|---|---|--------|-------|------|------|
+| Eleonora | Warthogs      |    2 |   14 |    0 |      0 |    0 |    0 |    0 |    0 |    0 |    1 |   11 |
+| Zena     | Deep Dreamers |    3 |    6 |    0 |      0 |    1 |    0 |    0 |    5 |    0 |    0 |    9 |
+| Mallt    | Hoods         |    0 |    2 |    0 |      0 |    0 |    0 |    1 |    6 |    1 |    1 |    7 |
+| Renat    | Umber Hulks   |    0 |    3 |    0 |      0 |    0 |    1 |    0 |    1 |    0 |    1 |    7 |
+| Hiro     | Raptors       |    2 |   23 |    0 |      0 |    1 |    0 |    0 |    1 |    0 |    0 |    6 |
+| Katka    | Hoods         |    0 |    0 |    0 |      0 |    0 |    0 |    3 |   13 |    1 |    0 |    6 |
+| Jolanda  | Magpies       |    2 |   15 |    0 |      0 |    2 |    0 |    0 |    4 |    0 |    0 |    6 |
 
 
 ```

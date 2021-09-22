@@ -34,20 +34,36 @@ The Uli vs Jantine showdown went to Uli, who knocked out the Eagles' star (after
 
 The Gore Farmers took advantage of sloppy play by the Tatters in the first half and pressed their advantage in the second. Long-term the effects of losing Tycho in this game will be the most deeply felt. GF 1 - CT 0 [[gcxi-08-gfct]]
 
+The Cogs dispatched the Furies with little emotion, their defense scoring three of their TDs. CF 2 - IC 5 [[gcxi-08-cfic]]
+
+A bit of a weird one for the Claws who didn't really get the chance to develop Klim the way he's going to need to be a reliable threat in the postseason (assuming they get that far). KD 3 - BC 2 [[gcxi-08-kdbc]]
+
+The Tide got the ball to Venus 4 times and handed the Fatality their first loss of the season in an exciting match that could be the preview of the GCXI championship. FT 6 - EF 4 [[gcxi-08-ftef]]
+
 ## standings
 
 | Stacks | W-D-L | Outlands | W-D-L | Heaps | W-D-L | Pits | W-D-L |
 |-------|-----|--|--|------|------|--|--|
-| Filthy Tide | 5-1-1 | Arboreal Menace | 4-1-3 | Glorious Hounds | 5-2-1 | Eldritch Fatality | 7-0-0 |
-| Old Wyrms | 2-3-3 | Irregular Cogs | 3-1-3 | Kaiju Dynamo | 4-0-3 | Ravenous Eagles | 4-2-2 |
-| Gore Farmers | 2-1-4 | Badger Claws | 3-0-4 | Orbital Machine | 1-3-4 | Cackling Furies | 2-2-3 |
-| TC Sump Runners | 1-3-4 | Carcosan Tatters | 2-2-3 | Zensun Vagabonds | 1-1-6 | Darkling Spectres | 3-0-5 |
+| Filthy Tide | 6-1-1 | Irregular Cogs | 4-1-3 | Glorious Hounds | 5-2-1 | Eldritch Fatality | 7-0-1 |
+| Gore Farmers | 3-1-4 | Arboreal Menace | 4-1-3 | Kaiju Dynamo | 5-0-3 | Ravenous Eagles | 4-2-2 |
+| Old Wyrms | 2-3-3 | Badger Claws | 3-0-5 | Orbital Machine | 1-3-4 | Darkling Spectres | 3-0-5 |
+| TC Sump Runners | 1-3-4 | Carcosan Tatters | 2-2-4 | Zensun Vagabonds | 1-1-6 | Cackling Furies | 2-2-4 |
 
 
 ## player of the week standings
 
 | Player    | Team              | TDs  | Rush | Cp   | CpDist | Ctch | Int  | Cas  | Blck | Sck  | MVP  | SPP  |
 |-----------|-------------------|------|------|------|--------|------|------|------|------|------|------|------|
+| Ziba     | Glorious Hounds   |    5 |   72 |    1 |     -2 |    5 |    0 |    0 |    1 |    0 |    0 |   16 |
+| Venus    | Filthy Tide       |    4 |   50 |    0 |      0 |    3 |    0 |    0 |    0 |    0 |    0 |   12 |
+| Laurel   | Arboreal Menace   |    4 |   52 |    0 |      0 |    3 |    0 |    0 |    0 |    0 |    0 |   12 |
+| Betul    | Eldritch Fatality |    3 |   17 |    0 |      0 |    3 |    0 |    1 |    2 |    0 |    0 |   11 |
+| Olufunmi | Darkling Spectres |    3 |   42 |    0 |      0 |    4 |    0 |    0 |    5 |    0 |    0 |    9 |
+| Lazar    | Irregular Cogs    |    3 |    6 |    0 |      0 |    2 |    0 |    0 |    2 |    0 |    0 |    9 |
+| Reagan   | Gore Farmers      |    1 |   24 |    0 |      0 |    1 |    0 |    0 |    0 |    0 |    1 |    8 |
+| Geir     | Filthy Tide       |    0 |    6 |    3 |      7 |    0 |    0 |    0 |    0 |    0 |    1 |    8 |
+| Merlyn   | Irregular Cogs    |    0 |   11 |    4 |      4 |    3 |    1 |    1 |    4 |    2 |    0 |    8 |
+| Beatrix  | Eldritch Fatality |    0 |    8 |    0 |      0 |    0 |    1 |    0 |    2 |    0 |    1 |    7 |
 
 
 ```

@@ -110,16 +110,23 @@ Unless specified, we're dealing with the 1262 epoch.
 	* QF 764.0 #t2764 [[week12-quarterfinals]]
 	* SF 765.0 #t2765 [[week13-semifinals]]
 	* OG Final 766.0 #t2766 [[week14-finals]]
+* OGIII 
+	* Week 1 778.0 #t2778
+	* Week 2 779.0 #t2779 
+	* Week 3 780.0 #t2780 
+	* Week 4 781.0 #t2781 
+	* Week 5 782.0 #t2782 
 * GCXI 772.0 -> 792.0 
 	* Week 1 772.0 #t2772 [[seasons/gcxi/week01]]
 	* Week 2 773.0 #t2773 [[seasons/gcxi/week02]]
 	* Week 3 774.0 #t2774 [[seasons/gcxi/week03]]
 	* Week 4 775.0 #t2775 [[seasons/gcxi/week04]]
 	* Week 5 776.0 #t2776 [[seasons/gcxi/week05]]
-	* Week 6 777.0 #t2777 [[seasons/gcxi/week07]]
-	* Week 7 778.0 #t2778 [[seasons/gcxi/week08]]
-	* Week 8 779.0 #t2779 [[seasons/gcxi/week08]]
-	* 
+	* Interruption for Champions Circuit Round 3 #t2777 
+	* Week 6 778.0 #t2778 [[seasons/gcxi/week06]]
+	* Week 7 779.0 #t2779 [[seasons/gcxi/week07]]
+	* Week 8 780.0 #t2780 [[seasons/gcxi/week08]]
+	* Week 9 781.0 #t2781 [[seasons/gcxi/week09]]
 
 
 

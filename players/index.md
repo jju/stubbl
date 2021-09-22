@@ -28,7 +28,7 @@ In the individual player stat pages we keep the basic box scores under Basic Sta
 * [[Shalev]] [[ravenouseagles]]->[[cacklingfuries]]
 * [[Fawcett]] [[cacklingfuries]]->[[ravenouseagles]]
 * [[Borghild]] [[cacklingfuries]]->[[ravenouseagles]]
-* [[Seela]] [[zensunvagabonds]]->[[eldritchfatality]]
+* [[Seela]] [[zensunvagabonds]]->[[eldritchfatality]] -> [[carcosantatters]]
 * [[Green]] [[eldritchfatality]]->[[zensunvagabonds]]
 * [[Federikka]] [[gladiolas]]->[[thrillers]]
 * [[Tacita]] [[particulates]]->[[thrillers]]

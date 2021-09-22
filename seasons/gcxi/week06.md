@@ -1,6 +1,6 @@
 # week 06
 
-[Previously](week05) (and the interlude of [another round in the Champions Circuit](week05cc))
+[Previously](seasons/gcxi/week05.md) (and the interlude of [another round in the Champions Circuit](week05cc))
 
 #t2778
 

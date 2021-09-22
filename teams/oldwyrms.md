@@ -8,51 +8,51 @@ The Old Wyrms (OW) use what's known as the Excelsior playbook, where a fast frag
 
 ## Active Roster
 
-| Player    | Position  | SPP | Seasons |
-|-----------|-----------|-----|---------|
-| Elvis     | Thrower  |  Legend |       7 |
-| Jia       | Thrower  |   Star |       3 |
-| Amador    | Catcher  |  Legend |       5 |
-| Seosamh   | Catcher  |   Superstar |       3 |
-| Kelemann  | Blitzer  |   Superstar |       3 |
-| Rati      | Blitzer  |   Star |       5 |
-| Elisavet  | Lineman  |   Seasoned Veteran |       7 |
-| Leilani   | Lineman  |    Experienced |       3 |
-| Katina    | Lineman  |    Experienced |       2 |
-| Teresia   | Lineman  |    Experienced |       2 |
-| Andela    | Lineman  |   Emerging Star |       3 |
-| Alva      | Lineman  |    Experienced |       2 |
-| Olaug     | Catcher  |   Veteran |       2 |
-| Modest    | Catcher  |   Star |       3 |
-| Belmont   | Lineman  |   Emerging Star |       3 |
+| Player    | Position  | SPP | Seasons | Playoff |
+|-----------|-----------|-----|---------|----|
+| Elvis     | Thrower  |  Legend |       7 | N |
+| Jia       | Thrower  |   Star |       3 | Y |
+| Amador    | Catcher  |  Legend |       5 | 4 |
+| Seosamh   | Catcher  |   Superstar |       3 | 4 |
+| Kelemann  | Blitzer  |   Superstar |       3 | 4 |
+| Rati      | Blitzer  |   Star |       5 | Y |
+| Elisavet  | Lineman  |   Seasoned Veteran |       7 | 2 |
+| Leilani   | Lineman  |    Experienced |       3 | N |
+| Katina    | Lineman  |    Experienced |       2 | Y |
+| Teresia   | Lineman  |    Experienced |       2 | 3 |
+| Andela    | Lineman  |   Emerging Star |       3 | Y |
+| Alva      | Lineman  |    Experienced |       2 | 3 |
+| Olaug     | Catcher  |   Veteran |       2 | Y |
+| Modest    | Catcher  |   Star |       3 | 4 |
+| Belmont   | Lineman  |   Emerging Star |       3 | Y |
 
 Andela and Olaug were not part of the GCX Champion team, but Andela was around for GCIX.
 
 ### Bench
 
-| Player    | Position  | SPP | Seasons |
-|-----------|-----------|-----|---------|
-| Chandan   | Thrower  |   Star |       5 |
-| Evander   | Thrower  |   Superstar |       4 |
-| Martti    | Catcher  |    Rookie |       1 |
-| Roni      | Catcher  |   Superstar |       5 |
-| Eimilios  | Blitzer  |   Veteran |       2 |
-| Lucius    | Lineman  |   Veteran |       5 |
-| Devika    | Catcher  |   Veteran |       4 |
-| Babar     | Catcher  |  Superstar |       7 |
-| Menachem  | Lineman  |    Experienced |       3 |
-| Yasmani   | Lineman  |    Rookie |       1 |
-| Zipfruder | Lineman  |    Rookie |       2 |
-| Fariha    | Lineman  |    Rookie |       2 |
-| Inaya     | Lineman  |    Rookie |       1 |
-| Xun       | Lineman  |    Rookie |       1 |
-| Raza      | Lineman  |    Rookie |       1 |
-| Xiuying   | Lineman  |    Rookie |       1 |
-| Indah     | Lineman  |    Rookie |       1 |
-| Elcin     | Lineman  |    Rookie |       1 |
-| Hui       | Lineman  |    Rookie |       1 |
-| Journee   | Lineman  |   Experienced |       2 |
-| Vilma     | Lineman  |    Rookie |       2 |
+| Player    | Position  | SPP | Seasons | Playoff Qd |
+|-----------|-----------|-----|---------|----|
+| Chandan   | Thrower  |   Star |       5 | 0 |
+| Evander   | Thrower  |   Superstar |       4 | 0 |
+| Martti    | Catcher  |    Rookie |       1 | 4 |
+| Roni      | Catcher  |   Superstar |       5 | 0 |
+| Eimilios  | Blitzer  |   Veteran |       2 | 3 |
+| Lucius    | Lineman  |   Veteran |       5 | 0 |
+| Devika    | Catcher  |   Veteran |       4 | 4 |
+| Babar     | Catcher  |  Superstar |       7 | 0 |
+| Menachem  | Lineman  |    Experienced |       3 | 1 |
+| Yasmani   | Lineman  |    Rookie |       1 | Y |
+| Zipfruder | Lineman  |    Rookie |       2 | 0 |
+| Fariha    | Lineman  |    Rookie |       2 | 0 |
+| Inaya     | Lineman  |    Rookie |       1 | 0 |
+| Xun       | Lineman  |    Rookie |       1 | 0 |
+| Raza      | Lineman  |    Rookie |       1 | 0 |
+| Xiuying   | Lineman  |    Rookie |       1 | 0 |
+| Indah     | Lineman  |    Rookie |       1 | 0 |
+| Elcin     | Lineman  |    Rookie |       1 | 0 |
+| Hui       | Lineman  |    Rookie |       1 | 0 |
+| Journee   | Lineman  |   Experienced |       2 | 0 |
+| Vilma     | Lineman  |    Rookie |       2 | 0 |
 
 
 ## Records
