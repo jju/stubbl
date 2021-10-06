@@ -127,6 +127,7 @@ Unless specified, we're dealing with the 1262 epoch.
 	* Week 7 779.0 #t2779 [[seasons/gcxi/week07]]
 	* Week 8 780.0 #t2780 [[seasons/gcxi/week08]]
 	* Week 9 781.0 #t2781 [[seasons/gcxi/week09]]
+	* Week 10 782.0 #t2782 [[seasons/gcxi/week10]]
 
 
 

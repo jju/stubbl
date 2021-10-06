@@ -44,11 +44,10 @@ The Farmers performed a masterclass in containment, keeping [[Ziba]] off the sco
 
 | Stacks | W-D-L | Outlands | W-D-L | Heaps | W-D-L | Pits | W-D-L |
 |-------|-----|--|--|------|------|--|--|
-| Filthy Tide | 7-1-1 | Irregular Cogs | 4-1-3 | Glorious Hounds | 5-2-2 | Eldritch Fatality | 8-0-1 |
-| Gore Farmers | 4-1-4 | Arboreal Menace | 5-1-3 | Kaiju Dynamo | 5-0-3 | Ravenous Eagles | 4-2-3 |
-| Old Wyrms | 3-3-3 | Badger Claws | 3-1-5 | Orbital Machine | 1-3-4 | Darkling Spectres | 3-0-5 |
+| Filthy Tide | 7-1-1 | Irregular Cogs | 5-1-3 | Kaiju Dynamo | 6-0-3 | Eldritch Fatality | 8-0-1 |
+| Gore Farmers | 4-1-4 | Arboreal Menace | 5-1-3 | Glorious Hounds | 5-2-2 | Ravenous Eagles | 4-2-3 |
+| Old Wyrms | 3-3-3 | Badger Claws | 3-1-5 | Orbital Machine | 1-3-5 | Darkling Spectres | 3-0-6 |
 | TC Sump Runners | 1-4-4 | Carcosan Tatters | 2-2-5 | Zensun Vagabonds | 1-1-7 | Cackling Furies | 2-2-5 |
-
 
 ## player of the week standings
 

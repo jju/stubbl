@@ -51,6 +51,10 @@ SELECT pl.name AS Player,  pl.f_tname AS Team, pl.f_pos_name AS Position,  sum(m
 * [[Vibiana]] - [[gorefarmers]]
 * [[Nikola]] - [[gorefarmers]]
 * [[Ilanit]] - [[eldritchfatality]]
+* [[Sacnicte]] - [[darklingspectres]]
+* [[Ross]] - [[darklingspectres]]
+* [[Headley]] - [[oldwyrms]]
+* [[Erika]] - [[kaijudynamo]]
 
 ## ogiii
 

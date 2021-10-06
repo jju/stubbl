@@ -19,7 +19,7 @@ The [Gladiolas](../../teams/gladiolas)[[gladiolas]]-Thrillers match could be the
 
 ## results
 
-The Deep Dreamers laid on the pressure without even blitzing and were up 3-0 at the half. [[Mihael]] was almost knocked out of the game in the first half but the medical team brought him back and he scored the Dreamers' third TD. They scored again in the second half but focused on keeping the Geometers from moving the ball. It was successful and the Dreamers move on to the semifinals. #t2764.1
+The Deep Dreamers laid on the pressure without even blitzing and were up 3-0 at the half. [[mihael]] was almost knocked out of the game in the first half but the medical team brought him back and he scored the Dreamers' third TD. They scored again in the second half but focused on keeping the Geometers from moving the ball. It was successful and the Dreamers move on to the semifinals. #t2764.1
 
 The Hunters won the toss and tried to force the Mules out of their preferred play style. That put [[Renatus]] on the field to start the match, and put a target on [[Boguslaw]]. The goal was to attack the ball early and score, wasting the "secret weapon" and making the Mules play catch-up. Renatus did take Boguslaw out of the match late in the first half as the Mules kept control of the ball despite Gautstafr's best efforts. The Mules opened the second half with a good show of defense and took out Marta and sent Gautstafr into the crowd where he was knocked out. The Hunters scored on their weak side, but Gautstafr didn't come back to play defense on the ensuing kick. The Mules managed to hang onto the ball the rest of the half, with [[Nkosana]] crossing the line as the clock ticked down.
 

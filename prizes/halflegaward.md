@@ -67,4 +67,4 @@ Unknown
 
 ## orange goblet ii
 
-[[Mihael]]
+[[mihael]]

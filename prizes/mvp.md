@@ -76,4 +76,4 @@
 
 ## orange goblet ii
 
-[[Mihael]]
+[[mihael]]

@@ -10,22 +10,32 @@
 
 | Team | W-D-L |
 |-------|-----|
-| Raptors | 4-0-0 |
+| Raptors | 5-0-0 |
+| Mules | 4-1-0 |
 | Magpies | 3-1-0 |
-| Mules | 3-1-0 |
-| Gladiolas | 2-1-0 |
-| Deep Dreamers | 1-1-2 |
-| Geometers | 1-1-2 |
-| Thrillers | 1-1-2 |
-| Hoods | 1-0-2 |
-| Umber Hulks | 0-1-3 |
-| Vanadium Hunters | 0-1-2 |
-| Warthogs | 0-0-3 |
+| Gladiolas | 2-1-1 |
+| Deep Dreamers | 2-1-2 |
+| Geometers | 1-2-2 |
+| Thrillers | 1-1-3 |
+| Vanadium Hunters | 1-1-2 |
+| Hoods | 1-0-3 |
+| Warthogs | 0-1-3 |
+| Umber Hulks | 0-1-4 |
+
 
 ## player of the week standings
 
 | Player            | Team             | TDs  | Rush | Cp   | CpDist | Ctch | Int | Cas  | Blck | Sck | MVP | SPP  |
 |-------------------|------------------|------|------|------|----------|---------|---|---|--------|-------|------|------|
+| Amata        | Vanadium Hunters |    1 |   12 |    2 |      1 |    1 |    1 |    0 |    1 |    0 |    1 |   12 |
+| Greaves      | Raptors          |    1 |   16 |    0 |      0 |    0 |    0 |    0 |    0 |    0 |    1 |    8 |
+| Pilvi        | Mules            |    2 |   29 |    0 |      0 |    0 |    0 |    1 |    2 |    0 |    0 |    8 |
+| Ahmad        | Umber Hulks      |    0 |    0 |    0 |      0 |    0 |    0 |    1 |    3 |    0 |    1 |    7 |
+| Mathghamhain | Geometers        |    0 |    6 |    0 |      0 |    0 |    0 |    1 |    2 |    0 |    1 |    7 |
+| Marita       | Deep Dreamers    |    2 |    4 |    0 |      0 |    1 |    0 |    0 |    0 |    0 |    0 |    6 |
+| Medb         | Deep Dreamers    |    0 |    5 |    1 |      2 |    0 |    0 |    0 |    0 |    0 |    1 |    6 |
+| Samuhel      | Geometers        |    1 |   10 |    0 |      0 |    0 |    0 |    1 |    9 |    0 |    0 |    5 |
+| Marques      | Gladiolas        |    1 |   21 |    0 |      0 |    2 |    0 |    1 |    1 |    0 |    0 |    5 |
 
 
 ```
