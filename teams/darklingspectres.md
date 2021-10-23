@@ -65,8 +65,9 @@ The Spectres use the traditional Unglewort playbook. They have nigh-unlimited ch
 
 ### Prizes
 
-* Green Cup Classic 06 - Heaps Champion [[team2ndplace]]
-* Green Cup VII - Classic Conference Champions [[team2ndplace]] & Heaps Champion
+* Green Cup Classic 06 - Heaps Champion [[team2ndplace#gcc06]] & [[teamdivision#gcc06]]
+* Green Cup VII - Classic Conference Champions [[team2ndplace#gcvii]]
+* Green Cup VII - Heaps Division Champions [[teamdivision#gcvii]]
 
 ### Seasons
 

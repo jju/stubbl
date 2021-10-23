@@ -49,11 +49,14 @@ The Eagles use the Charles Dorf playbook, which is built on a very rigid divisio
 
 ### Prizes
 
-* Green Cup VII - Green Cup Champions [[team1stplace#gcvii]] & Outlands Champions
+* Green Cup VII - Green Cup Champions [[team1stplace#gcvii]] 
+* Green Cup VII - Burger Conference Champions [[teamconference#gcvii]]
+* Green Cup VII - Outlands Division Champions [[teamdivision#gcvii]]
 * Green Cup IX - Iron Fist [[teamcasualties#gcix]]
 * Green Cup V Memorial - Chartreuse Pop Bottle [[team1stplace]]
 * Green Cup V Memorial - Crimson Soles [[teamcasualties]]
-* Green Cup X - Classic Conference Champions [[team2ndplace#gcx]] & Pits Champions
+* Green Cup X - Classic Conference Champions [[team2ndplace#gcx]] & [[teamconference#gcx]]
+* Green Cup X - Pits Division Champions [[teamdivision#gcx]]
 * Green Cup X - Iron Fist [[teamcasualties#gcx]]
 
 ### Seasons

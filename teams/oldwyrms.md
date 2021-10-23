@@ -72,8 +72,12 @@ Andela and Olaug were not part of the GCX Champion team, but Andela was around f
 * Green Cup III - Green Cup Champions [[team1stplace#gciii]]
 * Green Cup IV - Green Cup Champions [[team1stplace#gciv]]
 * Green Cup IX - Green Cup IX Champions [[team1stplace#gcix]]
+* Green Cup IX - Burger Conference Champions [[teamconference#gcix]]
+* Green Cup IX - Stacks Division Champions [[teamdivision#gcix]]
 * Green Cup V Memorial - Picked-Off Primer [[team3rdplace]]
 * Green Cup X - Green Cup X Champions [[team1stplace#gcx]]
+* Green Cup X - Burger Conference Champions [[teamconference#gcx]]
+* Green Cup X - Stacks Division Champions [[teamdivision#gcx]]
 
 ### Seasons
 

@@ -6,7 +6,7 @@ Pick: Even
 
 How will the bad teams do in GCXI? The Machine are kind of a dark horse for the season, but the Sump Runners are probably going to be terrible. This match was injury-filled, but in the end the Machine tied it up, which the Sump Runners aren't too unhappy with. OM 2 - SR 2
 
-[[Kendrick]] wanted a TD at least but got his hip smashed instead. Rookie [[jarm]] got a completion to put him on his way to being a bit more useful, while the other rookie got her career ended. [[uli]] was largely ineffective. The Sump Runners managed their lineup, tangling the huge Blockers of the Machine with relatively unskilled labour, letting [[jacquetta]] have a very nice match.
+[[kendrick]] wanted a TD at least but got his hip smashed instead. Rookie [[jarm]] got a completion to put him on his way to being a bit more useful, while the other rookie got her career ended. [[uli]] was largely ineffective. The Sump Runners managed their lineup, tangling the huge Blockers of the Machine with relatively unskilled labour, letting [[jacquetta]] have a very nice match.
 
 > Weather: Nice
 > Toss: SR-Receive

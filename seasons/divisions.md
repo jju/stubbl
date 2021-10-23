@@ -170,6 +170,8 @@
 
 # GCVI
 
+No conferences, only divisions.
+
 ## Stacks
 
 1. **[Gore Farmers](../teams/gorefarmers) [[gorefarmers]]** 
@@ -185,6 +187,8 @@
 4. [Ravenous Eagles](../teams/ravenouseagles) [[ravenouseagles]]
 
 # GC Classic 06
+
+No conferences, only divisions.
 
 ## Heaps
 

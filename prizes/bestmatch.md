@@ -15,9 +15,9 @@
 
 [[aeson]][[donat]][[venus]][[souta]][[costache]]
 
-`
+```
 SELECT pl.name,  pl.f_tname,  tours.name, mt.round, md.td,  md.cp,  md.intcpt,  md.bh,  md.si,  md.ki,  md.mvp,  (md.td * 3) + md.cp + (md.intcpt * 2) + (md.bh * 2) + (md.si * 2) + (md.ki * 2) + (md.mvp * 5) AS SPP  FROM match_data AS md  JOIN players AS pl ON md.f_player_id = pl.player_id JOIN matches AS mt ON md.f_match_id = mt.match_id  JOIN tours ON tours.tour_id = mt.f_tour_id WHERE md.f_did = 1 ORDER BY SPP DESC limit 10;
-`
+```
 
 # top 10 Cp
 
@@ -35,23 +35,30 @@ SELECT pl.name,  pl.f_tname,  tours.name, mt.round, md.td,  md.cp,  md.intcpt,  
 | Elvis     | Old Wyrms         | Green Cup IX   |    13 |    0 |    6 |      0 |    0 |    0 |    0 |    0 |    6 |
 
 [[cleve]][[yosif]][[Hartwin]][[elvis]][[nakayama]][[melisa]][[klik]]
+```
+SELECT pl.name,  pl.f_tname,  tours.name, mt.round, md.td,  md.cp,  md.intcpt,  md.bh,  md.si,  md.ki,  md.mvp,  (md.td * 3) + md.cp + (md.intcpt * 2) + (md.bh * 2) + (md.si * 2) + (md.ki * 2) + (md.mvp * 5) AS SPP  FROM match_data AS md  JOIN players AS pl ON md.f_player_id = pl.player_id JOIN matches AS mt ON md.f_match_id = mt.match_id  JOIN tours ON tours.tour_id = mt.f_tour_id WHERE md.f_did = 1 ORDER BY cp DESC limit 10;
+```
 
 # top 10 Cas
 
-| Player    | Team            | Season         | Round | TD   | Cp   | Int    | BH   | SI   | Ki   | MVP  | SPP  |
-|-----------|-----------------|----------------|-------|------|------|--------|------|------|------|------|------|
-| Somfuhr.    | Filthy Tide       | Green Cup VIII       |    13 |    0 |    0 |      0 |    4 |    0 |    0 |    0 |    8 |
-| Rohit.      | Zensun Vagabonds  | Green Cup VII        |    14 |    1 |    0 |      0 |    3 |    1 |    0 |    0 |   11 |
-| Marzhak.    | Gargantuan Brutes | Green Cup VII        |    15 |    0 |    0 |      0 |    3 |    1 |    0 |    0 |    8 |
-| Jantine     | Ravenous Eagles   | Green Cup X          |   251 |    0 |    0 |      0 |    3 |    1 |    0 |    0 |    8 |
-| Somfuhr.    | Filthy Tide       | Green Cup VIII       |    11 |    0 |    0 |      0 |    2 |    2 |    0 |    0 |    8 |
-| Pippin      | Badger Claws      | Green Cup X          |     7 |    0 |    0 |      0 |    2 |    0 |    1 |    0 |    6 |
-| Marzhak.    | Gargantuan Brutes | Green Cup Classic 06 |     7 |    0 |    0 |      0 |    1 |    2 |    0 |    0 |    6 |
-| Onesiphorus | Darkling Spectres | Green Cup VII        |     7 |    0 |    0 |      0 |    0 |    3 |    0 |    0 |    6 |
-| Rohit.      | Zensun Vagabonds  | Green Cup VII        |     2 |    0 |    1 |      0 |    1 |    2 |    0 |    1 |   12 |
-| Gention.    | Carcosan Tatters  | Green Cup X          |     3 |    0 |    0 |      0 |    3 |    0 |    0 |    0 |    6 |
+| Player    | Team            | Season         | Round | TD   | Cp   | Int    | Cas | BH   | SI   | Ki   | MVP  | SPP  |
+|-----------|-----------------|----------------|-------|------|------|--------|-----|------|------|------|------|------|
+| Jantine  | Ravenous Eagles   | Green Cup X          |   251 |    0 |    0 |      0 |    4 |    3 |    1 |    0 |    0 |    8 |
+| Uli      | Orbital Machine   | Green Cup XI         |     4 |    0 |    0 |      0 |    4 |    2 |    2 |    0 |    0 |    8 |
+| Somfuhr. | Filthy Tide       | Green Cup VIII       |    13 |    0 |    0 |      0 |    4 |    4 |    0 |    0 |    0 |    8 |
+| Somfuhr. | Filthy Tide       | Green Cup VIII       |    11 |    0 |    0 |      0 |    4 |    2 |    2 |    0 |    0 |    8 |
+| Percy    | Ravenous Eagles   | Green Cup XI         |    11 |    0 |    0 |      0 |    4 |    1 |    3 |    0 |    0 |    8 |
+| Marzhak. | Gargantuan Brutes | Green Cup VII        |    15 |    0 |    0 |      0 |    4 |    3 |    1 |    0 |    0 |    8 |
+| Rohit.   | Zensun Vagabonds  | Green Cup VII        |    14 |    1 |    0 |      0 |    4 |    3 |    1 |    0 |    0 |   11 |
+| Lars.    | Orbital Machine   | Green Cup VIII       |     1 |    0 |    0 |      0 |    3 |    2 |    1 |    0 |    1 |   11 |
+| Muir.    | TC Sump Runners   | Green Cup Classic 06 |     1 |    0 |    0 |      0 |    3 |    1 |    2 |    0 |    0 |    6 |
+| Edwin.   | TC Sump Runners   | Green Cup IX         |     2 |    0 |    0 |      0 |    3 |    2 |    0 |    1 |    0 |    6 |
 
-[[somfuhr]][[rohit]][[marzhak]][[jantine]][[Pippin]][[Onesiphorous]][[Gention]]
+[[somfuhr]] [[rohit]] [[marzhak]] [[jantine]] [[uli]] [[percy]]
+
+```
+SELECT pl.name,  pl.f_tname,  tours.name, mt.round, md.td,  md.cp,  md.intcpt,  (md.bh + md.si + md.ki) AS Cas, md.bh,  md.si,  md.ki,  md.mvp,  (md.td * 3) + md.cp + (md.intcpt * 2) + (md.bh * 2) + (md.si * 2) + (md.ki * 2) + (md.mvp * 5) AS SPP  FROM match_data AS md  JOIN players AS pl ON md.f_player_id = pl.player_id JOIN matches AS mt ON md.f_match_id = mt.match_id  JOIN tours ON tours.tour_id = mt.f_tour_id WHERE md.f_did = 1 ORDER BY Cas DESC limit 10;
+```
 
 # top 10 Int
 
@@ -59,6 +66,7 @@ SELECT pl.name,  pl.f_tname,  tours.name, mt.round, md.td,  md.cp,  md.intcpt,  
 |-----------|-----------------|----------------|-------|------|------|--------|------|------|------|------|------|
 | Yusra.      | Cackling Furies   | Green Cup VIII       |     1 |    0 |    3 |      3 |    0 |    0 |    0 |    0 |    9 |
 | Mia         | Zensun Vagabonds  | Green Cup X          |     6 |    3 |    0 |      2 |    0 |    0 |    0 |    0 |   13 |
+| Hiro        | Raptors           | Champions Circuit    |     2 |    0 |    0 |      2 |    0 |    0 |    0 |    0 |    4 |
 | Lars.       | Orbital Machine   | Green Cup Classic 06 |     3 |    0 |    0 |      2 |    0 |    0 |    0 |    0 |    4 |
 | Olanrewaju  | Badger Claws      | Green Cup X          |    15 |    0 |    0 |      2 |    0 |    0 |    0 |    0 |    4 |
 | Clydon      | Zensun Vagabonds  | Green Cup IX         |     6 |    0 |    3 |      2 |    0 |    0 |    0 |    0 |    7 |
@@ -68,4 +76,8 @@ SELECT pl.name,  pl.f_tname,  tours.name, mt.round, md.td,  md.cp,  md.intcpt,  
 | Jothi       | Orbital Machine   | Green Cup IX         |    14 |    1 |    0 |      2 |    0 |    0 |    0 |    1 |   12 |
 | Erich       | Gargantuan Brutes | Green Cup Classic 06 |     7 |    1 |    1 |      2 |    0 |    0 |    0 |    0 |    8 |
 
-[[yusra]][[Mia]][[lars]][[Erich]][[Jothi]]
+[[yusra]] [[Mia]] [[lars]] [[Erich]] [[Jothi]]
+
+```
+SELECT pl.name,  pl.f_tname,  tours.name, mt.round, md.td,  md.cp,  md.intcpt,  md.bh,  md.si,  md.ki,  md.mvp,  (md.td * 3) + md.cp + (md.intcpt * 2) + (md.bh * 2) + (md.si * 2) + (md.ki * 2) + (md.mvp * 5) AS SPP  FROM match_data AS md  JOIN players AS pl ON md.f_player_id = pl.player_id JOIN matches AS mt ON md.f_match_id = mt.match_id  JOIN tours ON tours.tour_id = mt.f_tour_id WHERE md.f_did = 1 ORDER BY md.intcpt DESC limit 10;
+```

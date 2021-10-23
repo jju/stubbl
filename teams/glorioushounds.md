@@ -45,7 +45,7 @@ The Glorious Hounds use the High Extension playbook, a venerable adaptation of t
 ### Prizes
 
 * Green Cup IV - Runner-Up [[team2ndplace#gciv]]
-* Green Cup IX - Heaps Division [[teamdivision#gcix]]
+* Green Cup IX - Heaps Division Champions [[teamdivision#gcix]]
 * UBBL Challenge IV - UBBL Pennant [[team1stplace#uciv]]
 
 ### Seasons

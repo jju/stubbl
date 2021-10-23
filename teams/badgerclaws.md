@@ -45,8 +45,11 @@ The Badger Claws use the Scrying Avian playbook which emphasizes speed above all
 
 ### Prizes
 
-* Green Cup VIII - Classic Conference Champions [[team2ndplace]]
-* Green Cup IX - Tough Brake of Alsoran [[team3rdplace]]
+* Green Cup VIII - Pits Division Champions [[teamdivision#gcviii]]
+* Green Cup VIII - Classic Conference Champions [[team2ndplace#gcviii]] & [[teamconference#gcviii]]
+* Green Cup IX - Outlands Division Champions [[teamdivision#gcix]]
+* Green Cup IX - Tough Brake of Alsoran [[team3rdplace#gcix]]
+* Green Cup X - Outlands Division Champions [[teamdivision#gcx]]
 
 ### Seasons
 

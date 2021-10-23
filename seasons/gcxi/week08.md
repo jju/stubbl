@@ -1,6 +1,6 @@
 # week 08
 
-[Previously](week07)
+[Previously](seasons/gcxi/week07.md)
 [Concurrently](../ogiii/week03)
 
 #t2780

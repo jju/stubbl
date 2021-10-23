@@ -323,6 +323,10 @@ SELECT pl.name AS Player, pl.f_tname AS Team, tours.name AS Season, count(md.f_m
 
 SELECT pl.name AS Player, pl.f_tname AS Team, tours.name AS Season, sum(md.td) AS TDs, sum(mx.rushing_distance_move) AS Rush, sum(md.cp) AS Cp,	sum(mx.pass_distance) AS PassDist, sum(mx.catches) AS Caught, sum(md.intcpt) AS Picks, sum(md.bh) + sum(md.si) + sum(md.ki) AS Cas, sum(mx.inflicted_blocks) AS Blocks, sum(mx.inflicted_sacks) AS Sacks, sum(md.mvp) AS MVPs, (sum(md.td) * 3) + sum(md.cp) + (sum(md.intcpt) * 2) + (sum(md.bh) * 2) + (sum(md.si) * 2) + (sum(md.ki) * 2) + (sum(md.mvp) * 5) AS SPP FROM match_data AS md JOIN match_data_es AS mx ON md.f_player_id = mx.f_pid AND md.f_match_id = mx.f_mid JOIN players AS pl ON md.f_player_id = pl.player_id AND md.f_team_id = pl.owned_by_team_id JOIN matches AS mt ON mt.match_id = md.f_match_id JOIN tours ON mt.f_tour_id = tours.tour_id WHERE tours.name = "Orange Goblet II" AND mt.round = 1 GROUP BY pl.name, pl.f_tname ORDER BY SPP DESC Limit 10;
 
+### match report USE THIS!
+
+SELECT pl.name AS Player, pl.f_tname AS Team, mx.catches + mx.pickups + md.intcpt + mx.handoff_catches AS Touches, md.td AS TDs, mx.rushing_distance_move AS Rush, md.cp AS Cp,	mx.pass_distance AS PassDist, mx.catches AS Caught, md.intcpt AS Picks, md.bh + md.si + md.ki AS Cas, mx.inflicted_blocks AS Blocks, mx.inflicted_sacks AS Sacks, md.mvp AS MVPs, mx.interceptions_thrown AS Intercepted, mx.sustained_sacks AS Sacked, mx.sustained_kos AS KOed, mx.sustained_bhs AS Hurt, mx.sustained_sis AS Injured, mx.sustained_kill AS Killed, (md.td * 3) + md.cp + (md.intcpt * 2) + (md.bh * 2) + (md.si * 2) + (md.ki * 2) + (md.mvp * 5) AS SPP FROM match_data AS md JOIN match_data_es AS mx ON md.f_player_id = mx.f_pid AND md.f_match_id = mx.f_mid JOIN players AS pl ON md.f_player_id = pl.player_id AND md.f_team_id = pl.owned_by_team_id JOIN matches AS mt ON mt.match_id = md.f_match_id JOIN tours ON mt.f_tour_id = tours.tour_id WHERE mt.match_id = "1477" ORDER BY pl.f_tname, pl.nr;
+
 ### export player stats by season
 
 #### all players in a season to csv
@@ -456,7 +460,7 @@ limit 10;
 
 ## Week by Week of a single player
 
-SELECT pl.name AS Player, pl.f_tname AS Team, mt.round, sum(md.td) AS TDs, sum(mx.rushing_distance_move) AS Rush, sum(md.cp) AS Cp, sum(mx.pass_distance) AS PassDist, sum(mx.catches) AS Caught, sum(md.intcpt) AS Intercepts, sum(md.bh) + sum(md.si) + sum(md.ki) AS Cas, sum(mx.inflicted_blocks) AS Blocks, sum(mx.inflicted_sacks) AS Sacks, sum(md.mvp) AS MVPs, (sum(md.td) * 3) + sum(md.cp) + (sum(md.intcpt) * 2) + (sum(md.bh) * 2) + (sum(md.si) * 2) + (sum(md.ki) * 2) + (sum(md.mvp) * 5) AS SPP FROM match_data AS md JOIN match_data_es AS mx ON md.f_player_id = mx.f_pid AND md.f_match_id = mx.f_mid JOIN players AS pl ON md.f_player_id = pl.player_id AND md.f_team_id = pl.owned_by_team_id JOIN matches AS mt ON mt.match_id = md.f_match_id WHERE md.f_tour_id = 3 AND pl.name = 'Yakup.' GROUP BY pl.name, pl.f_tname, mt.round ORDER BY mt.round ASC;
+SELECT pl.name AS Player, pl.f_tname AS Team, mt.round, sum(md.td) AS TDs, sum(mx.rushing_distance_move) AS Rush, sum(md.cp) AS Cp, sum(mx.pass_distance) AS PassDist, sum(mx.catches) AS Caught, sum(md.intcpt) AS Intercepts, sum(md.bh) + sum(md.si) + sum(md.ki) AS Cas, sum(mx.inflicted_blocks) AS Blocks, sum(mx.inflicted_sacks) AS Sacks, sum(md.mvp) AS MVPs, (sum(md.td) * 3) + sum(md.cp) + (sum(md.intcpt) * 2) + (sum(md.bh) * 2) + (sum(md.si) * 2) + (sum(md.ki) * 2) + (sum(md.mvp) * 5) AS SPP FROM match_data AS md JOIN match_data_es AS mx ON md.f_player_id = mx.f_pid AND md.f_match_id = mx.f_mid JOIN players AS pl ON md.f_player_id = pl.player_id AND md.f_team_id = pl.owned_by_team_id JOIN matches AS mt ON mt.match_id = md.f_match_id WHERE md.f_tour_id = 3 AND pl.name = 'NAME' GROUP BY pl.name, pl.f_tname, mt.round ORDER BY mt.round ASC;
 
 ## Week by Week by team in a tournament
 
@@ -1036,8 +1040,12 @@ winner
 
 ## game_data_skills AS sklnam
 
+### list of players with a skill
+
+SELECT pl.name AS Player, pl.f_tname AS Team, sklnam.name AS Skill FROM players AS pl JOIN players_skills AS pskl ON pl.player_id = pskl.f_pid JOIN game_data_skills AS sklnam ON sklnam.skill_id = pskl.f_skill_id WHERE sklnam.name = "Frenzy" ORDER BY pl.value DESC LIMIT 10;
+
 | skill_id | name                | cat  |
-+----------+---------------------+------+
+|----------|---------------------|------|
 |        1 | Block               | G    |
 |        2 | Dauntless           | G    |
 |        3 | Dirty Player        | G    |
@@ -1115,7 +1123,7 @@ winner
 |      113 | Animosity           | E    |
 
 
-## player_skills AS pskl
+## players_skills AS pskl
 
 id
 f_pid

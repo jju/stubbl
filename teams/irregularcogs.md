@@ -44,8 +44,9 @@ The Irregular Cogs use the Drop Eagle playbook. It's an adaptation of the Herman
 
 ### Prizes
 
-* Green Cup I - Green Cup Champions [[team1stplace]]
-* Green Cup VII - Tough Brake of Alsoran [[team3rdplace]]
+* Green Cup I - Green Cup Champions [[team1stplace#gci]]
+* Green Cup VII - Tough Brake of Alsoran [[team3rdplace#gcvii]]
+* Green Cup VII - Stacks Division Champions [[teamdivision#gcvii]]
 * Green Cup V Memorial - Old-Era Champs [[team2ndplace]]
 
 ### Seasons

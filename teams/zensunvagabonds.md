@@ -47,8 +47,9 @@ The Vagabonds use the Hermann playbook, the original plan for playing BludBol, a
 
 ### Prizes
 
-* Green Cup II - Runner-Up [[team2ndplace]]
-* Green Cup X - Tough Brake of Alsoran [[team3rdplace]] & Heaps Division Champions
+* Green Cup II - Runner-Up [[team2ndplace#gcii]]
+* Green Cup X - Tough Brake of Alsoran [[team3rdplace#gcx]] 
+* Green Cup X - Heaps Division Champions [[teamdivision#gcx]]
 
 ### Seasons
 

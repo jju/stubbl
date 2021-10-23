@@ -4,29 +4,39 @@
 
 ## matchups
 
- 
+ The Raptors got their 11th straight win in their OGII rematch against the Mules. They get a rest in Week 7 but even so their position atop the standings is safe.
 
 ## standings
 
 | Team | W-D-L |
 |-------|-----|
-| Raptors | 5-0-0 |
-| Mules | 4-1-0 |
-| Magpies | 3-1-0 |
-| Gladiolas | 2-1-1 |
-| Deep Dreamers | 2-1-2 |
+| Raptors | 6-0-0 |
+| Magpies | 4-1-0 |
+| Mules | 4-1-1 |
+| Gladiolas | 3-1-1 |
+| Deep Dreamers | 3-1-2 |
+| Hoods | 2-0-3 |
 | Geometers | 1-2-2 |
-| Thrillers | 1-1-3 |
-| Vanadium Hunters | 1-1-2 |
-| Hoods | 1-0-3 |
-| Warthogs | 0-1-3 |
-| Umber Hulks | 0-1-4 |
+| Thrillers | 1-1-4 |
+| Vanadium Hunters | 1-1-3 |
+| Warthogs | 0-1-4 |
+| Umber Hulks | 0-1-5 |
 
 
 ## player of the week standings
 
 | Player            | Team             | TDs  | Rush | Cp   | CpDist | Ctch | Int | Cas  | Blck | Sck | MVP | SPP  |
 |-------------------|------------------|------|------|------|----------|---------|---|---|--------|-------|------|------|
+| Marita     | Deep Dreamers    |    2 |   27 |    0 |      0 |    2 |    0 |    0 |    1 |    0 |    1 |   11 |
+| Borgisl    | Gladiolas        |    2 |   21 |    0 |      0 |    2 |    0 |    0 |    2 |    0 |    1 |   11 |
+| Umut       | Mules            |    1 |   18 |    1 |      4 |    1 |    0 |    0 |    2 |    0 |    1 |    9 |
+| Kassandros | Magpies          |    1 |   14 |    0 |      0 |    2 |    0 |    0 |    2 |    0 |    1 |    8 |
+| Sadhbh     | Hoods            |    0 |    7 |    2 |     21 |    0 |    0 |    0 |    0 |    0 |    1 |    7 |
+| Heinrich   | Warthogs         |    0 |    0 |    0 |      0 |    0 |    0 |    0 |    7 |    0 |    1 |    5 |
+| Zhen       | Vanadium Hunters |    0 |    0 |    0 |      0 |    0 |    0 |    0 |    6 |    0 |    1 |    5 |
+| Brittany   | Thrillers        |    0 |    0 |    0 |      0 |    0 |    0 |    0 |    5 |    0 |    1 |    5 |
+| Ampner     | Umber Hulks      |    0 |    0 |    0 |      0 |    0 |    0 |    0 |    2 |    0 |    1 |    5 |
+| Sampo      | Raptors          |    0 |    0 |    0 |      0 |    0 |    0 |    0 |    7 |    0 |    1 |    5 |
 
 
 ```

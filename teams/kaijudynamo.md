@@ -57,6 +57,7 @@ The Dynamo use the Elizabeth Aardman playbook, with a front line of strong block
 * Green Cup I - Tough Brake of Alsoran [[team3rdplace#gci]]
 * UBBL Challenge - Runner-Up [[team2ndplace#ubbl challenge]]
 * Green Cup VIII - Tough Brake of Alsoran [[team3rdplace#gcviii]]
+* Green Cup VIII - Heaps Division Champions [[teamdivision#gcviii]]
 
 
 ### Seasons

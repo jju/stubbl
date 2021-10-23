@@ -45,6 +45,7 @@ The Orbital Machine uses the Chariot playbook. This involves four massive player
 
 * Green Cup Classic 06 - Iron Fist [[teamcasualties#gcc06]]
 * Green Cup Classic 06 - Green Cup Champions [[team1stplace#gcc06]]
+* Green Cup Classic 06 - Pits Champions [[teamdivision#gcc06]]
 * Green Cup VII - Iron Fist [[teamcasualties#gcvii]]
 * Green Cup VIII - Iron Fist  [[teamcasualties#gcviii]]
 
