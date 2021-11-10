@@ -110,7 +110,7 @@ There's no obvious reason the Cogs can't win the Green Cup this season. They hav
 | **Merlyn**     | Irregular Cogs | Runner    |   10 |    2 |    5 |   17 |    9 |   24 |    1 |    0 |    0 |    0 |    3 |   68 |
 
 
-[[besz]] played in the old-era. No one has any proof she didn't play in all the matches she says she did (as an underused backup to Halfleg), but no one quite believes her either. (Updated: Besz played 4 games in the old era. Her stats above now reflect this.) She was good for a long time, and the heart of the Cogs, though [[Alexandros]] has now taken over the position.
+[[besz]] played in the old-era. No one has any proof she didn't play in all the matches she says she did (as an underused backup to Halfleg), but no one quite believes her either. (Updated: Besz played 4 games in the old era. Her stats above now reflect this.) She was good for a long time, and the heart of the Cogs, though [[alexandros]] has now taken over the position.
 
 The biggest problem with the Cogs' lineup is the value they have to give up to their opponents. Some say the team would be better if they kept a minimum of overpaid stars and went with a youth-focused approach. That's what worked in the GCV.
 

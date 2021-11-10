@@ -1129,3 +1129,59 @@ id
 f_pid
 f_skill_id
 type
+
+## game_data_players AS ppos
+
+pos_id
+f_race_id
+pos
+skills
+
+SELECT pl.name AS Player, pl.f_tname AS Team, ppos.pos AS Position, pl.value FROM players AS pl JOIN game_data_players AS ppos ON pl.f_pos_id = ppos.pos_id WHERE ppos.qty = 16 ORDER BY pl.value DESC LIMIT 50;
+
+
+
+### pos_id
+
+### Best Line 
+ppos.pos_id = 1 OR ppos.pos_id = 10 OR ppos.pos_id = 20 OR ppos.pos_id = 30 OR ppos.pos_id = 40 OR ppos.pos_id = 50 OR ppos.pos_id = 60 OR ppos.pos_id = 70 OR ppos.pos_id = 80 OR ppos.pos_id = 90 OR ppos.pos_id = 100 OR ppos.pos_id = 110 OR ppos.pos_id = 120 OR ppos.pos_id = 150 OR ppos.pos_id = 160 OR ppos.pos_id = 170 OR ppos.pos_id = 171 OR ppos.pos_id = 180 OR ppos.pos_id = 190 OR ppos.pos_id = 200 OR ppos.pos_id = 210 OR ppos.pos_id = 220 OR ppos.pos_id = 230 
+
+```
+SELECT pl.name AS Player, pl.f_tname AS Team, sum(md.td) AS TDs, sum(mx.rushing_distance_move) AS Rush, sum(md.cp) AS Cp,	sum(mx.pass_distance) AS CpDist, sum(mx.catches) AS Ctch, sum(md.intcpt) AS "Int", sum(md.bh) + sum(md.si) + sum(md.ki) AS Cas, sum(mx.inflicted_blocks) AS Blck, sum(mx.inflicted_sacks) AS Sck, sum(md.mvp) AS MVPs, (sum(md.td) * 3) + sum(md.cp) + (sum(md.intcpt) * 2) + (sum(md.bh) * 2) + (sum(md.si) * 2) + (sum(md.ki) * 2) + (sum(md.mvp) * 5) AS SPP FROM match_data AS md JOIN match_data_es AS mx ON md.f_player_id = mx.f_pid AND md.f_match_id = mx.f_mid JOIN players AS pl ON md.f_player_id = pl.player_id AND md.f_team_id = pl.owned_by_team_id JOIN matches AS mt ON mt.match_id = md.f_match_id JOIN tours ON mt.f_tour_id = tours.tour_id JOIN game_data_players AS ppos ON pl.f_pos_id = ppos.pos_id WHERE tours.name = "Green Cup XI" AND ppos.qty = 16 GROUP BY pl.name, pl.f_tname ORDER BY SPP DESC LIMIT 10;
+```
+
+ppos.qty = 16
+
+### Blitzer
+
+includes attackers beastmen
+
+ppos.pos_id = 4 OR ppos.pos_id = 10 OR ppos.pos_id = 22 OR ppos.pos_id = 33 OR ppos.pos_id = 34 OR ppos.pos_id = 42 OR ppos.pos_id = 43 OR ppos.pos_id = 53 OR ppos.pos_id = 63 OR ppos.pos_id = 83 OR ppos.pos_id = 93 OR ppos.pos_id = 102 OR ppos.pos_id = 124 OR ppos.pos_id = OR ppos.pos_id = 132 OR ppos.pos_id = 134 OR ppos.pos_id = 143 OR ppos.pos_id = 144 OR ppos.pos_id = 151 OR ppos.pos_id = 173 OR ppos.pos_id = 181 OR ppos.pos_id = 193 OR ppos.pos_id = 203 OR ppos.pos_id = 222 OR ppos.pos_id = 233
+
+### Thrower
+
+ppos.pos_id = 2 OR ppos.pos_id = 20 OR ppos.pos_id = 31 OR ppos.pos_id = 41 OR ppos.pos_id = 51 OR ppos.pos_id = 61 OR ppos.pos_id = 70 OR ppos.pos_id = 81 OR ppos.pos_id = 92 OR ppos.pos_id = 101 OR ppos.pos_id = 110 OR ppos.pos_id = 122 OR ppos.pos_id = 131 OR ppos.pos_id = 141 OR ppos.pos_id = 172 OR ppos.pos_id = 181 OR ppos.pos_id = 191 OR ppos.pos_id = 202 OR ppos.pos_id = 213 OR ppos.pos_id = 220 OR ppos.pos_id = 232
+
+### Catcher
+
+ppos.pos_id = 3 OR ppos.pos_id = 20 OR ppos.pos_id = 31 OR ppos.pos_id = 41 OR ppos.pos_id = 52 OR ppos.pos_id = 62 OR ppos.pos_id = 70 OR ppos.pos_id = 82 OR ppos.pos_id = 91 OR ppos.pos_id = 101 OR ppos.pos_id = 110 OR ppos.pos_id = 121 OR ppos.pos_id = 131 OR ppos.pos_id = 142 OR ppos.pos_id = 160 OR ppos.pos_id = 172 OR ppos.pos_id = 181 OR ppos.pos_id = 192 OR ppos.pos_id = 201 OR ppos.pos_id = 211 OR ppos.pos_id = 221 OR ppos.pos_id = 230
+
+### Big Guy
+
+ppos.pos_id = 12 OR ppos.pos_id = 23 OR ppos.pos_id = 44 OR ppos.pos_id = 65 OR ppos.pos_id = 71 OR ppos.pos_id = 94 OR ppos.pos_id = 112 OR ppos.pos_id = 125 OR ppos.pos_id = 145 OR ppos.pos_id = 153 OR ppos.pos_id = 161 OR ppos.pos_id = 194 OR ppos.pos_id = 204 OR ppos.pos_id = 214 OR ppos.pos_id = 215 OR ppos.pos_id = 216 OR ppos.pos_id = 223 OR ppos.pos_id = 234
+
+### Blocker
+```
+SELECT pl.name AS Player, pl.f_tname AS Team, tours.name AS Season, count(md.f_match_id) AS GP, sum(md.td) AS TD, sum(mx.rushing_distance_move) AS Rsh, sum(md.cp) AS Cp, sum(mx.pass_distance) AS CpDst, sum(mx.catches) AS Ctch, sum(md.intcpt) AS "Int", sum(md.bh) + sum(md.si) + sum(md.ki) AS Cas, sum(mx.inflicted_blocks) AS Blk, sum(mx.inflicted_sacks) AS Sck, sum(md.mvp) AS MVP, (sum(md.td) * 3) + sum(md.cp) + (sum(md.intcpt) * 2) + (sum(md.bh) * 2) + (sum(md.si) * 2) + (sum(md.ki) * 2) + (sum(md.mvp) * 5) AS SPP FROM match_data AS md JOIN match_data_es AS mx ON md.f_player_id = mx.f_pid AND md.f_match_id = mx.f_mid JOIN players AS pl ON md.f_player_id = pl.player_id AND md.f_team_id = pl.owned_by_team_id JOIN matches AS mt ON mt.match_id = md.f_match_id JOIN tours ON md.f_tour_id = tours.tour_id AND md.f_did = tours.f_did JOIN game_data_players AS ppos ON pl.f_pos_id = ppos.pos_id WHERE ppos.pos_id = 21 OR ppos.pos_id = 40 OR ppos.pos_id = 103 OR ppos.pos_id = 111 OR ppos.pos_id = 123 OR ppos.pos_id = 133 OR ppos.pos_id = 152 OR ppos.pos_id = 174 GROUP BY pl.name, pl.f_tname, tours.name ORDER BY SPP DESC LIMIT 20;
+```
+ppos.pos_id = 21 OR ppos.pos_id = 40 OR ppos.pos_id = 103 OR ppos.pos_id = 111 OR ppos.pos_id = 123 OR ppos.pos_id = 133 OR ppos.pos_id = 152 OR ppos.pos_id = 174
+
+### Attacker
+
+ppos.pos_id = 22 OR ppos.pos_id = 34 OR ppos.pos_id = 43 OR ppos.pos_id = 64 OR ppos.pos_id = 134 OR ppos.pos_id = 144
+
+### Runner
+```
+SELECT pl.name AS Player, pl.f_tname AS Team, tours.name AS Season, count(md.f_match_id) AS GP, sum(md.td) AS TD, sum(mx.rushing_distance_move) AS Rsh, sum(md.cp) AS Cp, sum(mx.pass_distance) AS CpDst, sum(mx.catches) AS Ctch, sum(md.intcpt) AS "Int", sum(md.bh) + sum(md.si) + sum(md.ki) AS Cas, sum(mx.inflicted_blocks) AS Blk, sum(mx.inflicted_sacks) AS Sck, sum(md.mvp) AS MVP, (sum(md.td) * 3) + sum(md.cp) + (sum(md.intcpt) * 2) + (sum(md.bh) * 2) + (sum(md.si) * 2) + (sum(md.ki) * 2) + (sum(md.mvp) * 5) AS SPP FROM match_data AS md JOIN match_data_es AS mx ON md.f_player_id = mx.f_pid AND md.f_match_id = mx.f_mid JOIN players AS pl ON md.f_player_id = pl.player_id AND md.f_team_id = pl.owned_by_team_id JOIN matches AS mt ON mt.match_id = md.f_match_id JOIN tours ON md.f_tour_id = tours.tour_id AND md.f_did = tours.f_did JOIN game_data_players AS ppos ON pl.f_pos_id = ppos.pos_id WHERE ppos.pos_id = 31 OR ppos.pos_id = 41 OR ppos.pos_id = 110 OR ppos.pos_id = 131 OR ppos.pos_id = 172 OR ppos.pos_id = 192 OR ppos.pos_id = 212 GROUP BY pl.name, pl.f_tname, tours.name ORDER BY SPP DESC LIMIT 20;
+```
+ppos.pos_id = 31 OR ppos.pos_id = 41 OR ppos.pos_id = 110 OR ppos.pos_id = 131 OR ppos.pos_id = 172 OR ppos.pos_id = 192 OR ppos.pos_id = 212 

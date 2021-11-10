@@ -28,20 +28,40 @@ The Machine got a draw out of this match with a bunch of scrubs getting some exe
 
 [[Danr]] had a career game as the rest of the furies fell before the bashy might of the Farmers. Losing [[sophronia]] will be the hardest part going forward as they don't have a backup waiting in the wings. GF 1 - CF 2 [[gcxi-12-gfcf]]
 
+A surprisingly decisive victory for the Spectres against a team trying to win a division. That they stole [[alexandros]]' contract in the middle of it all adds insult to injury. IC 0 - DS 3 [[gcxi-12-icds]]
+
+The Tide held on through Aleksy's passing difficulties and clinched first in the Stacks and Venus retook the TD lead. FT 9 - BC 7 [[gcxi-12-ftbc]]
+
+The Tatters did a patented smother and control match and put a lot of pressure on the Badger Claws to right their ship if they want to give their speedstaers a taste of playoff action. OW 0 - CT 2 [[gcxi-12-owct]]
+
+The Fatality had a nice little romp and Percy got a couple more casualties under his belt in the hopes the Eagles will be playing in the post-season (which is now slightly in doubt). RE 0 - EF 3 [[gcxi-12-reef]]
+
+The Menace spread the ball around and absolutely dismantled the Dynamo without even getting their fastest offensive threat a TD. KD 0 - AM 6 [[gcxi-12-kdam]]
+
 ## standings
 
 | Stacks | W-D-L | Outlands | W-D-L | Heaps | W-D-L | Pits | W-D-L |
 |-------|-----|--|--|------|------|--|--|
-| Filthy Tide | 7-2-2 | Irregular Cogs | 6-2-3 | Kaiju Dynamo | 7-1-3 | Eldritch Fatality | 9-0-2 |
-| Gore Farmers | 4-2-6 | Arboreal Menace | 6-2-3 | Glorious Hounds | 7-3-2 | Ravenous Eagles | 4-3-4 |
-| Old Wyrms | 3-3-5 | Carcosan Tatters | 4-2-5 | Zensun Vagabonds | 3-2-7 | Darkling Spectres | 4-0-7 |
-| TC Sump Runners | 1-4-7 | Badger Claws | 3-3-5 | Orbital Machine | 1-5-6 | Cackling Furies | 4-2-6 |
+| Filthy Tide | 8-2-2 | Arboreal Menace | 7-2-3 | Glorious Hounds | 7-3-2 | Eldritch Fatality | 10-0-2 |
+| Gore Farmers | 4-2-6 | Irregular Cogs | 6-2-4 | Kaiju Dynamo | 7-1-4 | Ravenous Eagles | 4-3-5 |
+| Old Wyrms | 3-3-6 | Carcosan Tatters | 5-2-5 | Zensun Vagabonds | 3-2-7 | Darkling Spectres | 5-0-7 |
+| TC Sump Runners | 1-4-7 | Badger Claws | 3-3-6 | Orbital Machine | 1-5-6 | Cackling Furies | 4-2-6 |
 
 
 ## player of the week standings
 
 | Player    | Team              | TDs  | Rush | Cp   | CpDist | Ctch | Int  | Cas  | Blck | Sck  | MVP  | SPP  |
 |-----------|-------------------|------|------|------|--------|------|------|------|------|------|------|------|
+| Venus      | Filthy Tide       |    9 |  114 |    0 |      0 |    5 |    0 |    0 |    0 |    0 |    0 |   27 |
+| Klim       | Badger Claws      |    6 |  107 |    0 |      0 |    4 |    0 |    0 |    0 |    0 |    0 |   18 |
+| Danr       | Cackling Furies   |    3 |   14 |    0 |      0 |    1 |    1 |    0 |    4 |    0 |    1 |   16 |
+| Ziba       | Glorious Hounds   |    5 |   63 |    0 |      0 |    5 |    0 |    0 |    1 |    0 |    0 |   15 |
+| Sanja      | Arboreal Menace   |    1 |    8 |    0 |      0 |    0 |    1 |    1 |    9 |    0 |    1 |   12 |
+| Ilanit     | Eldritch Fatality |    3 |   15 |    0 |      0 |    2 |    0 |    0 |    0 |    0 |    0 |    9 |
+| Nedyalko   | Ravenous Eagles   |    0 |    2 |    0 |      0 |    0 |    1 |    1 |    3 |    0 |    1 |    9 |
+| Consolo    | Badger Claws      |    0 |   27 |    4 |      9 |    0 |    0 |    0 |    1 |    0 |    1 |    9 |
+| Aethelraed | Gore Farmers      |    0 |    0 |    0 |      0 |    0 |    0 |    2 |    7 |    3 |    1 |    9 |
+| Ragnar     | Darkling Spectres |    1 |   14 |    0 |      0 |    2 |    0 |    0 |    1 |    0 |    1 |    8 |
 
 
 ```

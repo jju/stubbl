@@ -2,7 +2,7 @@
 
 The eleventh Green Cup season.
 
-Playoff roster construction is facing some new rules. Not only do the 16 players selected for the playoffs not get any subs past that, but everyone on the playoff roster must have played in at least 5 matches for their team in the season.
+Playoff roster construction is facing some new rules. Not only do the 16 players selected for the playoffs not get any subs past that, but everyone on the playoff roster must have played in at least 5 matches for their team in the season. 
 
 * [[seasons/gcxi/preseason]]
 * [[seasons/gcxi/week01]]
@@ -25,3 +25,5 @@ Playoff roster construction is facing some new rules. Not only do the 16 players
 * [[seasons/gcxi/week18-conffinals]]
 * [[seasons/gcxi/week19-greencup]]
 * [[seasons/gcxi/prizes]]
+
+The [[orbitalmachine]] fell afoul of the playoff roster rules when they hadn't prepared any real depth for when their lineup ran into trouble after week 11.

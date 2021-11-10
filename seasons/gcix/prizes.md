@@ -9,4 +9,4 @@
 * [[hunteraward]] - [[dunstan]]
 * [[dervishaward]] - [[marley]]
 * [[fanfavourite]] - [[euryalus]]
-* [[rookieofyear]] - [[Alexandros]]
+* [[rookieofyear]] - [[alexandros]]

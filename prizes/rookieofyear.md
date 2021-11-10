@@ -26,7 +26,7 @@ For most SPP in a season by a player starting the season with 0 SPP.
 
 ## gcix
 
-* [[Alexandros]] - 74
+* [[alexandros]] - 74
 
 ## gcx
 
