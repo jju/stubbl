@@ -44,8 +44,8 @@ The Dynamo managed the match well, especially in the second half after whittling
 
 | Stacks | W-D-L | Outlands | W-D-L | Heaps | W-D-L | Pits | W-D-L |
 |-------|-----|--|--|------|------|--|--|
-| Filthy Tide | 9-2-3 | Arboreal Menace | 8-2-4 | Kaiju Dynamo | 9-1-4 | Eldritch Fatality | 11-0-3 |
-| Gore Farmers | 5-2-7 | Irregular Cogs | 7-2-5 | Glorious Hounds | 7-4-2 | Darkling Spectres | 6-1-7 |
+| **Filthy Tide** | 9-2-3 | Arboreal Menace | 8-2-4 | Kaiju Dynamo | 9-1-4 | **Eldritch Fatality** | 11-0-3 |
+| Gore Farmers | 5-2-7 | Irregular Cogs | 7-2-5 | Glorious Hounds | 8-4-2 | Darkling Spectres | 6-1-7 |
 | Old Wyrms | 4-3-7 | Carcosan Tatters | 6-2-6 | Zensun Vagabonds | 4-2-8 | Ravenous Eagles | 5-3-6 |
 | TC Sump Runners | 1-4-9 | Badger Claws | 3-4-6 | Orbital Machine | 1-6-7 | Cackling Furies | 5-2-7 |
 

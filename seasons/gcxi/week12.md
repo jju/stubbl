@@ -42,7 +42,7 @@ The Menace spread the ball around and absolutely dismantled the Dynamo without e
 
 | Stacks | W-D-L | Outlands | W-D-L | Heaps | W-D-L | Pits | W-D-L |
 |-------|-----|--|--|------|------|--|--|
-| Filthy Tide | 8-2-2 | Arboreal Menace | 7-2-3 | Glorious Hounds | 7-3-2 | Eldritch Fatality | 10-0-2 |
+| **Filthy Tide** | 8-2-2 | Arboreal Menace | 7-2-3 | Glorious Hounds | 7-3-2 | **Eldritch Fatality** | 10-0-2 |
 | Gore Farmers | 4-2-6 | Irregular Cogs | 6-2-4 | Kaiju Dynamo | 7-1-4 | Ravenous Eagles | 4-3-5 |
 | Old Wyrms | 3-3-6 | Carcosan Tatters | 5-2-5 | Zensun Vagabonds | 3-2-7 | Darkling Spectres | 5-0-7 |
 | TC Sump Runners | 1-4-7 | Badger Claws | 3-3-6 | Orbital Machine | 1-5-6 | Cackling Furies | 4-2-6 |

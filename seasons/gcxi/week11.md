@@ -1,6 +1,6 @@
 # week 11
 
-[Previously](week10)
+[Previously](seasons/gcxi/week10.md)
 [Concurrently](../ogiii/week06)
 
 #t2783

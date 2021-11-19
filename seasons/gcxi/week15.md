@@ -5,49 +5,59 @@
 
 #t2787
 
-With two weeks left there are important races going in three divisions.
+We enter the final week with all the storylines wrapped up but a bunch of different playoff scenarios to deal with:
 
-* business storyline: [[warreporter]], *CT-DS* [[aficionado]] both embracing the just enough approach, *GF-SR* [[writer]] it doesn't matter at all so SHucker gave Green Cup playing time to a bunch of rookies.
-* player storyline  *GH-OM* [[warreporter]] with Venus on an off-week Ziba could gain some Sardines ground here, *IC-GF* [[writer]] who are the stars and who's been getting these teams through?, *RE-FT* [[aficionado]] Venus has her big lead in the Sardines race and the team has clinched but she's insisting on taking the field against a dangerous team
-* team storyline *SR-KD* [[writer]] two almost lost causes one with more hope than the other, *AM-OW* [[aficionado]] Wyrms can't catch a bye but a loss leaves things more up in the air than they want, *EF-OM* [[warreporter]] Fatality have to bounce back and figure out a way without muscle while the Machine solely has muscle
-* Playoffs: Intradivisional: *GF-SR* but it doesn't matter at all, *GH-OM* could get the Machine out of the basement if the Vagabonds lose earlier, *IC-CT* Tatters win could put them in play for the division title.
+The first two matches will have no impact on the postseason. The Claws have been eliminated and the Wyrms cannot catch the division title. This is likely to be [[Aeson]]'s final match so it has that going for it. The Machine and Tide are a battle of eliminated vs clinched division title, but there is the intrigue of the Casualty and TD title leaders going head to head. If the Tide suffer casualties that could be a real blow.
+
+The Sump Runners have been eliminated but a win for the Spectres clinches a playoff spot. They don't *need* the win if either of the Eagles or Furies lose, but a win makes what anyone else does moot.
+
+The Dynamo need a win or draw to put pressure on the Hounds to match them or surrender the Division title. If they lose they'll be having a rematch against the Vagabonds next week so it's hard to say what kind of look the Vagabonds want to be giving them. at their tricks.
+
+The Farmers are running out a lineup of rookies against a Menace team that clinches the division with a win. That would take some of the air out of the Cogs' match later in the week.
+
+The Tatters don't really care about the win but a Furies' win makes the Pits more volatile again, putting pressure on the Eagles to win or else.
+
+The Fatality vs Hounds is a possible Conference Final preview (didn't the Fatality just do one of these?) and the Hounds probably want the win more, but the Fatality haven't beaten the next-best teams much this season so there is a bit of pride on the line.
+
+The Eagles and Cogs could have their fates decided before playing, but if it's still up in the air this'll be a huge match.
+
+
+* business storyline: [[warreporter]] [[aficionado]] [[writer]]
+* player storyline: [[warreporter]] [[aficionado]] [[writer]]
+* team storyline:[[warreporter]] [[aficionado]] [[writer]]
+* Playoffs: see above
 
 
 ## matchups
 
-* [Gore Farmers](../../teams/gorefarmers) - [TC Sump Runners](../../teams/sumprunners) (SR) #t2786.1
-* [Old Wyrms](../../teams/oldwyrms) - [Zensun Vagabonds](../../teams/zensunvagabonds) (OW+) #t2786.2
-* [Ravenous Eagles](../../teams/ravenouseagles) - [Filthy Tide](../../teams/filthytide) (Even) #t2786.3
-* [Glorious Hounds](../../teams/glorioushounds) - [Orbital Machine](../../teams/orbitalmachine) (GH+) #t2786.4
-* [Darkling Spectres](../../teams/darklingspectres) - [Badger Claws](../../teams/badgerclaws) (BC) #t2786.5
-* [Irregular Cogs](../../teams/irregularcogs) - [Carcosan Tatters](../../teams/carcosantatters) (IC) #t2786.7
-* [Cackling Furies](../../teams/cacklingfuries) - [Arboreal Menace](../../teams/arborealmenace) (AM+) #t2786.8
-* [Kaiju Dynamo](../../teams/kaijudynamo) - [Eldritch Fatality](../../teams/eldritchfatality)(Even) #t2786.9
 
-The Runners might be able to play spoilers against the Spectres in Week 15 but this match's loss to the Farmers' nobodies was entirely meaningless. GF 2 - SR 1 [[gcxi-14-gfsr]]
+* [Orbital Machine](../../teams/orbitalmachine)  - [Filthy Tide](../../teams/filthytide) 
+* [Badger Claws](../../teams/badgerclaws) - [Old Wyrms](../../teams/oldwyrms)
+* [TC Sump Runners](../../teams/sumprunners) - [Darkling Spectres](../../teams/darklingspectres)
+* [Zensun Vagabonds](../../teams/zensunvagabonds) - [Kaiju Dynamo](../../teams/kaijudynamo)
+* [Arboreal Menace](../../teams/arborealmenace) - [Gore Farmers](../../teams/gorefarmers)
+* [Carcosan Tatters](../../teams/carcosantatters) - [Cackling Furies](../../teams/cacklingfuries)
+* [Eldritch Fatality](../../teams/eldritchfatality) - [Glorious Hounds](../../teams/glorioushounds)
+* [Ravenous Eagles](../../teams/ravenouseagles) - [Irregular Cogs](../../teams/irregularcogs)
 
-The Vagabonds' Zaira's botched handoff to Green stalled an amazing looking first half, but the Wyrms couldn't connect downfield and Betuel brought it back with Padma to take a 1-0 lead into halftime. They bashed their way through the Wyrms' line while regaining the lead and ended up clinching their playoff spot. OW 2 - ZV 3 [[gcxi-14-owzv]]
+The Tide defeated the Machine, as expected, but [[Venus]] was seriously injured and her effectiveness moving forward seems in doubt. OM 2 - FT 3 [[gcxi-15-omft]]
 
-The Eagles beat the Tide which they needed to have a chance at the playoffs, and the Tide kept the injuries manageable for their upcoming Week 15 with the recovery of the Bye week after that. RE 2 - FT 1 [[gcxi-14-reft]]
+Despite being eliminated the Badger Claws put on a great show for Aeson's final outing in the blue and green and the Wyrms' medical staff kept everyone ready for their playoff date with the Gore Farmers. BC 7 - OW 2 [[gcxi-15-bcow]]
 
-The Machine spent the first half falttening everyone on the field (and got a TD and the lead), winnowing the Hounds down to 6 for the second half. Unfortunately for them Ziba was one of the 6 and promptly scored off the kick to open the second. That proved enough to hang onto the draw and eliminate the Machine from the GCXI playoffs. GH 1 - OM 1 [[gcxi-14-ghom]]
+That the Sump Runners have never beaten the Spectres is a little interesting. This match showed the Spectres at their best with their mix of bash and dash that should do well in the playoffs, having now clinched the second seed in the Pits. SR 1 - DS 3 [[gcxi-15-srds]]
 
-The Badger Claws couldn't get it together to pull off a win and they have missed the playoffs for the first time since entering Green Cup level play. The Spectres have clinched nothing but do have the edge in Week 15.  DS 3 - BC 3 [[gcxi-14-dsbc]]
+These two teams have a long history with the Dynamo's sole loss being in the GCX Division Finals. The Vagabonds didn't really care about overturning that record this match as long as it holds they meet up in the GCXI playoffs. The lineups look to be quite different in a week or two. ZV 1 - KD 2 [[gcxi-15-zvkd]]
 
-The Tatters picked up the win that could put them in the mix for the Division title (with a few more losses by the Menace and Cogs) but the big news is how [[Merlyn]] died tripping over himself trying to stop the Tatters from taking a 2-0 lead into halftime. It didn't work and that puts the Cogs' postseason hopes to bed even if they get the Division title. IC 1 - CT 2 [[gcxi-14-icct]]
-
-The Menace handily picked apart the Furies and made it through uninjured for the final week of the season. Now the Furies need a win to avoid the relegation danger. CF 1 - AM 3 [[gcxi-14-cfam]]
-
-The Dynamo managed the match well, especially in the second half after whittling down the Fatality players. It was a bit of a boring one and hopefully if these teams do rematch in the Conference Finals we get more fireworks. KD 3 - EF 2 [[gcxi-14-kdef]]
+Going into halftime the Menace were only up 1-0, which wasn't at all what anyone expected. But both teams settled into their expected roles in the second half and balance was restored. AM 3 - GF 2 [[gcxi-15-amgf]]
 
 ## standings
 
 | Stacks | W-D-L | Outlands | W-D-L | Heaps | W-D-L | Pits | W-D-L |
 |-------|-----|--|--|------|------|--|--|
-| Filthy Tide | 9-2-3 | Arboreal Menace | 8-2-4 | Kaiju Dynamo | 9-1-4 | Eldritch Fatality | 11-0-3 |
-| Gore Farmers | 5-2-7 | Irregular Cogs | 7-2-5 | Glorious Hounds | 7-4-2 | Darkling Spectres | 6-1-7 |
-| Old Wyrms | 4-3-7 | Carcosan Tatters | 6-2-6 | Zensun Vagabonds | 4-2-8 | Ravenous Eagles | 5-3-6 |
-| TC Sump Runners | 1-4-9 | Badger Claws | 3-4-6 | Orbital Machine | 1-6-7 | Cackling Furies | 5-2-7 |
+| **Filthy Tide** | 10-2-3 | **Arboreal Menace** | 9-2-4 | Kaiju Dynamo | 10-1-4 | **Eldritch Fatality** | 11-0-3 |
+| Gore Farmers | 5-2-8 | Irregular Cogs | 7-2-5 | Glorious Hounds | 8-4-2 | Darkling Spectres | 7-1-7 |
+| Old Wyrms | 4-3-8 | Carcosan Tatters | 6-2-6 | Zensun Vagabonds | 4-2-8 | Ravenous Eagles | 5-3-6 |
+| TC Sump Runners | 1-4-10 | Badger Claws | 4-4-6 | Orbital Machine | 1-6-8 | Cackling Furies | 5-2-7 |
 
 
 ## player of the week standings

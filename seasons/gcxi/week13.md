@@ -40,7 +40,7 @@ Sparrow and Arya made a nice connection in the beginning of the second half (aft
 
 | Stacks | W-D-L | Outlands | W-D-L | Heaps | W-D-L | Pits | W-D-L |
 |-------|-----|--|--|------|------|--|--|
-| Filthy Tide | 9-2-2 | Arboreal Menace | 7-2-4 | Glorious Hounds | 7-3-2 | Eldritch Fatality | 11-0-2 |
+| **Filthy Tide** | 9-2-2 | Arboreal Menace | 7-2-4 | Glorious Hounds | 7-3-2 | **Eldritch Fatality** | 11-0-2 |
 | Gore Farmers | 4-2-7 | Irregular Cogs | 7-2-4 | Kaiju Dynamo | 8-1-4 | Darkling Spectres | 6-0-7 |
 | Old Wyrms | 4-3-6 | Carcosan Tatters | 5-2-6 | Zensun Vagabonds | 3-2-8 | Cackling Furies | 5-2-6 |
 | TC Sump Runners | 1-4-8 | Badger Claws | 3-3-6 | Orbital Machine | 1-5-7 | Ravenous Eagles | 4-3-6 |

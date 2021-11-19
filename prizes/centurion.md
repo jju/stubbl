@@ -1,10 +1,10 @@
 # green cup centurions
 
-A Green Cup Centurion is a player who is in the top 16 players ranked by Pro Division SPP (originally it was awarded when a player had achieved 100, but now they must pass someone into the top 16).
+A Green Cup Centurion is a player who is in the top 16 players ranked by Pro Division SPP (originally it was awarded when a player had achieved 100, but now they must pass someone into the top 16). Double and so forth are players who have passed the multiples of 100 SPP.
 
 ## current
 
-1. [[aeson]] #doublecenturion #triplecenturion #quadruplecenturion
+1. [[aeson]] #doublecenturion #triplecenturion #quadruplecenturion #quintuplecenturion 
 2. [[souta]] #doublecenturion
 3. [[costache]] #doublecenturion
 4. [[sabah]]
