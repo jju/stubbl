@@ -39,7 +39,7 @@
 
 # gcxi
 
-* Stacks - 
-* Outlands - 
+* Stacks - [[filthytide]]
+* Outlands - [[arborealmenace]]
 * Heaps -
-* Pits - 
+* Pits - [[eldritchfatality]]

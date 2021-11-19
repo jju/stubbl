@@ -65,4 +65,4 @@ In the individual player stat pages we keep the basic box scores under Basic Sta
 * [[Alizee]] [[zensunvagabonds]] -> [[carcosantatters]]
 * [[Mate]] [[orbitalmachine]] -> [[carcosantatters]]
 * [[alexandros]] [[irregularcogs]] -> [[darklingspectres]]
-* 
+* [[rickon]] [[cacklingfuries]] -> [[carcosantatters]]

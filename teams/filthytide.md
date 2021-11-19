@@ -54,10 +54,11 @@ The Filthy Tide uses the Scrying Avian playbook which emphasizes speed above all
 
 ### Prizes
 
-* Green Cup VI - Doom Fist [[teamcasualties]]
-* Green Cup VI - Tough Brake of Alsoran [[team3rdplace]]
-* UBBL Challenge - UBBL Pennant [[team1stplace]]
-* UBBL Challenge - Gorefield Honour [[teamcasualties]]
+* Green Cup VI - Doom Fist [[teamcasualties#gcvi]]
+* Green Cup VI - Tough Brake of Alsoran [[team3rdplace#gcvi]]
+* UBBL Challenge - UBBL Pennant [[team1stplace#ubbl challenge]]
+* UBBL Challenge - Gorefield Honour [[teamcasualties#ubbl challenge]]
+* Green Cup XI - Pits Division Champions [[teamdivision#gcxi]]
 
 ### Seasons
 

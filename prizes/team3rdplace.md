@@ -46,26 +46,29 @@
 
 # open division
 
-## ubbl challenge
+## uci
 
 [[badgerclaws]]
 
-## ubbl challenge ii
+## ucii
 
 [[sumprunners]]
 
-## ubbl challenge iii
+## uciii
 
 [[thorns]]
 
-## orange goblet
+## ogi
 
 [[gladiolas]]
 
-## ubbl challenge iv
+## uciv
 
 [[warthogs]]
 
-## orange goblet ii
+## ogii
 
 [[gladiolas]]
+
+## ogiii
+

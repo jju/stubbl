@@ -62,6 +62,7 @@ SELECT teams.name, sum(mr.won), sum(mr.draw), sum(mr.lost), sum(mr.played), avg(
 ### Prizes
 
 * UBBL Challenge III - UBBL Pennant [[team1stplace]]
+* Green Cup XI - Outlands Division Champions [[teamdivision#gcxi]]
 
 ### Seasons
 
