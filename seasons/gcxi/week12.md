@@ -1,9 +1,11 @@
 # week 12
 
-[Previously](week11)
+[Previously](seasons/gcxi/week11.md)
 [Concurrently](../ogiii/week07)
 
 #t2784
+
+[next week](week13)
 
 * business storyline: OW-CT [[warreporter]] two teams built on sharing the load and being profitable while doing it, KD-AM [[aficionado]] Menace need the win and the Dynamo are hanging onto their division lead, OM-ZV [[writer]] a Machine win puts them back in a tie for the playoff spot but injuries in Week 11 mean the playoff roster would be thin even if they make it - playing for a futile run
 * player storyline  GH-SR [[warreporter]] Ziba needs a big game since Venus will be going against a defense-free Claws squad, IC-DS [[writer]] who are the stars and who's been getting these teams through?, FT-BC [[aficionado]] offense offense offense do these games get a little unpredictable?

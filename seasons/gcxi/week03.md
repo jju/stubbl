@@ -2,6 +2,7 @@
 
 [Previously](seasons/gcxi/week02.md) 
 #t2774
+[next week](week04)
 
 * business storyline CF-BC [[warreporter]] bringing back Aeson for wins, DS-EF [[aficionado]] can the Fatality keep running on fumes?, RE-GH [[writer]] Hounds out of cash entirely while the Eagles are sitting on new player contracts they can't sign
 * player storyline CF-BC [[writer]] bringing back Aeson morale on Klim, KD-FT [[aficionado]] Venus doing her thing in better circumstances, RE-GH [[warreporter]] injuries from Jantine

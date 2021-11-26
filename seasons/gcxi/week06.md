@@ -3,6 +3,7 @@
 [Previously](seasons/gcxi/week05.md) (and the interlude of [another round in the Champions Circuit](week05cc))
 
 #t2778
+[next week](week07)
 
 * business storyline GH-DS [[writer]] playing for a tanking team vs a team really trying to win, ZV-CT [[aficionado]] playing more with less and how it doesn't work for the Tatters  
 * player storyline RE-SR [[warreporter]] counting stats and Ekua's GP record (parallel with longevity in gangsterism), BC-AM [[writer]] Aeson vs Laurel in a battle of finesse and scoring and beauty, FT-GF [[aficionado]] Venus needs a rebound match after being stifled in the CC against the Mules

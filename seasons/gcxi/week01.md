@@ -1,6 +1,7 @@
 # week 01
 
 [Previously in the preseason](preseason) #t2772
+[next week](week02)
 
 * business storyline DS-GF [[aficionado]]
 * player storyline FT-AR [[aficionado]] or RE-ZV [[aficionado]] or BC-EF (dud bc Aeson does sit it out) [[writer]] or OW-CF [[warreporter]]

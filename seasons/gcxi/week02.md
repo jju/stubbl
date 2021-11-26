@@ -2,6 +2,7 @@
 
 [Previously](seasons/gcxi/week01.md) 
 #t2773
+[next week](week03)
 
 * business storyline IC-GH [[warreporter]] learn history of GryjHun, RE-DS [[aficionado]] give the Spectres' weirdass lineup one more shot
 * player storyline CT-FT [[aficionado]] Venus doing her thing in adverse circumstances, BC-ZV [[writer]] Klim could be interesting, 

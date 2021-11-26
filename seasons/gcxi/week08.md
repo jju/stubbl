@@ -5,6 +5,8 @@
 
 #t2780
 
+[next week](week09)
+
 Crossing the midseason point and the Sump Runners no longer occupy the basement spot.
 
 * business storyline GF-CT [[aficionado]] the Tatters' traditional just do enough approach compared with the Farmers' boom and bust, 

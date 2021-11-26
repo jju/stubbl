@@ -5,6 +5,8 @@
 
 #t2786
 
+[next week](week15)
+
 With two weeks left there are important races going in three divisions.
 
 * business storyline: [[warreporter]], *CT-DS* [[aficionado]] both embracing the just enough approach, GF-SR [[writer]] it doesn't matter at all so SHucker gave Green Cup playing time to a bunch of rookies.

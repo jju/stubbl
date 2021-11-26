@@ -87,7 +87,7 @@ SELECT teams.name AS Team, tours.name AS Season, mr.won, mr.draw, mr.lost, 	mr.p
 
 ## History
 
-While the Claws have never not had a winning season, they've also never won a championship.
+Before GCXI the Claws had never not had a winning season, they've also never won a championship.
 
 ### Seasons
 
@@ -104,6 +104,19 @@ The projections for GCX had the Claws as 10-game winners and at least conference
 W-D-L 9-1-5
 
 There is no doubt that the Badger Claws can score. The question is if their defense can manage to hold off enough key plays to make them Green Cup Champions. Anything less is going to feel like a failure in [[Aeson]]'s probable final season.
+
+#### summary GCXI
+
+How to dissect the failure that was this season? The Badger Claws never climbed above 8th place in the overall standings despite an initial projection of an Outlands Division title. Even then there was still hope they could turn things around, but an ugly string of draws and losses weren't enough for what is usually described as the toughest most competitive GC division.
+
+[[aeson]] and [[klim]] weren't as seamless a pairing as management would have preferred and there wasn't much else going on for the team. Aeson did hang up his cleats as the all-time MVP after the final regular season match.
+
+| Team            | round | Touches | TDs  | Rush | Cp   | PassDist | Caught | Intercepts | Cas  | Blocks | Sacks | MVPs | SPP  | Location | WDL |
+|-----------------|-------|---------|------|------|------|----------|--------|------------|------|--------|-------|------|------|----------|-----|
+
+```
+SELECT pl.f_tname AS Team, mt.round, mx.catches + mx.pickups + md.intcpt + mx.handoff_catches AS Touches, sum(md.td) AS TDs, sum(mx.rushing_distance_move) AS Rush, sum(md.cp) AS Cp, sum(mx.pass_distance) AS PassDist, sum(mx.catches) AS Caught, sum(md.intcpt) AS Intercepts, sum(md.bh) + sum(md.si) + sum(md.ki) AS Cas, sum(mx.inflicted_blocks) AS Blocks, sum(mx.inflicted_sacks) AS Sacks, sum(md.mvp) AS MVPs, (sum(md.td) * 3) + sum(md.cp) + (sum(md.intcpt) * 2) + (sum(md.bh) * 2) + (sum(md.si) * 2) + (sum(md.ki) * 2) + (sum(md.mvp) * 5) AS SPP, mt.team1_score, mt.team2_score FROM match_data AS md JOIN match_data_es AS mx ON md.f_player_id = mx.f_pid AND md.f_match_id = mx.f_mid JOIN players AS pl ON md.f_player_id = pl.player_id AND md.f_team_id = pl.owned_by_team_id JOIN matches AS mt ON mt.match_id = md.f_match_id WHERE md.f_tour_id = 29 AND pl.f_tname = "Badger Claws" GROUP BY pl.f_tname, mt.round ORDER BY mt.round ASC;
+```
 
 #### roster GCXI
 

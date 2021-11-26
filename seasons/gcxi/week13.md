@@ -5,6 +5,8 @@
 
 #t2785
 
+[next week](week14)
+
 * business storyline: *OW-CT* [[warreporter]] two teams built on sharing the load and being profitable while doing it, CT-DS [[aficionado]] both embracing the just enough approach, CF-RE [[writer]] business of the intradivisional. both teams facing off again in a couple of weeks (hopefully)
 * player storyline  ZV-FT [[warreporter]] Venus has her big lead in the Sardines race and the team has clinched so not a lot to play for apart from keeping people healthy, IC-GF [[writer]] who are the stars and who's been getting these teams through?, BC-GH [[aficionado]] offense offense offense do these games get a little unpredictable?
 * team storyline SR-KD [[writer]] two almost lost causes one with more hope than the other, AM-OW [[aficionado]] Wyrms can't catch a bye but a loss leaves things more up in the air than they want, EF-OM [[warreporter]] Fatality have to bounce back and figure out a way without muscle while the Machine solely has muscle

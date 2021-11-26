@@ -5,6 +5,7 @@
 
 #t2781
 
+[next week](week10)
 
 
 * business storyline: IC-OM [[warreporter]] team owners hate each other competing industrial concerns labour vs management, DS-KD [[aficionado]] These teams have been doing well with scrappy players

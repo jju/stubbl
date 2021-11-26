@@ -5,6 +5,8 @@
 
 #t2779
 
+[next week](week08)
+
 After Week 6 the projections got all reshuffled. Apparently spreadZone has now decided the undefeated Fatality might not be a total fluke and could do well this season, and the Wyrms may have a harder row to hoe.
 
 * business storyline EF-GF [[warreporter]] how does an undefeated team keep sharp and keep the money flowing, SR-CT [[aficionado]] defense and the art of weathering the bad game, [[writer]] 

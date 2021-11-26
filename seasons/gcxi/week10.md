@@ -5,6 +5,8 @@
 
 #t2782
 
+[next week](week11)
+
 * business storyline: OM-CT [[warreporter]] Bruiser matchup that they both need for the long stretch, ZV-SR [[aficionado]]two last place teams just marking time in the season, KD-GF [[writer]] player development vs win now
 * player storyline  EF-AM [[warreporter]] should be a classic even though these teams have very little history, [[writer]], FT-IC [[aficionado]] an OG match that is too close to call  
 * team storyline RE-BC [[writer]] Another chance for the Claws to underperform, OW-DS [[aficionado]] If the DS win this puts the OW season in jeopardy, GH-CF [[warreporter]] The Furies are trying to play spoiler and basically just fuck up the Hounds.

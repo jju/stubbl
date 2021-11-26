@@ -5,6 +5,8 @@
 
 #t2783
 
+[next week](week12)
+
 * business storyline: SR-CF [[warreporter]] bottom dwellers battling it out again, ZV-DS [[aficionado]] Surprisingness of the Spectres resurgence, RE-CT [[writer]] slow teams with success how do they do it?
 * player storyline  OM-KD [[warreporter]] Uli leading the Carmine Fist, [[writer]], FT-GH [[aficionado]] battle of the best, can the Tide get back from the big defeat in Week 10
 * team storyline EF-OW [[writer]] desperation for the Wyrms, IC-AM [[aficionado]] AM just put down the league leading EF last week who also use a Drop Eagle, BC-GF [[warreporter]] the Claws are sucking and need to pick it up horse with broken leg.

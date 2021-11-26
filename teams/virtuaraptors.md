@@ -6,14 +6,50 @@
 
 The Raptors use the Elizabeth Aardman playbook, with strong linemen and a big guy anchoring the centre, while the ball handling runners are chosen for speed (rather than skill, strength or durability). The basic idea of the playbook is to cage the fragile runner to a place where they can bolt for the endzone.
 
+## Active Roster
+
+| # | Player    | Position  | SPP | Seasons | GP | Contracts | Value | Bonus |
+|---|-----------|-----------|-----|---------|----|-----------|-------|-------|
+
+### Depth (on payroll)
+
+| # | Player    | Position  | SPP | Seasons | GP | Contracts | Value | Bonus |
+|---|-----------|-----------|-----|---------|----|-----------|-------|-------|
+
+
+### Non Roster
+
+| # | Player    | Position  | SPP | Seasons | GP | Contracts | Value | Bonus |
+|---|-----------|-----------|-----|---------|----|-----------|-------|-------|
+
+```
+SELECT pl.nr AS "#", pl.name AS Player, pl.f_pos_name AS Position, sum(mp.spp) AS 'SPP', count(DISTINCT mp.f_trid) AS Seasons, sum(mp.played) AS "GP", ROUND(sum(mp.played)/15) AS Contracts, pl.value AS Value, pl.extra_val AS Bonus FROM mv_players as mp JOIN players as pl ON mp.f_pid = pl.player_id AND mp.f_tid = pl.owned_by_team_id WHERE pl.f_tname = "TEAM" GROUP BY pl.name HAVING pl.name NOT LIKE '%.' ORDER BY pl.nr ASC;
+```
+
+
+
 ## Records
 
-### Open Level Record (W-D-L)
+### Record by Division 
+
+| Team            | Division | W    | D    | L    | GP   | Win%   | GF   | GA   | Cas  | CasDiff | Fans |
+|-----------------|----------|------|------|------|------|--------|------|------|------|---------|------|
+
+```
+SELECT teams.name AS Team, divisions.name AS Division, sum(mr.won) AS W, sum(mr.draw) AS D, sum(mr.lost) AS L, sum(mr.played) AS GP, round(avg(mr.win_pct),3) AS "Win%", sum(mr.gf) AS GF, sum(mr.ga) AS GA, sum(mr.tcasf) AS Cas, sum(mr.tcdiff) AS CasDiff, sum(mr.ff) AS Fans FROM mv_teams AS mr JOIN divisions ON mr.f_did = divisions.did JOIN teams ON teams.team_id = mr.f_tid WHERE teams.name = "TEAM" GROUP BY teams.name, mr.f_did ORDER BY sum(mr.won) DESC limit 3;
+```
 
 10-2-6
 
 ### UBBL Record (W-D-L)
 
+| Team            | W    | D    | L    | GP   | Win%   | GF   | GA   | Cas  | CasDiff | Fans |
+|-----------------|-----:|-----:|-----:|-----:|-------:|-----:|-----:|-----:|--------:|-----:|
+
+
+```
+SELECT teams.name AS Team, sum(mr.won) AS W, sum(mr.draw) AS D, sum(mr.lost) AS L, sum(mr.played) AS GP, round(avg(mr.win_pct),3) AS "Win%", sum(mr.gf) AS GF, sum(mr.ga) AS GA, sum(mr.tcasf) AS Cas, sum(mr.tcdiff) AS CasDiff, sum(mr.ff) AS Fans FROM mv_teams AS mr JOIN teams ON teams.team_id = mr.f_tid WHERE teams.name = "TEAM" GROUP BY teams.name ORDER BY sum(mr.won) DESC limit 3;
+```
 13-3-7
 
 ### Prizes
@@ -28,9 +64,13 @@ The Raptors use the Elizabeth Aardman playbook, with strong linemen and a big gu
 | Raptors | **Orange Goblet II**  |    7 |    2 |    4 |     13 | 61.5385 |   26 |   25 |   21 |      1 |    4 |
 | Raptors | UBBL Challenge IV |    3 |    0 |    2 |      5 |      60 |    9 |   10 |    5 |     -1 |    1 |
 
+```
+SELECT teams.name AS Team, tours.name AS Season, mr.won, mr.draw, mr.lost, 	mr.played, mr.win_pct, mr.gf, mr.ga, mr.cas, mr.tcdiff,	mr.ff FROM mv_teams AS mr JOIN tours ON mr.f_trid = tours.tour_id and mr.f_did = tours.f_did JOIN teams ON teams.team_id = mr.f_tid WHERE teams.name = "TEAM" ORDER BY mr.win_pct DESC limit 16;
+```
 
 ## History
 
+The Raptors are relative upstarts in the UBBL
 
 ### Seasons
 
@@ -39,25 +79,47 @@ The Raptors use the Elizabeth Aardman playbook, with strong linemen and a big gu
 
 W-D-L ?
 
+#### summary last season
 
-### Stars & Scrubs
+| Team            | round | Touches | TDs  | Rush | Cp   | PassDist | Caught | Intercepts | Cas  | Blocks | Sacks | MVPs | SPP  |  Location | WDL |
+|-----------------|-------|---------|------|------|------|----------|--------|------------|------|--------|-------|------|------|-------------|-------------|
 
-| Player           | Team        | Position      | W | D | L | GP | TD | Cp | Int | BH | SI | Ki | MVP | SPP |
-|------------------|-------------|---------------|--:|--:|--:|---:|---:|---:|----:|---:|---:|---:|----:|----:|
-| **Ella**      | Raptors | Runner    |    8 |    1 |    5 |   14 |   12 |    3 |    0 |    0 |    0 |    0 |    2 |   49 |
-| Francine | Raptors | Runner    |    6 |    2 |    4 |   12 |    8 |    8 |    0 |    0 |    0 |    0 |    2 |   42 |
-| **Tatiana**   | Raptors | Heavy |    8 |    1 |    4 |   13 |    0 |    0 |    0 |    4 |    0 |    0 |    3 |   23 |
-| **Youko**     | Raptors | Blocker   |    8 |    2 |    4 |   14 |    0 |    0 |    0 |    3 |    1 |    1 |    2 |   20 |
-| **Hiro**      | Raptors | Runner    |    8 |    0 |    3 |   11 |    2 |   13 |    0 |    0 |    0 |    0 |    0 |   19 |
-| **Edme**      | Raptors | Runner    |    8 |    2 |    5 |   15 |    2 |    0 |    0 |    0 |    0 |    0 |    2 |   16 |
-| **Thanatos**  | Raptors | Runner    |    9 |    2 |    6 |   17 |    3 |    2 |    0 |    0 |    0 |    0 |    1 |   16 |
-| **Hercules**  | Raptors | Blocker   |   10 |    2 |    5 |   17 |    1 |    0 |    0 |    1 |    0 |    0 |    2 |   15 |
-| **Conor**     | Raptors | Blocker   |   10 |    1 |    6 |   17 |    0 |    0 |    0 |    2 |    1 |    1 |    1 |   13 |
-| **Greaves**   | Raptors | Runner    |    4 |    0 |    1 |    5 |    1 |    0 |    2 |    0 |    0 |    0 |    1 |   12 |
-| **Viyan**     | Raptors | Runner    |   10 |    2 |    6 |   18 |    2 |    0 |    2 |    0 |    0 |    0 |    0 |   10 |
+```
+SELECT pl.f_tname AS Team, mt.round, mx.catches + mx.pickups + md.intcpt + mx.handoff_catches AS Touches, sum(md.td) AS TDs, sum(mx.rushing_distance_move) AS Rush, sum(md.cp) AS Cp, sum(mx.pass_distance) AS PassDist, sum(mx.catches) AS Caught, sum(md.intcpt) AS Intercepts, sum(md.bh) + sum(md.si) + sum(md.ki) AS Cas, sum(mx.inflicted_blocks) AS Blocks, sum(mx.inflicted_sacks) AS Sacks, sum(md.mvp) AS MVPs, (sum(md.td) * 3) + sum(md.cp) + (sum(md.intcpt) * 2) + (sum(md.bh) * 2) + (sum(md.si) * 2) + (sum(md.ki) * 2) + (sum(md.mvp) * 5) AS SPP, mt.team1_score, mt.team2_score FROM match_data AS md JOIN match_data_es AS mx ON md.f_player_id = mx.f_pid AND md.f_match_id = mx.f_mid JOIN players AS pl ON md.f_player_id = pl.player_id AND md.f_team_id = pl.owned_by_team_id JOIN matches AS mt ON mt.match_id = md.f_match_id WHERE md.f_tour_id = 29 AND pl.f_tname = "TEAM" GROUP BY pl.f_tname, mt.round ORDER BY mt.round ASC;
+```
+
+#### roster by season
 
 
-#unfinished 
+| #    | Player     | GP | Touches | TD   | Rsh  | Cp   | CpDst | Ctch | Int  | Cas  | Blk  | Sck  | MVP  | Intercepted | Sacked | KOed | Hurt | Injured | Killed | SPP  |
+|------|------------|----|---------|------|------|------|-------|------|------|------|------|------|------|-------------|--------|------|------|---------|--------|------|
+
+```
+SELECT pl.nr AS "#", pl.name AS Player, count(md.f_match_id) AS GP, sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches) AS Touches, sum(md.td) AS TD, sum(mx.rushing_distance_move) AS Rsh, sum(md.cp) AS Cp, sum(mx.pass_distance) AS CpDst, sum(mx.catches) AS Ctch, sum(md.intcpt) AS "Int", sum(md.bh) + sum(md.si) + sum(md.ki) AS Cas, sum(mx.inflicted_blocks) AS Blk, sum(mx.inflicted_sacks) AS Sck, sum(md.mvp) AS MVP, sum(mx.interceptions_thrown) AS Intercepted, sum(mx.sustained_sacks) AS Sacked, sum(mx.sustained_kos) AS KOed, sum(mx.sustained_bhs) AS Hurt, sum(mx.sustained_sis) AS Injured, sum(mx.sustained_kill) AS Killed, (sum(md.td) * 3) + sum(md.cp) + (sum(md.intcpt) * 2) + (sum(md.bh) * 2) + (sum(md.si) * 2) + (sum(md.ki) * 2) + (sum(md.mvp) * 5) AS SPP FROM match_data AS md JOIN match_data_es AS mx ON md.f_player_id = mx.f_pid AND md.f_match_id = mx.f_mid JOIN players AS pl ON md.f_player_id = pl.player_id AND md.f_team_id = pl.owned_by_team_id JOIN matches AS mt ON mt.match_id = md.f_match_id JOIN tours ON md.f_tour_id = tours.tour_id AND md.f_did = tours.f_did WHERE tours.name = "Green Cup XI" AND pl.f_tname = "TEAM" GROUP BY pl.name, pl.nr ORDER BY pl.nr ASC;
+```
+
+
+### Stars
+
+> **Currently active players** are highlighted and modern-era players whose careers are over are not marked. *Old-era players* have incomplete statistics.
+
+| Player           | Position      | W | D | L | GP | TD | Cp | Int | BH | SI | Ki | MVP | SPP |
+|------------------|---------------|--:|--:|--:|---:|---:|---:|----:|---:|---:|---:|----:|----:|
+
+
+```
+SELECT pl.name AS Player, pl.f_pos_name AS Position, sum(mp.won) AS won, sum(mp.draw) AS draw, sum(mp.lost) AS lost, sum(mp.played) AS GP, sum(mp.td) AS TD, sum(mp.cp) AS Cp, sum(mp.intcpt) AS "Int",	sum(mp.bh) AS BH, sum(mp.si) AS SI,	sum(mp.ki) AS Ki, sum(mp.mvp) AS MVP, sum(mp.spp) AS SPP FROM mv_players AS mp JOIN players AS pl ON mp.f_pid = pl.player_id AND mp.f_tid = pl.owned_by_team_id JOIN tours ON mp.f_trid = tours.tour_id AND mp.f_did = tours.f_did WHERE pl.f_tname = "TEAM" GROUP BY pl.name, pl.f_tname, pl.f_pos_name ORDER BY SPP DESC limit 11;
+```
+
+#### Award Winners
+
+| #    | Player   | Position | Seasons | Prizes | Value  | Bonus |
+|------|----------|----------|---------|--------|--------|-------|
+
+```
+SELECT pl.nr AS "#", pl.name AS Player, pl.f_pos_name AS Position, count(DISTINCT mp.f_trid) AS Seasons, count(DISTINCT hof.hof_id) AS Prizes, pl.value AS Value, pl.extra_val AS Bonus FROM mv_players as mp JOIN players as pl ON mp.f_pid = pl.player_id AND mp.f_tid = pl.owned_by_team_id JOIN hof ON pl.player_id = hof.pid WHERE pl.f_tname = "TEAM" GROUP BY pl.name ORDER BY pl.nr ASC;
+```
+
 
 ### Management
 

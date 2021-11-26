@@ -10,20 +10,20 @@ The Furies use the Norton playbook, which is mostly a way to get less skilled pl
 
 | # | Player    | Position  | SPP | Seasons | GP | Contracts | Value | Bonus |
 |---|-----------|-----------|-----|---------|----|-----------|-------|-------|
-|    2 | Thiemo     | Lineman  |   36 |       5 |   19 |         1 | 140000 |     0 |
-|    3 | Aronne     | Catcher  |  147 |       6 |   52 |         3 | 260000 | 30000 |
-|    4 | Shashi     | Catcher  |  100 |       3 |   26 |         2 | 240000 | 20000 |
-|    6 | Faite      | Blitzer  |   20 |       2 |   15 |         1 | 140000 |     0 |
-|    7 | Aniketos   | Lineman  |    0 |       2 |    7 |         0 |  50000 |     0 |
-|    7 | Mahendra   | Lineman  |    2 |       2 |    9 |         1 | 180000 | 50000 |
-|    8 | Puneeta    | Lineman  |   25 |       4 |   26 |         2 |  90000 |     0 |
-|    9 | Aarthi     | Lineman  |    0 |       2 |    6 |         0 |  50000 |     0 |
-|   10 | Orazio     | Lineman  |   23 |       5 |   17 |         1 |  90000 |     0 |
-|   10 | Mumina     | Lineman  |    0 |       2 |    6 |         0 |  50000 |     0 |
-|   11 | Tofa       | Lineman  |    0 |       2 |    6 |         0 |  50000 |     0 |
-|   12 | Matleena   | Lineman  |    7 |       5 |   14 |         1 |  70000 |     0 |
-|   13 | Chizoba    | Lineman  |    7 |       3 |   15 |         1 |  70000 |     0 |
-|   15 | Svyatopolk | Yhetee   |   32 |       4 |   17 |         1 | 220000 |     0 |
+|    2 | Thiemo     | Line  | Emerging Star |       5 |   19 |         1 | 140000 |     0 |
+|    3 | Aronne     | Catcher  | Superstar |       6 |   52 |         3 | 260000 | 30000 |
+|    4 | Shashi     | Catcher  | Superstar |       3 |   26 |         2 | 240000 | 20000 |
+|    6 | Faite      | Blitzer  | Veteran |       2 |   15 |         1 | 140000 |     0 |
+|    7 | Aniketos   | Line  | Rookie |       2 |    7 |         0 |  50000 |     0 |
+|    7 | Mahendra   | Line  | Rookie |       2 |    9 |         1 | 180000 | 50000 |
+|    8 | Puneeta    | Line  | Veteran |       4 |   26 |         2 |  90000 |     0 |
+|    9 | Aarthi     | Line  | Rookie |       2 |    6 |         0 |  50000 |     0 |
+|   10 | Orazio     | Line  | Veteran |       5 |   17 |         1 |  90000 |     0 |
+|   10 | Mumina     | Line  | Rookie |       2 |    6 |         0 |  50000 |     0 |
+|   11 | Tofa       | Line  | Rookie |       2 |    6 |         0 |  50000 |     0 |
+|   12 | Matleena   | Line  | Experienced |       5 |   14 |         1 |  70000 |     0 |
+|   13 | Chizoba    | Line  | Experienced |       3 |   15 |         1 |  70000 |     0 |
+|   15 | Svyatopolk | Heavy   | Emerging Star |       4 |   17 |         1 | 220000 |     0 |
 
 ### Depth (on payroll)
 
@@ -35,26 +35,24 @@ The Furies use the Norton playbook, which is mostly a way to get less skilled pl
 
 | # | Player    | Position  | SPP | Seasons | GP | Contracts | Value | Bonus |
 |---|-----------|-----------|-----|---------|----|-----------|-------|-------|
-|    1 | Luanna.    | Thrower        |  186 |       6 |   56 |         4 | 270000 | 50000 |
-|    5 | Danr.      | Blitzer        |   84 |       4 |   43 |         3 | 240000 | 30000 |
-|    6 | Ed.        | Blitzer        |   44 |       6 |   44 |         3 | 170000 | 30000 |
-|    9 | Rina.      | Lineman        |   29 |       6 |   29 |         2 | 110000 | 20000 |
-|   14 | Hin.       | Norse Werewolf |   55 |       6 |   56 |         4 | 230000 | 40000 |
-|   16 | Hasan.     | Lineman        |   35 |       5 |   31 |         2 | 150000 | 10000 |
-|   20 | Kota.      | Catcher        |  104 |       4 |   38 |         3 | 200000 |     0 |
-|   25 | Mukabe.    | Blitzer        |   82 |       6 |   46 |         3 | 200000 |     0 |
-|   26 | Bryce.     | Blitzer        |   56 |       6 |   43 |         3 | 230000 | 30000 |
-|   27 | Norbert.   | Lineman        |    6 |       2 |    7 |         0 |  70000 |     0 |
-|   27 | Boreal.    | Lineman        |   39 |       5 |   43 |         3 | 120000 |     0 |
-|   28 | Fergal.    | Lineman        |   29 |       3 |   29 |         2 | 110000 | 20000 |
-|   28 | Shalev.    | Lineman        |    0 |       1 |    1 |         0 | 160000 | 60000 |
-|   29 | Francizek. | Lineman        |   20 |       3 |   28 |         2 | 120000 | 20000 |
-|   30 | Rafferty.  | Lineman        |    7 |       2 |    5 |         0 |  80000 |     0 |
-|   31 | Garron.    | Lineman        |   10 |       6 |   60 |         4 | 110000 | 40000 |
-|   32 | Walton.    | Lineman        |   31 |       8 |   83 |         6 | 160000 | 50000 |
-|   34 | Ife.       | Norse Werewolf |   51 |       6 |   50 |         3 | 220000 | 30000 |
-
-
+|    1 | Luanna    | Thrower        | Legend |       6 |   56 |         4 | 270000 | 50000 |
+|    5 | Danr      | Blitzer        | Superstar |       4 |   43 |         3 | 240000 | 30000 |
+|    6 | Ed        | Blitzer        | Seasoned Veteran |       6 |   44 |         3 | 170000 | 30000 |
+|    9 | Rina      | Line        | Veteran |       6 |   29 |         2 | 110000 | 20000 |
+|   14 | Hin       | Attacker | Star |       6 |   56 |         4 | 230000 | 40000 |
+|   16 | Hasan     | Line        | Seasoned Veteran |       5 |   31 |         2 | 150000 | 10000 |
+|   20 | Kota      | Catcher        | Superstar |       4 |   38 |         3 | 200000 |     0 |
+|   25 | Mukabe    | Blitzer        | Superstar |       6 |   46 |         3 | 200000 |     0 |
+|   26 | Bryce     | Blitzer        | Star |       6 |   43 |         3 | 230000 | 30000 |
+|   27 | Norbert   | Line        | Experienced |       2 |    7 |         0 |  70000 |     0 |
+|   27 | Boreal    | Line        | Seasoned Veteran |       5 |   43 |         3 | 120000 |     0 |
+|   28 | Fergal    | Line        | Veteran |       3 |   29 |         2 | 110000 | 20000 |
+|   28 | Shalev    | Line        | Rookie* |       1 |    1 |         0 | 160000 | 60000 |
+|   29 | Francizek | Line        | Veteran |       3 |   28 |         2 | 120000 | 20000 |
+|   30 | Rafferty  | Line        | Experienced |       2 |    5 |         0 |  80000 |     0 |
+|   31 | Garron    | Line        | Experienced |       6 |   60 |         4 | 110000 | 40000 |
+|   32 | Walton    | Line        | Seasoned Veteran |       8 |   83 |         6 | 160000 | 50000 |
+|   34 | Ife       | Attacker | Star |       6 |   50 |         3 | 220000 | 30000 |
 
 ```
 SELECT pl.nr AS "#", pl.name AS Player, pl.f_pos_name AS Position, sum(mp.spp) AS 'SPP', count(DISTINCT mp.f_trid) AS Seasons, sum(mp.played) AS "GP", ROUND(sum(mp.played)/15) AS Contracts, pl.value AS Value, pl.extra_val AS Bonus FROM mv_players as mp JOIN players as pl ON mp.f_pid = pl.player_id AND mp.f_tid = pl.owned_by_team_id WHERE pl.f_tname = "Cackling Furies" GROUP BY pl.name HAVING pl.name NOT LIKE '%.' ORDER BY pl.nr ASC;
@@ -136,6 +134,8 @@ The Furies are hoping for a chance at the divisional title, but will have to wor
 
 #### Summary GCXI
 
+The Furies didn't miss their projected target by much, going 5-2-8 in the regular season. The problem was the resurgent [Darkling Spectres](darklingspectres) who wildly outperformed their expectations. This meant that despite the Furies having done everything right, including giving [[luanna]] another shot at a Relentless Cannon award, they were on the outside looking in, come playoff time. Losing [[sophronia]] and [[rickon]] was also tough for the future of the team. They didn't get the funding that would really lend to bringing all their veterans back (as of this writing [[luanna]] and [[Hin]] (team MVP and Block leader respectively) to name a couple aren't under contract for GCXII) so their window of real competitiveness may have closed for the time being.
+
 #### roster GCXI
 
 | #    | Player     | GP | Touches | TD   | Rsh  | Cp   | CpDst | Ctch | Int  | Cas  | Blk  | Sck  | MVP  | Intercepted | Sacked | KOed | Hurt | Injured | Killed | SPP  |
@@ -189,8 +189,8 @@ SELECT pl.nr AS "#", pl.name AS Player, count(md.f_match_id) AS GP, sum(mx.catch
 | Fawcett   | Thrower        |   21 |   15 |   25 |   61 |    1 |   71 |    3 |    1 |    1 |    0 |    0 |   84 |
 | Mukabe    | Blitzer        |   15 |    7 |   24 |   46 |    6 |    1 |    0 |   13 |    5 |    1 |    5 |   82 |
 | *Artos*    | Blitzer | ?? | ?? | ?? | 35 | 16 | 3 | 1 | 1 | 1 | 2 | 4 | 81 |
-| Sophronia | Norse Werewolf |   28 |   17 |   31 |   76 |    0 |    0 |    1 |   14 |    7 |    2 |    6 |   78 |
-| Snow      | Yhetee         |   31 |   13 |   36 |   80 |    0 |    0 |    0 |   20 |    5 |    2 |    4 |   74 |
+| Sophronia | Attacker |   28 |   17 |   31 |   76 |    0 |    0 |    1 |   14 |    7 |    2 |    6 |   78 |
+| Snow      | Heavy         |   31 |   13 |   36 |   80 |    0 |    0 |    0 |   20 |    5 |    2 |    4 |   74 |
 | Borghild  | Catcher        |    8 |    8 |    4 |   20 |   18 |    2 |    0 |    0 |    1 |    1 |    0 |   60 |
 
 
@@ -203,8 +203,8 @@ While the old-era superstar [[Rodrik]] was atop the Furies' leaderboard for ages
 
 #### Award Winners
 
-| #    | Player   | Position | Seasons | Prizes | Value  | Bonus |
-|------|----------|----------|---------|--------|--------|-------|
+| #    | Player | Position | Seasons | Prizes | Value  | Bonus |
+|------|--------|----------|---------|--------|--------|-------|
 |    1 | Luanna | Thrower  |       6 |      1 | 270000 | 50000 |
 |   81 | Yusra  | Thrower  |       3 |      1 | 150000 |     0 |
 |   85 | Benjen | Blitzer  |       3 |      1 | 110000 |     0 |

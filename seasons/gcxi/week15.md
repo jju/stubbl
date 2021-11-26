@@ -5,6 +5,8 @@
 
 #t2787
 
+[next week](week16)
+
 We enter the final week with all the storylines wrapped up but a bunch of different playoff scenarios to deal with:
 
 The first two matches will have no impact on the postseason. The Claws have been eliminated and the Wyrms cannot catch the division title. This is likely to be [[Aeson]]'s final match so it has that going for it. The Machine and Tide are a battle of eliminated vs clinched division title, but there is the intrigue of the Casualty and TD title leaders going head to head. If the Tide suffer casualties that could be a real blow.

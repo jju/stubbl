@@ -27,7 +27,7 @@ The Orbital Machine uses the Chariot playbook. This involves four massive player
 
 | Player    | Position  | SPP | Seasons |
 |-----------|-----------|-----|---------|
-| Leppard  | Blitzer      |  Superstar |       6 |
+| Leppard  | Blitzer |  Superstar |       6 |
 | Collar   | Blocker |   Seasoned Veteran |       4 |
 | Anvil    | Blocker |   Seasoned Veteran |       4 |
 
@@ -72,10 +72,11 @@ SELECT teams.name, sum(mr.won), sum(mr.draw), sum(mr.lost), sum(mr.played), avg(
 | Orbital Machine | Green Cup X          |    7 |    4 |    5 |     16 |   56.25 |   27 |   27 |   40 |     26 |   -1 |
 | Orbital Machine | Green Cup IX         |    6 |    3 |    7 |     16 |  46.88 |   21 |   26 |   31 |     20 |   -1 |
 | Orbital Machine | UBBL Challenge       |    1 |    0 |    2 |      3 | 33.33 |    5 |    6 |    4 |     -1 |   -1 |
+| Orbital Machine | Green Cup XI         |    1 |    6 |    9 |     16 |      25 |   16 |   30 |   40 |     22 |   -2 |
 | Orbital Machine | UBBL Challenge IV    |    0 |    0 |    2 |      2 |    0.00 |    1 |    3 |    6 |      1 |   -2 |
 
 ```
-SELECT teams.name AS Team, tours.name AS Season, mr.won, mr.draw, mr.lost, 	mr.played, mr.win_pct, mr.gf, mr.ga, mr.cas, mr.tcdiff,	mr.ff FROM mv_teams AS mr JOIN tours ON mr.f_trid = tours.tour_id and mr.f_did = tours.f_did JOIN teams ON teams.team_id = mr.f_tid WHERE teams.name = "TEAM" ORDER BY mr.win_pct DESC limit 16;
+SELECT teams.name AS Team, tours.name AS Season, mr.won, mr.draw, mr.lost, 	mr.played, mr.win_pct, mr.gf, mr.ga, mr.cas, mr.tcdiff,	mr.ff FROM mv_teams AS mr JOIN tours ON mr.f_trid = tours.tour_id and mr.f_did = tours.f_did JOIN teams ON teams.team_id = mr.f_tid WHERE teams.name = "Orbital Machine" ORDER BY mr.win_pct DESC limit 16;
 ```
 
 ## History
@@ -100,7 +101,62 @@ The Machine is due for another deep playoff run and this season could be the one
 
 #### GCXI Recap
 
+The Machine didn't have that deep playoff run they were expecting. They didn't score more than 2 TDs even once, and their best team effort in bashing was a 6 casualty outing against the Fatality [[gcxi-13-efom]]. [[Uli]] handily coasted to a Carmine Fist award (but may not have if the Eagles hadn't been spreading their damage around; see [[gcxi-cas-race]]). The biggest impact they are likely to have on the season as a whole is that Uli seriously injured [[Venus]] in week 15 [[gcxi-15-omft]], causing a necessary shift in the Tide's playoff strategy.
 
+| Team            | round | Touches | TDs  | Rush | Cp   | PassDist | Caught | Intercepts | Cas  | Blocks | Sacks | MVPs | SPP  |  Location | WDL |
+|-----------------|-------|---------|------|------|------|----------|--------|------------|------|--------|-------|------|------|-------------|-------------|
+| Orbital Machine |     1 |       5 |    2 |   41 |    1 |        4 |      1 |          0 |    3 |     56 |     0 |    1 |   18 |  Home | D |
+| Orbital Machine |     2 |       3 |    2 |   59 |    2 |        4 |      2 |          0 |    1 |     49 |     0 |    1 |   15 |  Away | L |
+| Orbital Machine |     3 |       2 |    1 |   42 |    0 |        0 |      0 |          1 |    3 |     72 |     1 |    1 |   16 |  Away | D |
+| Orbital Machine |     4 |       5 |    2 |   44 |    4 |        3 |      4 |          0 |    4 |     37 |     0 |    1 |   23 |  Away | W |
+| Orbital Machine |     5 |       2 |    2 |   24 |    1 |        6 |      1 |          0 |    3 |     71 |     3 |    1 |   18 |  Away | D |
+| Orbital Machine |     6 |       5 |    0 |   30 |    0 |        0 |      0 |          0 |    3 |     52 |     1 |    1 |   11 |  Home | L |
+| Orbital Machine |     7 |       3 |    1 |   35 |    0 |        0 |      0 |          0 |    1 |     71 |     0 |    1 |   10 |  Home | L |
+| Orbital Machine |     8 |       0 |    0 |   18 |    0 |        0 |      0 |          0 |    2 |     40 |     2 |    1 |    9 |  Away | L |
+| Orbital Machine |     9 |       6 |    1 |   32 |    2 |        1 |      2 |          1 |    2 |     60 |     1 |    1 |   16 |  Away | L |
+| Orbital Machine |    10 |       1 |    0 |   23 |    1 |        2 |      1 |          0 |    3 |     57 |     1 |    1 |   12 |  Home | L |
+| Orbital Machine |    11 |       2 |    1 |   43 |    0 |        0 |      0 |          0 |    1 |     49 |     3 |    1 |   10 |  Home | D |
+| Orbital Machine |    12 |       4 |    1 |   35 |    2 |        4 |      2 |          0 |    1 |     47 |     0 |    1 |   12 |  Home | D |
+| Orbital Machine |    13 |       1 |    0 |   20 |    1 |        4 |      2 |          0 |    6 |     47 |     2 |    1 |   18 |  Away | L |
+| Orbital Machine |    14 |       2 |    1 |   36 |    0 |        0 |      0 |          0 |    1 |     36 |     0 |    1 |   10 |  Away | D |
+| Orbital Machine |    15 |       4 |    2 |   50 |    3 |        8 |      3 |          0 |    5 |     43 |     0 |    1 |   24 |  Home | L |
+| Orbital Machine |   BYE |       0 |    0 |    0 |    0 |        0 |      0 |          0 |    0 |      0 |     0 |    0 |    0 |   BYE | L |
+
+```
+SELECT pl.f_tname AS Team, mt.round, mx.catches + mx.pickups + md.intcpt + mx.handoff_catches AS Touches, sum(md.td) AS TDs, sum(mx.rushing_distance_move) AS Rush, sum(md.cp) AS Cp, sum(mx.pass_distance) AS PassDist, sum(mx.catches) AS Caught, sum(md.intcpt) AS Intercepts, sum(md.bh) + sum(md.si) + sum(md.ki) AS Cas, sum(mx.inflicted_blocks) AS Blocks, sum(mx.inflicted_sacks) AS Sacks, sum(md.mvp) AS MVPs, (sum(md.td) * 3) + sum(md.cp) + (sum(md.intcpt) * 2) + (sum(md.bh) * 2) + (sum(md.si) * 2) + (sum(md.ki) * 2) + (sum(md.mvp) * 5) AS SPP, mt.team1_score, mt.team2_score FROM match_data AS md JOIN match_data_es AS mx ON md.f_player_id = mx.f_pid AND md.f_match_id = mx.f_mid JOIN players AS pl ON md.f_player_id = pl.player_id AND md.f_team_id = pl.owned_by_team_id JOIN matches AS mt ON mt.match_id = md.f_match_id WHERE md.f_tour_id = 29 AND pl.f_tname = "Orbital Machine" GROUP BY pl.f_tname, mt.round ORDER BY mt.round ASC;
+```
+
+#### GCXI
+
+| #    | Player   | GP | Touches | TD   | Rsh  | Cp   | CpDst | Ctch | Int  | Cas  | Blk  | Sck  | MVP  | Intercepted | Sacked | KOed | Hurt | Injured | Killed | SPP  |
+|------|----------|----|---------|------|------|------|-------|------|------|------|------|------|------|-------------|--------|------|------|---------|--------|------|
+|    1 | Jarm      | 12 |      33 |    3 |  170 |    7 |    18 |    0 |    1 |    0 |   12 |    1 |    2 |           1 |      8 |    1 |    2 |       1 |      0 |   28 |
+|    2 | Rodie     |  1 |       4 |    0 |   16 |    2 |     4 |    0 |    0 |    0 |    1 |    0 |    1 |           1 |      0 |    0 |    0 |       0 |      0 |    7 |
+|    3 | Ruslan    | 10 |      21 |    3 |  128 |    5 |     9 |    4 |    0 |    0 |   37 |    0 |    2 |           0 |      5 |    0 |    0 |       0 |      0 |   24 |
+|    4 | Akhenaton |  8 |      11 |    2 |   72 |    0 |     0 |    4 |    0 |    0 |   12 |    0 |    0 |           0 |      2 |    2 |    1 |       0 |      0 |    6 |
+|    5 | Stino     |  8 |       3 |    0 |   15 |    0 |     0 |    0 |    0 |    0 |   19 |    1 |    0 |           0 |      1 |    0 |    1 |       2 |      0 |    0 |
+|    6 | Spinal    | 13 |       5 |    1 |   11 |    0 |     0 |    0 |    0 |    4 |   33 |    4 |    1 |           1 |      2 |    2 |    2 |       2 |      0 |   16 |
+|    7 | Odalric   | 15 |       3 |    0 |    7 |    0 |     0 |    0 |    1 |    7 |  103 |    1 |    1 |           0 |      0 |    2 |    1 |       0 |      0 |   21 |
+|    9 | Jothi     |  5 |       0 |    0 |    0 |    0 |     0 |    0 |    0 |    0 |   28 |    0 |    0 |           0 |      0 |    1 |    0 |       0 |      0 |    0 |
+|    9 | Collar    |  6 |       1 |    1 |    1 |    0 |     0 |    1 |    0 |    0 |   43 |    0 |    0 |           0 |      0 |    0 |    0 |       0 |      0 |    3 |
+|   10 | Anvil     | 11 |       0 |    0 |    0 |    0 |     0 |    0 |    0 |    1 |   71 |    0 |    4 |           0 |      1 |    1 |    1 |       0 |      0 |   22 |
+|   11 | Kris      |  4 |       3 |    0 |    4 |    1 |     1 |    0 |    0 |    0 |    9 |    0 |    0 |           0 |      1 |    1 |    0 |       0 |      0 |    1 |
+|   16 | [[Uli]]   | 15 |       0 |    0 |    0 |    0 |     0 |    0 |    0 |   22 |  174 |    2 |    0 |           0 |      0 |    1 |    1 |       0 |      0 |   **44** |
+|   22 | Katiuscia |  4 |       2 |    0 |    5 |    0 |     0 |    0 |    0 |    0 |    7 |    0 |    0 |           0 |      1 |    0 |    0 |       0 |      0 |    0 |
+|   24 | Ekkebert  |  4 |       1 |    0 |    6 |    0 |     0 |    1 |    0 |    0 |   11 |    0 |    0 |           0 |      1 |    0 |    0 |       0 |      0 |    0 |
+|   82 | Leppard.  | 10 |      14 |    3 |   40 |    0 |     0 |    2 |    0 |    0 |   34 |    2 |    0 |           0 |      2 |    3 |    2 |       0 |      1 |    9 |
+|   84 | Kendrick. |  9 |       3 |    0 |   14 |    0 |     0 |    1 |    0 |    0 |   22 |    1 |    2 |           0 |      2 |    2 |    2 |       2 |      1 |   10 |
+|   85 | Gratien.  |  1 |       0 |    0 |    0 |    0 |     0 |    0 |    0 |    0 |    1 |    0 |    0 |           0 |      0 |    0 |    0 |       0 |      R |    0 |
+|   86 | Judas.    |  1 |       0 |    0 |    0 |    0 |     0 |    0 |    0 |    0 |    1 |    0 |    0 |           0 |      0 |    0 |    0 |       0 |      R |    0 |
+|   87 | Bolt.     | 12 |       3 |    0 |    1 |    1 |     4 |    1 |    0 |    2 |   71 |    0 |    1 |           0 |      0 |    1 |    0 |       2 |      R |   10 |
+|   88 | Mate      | 10 |       1 |    1 |    5 |    0 |     0 |    0 |    0 |    2 |   64 |    1 |    0 |           0 |      0 |    0 |    0 |       0 |      1 |    7 |
+|   91 | Corinne.  |  8 |       6 |    2 |   37 |    1 |     0 |    4 |    0 |    1 |   31 |    1 |    1 |           0 |      0 |    2 |    0 |       0 |      1 |   14 |
+|   95 | Praveena. |  1 |       0 |    0 |    0 |    0 |     0 |    0 |    0 |    0 |    3 |    0 |    0 |           0 |      0 |    0 |    0 |       0 |      1 |    0 |
+
+
+```
+SELECT pl.nr, pl.name AS Player, count(md.f_match_id) AS GP, sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches) AS Touches, sum(md.td) AS TD, sum(mx.rushing_distance_move) AS Rsh, sum(md.cp) AS Cp, sum(mx.pass_distance) AS CpDst, sum(mx.catches) AS Ctch, sum(md.intcpt) AS "Int", sum(md.bh) + sum(md.si) + sum(md.ki) AS Cas, sum(mx.inflicted_blocks) AS Blk, sum(mx.inflicted_sacks) AS Sck, sum(md.mvp) AS MVP, sum(mx.interceptions_thrown) AS Intercepted, sum(mx.sustained_sacks) AS Sacked, sum(mx.sustained_kos) AS KOed, sum(mx.sustained_bhs) AS Hurt, sum(mx.sustained_sis) AS Injured, sum(mx.sustained_kill) AS Killed, (sum(md.td) * 3) + sum(md.cp) + (sum(md.intcpt) * 2) + (sum(md.bh) * 2) + (sum(md.si) * 2) + (sum(md.ki) * 2) + (sum(md.mvp) * 5) AS SPP FROM match_data AS md JOIN match_data_es AS mx ON md.f_player_id = mx.f_pid AND md.f_match_id = mx.f_mid JOIN players AS pl ON md.f_player_id = pl.player_id AND md.f_team_id = pl.owned_by_team_id JOIN matches AS mt ON mt.match_id = md.f_match_id JOIN tours ON md.f_tour_id = tours.tour_id AND md.f_did = tours.f_did WHERE tours.name = "Green Cup XI" AND pl.f_tname = "Orbital Machine" GROUP BY pl.name, pl.nr ORDER BY pl.nr ASC;
+```
 
 
 ### Stars
@@ -123,37 +179,6 @@ The Machine is due for another deep playoff run and this season could be the one
 
 ### roster by season
 
-#### GCXI
-
-| #    | Player   | GP | Touches | TD   | Rsh  | Cp   | CpDst | Ctch | Int  | Cas  | Blk  | Sck  | MVP  | Intercepted | Sacked | KOed | Hurt | Injured | Killed | SPP  |
-|------|----------|----|---------|------|------|------|-------|------|------|------|------|------|------|-------------|--------|------|------|---------|--------|------|
-|    1 | Jarm      | 12 |      33 |    3 |  170 |    7 |    18 |    0 |    1 |    0 |   12 |    1 |    2 |           1 |      8 |    1 |    2 |       1 |      0 |   28 |
-|    2 | Rodie     |  1 |       4 |    0 |   16 |    2 |     4 |    0 |    0 |    0 |    1 |    0 |    1 |           1 |      0 |    0 |    0 |       0 |      0 |    7 |
-|    3 | Ruslan    | 10 |      21 |    3 |  128 |    5 |     9 |    4 |    0 |    0 |   37 |    0 |    2 |           0 |      5 |    0 |    0 |       0 |      0 |   24 |
-|    4 | Akhenaton |  8 |      11 |    2 |   72 |    0 |     0 |    4 |    0 |    0 |   12 |    0 |    0 |           0 |      2 |    2 |    1 |       0 |      0 |    6 |
-|    5 | Stino     |  8 |       3 |    0 |   15 |    0 |     0 |    0 |    0 |    0 |   19 |    1 |    0 |           0 |      1 |    0 |    1 |       2 |      0 |    0 |
-|    6 | Spinal    | 13 |       5 |    1 |   11 |    0 |     0 |    0 |    0 |    4 |   33 |    4 |    1 |           1 |      2 |    2 |    2 |       2 |      0 |   16 |
-|    7 | Odalric   | 15 |       3 |    0 |    7 |    0 |     0 |    0 |    1 |    7 |  103 |    1 |    1 |           0 |      0 |    2 |    1 |       0 |      0 |   21 |
-|    9 | Jothi     |  5 |       0 |    0 |    0 |    0 |     0 |    0 |    0 |    0 |   28 |    0 |    0 |           0 |      0 |    1 |    0 |       0 |      0 |    0 |
-|    9 | Collar    |  6 |       1 |    1 |    1 |    0 |     0 |    1 |    0 |    0 |   43 |    0 |    0 |           0 |      0 |    0 |    0 |       0 |      0 |    3 |
-|   10 | Anvil     | 11 |       0 |    0 |    0 |    0 |     0 |    0 |    0 |    1 |   71 |    0 |    4 |           0 |      1 |    1 |    1 |       0 |      0 |   22 |
-|   11 | Kris      |  4 |       3 |    0 |    4 |    1 |     1 |    0 |    0 |    0 |    9 |    0 |    0 |           0 |      1 |    1 |    0 |       0 |      0 |    1 |
-|   16 | [[Uli]]       | 15 |       0 |    0 |    0 |    0 |     0 |    0 |    0 |   22 |  174 |    2 |    0 |           0 |      0 |    1 |    1 |       0 |      0 |   **44** |
-|   22 | Katiuscia |  4 |       2 |    0 |    5 |    0 |     0 |    0 |    0 |    0 |    7 |    0 |    0 |           0 |      1 |    0 |    0 |       0 |      0 |    0 |
-|   24 | Ekkebert  |  4 |       1 |    0 |    6 |    0 |     0 |    1 |    0 |    0 |   11 |    0 |    0 |           0 |      1 |    0 |    0 |       0 |      0 |    0 |
-|   82 | Leppard.  | 10 |      14 |    3 |   40 |    0 |     0 |    2 |    0 |    0 |   34 |    2 |    0 |           0 |      2 |    3 |    2 |       0 |      1 |    9 |
-|   84 | Kendrick. |  9 |       3 |    0 |   14 |    0 |     0 |    1 |    0 |    0 |   22 |    1 |    2 |           0 |      2 |    2 |    2 |       2 |      1 |   10 |
-|   85 | Gratien.  |  1 |       0 |    0 |    0 |    0 |     0 |    0 |    0 |    0 |    1 |    0 |    0 |           0 |      0 |    0 |    0 |       0 |      R |    0 |
-|   86 | Judas.    |  1 |       0 |    0 |    0 |    0 |     0 |    0 |    0 |    0 |    1 |    0 |    0 |           0 |      0 |    0 |    0 |       0 |      R |    0 |
-|   87 | Bolt.     | 12 |       3 |    0 |    1 |    1 |     4 |    1 |    0 |    2 |   71 |    0 |    1 |           0 |      0 |    1 |    0 |       2 |      R |   10 |
-|   88 | Mate      | 10 |       1 |    1 |    5 |    0 |     0 |    0 |    0 |    2 |   64 |    1 |    0 |           0 |      0 |    0 |    0 |       0 |      1 |    7 |
-|   91 | Corinne.  |  8 |       6 |    2 |   37 |    1 |     0 |    4 |    0 |    1 |   31 |    1 |    1 |           0 |      0 |    2 |    0 |       0 |      1 |   14 |
-|   95 | Praveena. |  1 |       0 |    0 |    0 |    0 |     0 |    0 |    0 |    0 |    3 |    0 |    0 |           0 |      0 |    0 |    0 |       0 |      1 |    0 |
-
-
-```
-SELECT pl.nr, pl.name AS Player, count(md.f_match_id) AS GP, sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches) AS Touches, sum(md.td) AS TD, sum(mx.rushing_distance_move) AS Rsh, sum(md.cp) AS Cp, sum(mx.pass_distance) AS CpDst, sum(mx.catches) AS Ctch, sum(md.intcpt) AS "Int", sum(md.bh) + sum(md.si) + sum(md.ki) AS Cas, sum(mx.inflicted_blocks) AS Blk, sum(mx.inflicted_sacks) AS Sck, sum(md.mvp) AS MVP, sum(mx.interceptions_thrown) AS Intercepted, sum(mx.sustained_sacks) AS Sacked, sum(mx.sustained_kos) AS KOed, sum(mx.sustained_bhs) AS Hurt, sum(mx.sustained_sis) AS Injured, sum(mx.sustained_kill) AS Killed, (sum(md.td) * 3) + sum(md.cp) + (sum(md.intcpt) * 2) + (sum(md.bh) * 2) + (sum(md.si) * 2) + (sum(md.ki) * 2) + (sum(md.mvp) * 5) AS SPP FROM match_data AS md JOIN match_data_es AS mx ON md.f_player_id = mx.f_pid AND md.f_match_id = mx.f_mid JOIN players AS pl ON md.f_player_id = pl.player_id AND md.f_team_id = pl.owned_by_team_id JOIN matches AS mt ON mt.match_id = md.f_match_id JOIN tours ON md.f_tour_id = tours.tour_id AND md.f_did = tours.f_did WHERE tours.name = "Green Cup XI" AND pl.f_tname = "Orbital Machine" GROUP BY pl.name, pl.nr ORDER BY pl.nr ASC;
-```
 
 #### Cup Winners
 
@@ -170,11 +195,14 @@ SELECT pl.nr, pl.name AS Player, count(md.f_match_id) AS GP, sum(mx.catches) + s
 |   81 | [[Priest]]  | 10 |      32 |    2 |  114 |    1 |     5 |    0 |    0 |    0 |    8 |    0 |    0 |           0 |      2 |    1 |    0 |       0 |      0 |    7 |
 |   82 | [[Ozzy]]    | 10 |      14 |    5 |   75 |    1 |     4 |    0 |    1 |    2 |   28 |    1 |    0 |           0 |      5 |    0 |    0 |       0 |      0 |   22 |
 |   82 | [[Leppard]] | 10 |       8 |    4 |   47 |    1 |     1 |    3 |    0 |    1 |   39 |    1 |    2 |           0 |      1 |    1 |    0 |       0 |      0 |   25 |
-|   83 | [[Heep]]    | 10 |      16 |    7 |  100 |    2 |     5 |    4 |    0 |    1 |   21 |    0 |    2 |           0 |      6 |    0 |    1 |       0 |      0 |   35 |
-|   84 | Crue.    |  8 |       3 |    0 |   10 |    0 |     0 |    0 |    0 |    0 |   18 |    0 |    0 |           0 |      2 |    0 |    0 |       0 |      1 |    0 |
+|   83 | [[Heep]]    | 10 |      16 |    7 |  100 |    2 |     5 |    4 |    0 |    1 |   21 |    0 |    2 |           0 |      6 |    0 |    1 |       0 |      0 |   **35** |
+|   84 | Crue    |  8 |       3 |    0 |   10 |    0 |     0 |    0 |    0 |    0 |   18 |    0 |    0 |           0 |      2 |    0 |    0 |       0 |      1 |    0 |
 |   86 | [[Judas]]   |  9 |       0 |    0 |    0 |    0 |     0 |    0 |    0 |    0 |   12 |    2 |    1 |           0 |      0 |    0 |    0 |       1 |      0 |    5 |
 |   96 | [[Lars]]    | 10 |       2 |    0 |    0 |    0 |     0 |    0 |    2 |    3 |   97 |    1 |    1 |           0 |      0 |    0 |    2 |       0 |      0 |   15 |
 
+```
+SELECT pl.nr, pl.name AS Player, count(md.f_match_id) AS GP, sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches) AS Touches, sum(md.td) AS TD, sum(mx.rushing_distance_move) AS Rsh, sum(md.cp) AS Cp, sum(mx.pass_distance) AS CpDst, sum(mx.catches) AS Ctch, sum(md.intcpt) AS "Int", sum(md.bh) + sum(md.si) + sum(md.ki) AS Cas, sum(mx.inflicted_blocks) AS Blk, sum(mx.inflicted_sacks) AS Sck, sum(md.mvp) AS MVP, sum(mx.interceptions_thrown) AS Intercepted, sum(mx.sustained_sacks) AS Sacked, sum(mx.sustained_kos) AS KOed, sum(mx.sustained_bhs) AS Hurt, sum(mx.sustained_sis) AS Injured, sum(mx.sustained_kill) AS Killed, (sum(md.td) * 3) + sum(md.cp) + (sum(md.intcpt) * 2) + (sum(md.bh) * 2) + (sum(md.si) * 2) + (sum(md.ki) * 2) + (sum(md.mvp) * 5) AS SPP FROM match_data AS md JOIN match_data_es AS mx ON md.f_player_id = mx.f_pid AND md.f_match_id = mx.f_mid JOIN players AS pl ON md.f_player_id = pl.player_id AND md.f_team_id = pl.owned_by_team_id JOIN matches AS mt ON mt.match_id = md.f_match_id JOIN tours ON md.f_tour_id = tours.tour_id AND md.f_did = tours.f_did WHERE tours.name = "Green Cup Classic 06" AND pl.f_tname = "Orbital Machine" GROUP BY pl.name, pl.nr ORDER BY pl.nr ASC;
+```
 
 ##### No Ring
 
@@ -182,7 +210,7 @@ SELECT pl.nr, pl.name AS Player, count(md.f_match_id) AS GP, sum(mx.catches) + s
 
 ### Management
 
-The Orbital Machine is owned by an industrial concern with long local ties to Stacksburg and especially the mass elevator.
+The Orbital Machine is owned by Orolk, an industrial concern with long local ties to Stacksburg and especially the mass elevator.
 
 ### Fans
 

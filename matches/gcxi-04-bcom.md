@@ -4,7 +4,7 @@
 
 Pick: Claws
 
-The Claws pulled out a nice little Cleve - Rong - Aeson play off the kick, but Aeson stumbled badly taking him out of the drive entirely while the Machine pounced and mercilessly flattened the rest of the Tide. This put both Klim and Aeson on the field defensively to begin the second half. By the fourth quarter the Machine had removed everyone from the field of play. Not the results the Claws were looking for with serious injuries to four of their skilled position players.
+The Claws pulled out a nice little Cleve - Rong - Aeson play off the kick, but Aeson stumbled badly taking him out of the drive entirely while the Machine pounced and mercilessly flattened the rest of the Claws. This put both Klim and Aeson on the field defensively to begin the second half. By the fourth quarter the Machine had removed everyone from the field of play. Not the results the Claws were looking for with serious injuries to four of their skilled position players.
 
 > Weather: Nice
 > Toss: BC-Receive
