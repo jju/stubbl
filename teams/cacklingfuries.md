@@ -136,6 +136,29 @@ The Furies are hoping for a chance at the divisional title, but will have to wor
 
 The Furies didn't miss their projected target by much, going 5-2-8 in the regular season. The problem was the resurgent [Darkling Spectres](darklingspectres) who wildly outperformed their expectations. This meant that despite the Furies having done everything right, including giving [[luanna]] another shot at a Relentless Cannon award, they were on the outside looking in, come playoff time. Losing [[sophronia]] and [[rickon]] was also tough for the future of the team. They didn't get the funding that would really lend to bringing all their veterans back (as of this writing [[luanna]] and [[Hin]] (team MVP and Block leader respectively) to name a couple aren't under contract for GCXII) so their window of real competitiveness may have closed for the time being.
 
+| Team            | round | Touches | TDs  | Rush | Cp   | PassDist | Caught | Intercepts | Cas  | Blocks | Sacks | MVPs | SPP  |  Location | WDL |
+|-----------------|-------|---------|------|------|------|----------|--------|------------|------|--------|-------|------|------|-------------|-------------|
+| Cackling Furies |     1 |      10 |    2 |   42 |    5 |       22 |      5 |          0 |    1 |     58 |     1 |    1 |   18 |           2 |           2 |
+| Cackling Furies |     2 |      13 |    1 |   40 |    5 |       27 |      5 |          0 |    1 |     26 |     3 |    1 |   15 |           1 |           2 |
+| Cackling Furies |     3 |      18 |    4 |   84 |    8 |       17 |      8 |          0 |    3 |     60 |     1 |    1 |   31 |           4 |           5 |
+| Cackling Furies |     4 |      12 |    5 |   57 |    5 |       13 |      5 |          1 |    1 |     65 |     0 |    1 |   29 |           5 |           0 |
+| Cackling Furies |     5 |       8 |    1 |   27 |    2 |        3 |      2 |          0 |    2 |     46 |     3 |    1 |   14 |           1 |           2 |
+| Cackling Furies |     6 |       8 |    3 |   40 |    3 |       14 |      3 |          0 |    2 |     41 |     2 |    1 |   21 |           0 |           3 |
+| Cackling Furies |     7 |       9 |    2 |   54 |    3 |        5 |      3 |          0 |    1 |     58 |     0 |    1 |   16 |           2 |           2 |
+| Cackling Furies |     8 |      18 |    2 |   70 |    6 |       23 |      6 |          0 |    1 |     49 |     3 |    1 |   19 |           2 |           5 |
+| Cackling Furies |     9 |      16 |    1 |   44 |    6 |       12 |      6 |          0 |    0 |     49 |     0 |    1 |   14 |           1 |           4 |
+| Cackling Furies |    10 |      15 |    2 |   61 |    5 |       34 |      5 |          0 |    1 |     56 |     0 |    1 |   18 |           5 |           2 |
+| Cackling Furies |    11 |      13 |    2 |   64 |    4 |       11 |      4 |          1 |    3 |     62 |     2 |    1 |   23 |           1 |           2 |
+| Cackling Furies |    12 |       9 |    3 |   32 |    3 |       21 |      3 |          2 |    0 |     22 |     0 |    1 |   21 |           1 |           3 |
+| Cackling Furies |    13 |       7 |    3 |   25 |    1 |        4 |      1 |          0 |    5 |     41 |     3 |    1 |   25 |           3 |           0 |
+| Cackling Furies |    14 |      11 |    1 |   41 |    3 |        9 |      3 |          0 |    2 |     43 |     0 |    1 |   15 |           1 |           3 |
+| Cackling Furies |    15 |       3 |    0 |    9 |    1 |        1 |      1 |          0 |    2 |     42 |     0 |    1 |   10 |           3 |           0 |
+| Cackling Furies |   BYE |       0 |    0 |    0 |    0 |        0 |      0 |          0 |    0 |      0 |     0 |    0 |    0 |         BYE |           L |
+
+```
+SELECT pl.f_tname AS Team, mt.round, sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches) AS Touches, sum(md.td) AS TDs, sum(mx.rushing_distance_move) AS Rush, sum(md.cp) AS Cp, sum(mx.pass_distance) AS PassDist, sum(mx.catches) AS Caught, sum(md.intcpt) AS Intercepts, sum(md.bh) + sum(md.si) + sum(md.ki) AS Cas, sum(mx.inflicted_blocks) AS Blocks, sum(mx.inflicted_sacks) AS Sacks, sum(md.mvp) AS MVPs, (sum(md.td) * 3) + sum(md.cp) + (sum(md.intcpt) * 2) + (sum(md.bh) * 2) + (sum(md.si) * 2) + (sum(md.ki) * 2) + (sum(md.mvp) * 5) AS SPP, mt.team1_score, mt.team2_score FROM match_data AS md JOIN match_data_es AS mx ON md.f_player_id = mx.f_pid AND md.f_match_id = mx.f_mid JOIN players AS pl ON md.f_player_id = pl.player_id AND md.f_team_id = pl.owned_by_team_id JOIN matches AS mt ON mt.match_id = md.f_match_id WHERE md.f_tour_id = 29 AND pl.f_tname = "Cackling Furies" GROUP BY pl.f_tname, mt.round ORDER BY mt.round ASC;
+```
+
 #### roster GCXI
 
 | #    | Player     | GP | Touches | TD   | Rsh  | Cp   | CpDst | Ctch | Int  | Cas  | Blk  | Sck  | MVP  | Intercepted | Sacked | KOed | Hurt | Injured | Killed | SPP  |

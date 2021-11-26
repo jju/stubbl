@@ -122,9 +122,25 @@ The TC Sump Runners were not projected to be good this season and the projection
 
 | Team            | round | Touches | TDs  | Rush | Cp   | PassDist | Caught | Intercepts | Cas  | Blocks | Sacks | MVPs | SPP  |  Location | WDL |
 |-----------------|-------|---------|------|------|------|----------|--------|------------|------|--------|-------|------|------|-------------|-------------|
+| TC Sump Runners |     1 |       6 |    2 |   20 |    4 |       12 |      3 |          0 |    3 |     30 |     1 |    1 |   21 |           2 |           2 |
+| TC Sump Runners |     2 |       3 |    1 |   12 |    2 |       16 |      2 |          0 |    2 |     39 |     0 |    1 |   14 |           1 |           4 |
+| TC Sump Runners |     3 |       9 |    2 |   58 |    5 |        8 |      5 |          0 |    1 |     56 |     2 |    1 |   18 |           2 |           2 |
+| TC Sump Runners |     4 |       6 |    3 |   58 |    8 |       19 |      8 |          0 |    0 |     46 |     2 |    1 |   22 |           3 |           5 |
+| TC Sump Runners |     5 |       6 |    3 |   61 |    5 |       17 |      5 |          0 |    4 |     40 |     0 |    1 |   27 |           5 |           3 |
+| TC Sump Runners |     6 |       1 |    0 |   16 |    0 |        0 |      0 |          0 |    0 |     20 |     0 |    1 |    5 |           2 |           0 |
+| TC Sump Runners |     7 |       1 |    3 |   27 |    5 |       11 |      5 |          0 |    1 |     29 |     0 |    1 |   21 |           3 |           2 |
+| TC Sump Runners |     8 |       1 |    3 |   44 |    3 |        4 |      3 |          1 |    2 |     57 |     2 |    1 |   23 |           3 |           3 |
+| TC Sump Runners |     9 |       5 |    2 |   40 |    1 |        1 |      1 |          1 |    1 |     56 |     2 |    1 |   16 |           2 |           2 |
+| TC Sump Runners |    10 |       7 |    2 |   45 |    3 |       11 |      3 |          1 |    0 |     41 |     1 |    1 |   16 |           3 |           2 |
+| TC Sump Runners |    11 |       3 |    1 |   42 |    2 |        6 |      2 |          1 |    2 |     43 |     4 |    1 |   16 |           1 |           2 |
+| TC Sump Runners |    12 |       3 |    2 |   81 |    1 |        1 |      2 |          0 |    2 |     28 |     1 |    1 |   16 |           6 |           2 |
+| TC Sump Runners |    13 |       2 |    0 |   22 |    2 |        6 |      2 |          0 |    1 |     17 |     0 |    1 |    9 |           0 |           2 |
+| TC Sump Runners |    14 |       3 |    1 |   23 |    3 |        8 |      3 |          0 |    0 |     18 |     0 |    1 |   11 |           2 |           1 |
+| TC Sump Runners |    15 |       6 |    1 |   24 |    3 |       11 |      3 |          0 |    0 |     31 |     1 |    1 |   11 |           1 |           3 |
+| TC Sump Runners |   BYE |       0 |    0 |    0 |    0 |        0 |      0 |          0 |    0 |      0 |     0 |    0 |    0 |           1 |           0 |
 
 ```
-SELECT pl.f_tname AS Team, mt.round, mx.catches + mx.pickups + md.intcpt + mx.handoff_catches AS Touches, sum(md.td) AS TDs, sum(mx.rushing_distance_move) AS Rush, sum(md.cp) AS Cp, sum(mx.pass_distance) AS PassDist, sum(mx.catches) AS Caught, sum(md.intcpt) AS Intercepts, sum(md.bh) + sum(md.si) + sum(md.ki) AS Cas, sum(mx.inflicted_blocks) AS Blocks, sum(mx.inflicted_sacks) AS Sacks, sum(md.mvp) AS MVPs, (sum(md.td) * 3) + sum(md.cp) + (sum(md.intcpt) * 2) + (sum(md.bh) * 2) + (sum(md.si) * 2) + (sum(md.ki) * 2) + (sum(md.mvp) * 5) AS SPP, mt.team1_score, mt.team2_score FROM match_data AS md JOIN match_data_es AS mx ON md.f_player_id = mx.f_pid AND md.f_match_id = mx.f_mid JOIN players AS pl ON md.f_player_id = pl.player_id AND md.f_team_id = pl.owned_by_team_id JOIN matches AS mt ON mt.match_id = md.f_match_id WHERE md.f_tour_id = 29 AND pl.f_tname = "TC Sump Runners" GROUP BY pl.f_tname, mt.round ORDER BY mt.round ASC;
+SELECT pl.f_tname AS Team, mt.round, sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches) AS Touches, sum(md.td) AS TDs, sum(mx.rushing_distance_move) AS Rush, sum(md.cp) AS Cp, sum(mx.pass_distance) AS PassDist, sum(mx.catches) AS Caught, sum(md.intcpt) AS Intercepts, sum(md.bh) + sum(md.si) + sum(md.ki) AS Cas, sum(mx.inflicted_blocks) AS Blocks, sum(mx.inflicted_sacks) AS Sacks, sum(md.mvp) AS MVPs, (sum(md.td) * 3) + sum(md.cp) + (sum(md.intcpt) * 2) + (sum(md.bh) * 2) + (sum(md.si) * 2) + (sum(md.ki) * 2) + (sum(md.mvp) * 5) AS SPP, mt.team1_score, mt.team2_score FROM match_data AS md JOIN match_data_es AS mx ON md.f_player_id = mx.f_pid AND md.f_match_id = mx.f_mid JOIN players AS pl ON md.f_player_id = pl.player_id AND md.f_team_id = pl.owned_by_team_id JOIN matches AS mt ON mt.match_id = md.f_match_id WHERE md.f_tour_id = 29 AND pl.f_tname = "TC Sump Runners" GROUP BY pl.f_tname, mt.round ORDER BY mt.round ASC;
 ```
 
 #### roster gcxi

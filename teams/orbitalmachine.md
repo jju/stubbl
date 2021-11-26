@@ -6,52 +6,65 @@ A dominant bashing Modern-Era team, the Orbital Machine embodies a team-oriented
 
 The Orbital Machine uses the Chariot playbook. This involves four massive players on the line with everyone else more lightly armoured but able to blitz like no one's business. Passing and ball-handling tend to be a secondary consideration and get focused into whichever players show an aptitude while the rest of the team assembles the cage to roll down the field.
 
-## Official Lineup 
+## Active Roster
 
-| Player    | Position  | SPP | Seasons |
-|-----------|-----------|-----|---------|
-| Ruslan   | Blitzer      |   Star |       3 |
-| Jarm     | Blitzer      |    Rookie |       3 |
-| Kendrick | Blitzer      |   Emerging Star |       3 |
-| Stino    | Blitzer      |   Veteran |       6 |
-| Spinal   | Blitzer      |   Seasoned Veteran |       5 |
-| Odalric  | Blocker |   Star |       3 |
-| Mate     | Blocker |   Star |       4 |
-| Jothi    | Blocker |   Star |       2 |
-| Bolt     | Blocker |   Seasoned Veteran |       5 |
-| Corinne  | Blitzer      |    Experienced |       3 |
-| Praveena | Blitzer      |    Bench |       3 |
-| Uli      | Heavy      |   Star |       3 |
+| # | Player    | Position  | SPP | Seasons | GP | Contracts | Value | Bonus |
+|---|-----------|-----------|-----|---------|----|-----------|-------|-------|
+|    1 | Jarm      | Blitzer      |   33 |       4 |   17 |         1 | 130000 |     0 |
+|    2 | Rodie     | Blitzer      |    7 |       1 |    2 |         0 |  80000 |     0 |
+|    3 | Ruslan    | Blitzer      |   87 |       4 |   43 |         3 | 170000 |     0 |
+|    4 | Akhenaton | Blitzer      |    6 |       1 |    9 |         1 |  90000 |     0 |
+|    5 | Stino     | Blitzer      |   23 |       7 |   34 |         2 | 100000 |     0 |
+|    6 | Spinal    | Blitzer      |   53 |       6 |   71 |         5 | 200000 | 50000 |
+|    7 | Odalric   | Blocker |   80 |       4 |   50 |         3 | 200000 |     0 |
+|    8 | Collar    | Blocker |   45 |       5 |   52 |         3 | 160000 |     0 |
+|    9 | Jothi     | Blocker |   56 |       3 |   36 |         2 | 210000 |     0 |
+|   10 | Anvil     | Blocker |   55 |       5 |   44 |         3 | 180000 |     0 |
+|   11 | Kris      | Blitzer      |    1 |       1 |    4 |         0 |  60000 |     0 |
+|   12 | Katiuscia | Blitzer      |    0 |       1 |    4 |         0 |  60000 |     0 |
+|   13 | Ekkebert  | Blitzer      |    0 |       1 |    4 |         0 |  60000 |     0 |
+|   16 | Uli       | Heavy      |  114 |       4 |   48 |         3 | 260000 |     0 |
 
-### Bench
+### Depth (on payroll)
 
-| Player    | Position  | SPP | Seasons |
-|-----------|-----------|-----|---------|
-| Leppard  | Blitzer |  Superstar |       6 |
-| Collar   | Blocker |   Seasoned Veteran |       4 |
-| Anvil    | Blocker |   Seasoned Veteran |       4 |
+| # | Player    | Position  | SPP | Seasons | GP | Contracts | Value | Bonus |
+|---|-----------|-----------|-----|---------|----|-----------|-------|-------|
+
+
+### Non Roster
+
+| # | Player    | Position  | SPP | Seasons | GP | Contracts | Value | Bonus |
+|---|-----------|-----------|-----|---------|----|-----------|-------|-------|
+
 
 ```
-SELECT pl.nr AS "#", pl.name AS Player, pl.f_pos_name AS Position, sum(mp.spp) AS 'SPP', count(DISTINCT mp.f_trid) AS Seasons, sum(mp.played) AS "GP", ROUND(sum(mp.played)/15) AS Contracts, pl.value AS Value, pl.extra_val AS Bonus FROM mv_players as mp JOIN players as pl ON mp.f_pid = pl.player_id AND mp.f_tid = pl.owned_by_team_id WHERE pl.f_tname = "TEAM" GROUP BY pl.name HAVING pl.name NOT LIKE '%.' ORDER BY pl.nr ASC;
+SELECT pl.nr AS "#", pl.name AS Player, pl.f_pos_name AS Position, sum(mp.spp) AS 'SPP', count(DISTINCT mp.f_trid) AS Seasons, sum(mp.played) AS "GP", ROUND(sum(mp.played)/15) AS Contracts, pl.value AS Value, pl.extra_val AS Bonus FROM mv_players as mp JOIN players as pl ON mp.f_pid = pl.player_id AND mp.f_tid = pl.owned_by_team_id WHERE pl.f_tname = "Orbital Machine" GROUP BY pl.name HAVING pl.name NOT LIKE '%.' ORDER BY pl.nr ASC;
 ```
 
 ## Records
 
-### Pro Level Record (W-D-L)
+### Record by Division
 
-39-11-25
-
-```
-SELECT teams.name, divisions.name, sum(mr.won) AS W, sum(mr.draw) AS D, sum(mr.lost) AS L, sum(mr.played) AS GP, avg(mr.win_pct) AS "Win%", sum(mr.gf) AS GF, sum(mr.ga) AS GA, sum(mr.tcasf), sum(mr.tcdiff), sum(mr.ff) FROM mv_teams AS mr JOIN divisions ON mr.f_did = divisions.did JOIN teams ON teams.team_id = mr.f_tid WHERE teams.name = "Orbital Machine" GROUP BY teams.name, mr.f_did ORDER BY sum(mr.won) DESC limit 3;
-```
-
-### UBBL Record (W-D-L)
-
-40-11-29
+| Team            | Division | W    | D    | L    | GP   | Win%   | GF   | GA   | Cas  | CasDiff | Fans |
+|-----------------|----------|------|------|------|------|--------|------|------|------|---------|------|
+| Orbital Machine | Pro      |   40 |   17 |   34 |   91 | 53.817 |  138 |  142 |  228 |     136 |    1 |
+| Orbital Machine | Open     |    1 |    0 |    4 |    5 | 16.667 |    6 |    9 |    8 |       0 |   -3 |
 
 ```
-SELECT teams.name, sum(mr.won), sum(mr.draw), sum(mr.lost), sum(mr.played), avg(mr.win_pct), sum(mr.gf), sum(mr.ga), sum(mr.tcasf), sum(mr.tcdiff), sum(mr.ff) FROM mv_teams AS mr JOIN teams ON teams.team_id = mr.f_tid WHERE teams.name = "Orbital Machine" GROUP BY teams.name ORDER BY sum(mr.won) DESC limit 3;
+SELECT teams.name AS Team, divisions.name AS Division, sum(mr.won) AS W, sum(mr.draw) AS D, sum(mr.lost) AS L, sum(mr.played) AS GP, round(avg(mr.win_pct),3) AS "Win%", sum(mr.gf) AS GF, sum(mr.ga) AS GA, sum(mr.tcasf) AS Cas, sum(mr.tcdiff) AS CasDiff, sum(mr.ff) AS Fans FROM mv_teams AS mr JOIN divisions ON mr.f_did = divisions.did JOIN teams ON teams.team_id = mr.f_tid WHERE teams.name = "Orbital Machine" GROUP BY teams.name, mr.f_did ORDER BY sum(mr.won) DESC limit 3;
 ```
+
+### UBBL Record
+
+| Team            | W    | D    | L    | GP   | Win%   | GF   | GA   | Cas  | CasDiff | Fans |
+|-----------------|-----:|-----:|-----:|-----:|-------:|-----:|-----:|-----:|--------:|-----:|
+| Orbital Machine |   41 |   17 |   38 |   96 | 44.530 |  144 |  151 |  236 |     136 |   -2 |
+
+
+```
+SELECT teams.name AS Team, sum(mr.won) AS W, sum(mr.draw) AS D, sum(mr.lost) AS L, sum(mr.played) AS GP, round(avg(mr.win_pct),3) AS "Win%", sum(mr.gf) AS GF, sum(mr.ga) AS GA, sum(mr.tcasf) AS Cas, sum(mr.tcdiff) AS CasDiff, sum(mr.ff) AS Fans FROM mv_teams AS mr JOIN teams ON teams.team_id = mr.f_tid WHERE teams.name = "Orbital Machine" GROUP BY teams.name ORDER BY sum(mr.won) DESC limit 3;
+```
+
 
 ### Prizes
 
@@ -105,25 +118,25 @@ The Machine didn't have that deep playoff run they were expecting. They didn't s
 
 | Team            | round | Touches | TDs  | Rush | Cp   | PassDist | Caught | Intercepts | Cas  | Blocks | Sacks | MVPs | SPP  |  Location | WDL |
 |-----------------|-------|---------|------|------|------|----------|--------|------------|------|--------|-------|------|------|-------------|-------------|
-| Orbital Machine |     1 |       5 |    2 |   41 |    1 |        4 |      1 |          0 |    3 |     56 |     0 |    1 |   18 |  Home | D |
-| Orbital Machine |     2 |       3 |    2 |   59 |    2 |        4 |      2 |          0 |    1 |     49 |     0 |    1 |   15 |  Away | L |
-| Orbital Machine |     3 |       2 |    1 |   42 |    0 |        0 |      0 |          1 |    3 |     72 |     1 |    1 |   16 |  Away | D |
-| Orbital Machine |     4 |       5 |    2 |   44 |    4 |        3 |      4 |          0 |    4 |     37 |     0 |    1 |   23 |  Away | W |
-| Orbital Machine |     5 |       2 |    2 |   24 |    1 |        6 |      1 |          0 |    3 |     71 |     3 |    1 |   18 |  Away | D |
-| Orbital Machine |     6 |       5 |    0 |   30 |    0 |        0 |      0 |          0 |    3 |     52 |     1 |    1 |   11 |  Home | L |
-| Orbital Machine |     7 |       3 |    1 |   35 |    0 |        0 |      0 |          0 |    1 |     71 |     0 |    1 |   10 |  Home | L |
-| Orbital Machine |     8 |       0 |    0 |   18 |    0 |        0 |      0 |          0 |    2 |     40 |     2 |    1 |    9 |  Away | L |
-| Orbital Machine |     9 |       6 |    1 |   32 |    2 |        1 |      2 |          1 |    2 |     60 |     1 |    1 |   16 |  Away | L |
-| Orbital Machine |    10 |       1 |    0 |   23 |    1 |        2 |      1 |          0 |    3 |     57 |     1 |    1 |   12 |  Home | L |
-| Orbital Machine |    11 |       2 |    1 |   43 |    0 |        0 |      0 |          0 |    1 |     49 |     3 |    1 |   10 |  Home | D |
-| Orbital Machine |    12 |       4 |    1 |   35 |    2 |        4 |      2 |          0 |    1 |     47 |     0 |    1 |   12 |  Home | D |
-| Orbital Machine |    13 |       1 |    0 |   20 |    1 |        4 |      2 |          0 |    6 |     47 |     2 |    1 |   18 |  Away | L |
-| Orbital Machine |    14 |       2 |    1 |   36 |    0 |        0 |      0 |          0 |    1 |     36 |     0 |    1 |   10 |  Away | D |
-| Orbital Machine |    15 |       4 |    2 |   50 |    3 |        8 |      3 |          0 |    5 |     43 |     0 |    1 |   24 |  Home | L |
-| Orbital Machine |   BYE |       0 |    0 |    0 |    0 |        0 |      0 |          0 |    0 |      0 |     0 |    0 |    0 |   BYE | L |
+| Orbital Machine |     1 |       7 |    2 |   41 |    1 |        4 |      1 |          0 |    3 |     56 |     0 |    1 |   18 |  Home | D |
+| Orbital Machine |     2 |      10 |    2 |   59 |    2 |        4 |      2 |          0 |    1 |     49 |     0 |    1 |   15 |  Away | L |
+| Orbital Machine |     3 |       6 |    1 |   42 |    0 |        0 |      0 |          1 |    3 |     72 |     1 |    1 |   16 |  Away | D |
+| Orbital Machine |     4 |      10 |    2 |   44 |    4 |        3 |      4 |          0 |    4 |     37 |     0 |    1 |   23 |  Away | W |
+| Orbital Machine |     5 |       6 |    2 |   24 |    1 |        6 |      1 |          0 |    3 |     71 |     3 |    1 |   18 |  Away | D |
+| Orbital Machine |     6 |       7 |    0 |   30 |    0 |        0 |      0 |          0 |    3 |     52 |     1 |    1 |   11 |  Home | L |
+| Orbital Machine |     7 |       4 |    1 |   35 |    0 |        0 |      0 |          0 |    1 |     71 |     0 |    1 |   10 |  Home | L |
+| Orbital Machine |     8 |       7 |    0 |   18 |    0 |        0 |      0 |          0 |    2 |     40 |     2 |    1 |    9 |  Away | L |
+| Orbital Machine |     9 |      11 |    1 |   32 |    2 |        1 |      2 |          1 |    2 |     60 |     1 |    1 |   16 |  Away | L |
+| Orbital Machine |    10 |       2 |    0 |   23 |    1 |        2 |      1 |          0 |    3 |     57 |     1 |    1 |   12 |  Home | L |
+| Orbital Machine |    11 |      11 |    1 |   43 |    0 |        0 |      0 |          0 |    1 |     49 |     3 |    1 |   10 |  Home | D |
+| Orbital Machine |    12 |       7 |    1 |   35 |    2 |        4 |      2 |          0 |    1 |     47 |     0 |    1 |   12 |  Home | D |
+| Orbital Machine |    13 |       9 |    0 |   20 |    1 |        4 |      2 |          0 |    6 |     47 |     2 |    1 |   18 |  Away | L |
+| Orbital Machine |    14 |       7 |    1 |   36 |    0 |        0 |      0 |          0 |    1 |     36 |     0 |    1 |   10 |  Away | D |
+| Orbital Machine |    15 |      10 |    2 |   50 |    3 |        8 |      3 |          0 |    5 |     43 |     0 |    1 |   24 |  Home | L |
+| Orbital Machine |   251 |       0 |    0 |    0 |    0 |        0 |      0 |          0 |    0 |      0 |     0 |    0 |    0 |   BYE | L |
 
 ```
-SELECT pl.f_tname AS Team, mt.round, mx.catches + mx.pickups + md.intcpt + mx.handoff_catches AS Touches, sum(md.td) AS TDs, sum(mx.rushing_distance_move) AS Rush, sum(md.cp) AS Cp, sum(mx.pass_distance) AS PassDist, sum(mx.catches) AS Caught, sum(md.intcpt) AS Intercepts, sum(md.bh) + sum(md.si) + sum(md.ki) AS Cas, sum(mx.inflicted_blocks) AS Blocks, sum(mx.inflicted_sacks) AS Sacks, sum(md.mvp) AS MVPs, (sum(md.td) * 3) + sum(md.cp) + (sum(md.intcpt) * 2) + (sum(md.bh) * 2) + (sum(md.si) * 2) + (sum(md.ki) * 2) + (sum(md.mvp) * 5) AS SPP, mt.team1_score, mt.team2_score FROM match_data AS md JOIN match_data_es AS mx ON md.f_player_id = mx.f_pid AND md.f_match_id = mx.f_mid JOIN players AS pl ON md.f_player_id = pl.player_id AND md.f_team_id = pl.owned_by_team_id JOIN matches AS mt ON mt.match_id = md.f_match_id WHERE md.f_tour_id = 29 AND pl.f_tname = "Orbital Machine" GROUP BY pl.f_tname, mt.round ORDER BY mt.round ASC;
+SELECT pl.f_tname AS Team, mt.round, sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches) AS Touches, sum(md.td) AS TDs, sum(mx.rushing_distance_move) AS Rush, sum(md.cp) AS Cp, sum(mx.pass_distance) AS PassDist, sum(mx.catches) AS Caught, sum(md.intcpt) AS Intercepts, sum(md.bh) + sum(md.si) + sum(md.ki) AS Cas, sum(mx.inflicted_blocks) AS Blocks, sum(mx.inflicted_sacks) AS Sacks, sum(md.mvp) AS MVPs, (sum(md.td) * 3) + sum(md.cp) + (sum(md.intcpt) * 2) + (sum(md.bh) * 2) + (sum(md.si) * 2) + (sum(md.ki) * 2) + (sum(md.mvp) * 5) AS SPP, mt.team1_score, mt.team2_score FROM match_data AS md JOIN match_data_es AS mx ON md.f_player_id = mx.f_pid AND md.f_match_id = mx.f_mid JOIN players AS pl ON md.f_player_id = pl.player_id AND md.f_team_id = pl.owned_by_team_id JOIN matches AS mt ON mt.match_id = md.f_match_id WHERE md.f_tour_id = 29 AND pl.f_tname = "Orbital Machine" GROUP BY pl.f_tname, mt.round ORDER BY mt.round ASC;
 ```
 
 #### GCXI
