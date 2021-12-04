@@ -122,3 +122,5 @@ The Vagabonds' primary rivalry is with the [Old Wyrms](oldwyrms) as the pair of 
 ### Famous Games
 
 The loss that ended the Vagabonds' GCVIII season was [[hulud]]'s final match, as well as [[yakup]]'s last one in the pros. It was a great game.
+
+The first-round playoff upset against the [Kaiju Dynamo](kaijudynamo) in GCXI was a comeback for the ages. [[gcxi-16-kdzv]]

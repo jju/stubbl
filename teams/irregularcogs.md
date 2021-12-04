@@ -21,8 +21,8 @@ The Irregular Cogs use the Drop Eagle playbook. It's an adaptation of the Herman
 | Iniobong   | Lineman   |   Veteran |       3 |
 | Granlan    | Lineman   |    Experienced |       4 |
 | Matheo     | Lineman   |    Experienced |       3 |
-| Pinja      | Witch Elf |   Emerging Star |       2 |
-| Ignat      | Witch Elf |   Superstar |       6 |
+| Pinja      | Attacker |   Emerging Star |       2 |
+| Ignat      | Attacker |   Superstar |       6 |
 
 ### Bench
 
@@ -30,7 +30,7 @@ The Irregular Cogs use the Drop Eagle playbook. It's an adaptation of the Herman
 |-----------|-----------|-----|---------|
 | Tel        | Lineman   |   Veteran |       5 |
 | Grumman    | Lineman   |   Veteran |       3 |
-| Erazem     | Witch Elf |   Star |       6 |
+| Erazem     | Attacker |   Star |       6 |
 
 ## Records
 

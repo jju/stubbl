@@ -4,16 +4,16 @@ At the end of the regular season these were the GCXI Casualty stats.
 
 | Player   | Team             | Season       | Cas  | BH   | SI   | Ki   | blocks | sacks | sack_block | cas_block | knockdowns | down_block |
 |----------|------------------|--------------|------|------|------|------|--------|-------|------------|-----------|------------|------------|
-| Uli      | Orbital Machine  | Green Cup XI |   22 |   13 |    9 |    0 |    174 |     2 |     0.0115 |    0.1264 |         86 |     0.4943 |
-| Jantine  | Ravenous Eagles  | Green Cup XI |   11 |    9 |    2 |    0 |     94 |     1 |     0.0106 |    0.1170 |         50 |     0.5319 |
-| Percy    | Ravenous Eagles  | Green Cup XI |   10 |    3 |    5 |    2 |     56 |     0 |     0.0000 |    0.1786 |         36 |     0.6429 |
-| Odalric  | Orbital Machine  | Green Cup XI |    7 |    4 |    2 |    1 |    103 |     1 |     0.0097 |    0.0680 |         51 |     0.4951 |
-| Pippin   | Badger Claws     | Green Cup XI |    7 |    4 |    2 |    1 |     39 |     2 |     0.0513 |    0.1795 |         20 |     0.5128 |
-| Marley   | Carcosan Tatters | Green Cup XI |    7 |    5 |    1 |    1 |     89 |     0 |     0.0000 |    0.0787 |         39 |     0.4382 |
-| Zina     | Irregular Cogs   | Green Cup XI |    6 |    3 |    2 |    1 |     86 |     5 |     0.0581 |    0.0698 |         43 |     0.5000 |
-| Florinda | Glorious Hounds  | Green Cup XI |    5 |    4 |    1 |    0 |    142 |     6 |     0.0423 |    0.0352 |         72 |     0.5070 |
-| Iris     | Badger Claws     | Green Cup XI |    5 |    3 |    2 |    0 |    117 |     2 |     0.0171 |    0.0427 |         49 |     0.4188 |
-| Tijmen   | Kaiju Dynamo     | Green Cup XI |    5 |    5 |    0 |    0 |     52 |     0 |     0.0000 |    0.0962 |         25 |     0.4808 |
+| Uli     | Orbital Machine  | Green Cup XI |   22 |   13 |    9 |    0 |    174 |     2 |     0.0115 |    0.1264 |         86 |     0.4943 |
+| Jantine | Ravenous Eagles  | Green Cup XI |   11 |    9 |    2 |    0 |     94 |     1 |     0.0106 |    0.1170 |         50 |     0.5319 |
+| Percy   | Ravenous Eagles  | Green Cup XI |   11 |    3 |    5 |    3 |     65 |     0 |     0.0000 |    0.1692 |         44 |     0.6769 |
+| Pippin  | Badger Claws     | Green Cup XI |    7 |    4 |    2 |    1 |     39 |     2 |     0.0513 |    0.1795 |         20 |     0.5128 |
+| Marley  | Carcosan Tatters | Green Cup XI |    7 |    5 |    1 |    1 |     89 |     0 |     0.0000 |    0.0787 |         39 |     0.4382 |
+| Odalric | Orbital Machine  | Green Cup XI |    7 |    4 |    2 |    1 |    103 |     1 |     0.0097 |    0.0680 |         51 |     0.4951 |
+| Zina    | Irregular Cogs   | Green Cup XI |    6 |    3 |    2 |    1 |     86 |     5 |     0.0581 |    0.0698 |         43 |     0.5000 |
+| Tijmen  | Kaiju Dynamo     | Green Cup XI |    6 |    5 |    1 |    0 |     58 |     0 |     0.0000 |    0.1034 |         26 |     0.4483 |
+| Danr.   | Cackling Furies  | Green Cup XI |    5 |    4 |    1 |    0 |     47 |     1 |     0.0213 |    0.1064 |         22 |     0.4681 |
+| Beitris | Gore Farmers     | Green Cup XI |    5 |    2 |    2 |    1 |     67 |     2 |     0.0299 |    0.0746 |         36 |     0.5373 |
 
 
 ```

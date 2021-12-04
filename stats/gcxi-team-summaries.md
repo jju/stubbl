@@ -134,10 +134,16 @@ At the end of the regular season these were the GCXI Casualty stats.
 | Badger Claws      | Green Cup XI |   20 |   11 |    8 |    1 |    424 |    17 |     0.0401 |    0.0472 |        176 |     0.4151 |
 | Darkling Spectres | Green Cup XI |   20 |   11 |    7 |    2 |    548 |    11 |     0.0201 |    0.0365 |        286 |     0.5219 |
 | TC Sump Runners   | Green Cup XI |   19 |    9 |    7 |    3 |    551 |    16 |     0.0290 |    0.0345 |        268 |     0.4864 |
+| Irregular Cogs    | Green Cup XI |   18 |   11 |    5 |    2 |    600 |    24 |     0.0400 |    0.0300 |        275 |     0.4583 |
+| Eldritch Fatality | Green Cup XI |   17 |   13 |    4 |    0 |    541 |    20 |     0.0370 |    0.0314 |        251 |     0.4640 |
+| Arboreal Menace   | Green Cup XI |   14 |   14 |    0 |    0 |    399 |    20 |     0.0501 |    0.0351 |        198 |     0.4962 |
+| Glorious Hounds   | Green Cup XI |   13 |    7 |    6 |    0 |    414 |    23 |     0.0556 |    0.0314 |        204 |     0.4928 |
+| Filthy Tide       | Green Cup XI |   11 |    7 |    4 |    0 |    367 |    16 |     0.0436 |    0.0300 |        149 |     0.4060 |
+| Old Wyrms         | Green Cup XI |   11 |    5 |    5 |    1 |    536 |    16 |     0.0299 |    0.0205 |        213 |     0.3974 |
 
 
 ```
-SELECT  pl.f_tname AS Team, tours.name AS Season, sum(mp.cas) As "Cas", sum(mp.bh) AS "BH", sum(mp.si) AS "SI", sum(mp.ki) AS "Ki", sum(me.inflicted_blocks) AS blocks,  sum(me.inflicted_sacks) AS sacks,  sum(me.inflicted_sacks) / sum(me.inflicted_blocks) AS sack_block,  sum(mp.cas) / sum(me.inflicted_blocks) AS cas_block, sum(me.inflicted_knock_downs) AS knockdowns, sum(me.inflicted_knock_downs) / sum(me.inflicted_blocks) AS down_block FROM mv_es_players AS me  JOIN mv_players AS mp ON me.f_pid = mp.f_pid AND me.f_trid = mp.f_trid  JOIN players AS pl ON mp.f_pid = pl.player_id AND mp.f_tid = pl.owned_by_team_id  JOIN tours ON mp.f_trid = tours.tour_id and mp.f_did = tours.f_did WHERE tours.name = 'Green Cup XI' GROUP BY pl.f_tname, tours.name ORDER BY sum(mp.cas) DESC limit 10;
+SELECT  pl.f_tname AS Team, tours.name AS Season, sum(mp.cas) As "Cas", sum(mp.bh) AS "BH", sum(mp.si) AS "SI", sum(mp.ki) AS "Ki", sum(me.inflicted_blocks) AS blocks,  sum(me.inflicted_sacks) AS sacks,  sum(me.inflicted_sacks) / sum(me.inflicted_blocks) AS sack_block,  sum(mp.cas) / sum(me.inflicted_blocks) AS cas_block, sum(me.inflicted_knock_downs) AS knockdowns, sum(me.inflicted_knock_downs) / sum(me.inflicted_blocks) AS down_block FROM mv_es_players AS me  JOIN mv_players AS mp ON me.f_pid = mp.f_pid AND me.f_trid = mp.f_trid  JOIN players AS pl ON mp.f_pid = pl.player_id AND mp.f_tid = pl.owned_by_team_id  JOIN tours ON mp.f_trid = tours.tour_id and mp.f_did = tours.f_did WHERE tours.name = 'Green Cup XI' GROUP BY pl.f_tname, tours.name ORDER BY sum(mp.cas) DESC limit 16;
 ```
 
 

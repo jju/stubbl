@@ -25,16 +25,20 @@ The Dynamo are favoured to beat the lowly Vagabonds
 * [Darkling Spectres](../../teams/darklingspectres) - [Ravenous Eagles](../../teams/ravenouseagles) (Even)
 * [Irregular Cogs](../../teams/irregularcogs) - [Carcosan Tatters](../../teams/carcosantatters) (IC)
 
+The Vagabonds got a huge upset, but will be without their Heavy [[Zaira]] when they face the Hounds in the Quarterfinals. The Dynamo have to be disappointed at the way their so-promising season fizzled. KD 3 - ZV 4 [[gcxi-16-kdzv]]
 
+The Wyrms played like defending champions and seem to have their hearts set on the three-peat despite a poor regular season showing. The Tide can't be happy about having to deal with this team on the upswing. GF 1 - OW 3 [[gcxi-16-gfow]]
+
+The Spectres defeated the Eagles in a tense nail-biting match that almost seemed destined for overtime, but was won on a drive where it felt like everyone touched the ball, and Ragnar was martyred out of it. [[gcxi-16-dsre]]
 
 ## standings
 
 | Stacks | W-D-L | Outlands | W-D-L | Heaps | W-D-L | Pits | W-D-L |
 |-------|-----|--|--|------|------|--|--|
 | **Filthy Tide** | 10-2-3 | **Arboreal Menace** | 9-2-4 | **Glorious Hounds** | 9-4-2 | **Eldritch Fatality** | 11-0-4 |
-| Gore Farmers | 5-2-8 | Irregular Cogs | 8-2-5 | Kaiju Dynamo | 10-1-4 | Darkling Spectres | 7-1-7 |
-| Old Wyrms | 4-3-8 | Carcosan Tatters | 7-2-6 | Zensun Vagabonds | 4-2-9 | Ravenous Eagles | 5-3-7 |
-| TC Sump Runners | 1-4-10 | Badger Claws | 5-4-6 | Orbital Machine | 1-6-8 | Cackling Furies | 5-2-8 |
+| *Gore Farmers* | 5-2-8 | Irregular Cogs | 8-2-5 | *Kaiju Dynamo* | 10-1-4 | Darkling Spectres | 7-1-7 |
+| Old Wyrms | 4-3-8 | Carcosan Tatters | 7-2-6 | Zensun Vagabonds | 4-2-9 | *Ravenous Eagles* | 5-3-7 |
+| *TC Sump Runners* | 1-4-10 | *Badger Claws* | 5-4-6 | *Orbital Machine* | 1-6-8 | *Cackling Furies* | 5-2-8 |
 
 
 ## player of the week standings

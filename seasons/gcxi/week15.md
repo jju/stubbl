@@ -87,3 +87,94 @@ This was another possible Classic Conference final preview, and one that the Hou
 ```
 SELECT pl.name AS Player, pl.f_tname AS Team, sum(md.td) AS TDs, sum(mx.rushing_distance_move) AS Rush, sum(md.cp) AS Cp,	sum(mx.pass_distance) AS CpDist, sum(mx.catches) AS Ctch, sum(md.intcpt) AS "Int", sum(md.bh) + sum(md.si) + sum(md.ki) AS Cas, sum(mx.inflicted_blocks) AS Blck, sum(mx.inflicted_sacks) AS Sck, sum(md.mvp) AS MVPs, (sum(md.td) * 3) + sum(md.cp) + (sum(md.intcpt) * 2) + (sum(md.bh) * 2) + (sum(md.si) * 2) + (sum(md.ki) * 2) + (sum(md.mvp) * 5) AS SPP FROM match_data AS md JOIN match_data_es AS mx ON md.f_player_id = mx.f_pid AND md.f_match_id = mx.f_mid JOIN players AS pl ON md.f_player_id = pl.player_id AND md.f_team_id = pl.owned_by_team_id JOIN matches AS mt ON mt.match_id = md.f_match_id JOIN tours ON mt.f_tour_id = tours.tour_id WHERE tours.name = "Green Cup XI" AND mt.round = 15 GROUP BY pl.name, pl.f_tname ORDER BY SPP DESC LIMIT 10;
 ```
+
+## season leaderboards
+
+```
+SELECT pl.name AS Player, pl.f_tname AS Team, sum(md.td) AS TDs, sum(mx.rushing_distance_move) AS Rush, sum(md.cp) AS Cp,	sum(mx.pass_distance) AS CpDist, sum(mx.catches) AS Ctch, sum(md.intcpt) AS "Int", sum(md.bh) + sum(md.si) + sum(md.ki) AS Cas, sum(mx.inflicted_blocks) AS Blck, sum(mx.inflicted_sacks) AS Sck, sum(md.mvp) AS MVPs, (sum(md.td) * 3) + sum(md.cp) + (sum(md.intcpt) * 2) + (sum(md.bh) * 2) + (sum(md.si) * 2) + (sum(md.ki) * 2) + (sum(md.mvp) * 5) AS SPP FROM match_data AS md JOIN match_data_es AS mx ON md.f_player_id = mx.f_pid AND md.f_match_id = mx.f_mid JOIN players AS pl ON md.f_player_id = pl.player_id AND md.f_team_id = pl.owned_by_team_id JOIN matches AS mt ON mt.match_id = md.f_match_id JOIN tours ON mt.f_tour_id = tours.tour_id WHERE tours.name = "Green Cup XI" GROUP BY pl.name, pl.f_tname ORDER BY SPP DESC LIMIT 5;
+```
+
+### mvp
+
+| Player            | Team             | TDs  | Rush | Cp   | CpDist | Ctch | Int | Cas  | Blck | Sck | MVP | SPP  |
+|-------------------|------------------|------|------|------|----------|---------|---|---|--------|-------|------|------|
+| Venus  | Filthy Tide     |   59 |  694 |    1 |      3 |   39 |    0 |    0 |    0 |    0 |    1 |  183 |
+| Ziba   | Glorious Hounds |   56 |  671 |    2 |      0 |   52 |    0 |    0 |    8 |    1 |    2 |  180 |
+| Laurel | Arboreal Menace |   30 |  455 |    0 |      0 |   38 |    0 |    0 |    1 |    0 |    1 |   95 |
+| Frans  | Irregular Cogs  |   18 |  208 |    3 |      8 |   22 |    5 |    0 |   31 |    0 |    1 |   72 |
+| Klim   | Badger Claws    |   19 |  267 |    0 |      0 |   19 |    0 |    0 |    2 |    2 |    2 |   67 |
+
+### TDs
+
+| Player            | Team             | TDs  | Rush | Cp   | CpDist | Ctch | Int | Cas  | Blck | Sck | MVP | SPP  |
+|-------------------|------------------|------|------|------|----------|---------|---|---|--------|-------|------|------|
+| Venus  | Filthy Tide     |   59 |  694 |    1 |      3 |   39 |    0 |    0 |    0 |    0 |    1 |  183 |
+| Ziba   | Glorious Hounds |   56 |  671 |    2 |      0 |   52 |    0 |    0 |    8 |    1 |    2 |  180 |
+| Laurel | Arboreal Menace |   30 |  455 |    0 |      0 |   38 |    0 |    0 |    1 |    0 |    1 |   95 |
+
+
+### passing
+
+| Player            | Team             | TDs  | Rush | Cp   | CpDist | Ctch | Int | Cas  | Blck | Sck | MVP | SPP  |
+|-------------------|------------------|------|------|------|----------|---------|---|---|--------|-------|------|------|
+| Luanna  | Cackling Furies  |    1 |  204 |   54 |    221 |    0 |    1 |    0 |   15 |    0 |    1 |   64 |
+| Betuel  | Zensun Vagabonds |    0 |  186 |   48 |    220 |    2 |    0 |    3 |   10 |    1 |    1 |   59 |
+| Oxana   | Glorious Hounds  |    0 |  197 |   48 |    170 |    2 |    1 |    0 |   15 |    0 |    1 |   55 |
+
+
+### rushing
+
+| Player            | Team             | TDs  | Rush | Cp   | CpDist | Ctch | Int | Cas  | Blck | Sck | MVP | SPP  |
+|-------------------|------------------|------|------|------|----------|---------|---|---|--------|-------|------|------|
+| Venus  | Filthy Tide     |   59 |  694 |    1 |      3 |   39 |    0 |    0 |    0 |    0 |    1 |  183 |
+| Ziba   | Glorious Hounds |   56 |  671 |    2 |      0 |   52 |    0 |    0 |    8 |    1 |    2 |  180 |
+| Laurel | Arboreal Menace |   30 |  455 |    0 |      0 |   38 |    0 |    0 |    1 |    0 |    1 |   95 |
+
+### catches
+
+| Player            | Team             | TDs  | Rush | Cp   | CpDist | Ctch | Int | Cas  | Blck | Sck | MVP | SPP  |
+|-------------------|------------------|------|------|------|----------|---------|---|---|--------|-------|------|------|
+| Ziba   | Glorious Hounds |   56 |  671 |    2 |      0 |   52 |    0 |    0 |    8 |    1 |    2 |  180 |
+| Venus  | Filthy Tide     |   59 |  694 |    1 |      3 |   39 |    0 |    0 |    0 |    0 |    1 |  183 |
+| Laurel | Arboreal Menace |   30 |  455 |    0 |      0 |   38 |    0 |    0 |    1 |    0 |    1 |   95 |
+
+
+### casualties
+
+| Player            | Team             | TDs  | Rush | Cp   | CpDist | Ctch | Int | Cas  | Blck | Sck | MVP | SPP  |
+|-------------------|------------------|------|------|------|----------|---------|---|---|--------|-------|------|------|
+| Uli     | Orbital Machine |    0 |    0 |    0 |      0 |    0 |    0 |   22 |  174 |    2 |    0 |   44 |
+| Jantine | Ravenous Eagles |    0 |    0 |    0 |      0 |    0 |    0 |   11 |   94 |    1 |    0 |   22 |
+| Percy   | Ravenous Eagles |    0 |    0 |    0 |      0 |    0 |    0 |   10 |   56 |    0 |    0 |   20 |
+
+### sacks
+
+| Player            | Team             | TDs  | Rush | Cp   | CpDist | Ctch | Int | Cas  | Blck | Sck | MVP | SPP  |
+|-------------------|------------------|------|------|------|----------|---------|---|---|--------|-------|------|------|
+| Ekua     | Ravenous Eagles   |    1 |    2 |    0 |      0 |    1 |    0 |    5 |   99 |    8 |    1 |   18 |
+| Pinja    | Irregular Cogs    |    0 |    7 |    0 |      0 |    0 |    1 |    2 |  112 |    7 |    3 |   21 |
+| Dunstan  | Eldritch Fatality |    0 |    2 |    1 |      5 |    0 |    0 |    5 |  122 |    7 |    0 |   11 |
+
+### blocks
+
+| Player            | Team             | TDs  | Rush | Cp   | CpDist | Ctch | Int | Cas  | Blck | Sck | MVP | SPP  |
+|-------------------|------------------|------|------|------|----------|---------|---|---|--------|-------|------|------|
+| Uli      | Orbital Machine |    0 |    0 |    0 |      0 |    0 |    0 |   22 |  174 |    2 |    0 |   44 |
+| Deepali  | Kaiju Dynamo    |    0 |    0 |    0 |      0 |    0 |    1 |    5 |  166 |    2 |    1 |   17 |
+| Florinda | Glorious Hounds |    2 |   15 |    0 |      0 |    3 |    1 |    5 |  142 |    6 |    0 |   18 |
+
+### mvps
+
+| Player            | Team             | TDs  | Rush | Cp   | CpDist | Ctch | Int | Cas  | Blck | Sck | MVP | SPP  |
+|-------------------|------------------|------|------|------|----------|---------|---|---|--------|-------|------|------|
+| Ravil  | Glorious Hounds |    6 |   60 |    3 |      6 |    7 |    0 |    0 |   13 |    3 |    6 |   51 |
+| Anvil  | Orbital Machine |    0 |    0 |    0 |      0 |    0 |    0 |    1 |   71 |    0 |    4 |   22 |
+| Vusala | Arboreal Menace |    4 |   20 |    0 |      0 |    1 |    0 |    0 |   49 |    1 |    4 |   32 |
+
+### rookie of the year
+
+| Player            | Team             | TDs  | Rush | Cp   | CpDist | Ctch | Int | Cas  | Blck | Sck | MVP | SPP  |
+|-------------------|------------------|------|------|------|----------|---------|---|---|--------|-------|------|------|
+| Koralo  | Eldritch Fatality |   10 |  194 |   17 |     15 |   18 |    0 |    2 |   13 |    0 |    2 |   61 |
+| Ravil   | Glorious Hounds   |    6 |   60 |    3 |      6 |    7 |    0 |    0 |   13 |    3 |    6 |   51 |
+| Lazar   | Irregular Cogs    |   11 |   77 |    3 |      2 |    8 |    0 |    0 |   15 |    1 |    1 |   41 |

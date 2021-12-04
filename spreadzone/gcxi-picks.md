@@ -12,7 +12,7 @@ The Heaps division had some of the biggest surprises last season, including a te
 
 Then of course we have the Pits. This is the division where we've got two rebuilding teams in the [Eldritch Fatality](..teams/eldritchfatality) and the [Cackling Furies](..teams/cacklingfuries). The Fatality were lousy in GCX, surprising everyone and they don't have the funds so far to fund a big new push. The [Darkling Spectres](../teams/darklingspectres) are running out a strange new lineup for them, which a lot of people have a hard time envisioning as a successful one. All this ineptitude probably leaves the division ripe for the [Ravenous Eagles](../teams/ravenouseagles) to sneak through to the division title again, but it's hard to say.
 
-So here's how we think the season is going to shake out:
+So here's how we think the regular season is going to shake out:
 
 | Burger Conference | | Classic Conference | |
 |---------------------|--|------------|----|

@@ -5,6 +5,8 @@ mysql -u cmsh -p sbbdb -e 'SQLCOMMANDS;' > /var/www/html/stubbl/outfile.txt
 
 ~~ INTO OUTFILE '/var/www/html/stubbl/bbstats.csv' FIELDS ENCLOSED BY '"' TERMINATED BY ';' ESCAPED BY '"' LINES TERMINATED BY '\r\n'; ~~
 
+Select ID, IF((Select COUNT(*) FROM Students WHERE Language = 'English')>(Select COUNT(*) from Students WHERE Language <> 'English'),(CONCAT("Name is ", Name)),(CONCAT("Course is ", Course))) AS 'Name/Course' from Students;
+
 # player statlines
 
 ## by season
