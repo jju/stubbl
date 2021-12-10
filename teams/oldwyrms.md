@@ -8,62 +8,63 @@ The Old Wyrms (OW) use what's known as the Excelsior playbook, where a fast frag
 
 ## Active Roster
 
-| Player    | Position  | SPP | Seasons | Playoff |
-|-----------|-----------|-----|---------|----|
-| Elvis     | Thrower  |  Legend |       7 | N |
-| Jia       | Thrower  |   Star |       3 | Y |
-| Amador    | Catcher  |  Legend |       5 | 4 |
-| Seosamh   | Catcher  |   Superstar |       3 | 4 |
-| Kelemann  | Blitzer  |   Superstar |       3 | 4 |
-| Rati      | Blitzer  |   Star |       5 | Y |
-| Elisavet  | Lineman  |   Seasoned Veteran |       7 | 2 |
-| Leilani   | Lineman  |    Experienced |       3 | N |
-| Katina    | Lineman  |    Experienced |       2 | Y |
-| Teresia   | Lineman  |    Experienced |       2 | 3 |
-| Andela    | Lineman  |   Emerging Star |       3 | Y |
-| Alva      | Lineman  |    Experienced |       2 | 3 |
-| Olaug     | Catcher  |   Veteran |       2 | Y |
-| Modest    | Catcher  |   Star |       3 | 4 |
-| Belmont   | Lineman  |   Emerging Star |       3 | Y |
+| # | Player    | Position  | SPP | Seasons | GP | Contracts | Value | Bonus |
+|---|-----------|-----------|-----|---------|----|-----------|-------|-------|
+|    1 | Jia      | Thrower  |   66 |       4 |   33 |         2 | 180000 |     0 |
+|    2 | Evander  | Thrower  |   98 |       5 |   42 |         3 | 240000 | 40000 |
+|    3 | Amador   | Catcher  |  173 |       6 |   56 |         4 | 250000 | 40000 |
+|    4 | Seosamh  | Catcher  |  124 |       4 |   33 |         2 | 220000 |     0 |
+|    5 | Kelemann | Blitzer  |   87 |       4 |   42 |         3 | 250000 |     0 |
+|    6 | Rati     | Blitzer  |   69 |       6 |   50 |         3 | 220000 | 30000 |
+|    8 | Yasmani  | Line  |   12 |       2 |   16 |         1 |  80000 |     0 |
+|   10 | Oeneios  | Line  |   20 |       2 |   13 |         1 | 110000 |     0 |
+|   11 | Andela   | Line  |   38 |       4 |   37 |         2 | 120000 |     0 |
+|   14 | Olaug    | Catcher  |   54 |       3 |   21 |         1 | 190000 |     0 |
+|   15 | Modest   | Catcher  |   85 |       4 |   28 |         2 | 240000 |     0 |
+|   16 | Belmont  | Line  |   35 |       4 |   30 |         2 | 150000 |     0 |
 
-Andela and Olaug were not part of the GCX Champion team, but Andela was around for GCIX.
+### Depth (on payroll)
 
-### Bench
+| # | Player    | Position  | SPP | Seasons | GP | Contracts | Value | Bonus |
+|---|-----------|-----------|-----|---------|----|-----------|-------|-------|
+|   17 | Roni     | Catcher  |   89 |       5 |   24 |         2 | 260000 | 30000 |
+|   18 | Zalmon   | Catcher  |   32 |       1 |    7 |         0 | 170000 |     0 |
+|   19 | Headley  | Blitzer  |   15 |       1 |    6 |         0 | 130000 |     0 |
 
-| Player    | Position  | SPP | Seasons | Playoff Qd |
-|-----------|-----------|-----|---------|----|
-| Chandan   | Thrower  |   Star |       5 | 0 |
-| Evander   | Thrower  |   Superstar |       4 | 0 |
-| Martti    | Catcher  |    Rookie |       1 | 4 |
-| Roni      | Catcher  |   Superstar |       5 | 0 |
-| Eimilios  | Blitzer  |   Veteran |       2 | 3 |
-| Lucius    | Lineman  |   Veteran |       5 | 0 |
-| Devika    | Catcher  |   Veteran |       4 | 4 |
-| Babar     | Catcher  |  Superstar |       7 | 0 |
-| Menachem  | Lineman  |    Experienced |       3 | 1 |
-| Yasmani   | Lineman  |    Rookie |       1 | Y |
-| Zipfruder | Lineman  |    Rookie |       2 | 0 |
-| Fariha    | Lineman  |    Rookie |       2 | 0 |
-| Inaya     | Lineman  |    Rookie |       1 | 0 |
-| Xun       | Lineman  |    Rookie |       1 | 0 |
-| Raza      | Lineman  |    Rookie |       1 | 0 |
-| Xiuying   | Lineman  |    Rookie |       1 | 0 |
-| Indah     | Lineman  |    Rookie |       1 | 0 |
-| Elcin     | Lineman  |    Rookie |       1 | 0 |
-| Hui       | Lineman  |    Rookie |       1 | 0 |
-| Journee   | Lineman  |   Experienced |       2 | 0 |
-| Vilma     | Lineman  |    Rookie |       2 | 0 |
 
+### Non Roster
+
+| # | Player    | Position  | SPP | Seasons | GP | Contracts | Value | Bonus |
+|---|-----------|-----------|-----|---------|----|-----------|-------|-------|
+
+```
+SELECT pl.nr AS "#", pl.name AS Player, pl.f_pos_name AS Position, sum(mp.spp) AS 'SPP', count(DISTINCT mp.f_trid) AS Seasons, sum(mp.played) AS "GP", ROUND(sum(mp.played)/15) AS Contracts, pl.value AS Value, pl.extra_val AS Bonus FROM mv_players as mp JOIN players as pl ON mp.f_pid = pl.player_id AND mp.f_tid = pl.owned_by_team_id WHERE pl.f_tname = "Old Wyrms" GROUP BY pl.name HAVING pl.name NOT LIKE '%.' ORDER BY pl.nr ASC;
+```
 
 ## Records
 
-### Pro Level Record (W-D-L)
+### Record by Division 
 
-72-24-40
+| Team      | Division | W    | D    | L    | GP   | Win%   | GF   | GA   | Cas  | CasDiff | Fans |
+|-----------|----------|------|------|------|------|--------|------|------|------|---------|------|
+| Old Wyrms | Pro      |   77 |   27 |   49 |  153 | 54.190 |  454 |  377 |  138 |    -240 |    2 |
+| Old Wyrms | Street   |    7 |    1 |    3 |   11 | 68.182 |   23 |   12 |   12 |      -9 |   -3 |
+| Old Wyrms | Open     |    3 |    0 |    1 |    4 | 75.000 |   10 |    7 |    3 |     -10 |    2 |
 
-### UBBL Record (W-D-L)
+```
+SELECT teams.name AS Team, divisions.name AS Division, sum(mr.won) AS W, sum(mr.draw) AS D, sum(mr.lost) AS L, sum(mr.played) AS GP, round(avg(mr.win_pct),3) AS "Win%", sum(mr.gf) AS GF, sum(mr.ga) AS GA, sum(mr.tcasf) AS Cas, sum(mr.tcdiff) AS CasDiff, sum(mr.ff) AS Fans FROM mv_teams AS mr JOIN divisions ON mr.f_did = divisions.did JOIN teams ON teams.team_id = mr.f_tid WHERE teams.name = "Old Wyrms" GROUP BY teams.name, mr.f_did ORDER BY sum(mr.won) DESC limit 3;
+```
 
-82-25-44
+### UBBL Record
+
+| Team      | W    | D    | L    | GP   | Win%   | GF   | GA   | Cas  | CasDiff | Fans |
+|-----------|-----:|-----:|-----:|-----:|-------:|-----:|-----:|-----:|--------:|-----:|
+| Old Wyrms |   87 |   28 |   53 |  168 | 56.867 |  487 |  396 |  153 |    -259 |    1 |
+
+
+```
+SELECT teams.name AS Team, sum(mr.won) AS W, sum(mr.draw) AS D, sum(mr.lost) AS L, sum(mr.played) AS GP, round(avg(mr.win_pct),3) AS "Win%", sum(mr.gf) AS GF, sum(mr.ga) AS GA, sum(mr.tcasf) AS Cas, sum(mr.tcdiff) AS CasDiff, sum(mr.ff) AS Fans FROM mv_teams AS mr JOIN teams ON teams.team_id = mr.f_tid WHERE teams.name = "Old Wyrms" GROUP BY teams.name ORDER BY sum(mr.won) DESC limit 3;
+```
 
 ### Prizes
 
@@ -81,20 +82,25 @@ Andela and Olaug were not part of the GCX Champion team, but Andela was around f
 
 ### Seasons
 
-| Team      | Season             | W  | D | L | GP | Win% | GF   | GA   | Cas  | CDif | FF   |
-|-----------|--------------------|--:|--:|--:|---:|-----:|---:|---:|----:|-----:|---:|
-| Old Wyrms | **Green Cup IX**         |   15 |    1 |    3 |     19 | 81.58 |   72 |   46 |   20 |    -17 |    2 |
+| Team      | Season               | W  | D | L | GP | Win% | GF   | GA   | Cas  | CDif | FF   |
+|-----------|----------------------|--:|--:|--:|---:|-----:|---:|---:|----:|-----:|---:|
+| Old Wyrms | **Green Cup IX**     |   15 |    1 |    3 |     19 | 81.58 |   72 |   46 |   20 |    -17 |    2 |
 | Old Wyrms | UBBL Challenge       |    3 |    0 |    1 |      4 |   75.00 |   10 |    7 |    4 |    -10 |    2 |
-| Old Wyrms | **Green Cup III**        |    8 |    3 |    2 |     13 | 73.08 |   43 |   25 |   11 |    -17 |    2 |
-| Old Wyrms | **Green Cup X**          |   11 |    5 |    3 |     19 | 71.05 |   61 |   49 |   14 |    -30 |    2 |
+| Old Wyrms | **Green Cup III**    |    8 |    3 |    2 |     13 | 73.08 |   43 |   25 |   11 |    -17 |    2 |
+| Old Wyrms | **Green Cup X**      |   11 |    5 |    3 |     19 | 71.05 |   61 |   49 |   14 |    -30 |    2 |
 | Old Wyrms | Green Cup V Memorial |    7 |    1 |    3 |     11 | 68.18 |   23 |   12 |    9 |     -9 |   -3 |
-| Old Wyrms | **Green Cup IV**         |    7 |    3 |    3 |     13 | 65.38 |   39 |   32 |   13 |    -27 |    2 |
+| Old Wyrms | **Green Cup IV**     |    7 |    3 |    3 |     13 | 65.38 |   39 |   32 |   13 |    -27 |    2 |
 | Old Wyrms | Green Cup II         |    6 |    2 |    3 |     11 | 63.64 |   37 |   21 |    2 |    -41 |    0 |
 | Old Wyrms | Green Cup I          |    7 |    1 |    4 |     12 |    62.50 |   40 |   28 |    6 |    -12 |    0 |
 | Old Wyrms | Green Cup VII        |    6 |    5 |    5 |     16 |  53.13 |   45 |   44 |   18 |    -39 |   -2 |
 | Old Wyrms | Green Cup VIII       |    6 |    2 |    8 |     16 |   43.75 |   38 |   39 |   14 |    -21 |   -1 |
 | Old Wyrms | Green Cup VI         |    6 |    2 |    8 |     16 |   43.75 |   37 |   42 |   15 |    -21 |    3 |
+| Old Wyrms | Green Cup XI         |    5 |    3 |    9 |     17 | 38.2353 |   41 |   49 |   14 |    -13 |   -5 |
 | Old Wyrms | Champions Circuit    |    0 |    0 |    1 |      1 |       0.00 |    1 |    2 |    1 |     -2 |   -1 |
+
+```
+SELECT teams.name AS Team, tours.name AS Season, mr.won, mr.draw, mr.lost, 	mr.played, mr.win_pct, mr.gf, mr.ga, mr.cas, mr.tcdiff,	mr.ff FROM mv_teams AS mr JOIN tours ON mr.f_trid = tours.tour_id and mr.f_did = tours.f_did JOIN teams ON teams.team_id = mr.f_tid WHERE teams.name = "Old Wyrms" ORDER BY mr.win_pct DESC limit 16;
+```
 
 ## History
 
@@ -120,34 +126,132 @@ W-D-L 9-1-5
 
 The Wyrms are going into GCXI looking to win it all again. They have a big payroll, and the funds to absorb any financial losses. The general assumption is that they will win the Stacks division easily, but could be vulnerable in the Burger Conference Final depending on how aggressively bashy their rivals play.
 
+#### GCXI summary
+
+This was the worst season in the Old Wyrms' history and they still came within a whisker of a Conference Championship berth. Things never really gelled and despite having a great lineup they were snakebit in the wins department. The team MVP, [[Martti]], was left off the playoff roster, another strange decision by HemSon (though not on par with the vicious snubbing of [[souta]]).
+
+| Team      | round | Touches | TDs  | Rush | Cp   | PassDist | Caught | Intercepts | Cas  | Blocks | Sacks | MVPs | SPP  |  Location | WDL |
+|-----------|-------|---------|------|------|------|----------|--------|------------|------|--------|-------|------|------|-------------|-------------|
+| Old Wyrms |     1 |       5 |    2 |   44 |    3 |        9 |      3 |          0 |    0 |     37 |     1 |    1 |   14 |           2 |           2 |
+| Old Wyrms |     2 |      14 |    5 |   69 |    4 |        5 |      4 |          1 |    1 |     33 |     1 |    1 |   28 |           1 |           5 |
+| Old Wyrms |     3 |       8 |    1 |   17 |    2 |       16 |      2 |          0 |    0 |     28 |     2 |    1 |   10 |           1 |           1 |
+| Old Wyrms |     4 |       9 |    2 |   48 |    4 |        4 |      4 |          1 |    1 |     37 |     0 |    1 |   19 |           3 |           2 |
+| Old Wyrms |     5 |      28 |    5 |   83 |   12 |       32 |     12 |          0 |    1 |     45 |     2 |    1 |   34 |           5 |           4 |
+| Old Wyrms |     6 |       3 |    0 |   15 |    2 |        6 |      2 |          0 |    0 |     28 |     0 |    1 |    7 |           2 |           0 |
+| Old Wyrms |     7 |      18 |    4 |  100 |    7 |       27 |      7 |          1 |    1 |     53 |     0 |    1 |   28 |           5 |           4 |
+| Old Wyrms |     8 |      10 |    3 |   50 |    5 |       13 |      5 |          0 |    1 |     53 |     3 |    1 |   21 |           3 |           3 |
+| Old Wyrms |     9 |      12 |    2 |   33 |    4 |       13 |      4 |          0 |    2 |     23 |     2 |    1 |   19 |           1 |           2 |
+| Old Wyrms |    10 |      10 |    2 |   45 |    4 |        7 |      4 |          0 |    0 |     30 |     0 |    1 |   15 |           2 |           4 |
+| Old Wyrms |    11 |       8 |    1 |   32 |    4 |       11 |      4 |          0 |    0 |     33 |     0 |    1 |   12 |           4 |           1 |
+| Old Wyrms |    12 |       4 |    0 |   15 |    1 |        0 |      1 |          0 |    0 |     23 |     1 |    1 |    6 |           0 |           2 |
+| Old Wyrms |    13 |      20 |    4 |   78 |    7 |       29 |      7 |          0 |    2 |     41 |     2 |    1 |   28 |           3 |           4 |
+| Old Wyrms |    14 |       5 |    2 |   43 |    2 |       10 |      2 |          0 |    1 |     40 |     1 |    1 |   15 |           2 |           3 |
+| Old Wyrms |    15 |      17 |    3 |   75 |    8 |       46 |      8 |          0 |    1 |     32 |     1 |    1 |   24 |           7 |           3 |
+| Old Wyrms |   R16 |      12 |    3 |   36 |    3 |       18 |      3 |          1 |    1 |     37 |     1 |    1 |   21 |           1 |           3 |
+| Old Wyrms |    QF |      15 |    2 |   64 |    5 |       11 |      5 |          0 |    2 |     41 |     2 |    1 |   20 |           3 |           2 |
+
+```
+SELECT pl.f_tname AS Team, mt.round, sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches) AS Touches, sum(md.td) AS TDs, sum(mx.rushing_distance_move) AS Rush, sum(md.cp) AS Cp, sum(mx.pass_distance) AS PassDist, sum(mx.catches) AS Caught, sum(md.intcpt) AS Intercepts, sum(md.bh) + sum(md.si) + sum(md.ki) AS Cas, sum(mx.inflicted_blocks) AS Blocks, sum(mx.inflicted_sacks) AS Sacks, sum(md.mvp) AS MVPs, (sum(md.td) * 3) + sum(md.cp) + (sum(md.intcpt) * 2) + (sum(md.bh) * 2) + (sum(md.si) * 2) + (sum(md.ki) * 2) + (sum(md.mvp) * 5) AS SPP, mt.team1_score, mt.team2_score FROM match_data AS md JOIN match_data_es AS mx ON md.f_player_id = mx.f_pid AND md.f_match_id = mx.f_mid JOIN players AS pl ON md.f_player_id = pl.player_id AND md.f_team_id = pl.owned_by_team_id JOIN matches AS mt ON mt.match_id = md.f_match_id WHERE md.f_tour_id = 29 AND pl.f_tname = "Old Wyrms" GROUP BY pl.f_tname, mt.round ORDER BY mt.round ASC;
+```
+
+#### roster by season
+
+| #    | Player    | GP | Touches | TD   | Rsh  | Cp   | CpDst | Ctch | Int  | Cas  | Blk  | Sck  | MVP  | Intercepted | Sacked | KOed | Hurt | Injured | Killed | SPP  |
+|------|-----------|----|---------|------|------|------|-------|------|------|------|------|------|------|-------------|--------|------|------|---------|--------|------|
+|    1 | Jia       |  9 |      13 |    0 |   20 |    7 |    29 |    0 |    0 |    0 |    4 |    0 |    1 |           0 |      0 |    2 |    0 |       1 |      0 |   12 |
+|    2 | Evander   |  9 |      13 |    0 |   24 |   10 |    48 |    1 |    0 |    0 |    1 |    0 |    0 |           0 |      0 |    2 |    1 |       0 |      0 |   10 |
+|    3 | Amador    |  7 |      11 |    5 |   62 |    4 |    -4 |    7 |    1 |    0 |   12 |    0 |    1 |           0 |      1 |    3 |    2 |       0 |      0 |   26 |
+|    4 | Seosamh   | 11 |      18 | **12** | 140 |   0 |     0 |   13 |    0 |    1 |   21 |    2 |    0 |           1 |      1 |    0 |    0 |       1 |      0 |   38 |
+|    5 | Kelemann  |  7 |       6 |    0 |   14 |    2 |    14 |    0 |    0 |    2 |   27 |    3 |    0 |           0 |      0 |    3 |    0 |       0 |      0 |    6 |
+|    6 | Rati      | 10 |       0 |    0 |    1 |    0 |     0 |    0 |   0 | **3** | **113** | 3 |    0 |           0 |      1 |    0 |    0 |       0 |      0 |    6 |
+|    8 | Yasmani   | 15 |       3 |    0 |   15 |    2 |     8 |    0 |    0 |    0 |   30 |    0 |    2 |           0 |      0 |    8 | **4** |      0 |      0 |   12 |
+|   10 | Oeneios   |  9 |       9 |    1 |    9 |    4 |    13 |    3 |    0 |    1 |   19 |    0 |    1 |           1 |      0 |    3 |    0 |       1 |      0 |   14 |
+|   11 | Andela    | 11 |       1 |    0 |   -7 |    0 |     0 |    0 |    1 |    0 |   26 |    0 |    0 |           0 |      0 |    4 |    0 |       0 |      0 |    2 |
+|   14 | Olaug     |  7 |      16 |    5 |  124 |   10 |    19 |    9 |    1 |    0 |   25 |    2 |    1 |           1 |      5 |    1 |    1 |       0 |      0 |   32 |
+|   15 | Modest    |  7 |       5 |    1 |   11 |    0 |     0 |    2 |    0 |    1 |   26 |    2 |    2 |           0 |      1 |    3 |    1 |       0 |      0 |   15 |
+|   16 | Belmont   | 10 |       0 |    0 |    0 |    0 |     0 |    0 |    0 |    1 |   59 |    1 |    0 |           0 |      0 |    1 |    0 |       0 |      0 |    2 |
+|   18 | Zalmon    |  7 |      17 |    4 |  125 |    5 |     5 |   15 |    0 |    0 |    8 |    1 |    3 |           2 |      4 |    2 |    0 |       0 |      0 |   32 |
+|   19 | Headley   |  6 |       1 |    0 |    0 |    0 |     0 |    0 |    0 |    0 |   27 |    0 |    3 |           0 |      1 |    1 |    0 |       0 |      0 |   15 |
+|   21 | Chandan.  |  7 |      18 |    0 |   32 |   10 |    41 |    0 |    0 |    0 |    2 |    0 |    0 |           0 |      1 |    3 |    1 |       0 |      0 |   10 |
+|   23 | Martti.   | 10 |      27 |   11 | **154** | 3 |     2 | **20** |  1 |    1 |   26 |    0 |    1 |           0 |      5 |    3 |    1 |       0 |      0 | **45** |
+|   26 | Eimilios. | 10 |       1 |    0 |    0 |    0 |     0 |    0 |    0 |    1 |   79 |    2 |    0 |           0 |      1 |    2 |    0 |       1 |      0 |    2 |
+|   29 | Katina.   |  8 |       0 |    0 |    0 |    0 |     0 |    0 |    0 |    2 |   22 |    0 |    0 |           0 |      0 |    5 |    0 |       0 |      0 |    4 |
+|   33 | Babar.    |  5 |       4 |    0 |   15 |    2 |     6 |    1 |    0 |    0 |    7 |    1 |    0 |           0 |      1 |    3 |    3 |       1 |      0 |    2 |
+|   35 | Devika.   |  9 |       5 |    2 |   31 |    0 |     0 |    4 |    0 |    1 |   37 |    2 |    1 |           0 |      2 |    0 |    1 |       0 |      0 |   13 |
+|   67 | Elisavet. |  9 |       0 |    0 |    0 |    0 |     0 |    0 |    0 |    0 |   16 |    0 |    0 |           0 |      0 |    3 |    1 |   **2** |      R |    0 |
+|   81 | Elvis.    |  7 |      30 |    0 |   77 |   18 | **76** |   2 |    0 |    0 |    2 |    0 |    0 |           2 |      2 |    2 |    0 |       0 |      1 |   18 |
+|   88 | Leilani.  |  4 |       0 |    0 |    0 |    0 |     0 |    0 |    0 |    0 |    4 |    0 |    1 |           0 |      0 |    1 |    0 |       0 |      1 |    5 |
+|   88 | Menachem. |  1 |       0 |    0 |    0 |    0 |     0 |    0 |    0 |    0 |    1 |    0 |    0 |           0 |      0 |    1 |    0 |       0 |      1 |    0 |
+|   89 | Alva.     |  9 |       0 |    0 |    0 |    0 |     0 |    0 |    0 |    0 |   19 |    0 |    0 |           0 |      0 |    4 |    1 |       0 |      1 |    0 |
+|   90 | Teresia.  |  6 |       0 |    0 |    0 |    0 |     0 |    0 |    0 |    0 |    1 |    0 |    0 |           0 |      0 |    0 |    1 |       0 |      1 |    0 |
+
+```
+SELECT pl.nr AS "#", pl.name AS Player, count(md.f_match_id) AS GP, sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches) AS Touches, sum(md.td) AS TD, sum(mx.rushing_distance_move) AS Rsh, sum(md.cp) AS Cp, sum(mx.pass_distance) AS CpDst, sum(mx.catches) AS Ctch, sum(md.intcpt) AS "Int", sum(md.bh) + sum(md.si) + sum(md.ki) AS Cas, sum(mx.inflicted_blocks) AS Blk, sum(mx.inflicted_sacks) AS Sck, sum(md.mvp) AS MVP, sum(mx.interceptions_thrown) AS Intercepted, sum(mx.sustained_sacks) AS Sacked, sum(mx.sustained_kos) AS KOed, sum(mx.sustained_bhs) AS Hurt, sum(mx.sustained_sis) AS Injured, sum(mx.sustained_kill) AS Killed, (sum(md.td) * 3) + sum(md.cp) + (sum(md.intcpt) * 2) + (sum(md.bh) * 2) + (sum(md.si) * 2) + (sum(md.ki) * 2) + (sum(md.mvp) * 5) AS SPP FROM match_data AS md JOIN match_data_es AS mx ON md.f_player_id = mx.f_pid AND md.f_match_id = mx.f_mid JOIN players AS pl ON md.f_player_id = pl.player_id AND md.f_team_id = pl.owned_by_team_id JOIN matches AS mt ON mt.match_id = md.f_match_id JOIN tours ON md.f_tour_id = tours.tour_id AND md.f_did = tours.f_did WHERE tours.name = "Green Cup XI" AND pl.f_tname = "Old Wyrms" GROUP BY pl.name, pl.nr ORDER BY pl.nr ASC;
+```
+
 ### Stars
 
 **Currently active players** are highlighted and modern-era players whose careers are over are not marked. *Old-era players* have incomplete statistics.
 
-| Player           | Team        | Position      | W | D | L | GP | TD | Cp | Int | BH | SI | Ki | MVP | SPP |
-|------------------|-------------|---------------|--:|--:|--:|---:|---:|---:|----:|---:|---:|---:|----:|----:|
-| Souta   | Old Wyrms | Catcher  |   33 |    9 |   27 |   69 |   72 |   51 |    3 |    2 |    1 |    0 |    4 |  299 |
-| **Elvis**    | Old Wyrms | Thrower  |   34 |    7 |   16 |   57 |    1 |  146 |    0 |    0 |    1 |    0 |    7 |  186 |
-| *Tony* | Old Wyrms | Catcher | ?? | ?? | ?? | 33 | 39 | 9 | 2 | 2 | 0 | 0 | 4 | 154 |
-| **Amador**   | Old Wyrms | Catcher  |   29 |    6 |   13 |   48 |   27 |   40 |    1 |    2 |    0 |    0 |    4 |  147 |
-| Babar   | Old Wyrms | Catcher  |   34 |    8 |   23 |   65 |   29 |   13 |    9 |    5 |    0 |    0 |    3 |  143 |
-| *Carl* | Old Wyrms | Thrower | ?? | ?? | ?? | 54 | 2 | 97 | 0 | 1 | 0 | 0 | 3 | 120 |
-| *Joey* | Old Wyrms | Catcher | ?? | ?? | ?? | 31 | 23 | 21 | 3 | 2 | 1 | 0 | 2 | 112 |
-| *Hems* | Old Wyrms | Thrower | ?? | ?? | ?? | 47 | 0 | 76 | 1 | 0 | 0 | 0 | 2 | 88 |
-| *Ocho* | Old Wyrms | Catcher | ?? | ?? | ?? | 22 | 17 | 9 | 5 | 1 | 0 | 0 | 4 | 94 |
-| Roni    | Old Wyrms | Catcher  |   13 |    2 |    9 |   24 |   16 |   13 |    3 |    1 |    0 |    0 |    4 |   89 |
-| **Evander** | Old Wyrms | Thrower  |   12 |    7 |   14 |   33 |    0 |   61 |    0 |    1 |    0 |    0 |    5 |   88 |
-| *HoJu* | Old Wyrms | Catcher | ?? | ?? | ?? | 29 | 18 | 15 | 3 | 0 | 0 | 0 | 2 | 85 |
-| **Seosamh**  | Old Wyrms | Catcher  |   13 |    5 |    3 |   21 |   19 |    3 |    2 |    1 |    1 |    0 |    3 |   83 |
-| *Newb* | Old Wyrms | Catcher | ?? | ?? | ?? | 22 | 22 | 6 | 0 | 0 | 0 | 0 | 2 | 82 |
-| **Kelemann** | Old Wyrms | Blitzer  |   22 |    6 |    6 |   34 |   12 |    3 |    2 |    2 |    1 |    0 |    6 |   79 |
-| Moirin   | Old Wyrms | Catcher  |   13 |    6 |    5 |   24 |   14 |   11 |    2 |    0 |    0 |    0 |    4 |   77 |
-| **Modest**   | Old Wyrms | Catcher  |   12 |    5 |    3 |   20 |   15 |    5 |    0 |    0 |    0 |    0 |    3 |   65 |
-| **Rati**     | Old Wyrms | Blitzer  |   25 |    3 |   11 |   39 |    9 |    4 |    0 |    8 |    2 |    1 |    2 |   63 |
+| Player           | Position      | W | D | L | GP | TD | Cp | Int | BH | SI | Ki | MVP | SPP |
+|------------------|---------------|--:|--:|--:|---:|---:|---:|----:|---:|---:|---:|----:|----:|
+| Souta   | Catcher  |   33 |    9 |   27 |   69 |   72 |   51 |    3 |    2 |    1 |    0 |    4 |  299 |
+| Elvis   | Thrower  |   36 |    9 |   20 |   65 |    1 |  164 |    0 |    0 |    1 |    0 |    7 |  204 |
+| **Amador**   | Catcher  |   32 |    8 |   16 |   56 |   32 |   44 |    2 |    2 |    0 |    0 |    5 |  173 |
+| *Tony*   | Catcher | ?? | ?? | ?? | 33 | 39 | 9 | 2 | 2 | 0 | 0 | 4 | 154 |
+| Babar   | Catcher  |   35 |    8 |   27 |   70 |   29 |   15 |    9 |    5 |    0 |    0 |    3 |  145 |
+| **Seosamh**  | Catcher  |   16 |    7 |   10 |   33 |   32 |    3 |    2 |    2 |    1 |    0 |    3 |  124 |
+| *Carl*   | Thrower | ?? | ?? | ?? | 54 | 2 | 97 | 0 | 1 | 0 | 0 | 3 | 120 |
+| *Joey*   | Catcher | ?? | ?? | ?? | 31 | 23 | 21 | 3 | 2 | 1 | 0 | 2 | 112 |
+| **Evander**  | Thrower  |   15 |    7 |   20 |   42 |    0 |   71 |    0 |    1 |    0 |    0 |    5 |   98 |
+| *Ocho*   | Catcher | ?? | ?? | ?? | 22 | 17 | 9 | 5 | 1 | 0 | 0 | 4 | 94 |
+| **Roni**     | Catcher  |   13 |    2 |    9 |   24 |   16 |   13 |    3 |    1 |    0 |    0 |    4 |   89 |
+| *Hems*   | Thrower | ?? | ?? | ?? | 47 | 0 | 76 | 1 | 0 | 0 | 0 | 2 | 88 |
+| **Kelemann** | Blitzer  |   25 |    8 |    9 |   42 |   12 |    5 |    2 |    5 |    1 |    0 |    6 |   87 |
+| **Modest**   | Catcher  |   15 |    7 |    6 |   28 |   16 |    5 |    0 |    1 |    0 |    0 |    6 |   85 |
+| *HoJu*   | Catcher | ?? | ?? | ?? | 29 | 18 | 15 | 3 | 0 | 0 | 0 | 2 | 85 |
+| *Newb*   | Catcher | ?? | ?? | ?? | 22 | 22 | 6 | 0 | 0 | 0 | 0 | 2 | 82 |
+| Moirin  | Catcher  |   13 |    6 |    6 |   25 |   14 |   11 |    2 |    0 |    0 |    0 |    4 |   77 |
+| **Rati**     | Blitzer  |   28 |    6 |   16 |   50 |    9 |    4 |    0 |   10 |    3 |    1 |    2 |   69 |
+
+
+```
+SELECT pl.name AS Player, pl.f_pos_name AS Position, sum(mp.won) AS won, sum(mp.draw) AS draw, sum(mp.lost) AS lost, sum(mp.played) AS GP, sum(mp.td) AS TD, sum(mp.cp) AS Cp, sum(mp.intcpt) AS "Int",	sum(mp.bh) AS BH, sum(mp.si) AS SI,	sum(mp.ki) AS Ki, sum(mp.mvp) AS MVP, sum(mp.spp) AS SPP FROM mv_players AS mp JOIN players AS pl ON mp.f_pid = pl.player_id AND mp.f_tid = pl.owned_by_team_id JOIN tours ON mp.f_trid = tours.tour_id AND mp.f_did = tours.f_did WHERE pl.f_tname = "Old Wyrms" GROUP BY pl.name, pl.f_tname, pl.f_pos_name ORDER BY SPP DESC limit 11;
+```
 
 Having the second-best player the UBBL has ever seen in [[souta]] has gone pretty well for the Wyrms. That she wasn't used in the GCIX final is one of the things BludBol fans will always have an opinion on. [[elvis]] has a long way to go to catch [[souta]]
 
+#### Award Winners
+
+| #    | Player   | Position | Seasons | Prizes | Value  | Bonus |
+|------|----------|----------|---------|--------|--------|-------|
+|    2 | Evander | Thrower  |       5 |      1 | 240000 | 40000 |
+|   17 | Roni    | Catcher  |       5 |      1 | 260000 | 30000 |
+|   81 | Elvis.  | Thrower  |       8 |      2 | 210000 | 20000 |
+|   83 | Joey.   | Catcher  |       5 |      1 | 250000 | 10000 |
+|   83 | Newb.   | Catcher  |       2 |      1 | 190000 | 10000 |
+|   84 | Souta.  | Catcher  |       8 |      3 | 260000 | 30000 |
+|   84 | Tony.   | Catcher  |       5 |      1 | 250000 | 10000 |
+
+```
+SELECT pl.nr AS "#", pl.name AS Player, pl.f_pos_name AS Position, count(DISTINCT mp.f_trid) AS Seasons, count(DISTINCT hof.hof_id) AS Prizes, pl.value AS Value, pl.extra_val AS Bonus FROM mv_players as mp JOIN players as pl ON mp.f_pid = pl.player_id AND mp.f_tid = pl.owned_by_team_id JOIN hof ON pl.player_id = hof.pid WHERE pl.f_tname = "Old Wyrms" GROUP BY pl.name ORDER BY pl.nr ASC;
+```
+
 #### Cup Winners
+
+| #    | Player     | GP | Touches | TD   | Rsh  | Cp   | CpDst | Ctch | Int  | Cas  | Blk  | Sck  | MVP  | Intercepted | Sacked | KOed | Hurt | Injured | Killed | SPP  |
+|------|------------|----|---------|------|------|------|-------|------|------|------|------|------|------|-------------|--------|------|------|---------|--------|------|
+
+```
+SELECT pl.nr AS "#", pl.name AS Player, count(md.f_match_id) AS GP, sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches) AS Touches, sum(md.td) AS TD, sum(mx.rushing_distance_move) AS Rsh, sum(md.cp) AS Cp, sum(mx.pass_distance) AS CpDst, sum(mx.catches) AS Ctch, sum(md.intcpt) AS "Int", sum(md.bh) + sum(md.si) + sum(md.ki) AS Cas, sum(mx.inflicted_blocks) AS Blk, sum(mx.inflicted_sacks) AS Sck, sum(md.mvp) AS MVP, sum(mx.interceptions_thrown) AS Intercepted, sum(mx.sustained_sacks) AS Sacked, sum(mx.sustained_kos) AS KOed, sum(mx.sustained_bhs) AS Hurt, sum(mx.sustained_sis) AS Injured, sum(mx.sustained_kill) AS Killed, (sum(md.td) * 3) + sum(md.cp) + (sum(md.intcpt) * 2) + (sum(md.bh) * 2) + (sum(md.si) * 2) + (sum(md.ki) * 2) + (sum(md.mvp) * 5) AS SPP FROM match_data AS md JOIN match_data_es AS mx ON md.f_player_id = mx.f_pid AND md.f_match_id = mx.f_mid JOIN players AS pl ON md.f_player_id = pl.player_id AND md.f_team_id = pl.owned_by_team_id JOIN matches AS mt ON mt.match_id = md.f_match_id JOIN tours ON md.f_tour_id = tours.tour_id AND md.f_did = tours.f_did WHERE tours.name = "Green Cup X" AND pl.f_tname = "Old Wyrms" GROUP BY pl.name, pl.nr ORDER BY pl.nr ASC;
+```
+
+| #    | Player     | GP | Touches | TD   | Rsh  | Cp   | CpDst | Ctch | Int  | Cas  | Blk  | Sck  | MVP  | Intercepted | Sacked | KOed | Hurt | Injured | Killed | SPP  |
+|------|------------|----|---------|------|------|------|-------|------|------|------|------|------|------|-------------|--------|------|------|---------|--------|------|
+
+```
+SELECT pl.nr AS "#", pl.name AS Player, count(md.f_match_id) AS GP, sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches) AS Touches, sum(md.td) AS TD, sum(mx.rushing_distance_move) AS Rsh, sum(md.cp) AS Cp, sum(mx.pass_distance) AS CpDst, sum(mx.catches) AS Ctch, sum(md.intcpt) AS "Int", sum(md.bh) + sum(md.si) + sum(md.ki) AS Cas, sum(mx.inflicted_blocks) AS Blk, sum(mx.inflicted_sacks) AS Sck, sum(md.mvp) AS MVP, sum(mx.interceptions_thrown) AS Intercepted, sum(mx.sustained_sacks) AS Sacked, sum(mx.sustained_kos) AS KOed, sum(mx.sustained_bhs) AS Hurt, sum(mx.sustained_sis) AS Injured, sum(mx.sustained_kill) AS Killed, (sum(md.td) * 3) + sum(md.cp) + (sum(md.intcpt) * 2) + (sum(md.bh) * 2) + (sum(md.si) * 2) + (sum(md.ki) * 2) + (sum(md.mvp) * 5) AS SPP FROM match_data AS md JOIN match_data_es AS mx ON md.f_player_id = mx.f_pid AND md.f_match_id = mx.f_mid JOIN players AS pl ON md.f_player_id = pl.player_id AND md.f_team_id = pl.owned_by_team_id JOIN matches AS mt ON mt.match_id = md.f_match_id JOIN tours ON md.f_tour_id = tours.tour_id AND md.f_did = tours.f_did WHERE tours.name = "Green Cup X" AND pl.f_tname = "Old Wyrms" GROUP BY pl.name, pl.nr ORDER BY pl.nr ASC;
+```
 
 * [[Kelemann]] - GCIX, GCX
 * [[amador]] - GCIX, GCX

@@ -12,9 +12,11 @@ Now that's what we'd expect these Spectres to look like. A 5-0 trouncing seemed 
 
 [[darklingspectres]][[eldritchfatality]][[gcxi]]
 
-Previous Results:
+### previous matchups
 
-DS 2 Wins - EF 3 Wins (2 Draws)
+DS 2 Wins
+EF 4 Wins 
+2 Draws
 
 * [[gcc6-04-efds]] Green Cup Classic 06 - Eldritch Fatality 3 Darkling Spectres 3
 * [[gcvii-01-dsef]] Green Cup VII - Darkling Spectres 0 **Eldritch Fatality 2**
@@ -22,4 +24,4 @@ DS 2 Wins - EF 3 Wins (2 Draws)
 * [[gcviii-01-efds]] Green Cup VIII - Eldritch Fatality 1 Darkling Spectres 1
 * [[gcix-04-dsef]] Green Cup IX - Darkling Spectres 0 **Eldritch Fatality 4**
 * [[gcx-09-dsef]] Green Cup X - **Darkling Spectres 4** Eldritch Fatality 3
-* [[uciv-16-dsef]] UBBL Challenge IV - Darkling Spectres 1 **Eldritch Fatality 4**
+* [[uciv-16-dsef]] UBBL Challenge IV - Darkling Spectres 1 **Eldritch Fatality** 4

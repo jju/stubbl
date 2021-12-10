@@ -37,7 +37,7 @@ The Spectres defeated the Eagles in a tense nail-biting match that almost seemed
 |-------|-----|--|--|------|------|--|--|
 | **Filthy Tide** | 10-2-3 | **Arboreal Menace** | 9-2-4 | **Glorious Hounds** | 9-4-2 | **Eldritch Fatality** | 11-0-4 |
 | *Gore Farmers* | 5-2-8 | Irregular Cogs | 8-2-5 | *Kaiju Dynamo* | 10-1-4 | Darkling Spectres | 7-1-7 |
-| Old Wyrms | 4-3-8 | Carcosan Tatters | 7-2-6 | Zensun Vagabonds | 4-2-9 | *Ravenous Eagles* | 5-3-7 |
+| Old Wyrms | 4-3-8 | *Carcosan Tatters* | 7-2-6 | Zensun Vagabonds | 4-2-9 | *Ravenous Eagles* | 5-3-7 |
 | *TC Sump Runners* | 1-4-10 | *Badger Claws* | 5-4-6 | *Orbital Machine* | 1-6-8 | *Cackling Furies* | 5-2-8 |
 
 
@@ -45,6 +45,16 @@ The Spectres defeated the Eagles in a tense nail-biting match that almost seemed
 
 | Player    | Team              | TDs  | Rush | Cp   | CpDist | Ctch | Int  | Cas  | Blck | Sck  | MVP  | SPP  |
 |-----------|-------------------|------|------|------|--------|------|------|------|------|------|------|------|
+| Arya       | Carcosan Tatters |    2 |   30 |    1 |      1 |    3 |    0 |    0 |    1 |    0 |    1 |   12 |
+| Vusala     | Arboreal Menace  |    0 |    0 |    0 |      0 |    0 |    0 |    0 |    0 |    0 |    2 |   10 |
+| Othniel    | Filthy Tide      |    0 |    0 |    0 |      0 |    0 |    0 |    0 |    0 |    0 |    2 |   10 |
+| Hrolfr     | Irregular Cogs   |    1 |   35 |    1 |      4 |    0 |    0 |    0 |    2 |    0 |    1 |    9 |
+| Mia        | Zensun Vagabonds |    2 |    7 |    0 |      0 |    2 |    0 |    1 |    6 |    0 |    0 |    8 |
+| Chibueze   | Ravenous Eagles  |    0 |    0 |    0 |      0 |    0 |    1 |    0 |    5 |    1 |    1 |    7 |
+| RockLobber | Gore Farmers     |    0 |    0 |    0 |      0 |    0 |    0 |    1 |   10 |    0 |    1 |    7 |
+| Jia        | Old Wyrms        |    0 |    3 |    1 |      7 |    0 |    0 |    0 |    0 |    0 |    1 |    6 |
+| Frans      | Irregular Cogs   |    1 |   20 |    1 |      1 |    1 |    0 |    1 |    3 |    0 |    0 |    6 |
+| Fidolio    | Kaiju Dynamo     |    2 |   27 |    0 |      0 |    1 |    0 |    0 |    0 |    0 |    0 |    6 |
 
 
 ```

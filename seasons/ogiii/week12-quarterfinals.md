@@ -8,27 +8,39 @@ Playoffs are here! The Gladiolas take on the Hunters, the Mules duel the Warthog
 
 The favourites took victory in each of the first three playoff matches making it look like the Orange Goblet really will be a battle of the best teams if the Gladiolas dispose of the Hunters as easily as expected.
 
+But as seems to always happen come playoff time, the Gladiolas lost to an inferior team and will not be duking it out for the Goblet.
+
 ## standings
 
 | Team | W-D-L |
 |-------|-----|
-| Gladiolas | 8-1-1 |
 | Mules | 9-1-1 |
 | Raptors | 9-1-1 |
+| *Gladiolas* | 8-1-2 |
 | Deep Dreamers | 7-1-3 |
-| Magpies | 5-2-4 |
-| Hoods | 5-0-6 |
-| Warthogs | 3-2-6 |
-| Vanadium Hunters | 2-2-6 |
-| Geometers | 1-2-7 |
-| Thrillers | 1-1-8 |
-| Umber Hulks | 1-1-8 |
+| *Magpies* | 5-2-4 |
+| *Hoods* | 5-0-6 |
+| *Warthogs* | 3-2-6 |
+| Vanadium Hunters | 3-2-6 |
+| *Geometers* | 1-2-7 |
+| *Thrillers* | 1-1-8 |
+| *Umber Hulks* | 1-1-8 |
 
 
 ## player of the week standings
 
-| Player            | Team             | TDs  | Rush | Cp   | CpDist | Ctch | Int | Cas  | Blck | Sck | MVP | SPP  |
-|-------------------|------------------|------|------|------|----------|---------|---|---|--------|-------|------|------|
+| Player    | Team             | TDs  | Rush | Cp   | CpDist | Ctch | Int | Cas  | Blck | Sck | MVP | SPP  |
+|-----------|------------------|------|------|------|----------|---------|---|---|--------|-------|------|------|
+| Amata     | Vanadium Hunters |    2 |   23 |    1 |      3 |    4 |    0 |    1 |    1 |    1 |    1 |   14 |
+| Marita    | Deep Dreamers    |    2 |   21 |    0 |      0 |    4 |    0 |    0 |    0 |    0 |    0 |    6 |
+| Pilvi     | Mules            |    2 |   31 |    0 |      0 |    0 |    0 |    0 |    0 |    0 |    0 |    6 |
+| Erastos   | Vanadium Hunters |    1 |    8 |    0 |      0 |    0 |    0 |    1 |    3 |    0 |    0 |    5 |
+| Eufemia   | Gladiolas        |    0 |   13 |    5 |     12 |    0 |    0 |    0 |    0 |    0 |    0 |    5 |
+| Renatus   | Mules            |    0 |    0 |    0 |      0 |    0 |    0 |    0 |    5 |    0 |    1 |    5 |
+| Brynja    | Deep Dreamers    |    0 |    0 |    0 |      0 |    0 |    0 |    0 |    3 |    0 |    1 |    5 |
+| Ella      | Raptors          |    0 |    0 |    0 |      0 |    0 |    0 |    0 |    0 |    0 |    1 |    5 |
+| Gaszi     | Magpies          |    0 |    0 |    0 |      0 |    0 |    0 |    0 |    4 |    0 |    1 |    5 |
+| Primitiva | Warthogs         |    0 |    0 |    0 |      0 |    0 |    0 |    0 |    2 |    0 |    1 |    5 |
 
 
 ```
