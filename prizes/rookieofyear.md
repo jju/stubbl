@@ -34,7 +34,7 @@ For most SPP in a season by a player starting the season with 0 SPP.
 
 ## gcxi
 
-
+* [[koralo]] - 67
 
 # old-era
 

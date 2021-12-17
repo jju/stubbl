@@ -5,6 +5,8 @@
 
 #t2789
 
+[next week](week18-conffinals)
+
 A change in the record-keeping means that the regular season divisional winners are awarded the divisional titles now, so the only thing up for grabs in this round is the ability to play more BludBol. In the previous week we had two upsets and two expected results.
 
 * business storyline: [[warreporter]] [[aficionado]] [[writer]]

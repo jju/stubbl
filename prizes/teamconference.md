@@ -1,21 +1,24 @@
-# modern era
-
-## gcvii
+# gcvii
 
 - Burger Conference Champions [[ravenouseagles]]
 - Classic Conference Champions [[darklingspectres]]
 
-## gcviii
+# gcviii
 
 - Burger Conference Champions [[gorefarmers]]
 - Classic Conference Champions [[badgerclaws]]
 
-## gcix
+# gcix
 
 - Burger Conference Champions [[oldwyrms]]
 - Classic Conference Champions [[eldritchfatality]]
 
-## gcx
+# gcx
 
 - Burger Conference Champions [[oldwyrms]]
 - Classic Conference Champions [[ravenouseagles]]
+
+# gcxi
+
+- Burger Conference Champions
+- Classic Conference Champions [[glorioushounds]]

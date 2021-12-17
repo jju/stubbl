@@ -1,5 +1,6 @@
 # Deep Dreamers
 
+The Deep Dreamers have been
 
 
 ## Playbook
@@ -32,9 +33,9 @@
 | Deep Dreamers | UBBL Challenge II  |    1 |    0 |    2 |      3 | 33.3333 |    4 |    6 |    0 |     -6 |    0 |
 | Deep Dreamers | StUBBL Scramble    |    0 |    0 |    1 |      1 |       0 |    0 |    3 |    0 |     -3 |    0 |
 
-`
+```
 SELECT teams.name AS Team, tours.name AS Season, mr.won, mr.draw, mr.lost, 	mr.played, mr.win_pct, mr.gf, mr.ga, mr.cas, mr.tcdiff,	mr.ff FROM mv_teams AS mr JOIN tours ON mr.f_trid = tours.tour_id and mr.f_did = tours.f_did JOIN teams ON teams.team_id = mr.f_tid WHERE teams.name = "Deep Dreamers" ORDER BY mr.win_pct DESC limit 15;
-`
+```
 
 ## History
 
@@ -63,9 +64,9 @@ W-D-L ?
 | **Clement**     | Deep Dreamers | Line  |   16 |    1 |   18 |   35 |    0 |    0 |    1 |    0 |    0 |    0 |    4 |   22 |
 | **Krister**     | Deep Dreamers | Catcher  |    6 |    1 |    6 |   13 |    2 |   10 |    0 |    0 |    0 |    0 |    1 |   21 |
 
-`
+```
 SELECT pl.name AS Player, pl.f_tname AS Team, pl.f_pos_name AS Position, sum(mp.won) AS won, sum(mp.draw) AS draw, sum(mp.lost) AS lost, sum(mp.played) AS GP, sum(mp.td) AS TD, sum(mp.cp) AS Cp, sum(mp.intcpt) AS "Int",	sum(mp.bh) AS BH, sum(mp.si) AS SI,	sum(mp.ki) AS Ki, sum(mp.mvp) AS MVP, sum(mp.spp) AS SPP FROM mv_players AS mp JOIN players AS pl ON mp.f_pid = pl.player_id AND mp.f_tid = pl.owned_by_team_id JOIN tours ON mp.f_trid = tours.tour_id AND mp.f_did = tours.f_did WHERE mp.f_did = 3 AND pl.f_tname = "Deep Dreamers" GROUP BY pl.name, pl.f_tname, pl.f_pos_name ORDER BY SPP DESC limit 11;
-`
+```
 
 #unfinished 
 

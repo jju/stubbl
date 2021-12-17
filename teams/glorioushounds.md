@@ -47,6 +47,8 @@ The Glorious Hounds use the High Extension playbook, a venerable adaptation of t
 * Green Cup IV - Runner-Up [[team2ndplace#gciv]]
 * Green Cup IX - Heaps Division Champions [[teamdivision#gcix]]
 * UBBL Challenge IV - UBBL Pennant [[team1stplace#uciv]]
+* Green Cup XI - Heaps Division Champions [[teamdivision#gcxi]]
+* Green Cup XI - Classic Conference Champions [[teamconference#gcxi]]
 
 ### Seasons
 
@@ -97,7 +99,7 @@ This season there's no way they roll over and come in last place again. They hav
 | **Florinda**  | Glorious Hounds | Blitzer  |   23 |    8 |   15 |   46 |    2 |    2 |    2 |    5 |    2 |    2 |    8 |   70 |
 | Mandawuy | Glorious Hounds | Catcher  |   17 |    2 |   10 |   29 |   18 |    5 |    1 |    1 |    0 |    0 |    1 |   68 |
 
-[[costache]] had an early injury that hampered her effectivene, but a better all-round receiver we see only rarely.
+[[costache]] had an early injury that hampered her effectiveness, but a better all-round receiver we see only rarely.
 
 [[yosif]] was the best pure passer the UBBL has seen, and that includes Ozymandias, who has actually (amazingly) seemed to be okay with the eclipsing of his talent.
 

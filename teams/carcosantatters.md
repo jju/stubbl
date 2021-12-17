@@ -77,9 +77,9 @@ SELECT teams.name AS Team, sum(mr.won) AS W, sum(mr.draw) AS D, sum(mr.lost) AS 
 
 ### Seasons
 
-| Team      | Season             | W  | D | L | GP | Win% | GF   | GA   | Cas  | CDif | FF   |
-|-----------|--------------------|--:|--:|--:|---:|-----:|---:|---:|----:|-----:|---:|
-| Carcosan Tatters | **Green Cup II**         |    7 |    3 |    2 |     12 | 70.83 |   24 |   19 |   36 |     27 |    0 |
+| Team             | Season               | W  | D | L | GP | Win% | GF   | GA   | Cas  | CDif | FF   |
+|------------------|----------------------|--:|--:|--:|---:|-----:|---:|---:|----:|-----:|---:|
+| Carcosan Tatters | **Green Cup II**     |    7 |    3 |    2 |     12 | 70.83 |   24 |   19 |   36 |     27 |    0 |
 | Carcosan Tatters | Green Cup III        |    6 |    3 |    2 |     11 | 68.18 |   18 |   17 |   29 |     22 |   -1 |
 | Carcosan Tatters | Green Cup VI         |   11 |    1 |    5 |     17 | 67.65 |   20 |   15 |   23 |     10 |    5 |
 | Carcosan Tatters | UBBL Challenge       |    2 |    0 |    1 |      3 | 66.67 |    4 |    3 |    7 |      3 |    1 |
@@ -147,7 +147,7 @@ SELECT pl.f_tname AS Team, mt.round, sum(mx.catches) + sum(mx.pickups) + sum(md.
 |    1 | Liubou           |  8 |      31 |    1 |   87 |   12 |    40 |    0 |    0 |    0 |    9 |    1 |    2 |           0 |      1 |    1 |    0 |       0 |      0 |   25 |
 |    2 | Maryna           |  8 |       4 |    0 |    4 |    1 |     5 |    0 |    1 |    1 |   24 |    0 |    1 |           0 |      1 |    1 |    0 |       0 |      0 |   10 |
 |    3 | Sparrow          | 11 |      21 |    8 |  126 |    2 |    15 |   16 |    0 |    2 |   33 |    0 |    0 |           2 |      4 |    3 |    0 |       1 |      0 |   30 |
-|    4 | Arya             | 16 |      28 |   12 |  165 |    3 |     4 |   14 |    0 |    1 |   54 |    2 |    2 |           0 |      3 |    2 |    0 |       0 |      0 |   51 |
+|    4 | Arya             | 16 |      28 |   12 |  165 |    3 |     4 |   14 |    0 |    1 |   54 |    2 |    2 |           0 |      3 |    2 |    0 |       0 |    0 | **51** |
 |    5 | Orna             |  6 |       3 |    1 |    5 |    0 |     0 |    0 |    0 |    2 |   40 |    2 |    0 |           0 |      0 |    0 |    2 |       0 |      0 |    7 |
 |    6 | Marley           | 11 |       2 |    0 |    8 |    0 |     0 |    1 |    0 |    8 |  102 |    0 |    1 |           1 |      0 |    5 |    0 |       1 |      0 |   21 |
 |    7 | Dalitso          |  6 |       0 |    0 |    0 |    0 |     0 |    0 |    0 |    2 |   45 |    0 |    2 |           0 |      0 |    0 |    0 |       0 |      0 |   14 |

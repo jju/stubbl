@@ -26,6 +26,10 @@
 
 [[zensunvagabonds]]
 
+## gcxi
+
+[[eldritchfatality]]
+
 # old-era
 
 ## gci

@@ -41,5 +41,5 @@
 
 * Stacks - [[filthytide]]
 * Outlands - [[arborealmenace]]
-* Heaps -
+* Heaps - [[glorioushounds]]
 * Pits - [[eldritchfatality]]

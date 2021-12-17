@@ -21,3 +21,9 @@ Are you writing anything about this match?
 > A report of what happened on the field.
 > An analysis piece on exactly how great Briselda's blocking run was.
 > Just notes for now.
+
+### previous matchups
+
+FT 1 Win
+
+* Green Cup X - 10 - **Filthy Tide** 6 Arboreal Menace 1

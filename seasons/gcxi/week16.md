@@ -5,6 +5,8 @@
 
 #t2788
 
+[next week](week17-divfinals)
+
 So we begin the playoffs for the Eleventh Green Cup. The Cackling Furies have some legitimate grievances against the current playoff structure as their regular season record was better than *three* teams which did get to move on. There is talk that along with a four-team expansion for GCXII, there will be wild-card seeding within each conference.
 
 

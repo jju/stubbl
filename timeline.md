@@ -109,7 +109,7 @@ Unless specified, we're dealing with the 1262 epoch.
 	* Week 11 762.5 #t2762 [[seasons/ogii/week11]]
 	* QF 764.0 #t2764 [[seasons/ogii/week12-quarterfinals]]
 	* SF 765.0 #t2765 [[seasons/ogii/week13-semifinals]]
-	* OG Final 766.0 #t2766 [[week14-finals]]
+	* OG Final 766.0 #t2766 [[seasons/ogii/week14-finals]]
 * OGIII 
 	* Week 1 778.0 #t2778
 	* Week 2 779.0 #t2779 
