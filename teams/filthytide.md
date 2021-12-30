@@ -60,6 +60,7 @@ The Filthy Tide uses the Scrying Avian playbook which emphasizes speed above all
 * UBBL Challenge - Gorefield Honour [[teamcasualties#ubbl challenge]]
 * Green Cup XI - Pits Division Champions [[teamdivision#gcxi]]
 * Green Cup XI - Burger Conference Champions [[teamconference#gcxi]]
+* Green Cup XI Champions [[team1stplace#gcxi]]
 
 ### Seasons
 
