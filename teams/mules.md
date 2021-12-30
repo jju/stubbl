@@ -58,7 +58,7 @@ SELECT pl.nr AS "#", pl.name AS Player, pl.f_pos_name AS Position, sum(mp.spp) A
 | Team            | Division | W    | D    | L    | GP   | Win%   | GF   | GA   | Cas  | CasDiff | Fans |
 |-----------------|----------|------|------|------|------|--------|------|------|------|---------|------|
 | Mules | Open     |   34 |    4 |   16 |   54 |  65.502 |   89 |   61 |  130 |      84 |    3 |
-| Mules | Pro      |    2 |    0 |    0 |    2 | 100.000 |    4 |    2 |    7 |       6 |    2 |
+| Mules | Pro      |    3 |    0 |    0 |    3 | 100.000 |    6 |    2 |   10 |       9 |    2 |
 | Mules | Street   |    0 |    1 |    0 |    1 |  50.000 |    1 |    1 |    4 |       4 |    1 |
 
 ```
@@ -69,8 +69,7 @@ SELECT teams.name AS Team, divisions.name AS Division, sum(mr.won) AS W, sum(mr.
 
 | Team            | W    | D    | L    | GP   | Win%   | GF   | GA   | Cas  | CasDiff | Fans |
 |-----------------|-----:|-----:|-----:|-----:|-------:|-----:|-----:|-----:|--------:|-----:|
-| Mules |   36 |    5 |   16 |   57 | 67.877 |   94 |   64 |  141 |      94 |    6 |
-
+| Mules |   37 |    5 |   16 |   58 | 67.877 |   96 |   64 |  144 |      97 |    6 |
 
 ```
 SELECT teams.name AS Team, sum(mr.won) AS W, sum(mr.draw) AS D, sum(mr.lost) AS L, sum(mr.played) AS GP, round(avg(mr.win_pct),3) AS "Win%", sum(mr.gf) AS GF, sum(mr.ga) AS GA, sum(mr.tcasf) AS Cas, sum(mr.tcdiff) AS CasDiff, sum(mr.ff) AS Fans FROM mv_teams AS mr JOIN teams ON teams.team_id = mr.f_tid WHERE teams.name = "Mules" GROUP BY teams.name ORDER BY sum(mr.won) DESC limit 3;
@@ -90,7 +89,7 @@ SELECT teams.name AS Team, sum(mr.won) AS W, sum(mr.draw) AS D, sum(mr.lost) AS 
 
 | Team      | Season             | W  | D | L | GP | Win% | GF   | GA   | Cas  | CDif | FF   |
 |-----------|--------------------|--:|--:|--:|---:|-----:|---:|---:|----:|-----:|---:|
-| Mules | Champions Circuit     |    2 |    0 |    0 |      2 |     100 |    4 |    2 |    7 |      6 |    2 |
+| Mules | Champions Circuit  |    3 |    0 |    0 |      3 |     100 |    6 |    2 |   10 |      9 |    2 |
 | Mules | **Orange Goblet III** |   11 |    1 |    1 |     13 | 88.4615 |   25 |    7 |   32 |     30 |    2 |
 | Mules | UBBL Challenge III    |    4 |    0 |    2 |      6 | 66.67 |   10 |    8 |   13 |      8 |    2 |
 | Mules | UBBL Challenge        |    2 |    1 |    1 |      4 |    62.50 |    6 |    4 |   10 |     10 |    1 |
@@ -146,14 +145,10 @@ The Mules' Orange Goblet campaign was an historic defensive season. While it was
 |------------------|-------------------|------|------|------|--------|---------|------|------|--------|--------|------|--------|------|
 | Mules            | Orange Goblet III |   11 |    1 |    1 |     13 | 88.4615 |   25 |    7 |  1.923 |  0.538 |   32 |     30 |    2 |
 | Kaiju Dynamo     | UBBL Challenge IV |    2 |    0 |    1 |      3 | 66.6667 |    7 |    2 |  2.333 |  0.667 |    9 |      5 |    1 |
+| Mules            | Champions Circuit |    3 |    0 |    0 |      3 |     100 |    6 |    2 |  2.000 |  0.667 |   10 |      9 |    2 |
 | Geometers        | UBBL Challenge    |    2 |    0 |    2 |      4 |      50 |    5 |    3 |  1.250 |  0.750 |    9 |      6 |    2 |
 | Carcosan Tatters | Green Cup VI      |   11 |    1 |    5 |     17 | 67.6471 |   20 |   15 |  1.176 |  0.882 |   23 |     10 |    5 |
-| Thorns           | UBBL Challenge II |    3 |    0 |    1 |      4 |      75 |   12 |    4 |  3.000 |  1.000 |    5 |     -2 |    1 |
-| Irregular Cogs   | Champions Circuit |    1 |    0 |    0 |      1 |     100 |    2 |    1 |  2.000 |  1.000 |    0 |      0 |    1 |
 | Ravenous Eagles  | UBBL Challenge    |    3 |    1 |    1 |      5 |      70 |    7 |    5 |  1.400 |  1.000 |    5 |     -2 |    0 |
-| Raptors          | Champions Circuit |    1 |    0 |    0 |      1 |     100 |    4 |    1 |  4.000 |  1.000 |    0 |      2 |    0 |
-| Thorns           | Champions Circuit |    1 |    0 |    0 |      1 |     100 |    2 |    1 |  2.000 |  1.000 |    0 |      0 |    1 |
-| Carcosan Tatters | UBBL Challenge    |    2 |    0 |    1 |      3 | 66.6667 |    4 |    3 |  1.333 |  1.000 |    7 |      3 |    1 |
 
 ```
 SELECT teams.name AS Team, tours.name AS Season, mr.won, mr.draw, mr.lost, 	mr.played, mr.win_pct, mr.gf, mr.ga, round(mr.gf/mr.played,3) AS GF_avg, round(mr.ga/mr.played,3) AS GA_avg, mr.cas, mr.tcdiff, mr.ff FROM mv_teams AS mr JOIN tours ON mr.f_trid = tours.tour_id and mr.f_did = tours.f_did JOIN teams ON teams.team_id = mr.f_tid WHERE tours.f_did <> 4 ORDER BY GA_avg ASC limit 10;
