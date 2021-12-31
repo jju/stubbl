@@ -4,9 +4,8 @@ For most blocks in a season.
 
 # all-time
 
-* [[ekua]] 571 (active)
-* [[sophronia]] 550 (active)
-* [[Somfuhr]] 464
+* [[ekua]] 676
+* [[deepali]] 624 (active)
 
 # modern era
 

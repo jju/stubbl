@@ -26,6 +26,10 @@
 
 [[ravenouseagles]]
 
+## gcxi
+
+[[glorioushounds]]
+
 # old-era
 
 ## gci
@@ -69,3 +73,7 @@
 ## orange goblet ii
 
 [[mules]]
+
+## orange goblet iii
+
+[[deepdreamers]]

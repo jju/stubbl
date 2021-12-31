@@ -4,9 +4,8 @@ For most sacks in a season.
 
 # all-time
 
-* [[ekua]] 22 (Active)
-* [[chikondi]] 19 (Active)
-* [[rohit]] 17
+* [[ekua]] 30
+* [[chikondi]] 22 (Active)
 
 # modern era
 
@@ -36,7 +35,7 @@ For most sacks in a season.
 
 ## gcxi
 
-
+[[ekua]]
 
 # old-era
 

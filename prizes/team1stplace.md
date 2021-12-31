@@ -26,6 +26,10 @@
 
 [[oldwyrms]]
 
+## gcxi
+
+[[filthytide]]
+
 # old-era
 
 ## gci
@@ -69,3 +73,7 @@
 ## orange goblet ii
 
 [[virtuaraptors]]
+
+## orange goblet iii
+
+[[mules]]

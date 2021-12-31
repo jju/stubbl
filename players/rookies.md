@@ -44,7 +44,7 @@ SELECT pl.name AS Player,  pl.f_tname AS Team, pl.f_pos_name AS Position, count(
 * [[Aarthi]] - [[cacklingfuries]]
 * [[Rafferty]] - [[cacklingfuries]]
 * [[Lazar]] - [[irregularcogs]]
-* [[Ravil]] - [[glorioushounds]]
+* [[ravil]] - [[glorioushounds]]
 * [[Aiza]] - [[glorioushounds]]
 * [[Zalmon]] - [[oldwyrms]]
 * [[Ophelia]] - [[badgerclaws]]

@@ -4,12 +4,13 @@ For most Casualties in a season.
 
 # all-time
 
-* [[Somfuhr]] 50
-* [[jantine]] 50 (Active)
+* [[jantine]] 61
+* [[uli]] 45 (Active)
 
 
 ## former
 
+* [[somfuhr]] 50
 * [[rohit]] 49
 
 # modern era

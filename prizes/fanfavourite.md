@@ -4,9 +4,8 @@ For most MVP awards (as chosen by the fans) in a season.
 
 # all-time
 
-* [[aeson]] 9 (Active)
+* [[aeson]] 9
 * [[florinda]] 8 (Active)
-* [[TallHexer]] 8
 
 # modern era
 
@@ -36,6 +35,7 @@ For most MVP awards (as chosen by the fans) in a season.
 
 ## gcxi
 
+[[ravil]]
 
 
 # old-era

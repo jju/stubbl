@@ -10,6 +10,22 @@ SELECT pl.name AS Player, pl.f_tname AS Team, count(md.f_match_id) AS GP, sum(md
 
 | Player | Team         | GP | TD | Rsh | Cp | CpDst | Ctch | Int | Cas | Blk | Sck | MVP | SPP |
 |--------|--------------|---:|---:|----:|---:|------:|-----:|----:|----:|----:|----:|----:|----:|
+| [[Venus]]   | Filthy Tide       | 18 |   69 |  770 |    1 |     3 |   47 |    0 |    0 |    1 |    1 |    1 |  213 |
+| Ziba    | Glorious Hounds   | 19 |   63 |  739 |    2 |     0 |   58 |    2 |    0 |    9 |    1 |    3 |  210 |
+| Laurel  | Arboreal Menace   | 18 |   34 |  519 |    0 |     0 |   42 |    1 |    0 |    1 |    0 |    1 |  109 |
+| Frans   | Irregular Cogs    | 17 |   19 |  241 |    4 |     9 |   24 |    5 |    1 |   36 |    0 |    1 |   78 |
+| Koralo  | Eldritch Fatality | 15 |   12 |  223 |   19 |    11 |   22 |    0 |    2 |   14 |    0 |    2 |   69 |
+| Klim    | Badger Claws      | 12 |   19 |  267 |    0 |     0 |   19 |    0 |    0 |    2 |    2 |    2 |   67 |
+| Luanna. | Cackling Furies   | 16 |    1 |  204 |   54 |   221 |    0 |    1 |    0 |   15 |    0 |    1 |   64 |
+| Betuel  | Zensun Vagabonds  | 16 |    0 |  197 |   51 |   231 |    2 |    0 |    3 |   10 |    1 |    1 |   62 |
+| Oxana   | Glorious Hounds   | 18 |    0 |  234 |   54 |   195 |    3 |    1 |    0 |   19 |    0 |    1 |   61 |
+| Filipa  | Eldritch Fatality | 18 |    1 |  247 |   47 |   134 |    2 |    2 |    0 |   12 |    1 |    1 |   59 |
+| Padma   | Zensun Vagabonds  | 16 |   18 |  230 |    0 |     0 |   22 |    0 |    1 |   46 |    1 |    0 |   56 |
+| Ravil   | Glorious Hounds   | 13 |    6 |   71 |    4 |     4 |    9 |    0 |    0 |   20 |    4 |    6 |   52 |
+| Ayane   | Eldritch Fatality | 14 |   14 |   91 |    1 |     3 |   10 |    0 |    2 |   55 |    6 |    1 |   52 |
+| Arya    | Carcosan Tatters  | 16 |   12 |  165 |    3 |     4 |   14 |    0 |    1 |   54 |    2 |    2 |   51 |
+| Merlyn. | Irregular Cogs    | 13 |    8 |  231 |   18 |    19 |   21 |    1 |    1 |   26 |    5 |    1 |   51 |
+| Aeson.  | Badger Claws      |  8 |   17 |  231 |    0 |     0 |   15 |    0 |    0 |    3 |    0 |    0 |   51 |
 
  
 

@@ -6,8 +6,8 @@ For most rushing distance in a season.
 
 # all-time
 
-* [[aeson]] 1799 (Active)
-* [[besz]] 1147
+* [[aeson]] 2029
+* [[venus]] 1271
 
 # modern era
 
@@ -37,6 +37,7 @@ For most rushing distance in a season.
 
 ## gcxi
 
+[[venus]]
 
 
 # old-era

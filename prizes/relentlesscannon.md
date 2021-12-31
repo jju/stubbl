@@ -8,6 +8,7 @@ For most completions (with Completion Distance as a tie-breaker)
 
 * [[elvis]] 156
 * [[yosif]] 152
+* [[Filipa]] 149 (Active)
 
 
 # modern era
@@ -38,7 +39,7 @@ For most completions (with Completion Distance as a tie-breaker)
 
 ## gcxi
 
-
+[[luanna]]
 
 # old-era
 

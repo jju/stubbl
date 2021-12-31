@@ -4,7 +4,7 @@
 
 Pick: Even
 
-The Dynamo are bringing in a bunch of scrubs to take on the Hounds in this divisional battle. It's a weird move. The whole match was about the Hounds' lesser players showing off against the Dynamo's nobodies. It meant [[ziba]] only got one touchdown but [[Ravil]] got some decent reps in.
+The Dynamo are bringing in a bunch of scrubs to take on the Hounds in this divisional battle. It's a weird move. The whole match was about the Hounds' lesser players showing off against the Dynamo's nobodies. It meant [[ziba]] only got one touchdown but [[ravil]] got some decent reps in.
 
 > Weather: Nice
 > Toss: KD-Receive

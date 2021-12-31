@@ -2,7 +2,7 @@
 
 [[eldritchfatality]][[runner]][[gcxi]][[rookie]][[active]]
 
-Koralo is looking to win the GCXI Rookie of the Year award, which may conflict a bit with the Fatality's early undefeated streak.
+Koralo won the GCXI Rookie of the Year award on a team that was really very good.
 
 * Birthdate: 1261.774-656:264 #t1774
 * Deathdate: 1262.
@@ -35,6 +35,7 @@ SELECT pl.name AS Player, pl.f_tname AS Team, tours.name AS Season, mp.won AS W,
 # Prize Stats
 
 * GCXI Team MVP - 69 SPP
+* Rookie of the Year - GCXI [[rookieofyear#gcxi]]
 
 | Player | Team         | Season          | GP | TD | Rsh | Cp | CpDst | Ctch | Int | Cas | Blk | Sck | MVP | SPP |
 |--------|--------------|-----------------|---:|---:|----:|---:|------:|-----:|----:|----:|----:|----:|----:|----:|
