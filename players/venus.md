@@ -12,7 +12,11 @@ Venus was "discovered" in the Green Cup V Memorial tournament and is now the gre
 
 | Player           | Team        | Position      | W | D | L | GP | TD | Cp | Int | BH | SI | Ki | MVP | SPP |
 |------------------|-------------|---------------|--:|--:|--:|---:|---:|---:|----:|---:|---:|---:|----:|----:|
+<<<<<<< HEAD
 | Venus  | [Filthy Tide](../teams/filthytide) | Catcher |   20 |    2 |   11 |   33 |  105 |    1 |    0 |    0 |    0 |    0 |    4 |  336 |
+=======
+| Venus  | [Filthy Tide](../teams/filthytide) | Catcher |   20 |    2 |   12 |   34 |  105 |    1 |    0 |    0 |    0 |    0 |    4 |  336 |
+>>>>>>> 5ba9819c70286f12bf025ebf0d84f75ded037197
 
 
 ```
@@ -24,10 +28,16 @@ SELECT pl.name AS Player,  pl.f_tname AS Team, pl.f_pos_name AS Position,  sum(m
 | Player | Team         | Season          | W | D | L | TD | Cp | Int | BH | SI | Ki | MVP | SPP |
 |--------|--------------|-----------------|--:|--:|--:|---:|---:|----:|---:|---:|---:|----:|----:|
 | Venus  | Filthy Tide | Green Cup V Memorial |    0 |    0 |    1 |    1 |    0 |    0 |    0 |    0 |    0 |    1 |    8 |
+<<<<<<< HEAD
 | Venus  | Filthy Tide | Green Cup X          |    7 |    0 |    7 |   35 |    0 |    0 |    0 |    0 |    0 |    3 |  **120** |
 | Venus  | Filthy Tide | Champions Circuit    |    0 |    0 |    1 |    1 |    0 |    0 |    0 |    0 |    0 |    0 |    3 |
 | Venus  | Filthy Tide | Green Cup XI         |   13 |    2 |    3 |   **69** |    1 |    0 |    0 |    0 |    0 |    1 |  **213** |
 
+=======
+| Venus  | Filthy Tide | Green Cup X          |    7 |    0 |    7 |   35 |    0 |    0 |    0 |    0 |    0 |    3 |  120 |
+| Venus  | Filthy Tide | Champions Circuit    |    0 |    0 |    2 |    1 |    0 |    0 |    0 |    0 |    0 |    0 |    3 |
+| Venus  | Filthy Tide | Green Cup XI         |   13 |    2 |    3 |   69 |    1 |    0 |    0 |    0 |    0 |    1 |  213 |
+>>>>>>> 5ba9819c70286f12bf025ebf0d84f75ded037197
 
 ```
 SELECT pl.name AS Player, pl.f_tname AS Team, tours.name AS Season, mp.won AS W, mp.draw AS D, mp.lost AS L, mp.td as TD, mp.cp AS Cp, mp.intcpt as "Int", mp.bh AS BH, mp.si AS SI, mp.ki AS Ki, mp.mvp AS MVP, mp.spp AS SPP FROM mv_players AS mp  JOIN players AS pl ON mp.f_pid = pl.player_id AND mp.f_tid = pl.owned_by_team_id  JOIN tours ON mp.f_trid = tours.tour_id AND mp.f_did = tours.f_did  WHERE pl.name = "Venus" ORDER BY tours.tour_id ASC;
@@ -37,18 +47,31 @@ SELECT pl.name AS Player, pl.f_tname AS Team, tours.name AS Season, mp.won AS W,
 
 * Rookie of the Year - Green Cup X [[rookieofyear#gcx]]
 * All-Star - GCX [[allstars#gcx]]
+<<<<<<< HEAD
 * MVP - Green Cup XI [[mvp#gcxi]]
 * Sardines Crown - Green Cup XI [[sardinecrown#gcxi]]
 * Halfleg Award - Green Cup XI [[halflegaward#gcxi]]
 * All-Star - GCXI [[allstars#gcxi]]
+=======
+* MVP - GCXI [[mvp#gcxi]]
+* Sardines Crown - GCXI [[sardinecrown#gcxi]]
+* Halfleg Award - GCXI [[halflegaward#gcxi]]
+* All-Star - GCXI [[allstars#gcxi]]
+* Green Cup XI Champion [[champ#gcxi]]
+>>>>>>> 5ba9819c70286f12bf025ebf0d84f75ded037197
 
 | Player | Team         | Season          | GP | TD | Rsh | Cp | CpDst | Ctch | Int | Cas | Blk | Sck | MVP | SPP |
 |--------|--------------|-----------------|---:|---:|----:|---:|------:|-----:|----:|----:|----:|----:|----:|----:|
 | Venus  | Filthy Tide | Green Cup V Memorial |  1 |    1 |    3 |    0 |     0 |    0 |    0 |    0 |    0 |    0 |    1 |    8 |
 | Venus  | Filthy Tide | Green Cup X          | 14 |   35 |  489 |    0 |     0 |   33 |    0 |    0 |    2 |    0 |    3 |  **120** |
+<<<<<<< HEAD
 | Venus  | Filthy Tide | Champions Circuit    |  1 |    1 |   12 |    0 |     0 |    0 |    0 |    0 |    0 |    0 |    0 |    3 |
 | Venus  | Filthy Tide | Green Cup XI         | 18 |   69 |  770 |    1 |     3 |   47 |    0 |    0 |    1 |    1 |    1 |  213 |
 
+=======
+| Venus  | Filthy Tide | Green Cup XI         | 18 |   69 |  770 |    1 |     3 |   47 |    0 |    0 |    1 |    1 |    1 |  213 |
+| Venus  | Filthy Tide | Champions Circuit    |  2 |    1 |   12 |    0 |     0 |    0 |    0 |    0 |    0 |    0 |    0 |    3 |
+>>>>>>> 5ba9819c70286f12bf025ebf0d84f75ded037197
 
 
 ```

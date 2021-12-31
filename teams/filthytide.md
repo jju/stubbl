@@ -96,7 +96,11 @@ SELECT teams.name AS Team, sum(mr.won) AS W, sum(mr.draw) AS D, sum(mr.lost) AS 
 * UBBL Challenge - Gorefield Honour [[teamcasualties#ubbl challenge]]
 * Green Cup XI - Pits Division Champions [[teamdivision#gcxi]]
 * Green Cup XI - Burger Conference Champions [[teamconference#gcxi]]
+<<<<<<< HEAD
 * Green Cup XI - Green Cup Champions [[team1stplace#gcxi]]
+=======
+* Green Cup XI Champions [[team1stplace#gcxi]]
+>>>>>>> 5ba9819c70286f12bf025ebf0d84f75ded037197
 
 ### Seasons
 

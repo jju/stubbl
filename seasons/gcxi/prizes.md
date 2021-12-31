@@ -7,7 +7,11 @@ midway / end of regular season / final
 * [[team3rdplace]] - [[glorioushounds]] / [[glorioushounds]] / [[eldritchfatality]]
 * [[teamcasualties]] - [[ravenouseagles]] / [[ravenouseagles]] / [[ravenouseagles]]
 * [[mvp]] -  [[ziba]] / [[venus]] / [[venus]]
+<<<<<<< HEAD
 * [[sardinecrown]] - [[ziba]]  / [[venus]] / [[venus]]
+=======
+* [[sardinecrown]] - [[ziba]]  / [[venus]] / 
+>>>>>>> 5ba9819c70286f12bf025ebf0d84f75ded037197
 * [[carminefist]] -  [[uli]] / [[uli]] / [[uli]]
 * [[softhands]] -  [[laurel]] / [[ziba]] / [[ziba]]
 * [[relentlesscannon]] -  [[luanna]] / [[luanna]] / [[luanna]]
