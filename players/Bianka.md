@@ -1,6 +1,6 @@
 # Bianka
 
-[[mules]][[position]][[seasons/index]][[tier]]
+[[kickingmules]][[position]][[seasons/index]][[tier]]
 
 * Birthdate: 1261.
 * Deathdate: 1262.

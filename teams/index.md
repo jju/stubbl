@@ -23,7 +23,7 @@
 
 # orange goblet teams
 
-* [Mules](mules) [[mules]]
+* [Mules](kickingmules.md) [[kickingmules]]
 * [Gladiolas](gladiolas) [[gladiolas]]
 * [Thrillers](thrillers)[[thrillers]]
 * [Warthogs](warthogs)[[warthogs]]

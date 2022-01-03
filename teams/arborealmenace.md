@@ -90,9 +90,9 @@ SELECT teams.name AS Team, tours.name AS Season, mr.won, mr.draw, mr.lost, 	mr.p
 
 ### Seasons
 
-The Arboreal Menace began their existence with three straight losses in the first UBBL Challenge (against the [Mules](mules), [Machine](orbitalmachine) and [Eagles](ravenouseagles)).
+The Arboreal Menace began their existence with three straight losses in the first UBBL Challenge (against the [Mules](kickingmules.md), [Machine](orbitalmachine) and [Eagles](ravenouseagles)).
 
-In UBBL Challenge II they did much better against the bruising style of play, getting to the Quarter-finals which they lost to the eventual tournament winners the [Gargantuan Brutes](gargantuanbrutes). They lost again to the [Mules](mules) this season.
+In UBBL Challenge II they did much better against the bruising style of play, getting to the Quarter-finals which they lost to the eventual tournament winners the [Gargantuan Brutes](gargantuanbrutes). They lost again to the [Mules](kickingmules.md) this season.
 
 The Third UBBL Challenge was the Arboreal Menace's clear crowning achievement thus far. They won the entire tournament in undefeated fashion with a 6-win run after an opening match draw against the [Gladiolas](gladiolas).
 

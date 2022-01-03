@@ -72,7 +72,7 @@
 
 ## orange goblet ii
 
-[[mules]]
+[[kickingmules]]
 
 ## orange goblet iii
 

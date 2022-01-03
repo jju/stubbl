@@ -10,7 +10,7 @@ She didn't play in GCVIII, which was a terrible season for the Wyrms, but in GCI
 
 Moirin was brought back at the end of GCX (the rules for playoff rosters had been changed to prevent the kinds of shenanigans Hems pulled in GCIX, including making the playoffs a "no-subs" competition) for another playoff run and again she performed well and won another championship.
 
-She died in the Champions Circuit loss to the [Mules](../teams/mules).
+She died in the Champions Circuit loss to the [Mules](kickingmules.md).
 
 * Birthdate: 1261.619-577:651 #t1619 
 * Deathdate: 1262.745-788:294 #t2745

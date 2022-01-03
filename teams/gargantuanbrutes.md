@@ -75,7 +75,7 @@ Cornelus is an old criminal who got involved in sports as a way to legitimize
 
 ### Fans
 
-The Brutes have folded so the fans mostly don their old blue jerseys ironically these days. Many transferred their allegiances to the [Ravenous Eagles](ravenouseagles) (they each beat the other once, which is the best record the Brutes had against any Green Cup team), or the Open-Division [Mules](mules).
+The Brutes have folded so the fans mostly don their old blue jerseys ironically these days. Many transferred their allegiances to the [Ravenous Eagles](ravenouseagles) (they each beat the other once, which is the best record the Brutes had against any Green Cup team), or the Open-Division [Mules](kickingmules.md).
 
 ### Famous Games
 

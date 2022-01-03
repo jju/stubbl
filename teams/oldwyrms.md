@@ -118,7 +118,7 @@ They followed that up in the street-level GCV Memorial tournament as the best te
 
 The Tenth Green Cup championship did end up in the Old Wyrms' hands, though it wasn't the same kind of dominating season as the year before. The early weeks were filled with draws and their final record shows their offense was 10 TDs worse than previously, but their defense limited the damage. By the end they didn't need to be perfect, just better than their opponents, which they were.
 
-When it comes down to a winner-take-all match, the Old Wyrms are still beatable as they showed in the first round of the Champions Circuit where they lost to the Open Division Orange Goblet Champions the ponderous [Mules](mules).
+When it comes down to a winner-take-all match, the Old Wyrms are still beatable as they showed in the first round of the Champions Circuit where they lost to the Open Division Orange Goblet Champions the ponderous [Mules](kickingmules.md).
 
 #### Projection GCXI
 

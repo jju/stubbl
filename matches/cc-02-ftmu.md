@@ -10,7 +10,7 @@ Pick: Tide
 > Toss: Mu-Receive
 > Kickoffs: FT-HighKick (Mu-1), Mu-ChangingWeatherNice (Half), Mu-QuickSnap (FT-1), FT-ChangingWeatherNice (Mu-2Final)
 
-[[filthytide]][[mules]][[cc-02]]
+[[filthytide]][[kickingmules]][[cc-02]]
 
 
 

@@ -2,7 +2,7 @@
 
 #t2764
 
-The [[thorns]] who came second in OGI did not make the playoffs in OGII. There's some talk about how they shouldn't have let up the gas against the [[mules]] in the final week, but it didn't appear to be a full blown thrown match.
+The [[thorns]] who came second in OGI did not make the playoffs in OGII. There's some talk about how they shouldn't have let up the gas against the [[kickingmules]] in the final week, but it didn't appear to be a full blown thrown match.
 
 ## schedule
 

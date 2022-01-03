@@ -1,6 +1,6 @@
 # Mawunyo
 
-[[mules]][[position]][[seasons/index]][[tier]]
+[[kickingmules]][[position]][[seasons/index]][[tier]]
 
 * Birthdate: 1261.
 * Deathdate: 1262.
@@ -30,7 +30,7 @@ SELECT pl.name AS Player, pl.f_tname AS Team, tours.name AS Season, mp.won AS W,
 
 # Prize Stats
 
-* Prize - Season [[prizes/index]]
+* Orange Goblet Champion - Orange Goblet III [[champ#ogiii]]
 
 | Player | Team         | Season          | GP | TD | Rsh | Cp | CpDst | Ctch | Int | Cas | Blk | Sck | MVP | SPP |
 |--------|--------------|-----------------|---:|---:|----:|---:|------:|-----:|----:|----:|----:|----:|----:|----:|

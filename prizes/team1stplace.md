@@ -64,7 +64,7 @@
 
 ## orange goblet
 
-[[mules]]
+[[kickingmules]]
 
 ## ubbl challenge iv
 
@@ -76,4 +76,4 @@
 
 ## orange goblet iii
 
-[[mules]]
+[[kickingmules]]

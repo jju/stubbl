@@ -104,3 +104,33 @@
 * [[Menachem]] - GCX
 * [[Teresia]] - GCX
 * [[modest]] - GCIX off playoff roster, GCX
+
+# ogiii
+
+* Nkosana - OGI
+* Bianka - OGI, OGIII
+* Renatus - OGI
+* Lambert - OGI, OGIII ?
+* Gottfried - OGI
+* Amalie - OGI, OGIII
+* Torborg - OGI, OGIII
+* Alida - OGI
+* Reshat - OGI
+* Lasse - OGI, OGIII
+* Halgurd - OGI, OGIII
+* Thera - OGI, OGIII
+* Volker - OGI, OGIII
+* Khloe - OGI, OGIII
+* Janne - OGI
+* Pilvi - OGIII
+* Umut
+* Mawunyo
+* Jade
+* Danilo
+* Aygul
+* Ratna
+* Maral
+* Yijun
+* Juan ?
+* Renatus
+* Yaxkin ?

@@ -57,7 +57,7 @@ This is their year. Orange Goblet Champions.
 
 ### Fans
 
-Much like the [Glorious Hounds](glorioushounds) fans were until UCIV, Gladiola fans are desperate for a tournament win. The Gladiolas' biggest rivals are the [Mules](mules) to whom they lost the first Orange Goblet, and the [Thorns](thorns) who are pretty much just as good as them. They are also bitter about the [Arboreal Menace](arborealmenace) beating them in UBBL Challenge III and making it to the big show before they could.
+Much like the [Glorious Hounds](glorioushounds) fans were until UCIV, Gladiola fans are desperate for a tournament win. The Gladiolas' biggest rivals are the [Mules](kickingmules.md) to whom they lost the first Orange Goblet, and the [Thorns](thorns) who are pretty much just as good as them. They are also bitter about the [Arboreal Menace](arborealmenace) beating them in UBBL Challenge III and making it to the big show before they could.
 
 ### Famous Games
 
