@@ -4,7 +4,7 @@
 
 Pick: Even
 
-The Tide got hit with the one-two punch to end the first half against the trademark attacking defense of the Cogs and then got walloped again in the second half. Venus scored what she needed for the Sardines race and the Tide still only needs three wins to clinch their Stacks division bye.
+The Tide got hit with the one-two punch to end the first half against the trademark attacking defense of the Cogs and then got walloped again in the second half. Veens scored what she needed for the Sardines race and the Tide still only needs three wins to clinch their Stacks division bye.
 
 > Weather: Nice
 > Toss: FT-Receive

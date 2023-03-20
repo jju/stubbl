@@ -11,11 +11,11 @@ SELECT pl.name AS Player, pl.f_tname AS Team, count(md.f_match_id) AS GP, sum(md
 <<<<<<< HEAD
 | Player | Team         | GP | TD | Rsh | Cp | CpDst | Ctch | Int | Cas | Blk | Sck | MVP | SPP |
 |--------|--------------|---:|---:|----:|---:|------:|-----:|----:|----:|----:|----:|----:|----:|
-| [[Venus]]   | Filthy Tide       | 18 |   69 |  770 |    1 |     3 |   47 |    0 |    0 |    1 |    1 |    1 |  213 |
+| [[Veens]]   | Filthy Tide       | 18 |   69 |  770 |    1 |     3 |   47 |    0 |    0 |    1 |    1 |    1 |  213 |
 =======
 | Player    | Team              | GP | TD | Rsh | Cp | CpDst | Ctch | Int | Cas | Blk | Sck | MVP | SPP |
 |-----------|-------------------|---:|---:|----:|---:|------:|-----:|----:|----:|----:|----:|----:|----:|
-| [[Venus]] | Filthy Tide       | 18 |   69 |  770 |    1 |     3 |   47 |    0 |    0 |    1 |    1 |    1 |  213 |
+| [[Veens]] | Filthy Tide       | 18 |   69 |  770 |    1 |     3 |   47 |    0 |    0 |    1 |    1 |    1 |  213 |
 >>>>>>> 5ba9819c70286f12bf025ebf0d84f75ded037197
 | Ziba    | Glorious Hounds   | 19 |   63 |  739 |    2 |     0 |   58 |    2 |    0 |    9 |    1 |    3 |  210 |
 | Laurel  | Arboreal Menace   | 18 |   34 |  519 |    0 |     0 |   42 |    1 |    0 |    1 |    0 |    1 |  109 |
@@ -40,7 +40,7 @@ SELECT pl.name AS Player, pl.f_tname AS Team, count(md.f_match_id) AS GP, sum(md
 | Player | Team         | GP | TD | Rsh | Cp | CpDst | Ctch | Int | Cas | Blk | Sck | MVP | SPP |
 |--------|--------------|---:|---:|----:|---:|------:|-----:|----:|----:|----:|----:|----:|----:|
 | [[Aeson]]     | Badger Claws      | 17 |   52 |  645 |    0 |     0 |   40 |    0 |    0 |    0 |    0 |    3 |  171 |
-| [[Venus]]     | Filthy Tide       | 14 |   35 |  489 |    0 |     0 |   33 |    0 |    0 |    2 |    0 |    3 |  120 |
+| [[Veens]]     | Filthy Tide       | 14 |   35 |  489 |    0 |     0 |   33 |    0 |    0 |    2 |    0 |    3 |  120 |
 | [[Atte]]      | Eldritch Fatality | 15 |   26 |  307 |    2 |     5 |   32 |    0 |    1 |   30 |    0 |    1 |   87 |
 | [[Padma]]     | Zensun Vagabonds  | 17 |   22 |  237 |    1 |     0 |   21 |    0 |    5 |   49 |    2 |    2 |   87 |
 | [[Shashi]]    | Cackling Furies   | 17 |   21 |  188 |    0 |     0 |   23 |    0 |    1 |   41 |    0 |    3 |   80 |

@@ -40,7 +40,7 @@ The Cogs dispatched the Furies with little emotion, their defense scoring three 
 
 A bit of a weird one for the Claws who didn't really get the chance to develop Klim the way he's going to need to be a reliable threat in the postseason (assuming they get that far). KD 3 - BC 2 [[gcxi-08-kdbc]]
 
-The Tide got the ball to Venus 4 times and handed the Fatality their first loss of the season in an exciting match that could be the preview of the GCXI championship. FT 6 - EF 4 [[gcxi-08-ftef]]
+The Tide got the ball to Veens 4 times and handed the Fatality their first loss of the season in an exciting match that could be the preview of the GCXI championship. FT 6 - EF 4 [[gcxi-08-ftef]]
 
 ## standings
 
@@ -57,7 +57,7 @@ The Tide got the ball to Venus 4 times and handed the Fatality their first loss 
 | Player    | Team              | TDs  | Rush | Cp   | CpDist | Ctch | Int  | Cas  | Blck | Sck  | MVP  | SPP  |
 |-----------|-------------------|------|------|------|--------|------|------|------|------|------|------|------|
 | Ziba     | Glorious Hounds   |    5 |   72 |    1 |     -2 |    5 |    0 |    0 |    1 |    0 |    0 |   16 |
-| Venus    | Filthy Tide       |    4 |   50 |    0 |      0 |    3 |    0 |    0 |    0 |    0 |    0 |   12 |
+| Veens    | Filthy Tide       |    4 |   50 |    0 |      0 |    3 |    0 |    0 |    0 |    0 |    0 |   12 |
 | Laurel   | Arboreal Menace   |    4 |   52 |    0 |      0 |    3 |    0 |    0 |    0 |    0 |    0 |   12 |
 | Betul    | Eldritch Fatality |    3 |   17 |    0 |      0 |    3 |    0 |    1 |    2 |    0 |    0 |   11 |
 | Olufunmi | Darkling Spectres |    3 |   42 |    0 |      0 |    4 |    0 |    0 |    5 |    0 |    0 |    9 |

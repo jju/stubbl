@@ -5,7 +5,7 @@
 # all-time
 
 * [[aeson]] 155
-* [[venus]] 105
+* [[Veens]] 105
 
 # modern era
 
@@ -35,7 +35,7 @@
 
 ## gcxi
 
-[[venus]]
+[[Veens]]
 
 # old-era
 

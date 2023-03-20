@@ -54,7 +54,7 @@ The Tide got hit with the one-two punch to end the first half against the tradem
 |-----------|-------------------|------|------|------|--------|------|------|------|------|------|------|------|
 | [[Jonah]]      | Zensun Vagabonds  |    2 |   24 |    0 |      0 |    3 |    1 |    0 |    0 |    0 |    1 |   13 |
 | Lazar      | Irregular Cogs    |    4 |   28 |    1 |     -2 |    1 |    0 |    0 |    1 |    0 |    0 |   13 |
-| Venus      | Filthy Tide       |    4 |   44 |    0 |      0 |    3 |    0 |    0 |    0 |    0 |    0 |   12 |
+| Veens      | Filthy Tide       |    4 |   44 |    0 |      0 |    3 |    0 |    0 |    0 |    0 |    0 |   12 |
 | Ziba       | Glorious Hounds   |    4 |   41 |    0 |      0 |    3 |    0 |    0 |    0 |    0 |    0 |   12 |
 | Sacnicte   | Darkling Spectres |    2 |   27 |    1 |      2 |    1 |    0 |    0 |    1 |    0 |    1 |   12 |
 | Georgina   | Arboreal Menace   |    2 |   15 |    0 |      0 |    2 |    1 |    0 |    1 |    0 |    0 |    8 |

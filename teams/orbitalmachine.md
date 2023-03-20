@@ -114,7 +114,7 @@ The Machine is due for another deep playoff run and this season could be the one
 
 #### GCXI Recap
 
-The Machine didn't have that deep playoff run they were expecting. They didn't score more than 2 TDs even once, and their best team effort in bashing was a 6 casualty outing against the Fatality [[gcxi-13-efom]]. [[Uli]] handily coasted to a Carmine Fist award (but may not have if the Eagles hadn't been spreading their damage around; see [[gcxi-cas-race]]). The biggest impact they are likely to have on the season as a whole is that Uli seriously injured [[Venus]] in week 15 [[gcxi-15-omft]], causing a necessary shift in the Tide's playoff strategy.
+The Machine didn't have that deep playoff run they were expecting. They didn't score more than 2 TDs even once, and their best team effort in bashing was a 6 casualty outing against the Fatality [[gcxi-13-efom]]. [[Uli]] handily coasted to a Carmine Fist award (but may not have if the Eagles hadn't been spreading their damage around; see [[gcxi-cas-race]]). The biggest impact they are likely to have on the season as a whole is that Uli seriously injured [[Veens]] in week 15 [[gcxi-15-omft]], causing a necessary shift in the Tide's playoff strategy.
 
 | Team            | round | Touches | TDs  | Rush | Cp   | PassDist | Caught | Intercepts | Cas  | Blocks | Sacks | MVPs | SPP  |  Location | WDL |
 |-----------------|-------|---------|------|------|------|----------|--------|------------|------|--------|-------|------|------|-------------|-------------|

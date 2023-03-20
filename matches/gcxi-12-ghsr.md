@@ -13,7 +13,7 @@ Ziba took over the Sardines lead against the Sump Runners and the Hounds took ov
 [[sumprunners]][[glorioushounds]][[gcxi]]
 
 [[warreporter]] 
-[[Ziba]] needs a big game since [[Venus]] will be going against a defense-free Claws squad
+[[Ziba]] needs a big game since [[Veens]] will be going against a defense-free Claws squad
 
 | Player    | Team            | Touches | TDs  | Rush | Cp   | PassDist | Caught | Picks | Cas  | Blocks | Sacks | MVPs | Intercepted | Sacked | KOed | Hurt | Injured | Killed | SPP  |
 |-----------|-----------------|---------|------|------|------|----------|--------|-------|------|--------|-------|------|-------------|--------|------|------|---------|--------|------|

@@ -42,7 +42,7 @@ The Eagles and Cogs could have their fates decided before playing, but if it's s
 * [Eldritch Fatality](../../teams/eldritchfatality) - [Glorious Hounds](../../teams/glorioushounds)
 * [Ravenous Eagles](../../teams/ravenouseagles) - [Irregular Cogs](../../teams/irregularcogs)
 
-The Tide defeated the Machine, as expected, but [[Venus]] was seriously injured and her effectiveness moving forward seems in doubt. OM 2 - FT 3 [[gcxi-15-omft]]
+The Tide defeated the Machine, as expected, but [[Veens]] was seriously injured and her effectiveness moving forward seems in doubt. OM 2 - FT 3 [[gcxi-15-omft]]
 
 Despite being eliminated the Badger Claws put on a great show for Aeson's final outing in the blue and green and the Wyrms' medical staff kept everyone ready for their playoff date with the Gore Farmers. BC 7 - OW 2 [[gcxi-15-bcow]]
 
@@ -75,7 +75,7 @@ This was another possible Classic Conference final preview, and one that the Hou
 | Ziba    | Glorious Hounds  |    7 |   70 |    0 |      0 |    8 |    0 |    0 |    1 |    0 |    0 |   21 |
 | Klim    | Badger Claws     |    3 |   38 |    0 |      0 |    3 |    0 |    0 |    0 |    0 |    1 |   14 |
 | Martti  | Old Wyrms        |    1 |   19 |    0 |      0 |    4 |    0 |    1 |    4 |    0 |    1 |   10 |
-| Venus   | Filthy Tide      |    3 |   37 |    0 |      0 |    2 |    0 |    0 |    0 |    0 |    0 |    9 |
+| Veens   | Filthy Tide      |    3 |   37 |    0 |      0 |    2 |    0 |    0 |    0 |    0 |    0 |    9 |
 | Gianna  | Badger Claws     |    2 |   30 |    3 |     -2 |    1 |    0 |    0 |    1 |    0 |    0 |    9 |
 | Ulvi    | TC Sump Runners  |    0 |   13 |    3 |     11 |    0 |    0 |    0 |    0 |    0 |    1 |    8 |
 | Ion     | Kaiju Dynamo     |    1 |   20 |    0 |      0 |    0 |    0 |    0 |    0 |    0 |    1 |    8 |
@@ -98,7 +98,7 @@ SELECT pl.name AS Player, pl.f_tname AS Team, sum(md.td) AS TDs, sum(mx.rushing_
 
 | Player            | Team             | TDs  | Rush | Cp   | CpDist | Ctch | Int | Cas  | Blck | Sck | MVP | SPP  |
 |-------------------|------------------|------|------|------|----------|---------|---|---|--------|-------|------|------|
-| Venus  | Filthy Tide     |   59 |  694 |    1 |      3 |   39 |    0 |    0 |    0 |    0 |    1 |  183 |
+| Veens  | Filthy Tide     |   59 |  694 |    1 |      3 |   39 |    0 |    0 |    0 |    0 |    1 |  183 |
 | Ziba   | Glorious Hounds |   56 |  671 |    2 |      0 |   52 |    0 |    0 |    8 |    1 |    2 |  180 |
 | Laurel | Arboreal Menace |   30 |  455 |    0 |      0 |   38 |    0 |    0 |    1 |    0 |    1 |   95 |
 | Frans  | Irregular Cogs  |   18 |  208 |    3 |      8 |   22 |    5 |    0 |   31 |    0 |    1 |   72 |
@@ -108,7 +108,7 @@ SELECT pl.name AS Player, pl.f_tname AS Team, sum(md.td) AS TDs, sum(mx.rushing_
 
 | Player            | Team             | TDs  | Rush | Cp   | CpDist | Ctch | Int | Cas  | Blck | Sck | MVP | SPP  |
 |-------------------|------------------|------|------|------|----------|---------|---|---|--------|-------|------|------|
-| Venus  | Filthy Tide     |   59 |  694 |    1 |      3 |   39 |    0 |    0 |    0 |    0 |    1 |  183 |
+| Veens  | Filthy Tide     |   59 |  694 |    1 |      3 |   39 |    0 |    0 |    0 |    0 |    1 |  183 |
 | Ziba   | Glorious Hounds |   56 |  671 |    2 |      0 |   52 |    0 |    0 |    8 |    1 |    2 |  180 |
 | Laurel | Arboreal Menace |   30 |  455 |    0 |      0 |   38 |    0 |    0 |    1 |    0 |    1 |   95 |
 
@@ -126,7 +126,7 @@ SELECT pl.name AS Player, pl.f_tname AS Team, sum(md.td) AS TDs, sum(mx.rushing_
 
 | Player            | Team             | TDs  | Rush | Cp   | CpDist | Ctch | Int | Cas  | Blck | Sck | MVP | SPP  |
 |-------------------|------------------|------|------|------|----------|---------|---|---|--------|-------|------|------|
-| Venus  | Filthy Tide     |   59 |  694 |    1 |      3 |   39 |    0 |    0 |    0 |    0 |    1 |  183 |
+| Veens  | Filthy Tide     |   59 |  694 |    1 |      3 |   39 |    0 |    0 |    0 |    0 |    1 |  183 |
 | Ziba   | Glorious Hounds |   56 |  671 |    2 |      0 |   52 |    0 |    0 |    8 |    1 |    2 |  180 |
 | Laurel | Arboreal Menace |   30 |  455 |    0 |      0 |   38 |    0 |    0 |    1 |    0 |    1 |   95 |
 
@@ -135,7 +135,7 @@ SELECT pl.name AS Player, pl.f_tname AS Team, sum(md.td) AS TDs, sum(mx.rushing_
 | Player            | Team             | TDs  | Rush | Cp   | CpDist | Ctch | Int | Cas  | Blck | Sck | MVP | SPP  |
 |-------------------|------------------|------|------|------|----------|---------|---|---|--------|-------|------|------|
 | Ziba   | Glorious Hounds |   56 |  671 |    2 |      0 |   52 |    0 |    0 |    8 |    1 |    2 |  180 |
-| Venus  | Filthy Tide     |   59 |  694 |    1 |      3 |   39 |    0 |    0 |    0 |    0 |    1 |  183 |
+| Veens  | Filthy Tide     |   59 |  694 |    1 |      3 |   39 |    0 |    0 |    0 |    0 |    1 |  183 |
 | Laurel | Arboreal Menace |   30 |  455 |    0 |      0 |   38 |    0 |    0 |    1 |    0 |    1 |   95 |
 
 

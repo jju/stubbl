@@ -19,9 +19,9 @@ We start off with a last-place battle, but the Sump Runners can make up more gro
 The Fatality did what they needed to, and are within spitting distance of keeping the Pits within reach, but it depends on the rest of the division to pull ahead if they so desire.
  SR 2 - EF 4 (EF) 
 
-The Tide never got Venus going properly in this match. She ended up with two TDs but bobbled a number of catches that put it out of reach. FT 2 - GH 4
+The Tide never got Veens going properly in this match. She ended up with two TDs but bobbled a number of catches that put it out of reach. FT 2 - GH 4
 
-Venus was ecstatic to watch her main rival for the Sardines prize have a scoreless match, and the Cogs made it that much harder for either of the Outlands lower-ranked teams to be able to un crab bucket themselves. BC 0 - IC 4 (BC)
+Veens was ecstatic to watch her main rival for the Sardines prize have a scoreless match, and the Cogs made it that much harder for either of the Outlands lower-ranked teams to be able to un crab bucket themselves. BC 0 - IC 4 (BC)
 
 The Furies tore into the heavily-favoured Arboreal Menace and claimed first place in the Pits (at least for the moment) AR 1 - CF 5 (AR+)
 

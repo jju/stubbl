@@ -8,7 +8,7 @@
 [next week](week13)
 
 * business storyline: OW-CT [[warreporter]] two teams built on sharing the load and being profitable while doing it, KD-AM [[aficionado]] Menace need the win and the Dynamo are hanging onto their division lead, OM-ZV [[writer]] a Machine win puts them back in a tie for the playoff spot but injuries in Week 11 mean the playoff roster would be thin even if they make it - playing for a futile run
-* player storyline  GH-SR [[warreporter]] Ziba needs a big game since Venus will be going against a defense-free Claws squad, IC-DS [[writer]] who are the stars and who's been getting these teams through?, FT-BC [[aficionado]] offense offense offense do these games get a little unpredictable?
+* player storyline  GH-SR [[warreporter]] Ziba needs a big game since Veens will be going against a defense-free Claws squad, IC-DS [[writer]] who are the stars and who's been getting these teams through?, FT-BC [[aficionado]] offense offense offense do these games get a little unpredictable?
 * team storyline GF-CF [[writer]] poetry of bashing, OM-ZV [[aficionado]] OM don't even have a path to a full roster in the playoffs so will they just roll over and let [[Uli]] build the Carmine Fist lead, RE-EF [[warreporter]] second vs first so a likely playoff preview
 * Playoffs: Intradivisional: RE-EF second vs first so a likely playoff preview, OM-ZV a Machine win puts them back in a tie for the playoff spot but injuries in Week 11 mean the playoff roster would be thin even if they make it. 
 
@@ -32,7 +32,7 @@ The Machine got a draw out of this match with a bunch of scrubs getting some exe
 
 A surprisingly decisive victory for the Spectres against a team trying to win a division. That they stole [[alexandros]]' contract in the middle of it all adds insult to injury. IC 0 - DS 3 [[gcxi-12-icds]]
 
-The Tide held on through Aleksy's passing difficulties and clinched first in the Stacks and Venus retook the TD lead. FT 9 - BC 7 [[gcxi-12-ftbc]]
+The Tide held on through Aleksy's passing difficulties and clinched first in the Stacks and Veens retook the TD lead. FT 9 - BC 7 [[gcxi-12-ftbc]]
 
 The Tatters did a patented smother and control match and put a lot of pressure on the Badger Claws to right their ship if they want to give their speedstaers a taste of playoff action. OW 0 - CT 2 [[gcxi-12-owct]]
 
@@ -54,7 +54,7 @@ The Menace spread the ball around and absolutely dismantled the Dynamo without e
 
 | Player    | Team              | TDs  | Rush | Cp   | CpDist | Ctch | Int  | Cas  | Blck | Sck  | MVP  | SPP  |
 |-----------|-------------------|------|------|------|--------|------|------|------|------|------|------|------|
-| Venus      | Filthy Tide       |    9 |  114 |    0 |      0 |    5 |    0 |    0 |    0 |    0 |    0 |   27 |
+| Veens      | Filthy Tide       |    9 |  114 |    0 |      0 |    5 |    0 |    0 |    0 |    0 |    0 |   27 |
 | Klim       | Badger Claws      |    6 |  107 |    0 |      0 |    4 |    0 |    0 |    0 |    0 |    0 |   18 |
 | Danr       | Cackling Furies   |    3 |   14 |    0 |      0 |    1 |    1 |    0 |    4 |    0 |    1 |   16 |
 | Ziba       | Glorious Hounds   |    5 |   63 |    0 |      0 |    5 |    0 |    0 |    1 |    0 |    0 |   15 |

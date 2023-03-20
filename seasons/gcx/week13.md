@@ -20,7 +20,7 @@
 
 The Cogs surged into first-place overall (but the rivals haven't had their matches yet) and the loss gives the Filthy Tide another chance to get some breathing room on the Sump Runners. SR 0 - IC 4
 
-The Filthy Tide survived a few scares (including a last minute medical assist on Venus) to get the win and pull ahead of the Sump Runners with enough time to allow some rest in the playoff runup. FT 4 - EF 3
+The Filthy Tide survived a few scares (including a last minute medical assist on Veens) to get the win and pull ahead of the Sump Runners with enough time to allow some rest in the playoff runup. FT 4 - EF 3
 
 The Gore Farmers did a good job keeping this one attainable, but in the end couldn't find the endzone that last time. The Claws crawled up from the Outlands basement, at least until the Arboreal Menace play their match. BC 3 - GF 2
 

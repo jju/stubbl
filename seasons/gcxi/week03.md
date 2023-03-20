@@ -5,7 +5,7 @@
 [next week](week04)
 
 * business storyline CF-BC [[warreporter]] bringing back Aeson for wins, DS-EF [[aficionado]] can the Fatality keep running on fumes?, RE-GH [[writer]] Hounds out of cash entirely while the Eagles are sitting on new player contracts they can't sign
-* player storyline CF-BC [[writer]] bringing back Aeson morale on Klim, KD-FT [[aficionado]] Venus doing her thing in better circumstances, RE-GH [[warreporter]] injuries from Jantine
+* player storyline CF-BC [[writer]] bringing back Aeson morale on Klim, KD-FT [[aficionado]] Veens doing her thing in better circumstances, RE-GH [[warreporter]] injuries from Jantine
 * team storyline DS-EF [[writer]] the rise of the Fatality, CT-AM [[aficionado]] The third week in a row of the Tatters facing teams that can punish a moments' weakness by scoring seemingly at will, OW-OM [[warreporter]] can the Machine sideline enough Wyrms to make things tough going forward?
 * IC-SR, GF-ZV
 
@@ -57,7 +57,7 @@ Only favourite wins: AM and EF
 | Louis      | Kaiju Dynamo      |    4 |   56 |    0 |      0 |    2 |    0 |    0 |    1 |    0 |    1 |   17 |
 | Aeson      | Badger Claws      |    3 |   39 |    0 |      0 |    3 |    0 |    0 |    0 |    0 |    0 |    9 |
 | Atte       | Eldritch Fatality |    3 |   47 |    0 |      0 |    3 |    0 |    0 |    1 |    0 |    0 |    9 |
-| Venus      | Filthy Tide       |    3 |   51 |    0 |      0 |    3 |    0 |    0 |    0 |    0 |    0 |    9 |
+| Veens      | Filthy Tide       |    3 |   51 |    0 |      0 |    3 |    0 |    0 |    0 |    0 |    0 |    9 |
 | Rickon     | Cackling Furies   |    3 |   25 |    0 |      0 |    4 |    0 |    0 |    1 |    0 |    0 |    9 |
 | Matheo     | Irregular Cogs    |    1 |    7 |    0 |      0 |    1 |    0 |    0 |    2 |    0 |    1 |    8 |
 | Gerty      | Badger Claws      |    1 |    6 |    0 |      0 |    1 |    0 |    0 |    0 |    0 |    1 |    8 |

@@ -4,7 +4,7 @@
 
 Pick: Tide
 
-[[Venus]] didn't have a record-breaking match but comfortably stayed in the mix for the Sardines Crown while the rest of the team fought off injury and got the win to stay in second place overall.
+[[Veens]] didn't have a record-breaking match but comfortably stayed in the mix for the Sardines Crown while the rest of the team fought off injury and got the win to stay in second place overall.
 
 > Weather: Nice
 > Toss: CF-Receive
@@ -13,7 +13,7 @@ Pick: Tide
 [[cacklingfuries]][[filthytide]][[gcxi]]
 
 [[aficionado]] 
-Venus doesn't have to do all the work but she is trying for the Sardines crown and is down 3 TDs  
+Veens doesn't have to do all the work but she is trying for the Sardines crown and is down 3 TDs  
 
 ### playoff race
 

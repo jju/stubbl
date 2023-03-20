@@ -57,7 +57,7 @@ The Dynamo are bringing in a bunch of scrubs to take on the Hounds in this divis
 | Player    | Team              | TDs  | Rush | Cp   | CpDist | Ctch | Int  | Cas  | Blck | Sck  | MVP  | SPP  |
 |-----------|-------------------|------|------|------|--------|------|------|------|------|------|------|------|
 | Ravil   | Glorious Hounds   |    3 |   15 |    0 |      0 |    3 |    0 |    0 |    0 |    0 |    1 |   14 |
-| Venus   | Filthy Tide       |    4 |   36 |    0 |      0 |    4 |    0 |    0 |    0 |    0 |    0 |   12 |
+| Veens   | Filthy Tide       |    4 |   36 |    0 |      0 |    4 |    0 |    0 |    0 |    0 |    0 |   12 |
 | Frans   | Irregular Cogs    |    4 |   35 |    0 |      0 |    6 |    0 |    0 |    2 |    0 |    0 |   12 |
 | Zalmon  | Old Wyrms         |    2 |   34 |    1 |      1 |    4 |    0 |    0 |    0 |    0 |    1 |   12 |
 | Ayane   | Eldritch Fatality |    3 |   27 |    0 |      0 |    4 |    0 |    0 |    4 |    0 |    0 |    9 |
@@ -79,7 +79,7 @@ SELECT pl.name AS Player, pl.f_tname AS Team, sum(md.td) AS TDs, sum(mx.rushing_
 | Player            | Team             | TDs  | Rush | Cp   | CpDist | Ctch | Int | Cas  | Blck | Sck | MVP | SPP  |
 |-------------------|------------------|------|------|------|----------|---------|---|---|--------|-------|------|------|
 | Ziba   | Glorious Hounds   |   20 |  247 |    1 |      2 |   20 |    0 |    0 |    4 |    1 |    0 |   61 |
-| Venus  | Filthy Tide       |   19 |  252 |    0 |      0 |   15 |    0 |    0 |    0 |    0 |    0 |   57 |
+| Veens  | Filthy Tide       |   19 |  252 |    0 |      0 |   15 |    0 |    0 |    0 |    0 |    0 |   57 |
 | Laurel | Arboreal Menace   |   17 |  251 |    0 |      0 |   21 |    0 |    0 |    1 |    0 |    1 |   56 |
 | Ayane  | Eldritch Fatality |   13 |   84 |    1 |      3 |   10 |    0 |    0 |   17 |    3 |    1 |   45 |
 | Donato | Ravenous Eagles   |    6 |  100 |    2 |     10 |    1 |    0 |    1 |    3 |    1 |    3 |   37 |
@@ -89,7 +89,7 @@ SELECT pl.name AS Player, pl.f_tname AS Team, sum(md.td) AS TDs, sum(mx.rushing_
 | Player            | Team             | TDs  | Rush | Cp   | CpDist | Ctch | Int | Cas  | Blck | Sck | MVP | SPP  |
 |-------------------|------------------|------|------|------|----------|---------|---|---|--------|-------|------|------|
 | Ziba   | Glorious Hounds |   20 |  247 |    1 |      2 |   20 |    0 |    0 |    4 |    1 |    0 |   61 |
-| Venus  | Filthy Tide     |   19 |  252 |    0 |      0 |   15 |    0 |    0 |    0 |    0 |    0 |   57 |
+| Veens  | Filthy Tide     |   19 |  252 |    0 |      0 |   15 |    0 |    0 |    0 |    0 |    0 |   57 |
 | Laurel | Arboreal Menace |   17 |  251 |    0 |      0 |   21 |    0 |    0 |    1 |    0 |    1 |   56 |
 
 
@@ -106,7 +106,7 @@ SELECT pl.name AS Player, pl.f_tname AS Team, sum(md.td) AS TDs, sum(mx.rushing_
 
 | Player            | Team             | TDs  | Rush | Cp   | CpDist | Ctch | Int | Cas  | Blck | Sck | MVP | SPP  |
 |-------------------|------------------|------|------|------|----------|---------|---|---|--------|-------|------|------|
-| Venus  | Filthy Tide     |   19 |  252 |    0 |      0 |   15 |    0 |    0 |    0 |    0 |    0 |   57 |
+| Veens  | Filthy Tide     |   19 |  252 |    0 |      0 |   15 |    0 |    0 |    0 |    0 |    0 |   57 |
 | Laurel | Arboreal Menace |   17 |  251 |    0 |      0 |   21 |    0 |    0 |    1 |    0 |    1 |   56 |
 | Ziba   | Glorious Hounds |   20 |  247 |    1 |      2 |   20 |    0 |    0 |    4 |    1 |    0 |   61 |
 

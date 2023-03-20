@@ -102,7 +102,7 @@ The orange and blue-clad Filthy Tide fans are ebuillent. You get a few beers bou
 
 [if seasonTime === 2]
 
-This week you joined up to watch with the Filthy Tide fans in Fazel and Hiver's. They played against the Carcosan Tatters and lost. A skinny young receiver named Venus was injured in the match and the rest of the conversation in the bar was about how worried they were for her. There was a lot of grouching about how the Tatters cheat. You also heard some cheering from the other end of the bar, where the Wyrms seem to have won their match.
+This week you joined up to watch with the Filthy Tide fans in Fazel and Hiver's. They played against the Carcosan Tatters and lost. A skinny young receiver named Veens was injured in the match and the rest of the conversation in the bar was about how worried they were for her. There was a lot of grouching about how the Tatters cheat. You also heard some cheering from the other end of the bar, where the Wyrms seem to have won their match.
 
 
 :: gcx-react-fh-wyrm

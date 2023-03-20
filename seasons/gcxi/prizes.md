@@ -6,16 +6,16 @@ midway / end of regular season / final
 * [[team2ndplace]] - [[filthytide]] / [[filthytide]] / [[glorioushounds]]
 * [[team3rdplace]] - [[glorioushounds]] / [[glorioushounds]] / [[eldritchfatality]]
 * [[teamcasualties]] - [[ravenouseagles]] / [[ravenouseagles]] / [[ravenouseagles]]
-* [[mvp]] -  [[ziba]] / [[venus]] / [[venus]]
+* [[mvp]] -  [[ziba]] / [[Veens]] / [[Veens]]
 <<<<<<< HEAD
-* [[sardinecrown]] - [[ziba]]  / [[venus]] / [[venus]]
+* [[sardinecrown]] - [[ziba]]  / [[Veens]] / [[Veens]]
 =======
-* [[sardinecrown]] - [[ziba]]  / [[venus]] / 
+* [[sardinecrown]] - [[ziba]]  / [[Veens]] / 
 >>>>>>> 5ba9819c70286f12bf025ebf0d84f75ded037197
 * [[carminefist]] -  [[uli]] / [[uli]] / [[uli]]
 * [[softhands]] -  [[laurel]] / [[ziba]] / [[ziba]]
 * [[relentlesscannon]] -  [[luanna]] / [[luanna]] / [[luanna]]
-* [[halflegaward]] -  [[venus]] / [[venus]] / [[venus]]
+* [[halflegaward]] -  [[Veens]] / [[Veens]] / [[Veens]]
 * [[hunteraward]] -  [[ekua]] / [[ekua]] / [[ekua]]
 * [[dervishaward]] -  [[uli]] / [[uli]] / [[uli]]
 * [[fanfavourite]] -  [[donato]] / [[ravil]] / [[ravil]]

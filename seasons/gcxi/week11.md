@@ -38,7 +38,7 @@ The Wyrms could never get anything going in this match. EF 4 - OW 1 [[gcxi-11-ef
 
 The battle for the Outlands wasn't won today.  AM 3 - IC 3 [[gcxi-11-amic]]
 
-This high-scoring match solved absolutely nothing in the standings, but Venus did edge away from Ziba in the Sardines crown race. FT 8 - GH 8 [[gcxi-11-ftgh]]
+This high-scoring match solved absolutely nothing in the standings, but Veens did edge away from Ziba in the Sardines crown race. FT 8 - GH 8 [[gcxi-11-ftgh]]
 
 ## standings
 
@@ -54,7 +54,7 @@ This high-scoring match solved absolutely nothing in the standings, but Venus di
 
 | Player    | Team              | TDs  | Rush | Cp   | CpDist | Ctch | Int  | Cas  | Blck | Sck  | MVP  | SPP  |
 |-----------|-------------------|------|------|------|--------|------|------|------|------|------|------|------|
-| Venus   | Filthy Tide       |    8 |  100 |    0 |      0 |    6 |    0 |    0 |    0 |    0 |    1 |   29 |
+| Veens   | Filthy Tide       |    8 |  100 |    0 |      0 |    6 |    0 |    0 |    0 |    0 |    1 |   29 |
 | Ziba    | Glorious Hounds   |    7 |   90 |    0 |      0 |    4 |    0 |    0 |    0 |    0 |    0 |   21 |
 | Luanna  | Cackling Furies   |    0 |   18 |    4 |     11 |    0 |    1 |    0 |    2 |    0 |    1 |   11 |
 | Oxana   | Glorious Hounds   |    0 |   22 |    6 |     23 |    0 |    0 |    0 |    0 |    0 |    1 |   11 |

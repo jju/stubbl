@@ -13,7 +13,7 @@
 
 The Sump Runners vs the Arboreal Menace is an immediate rematch of the UBBL Challenge III title bout. The Arboreal Menace drubbed the Runners last time and the Runners don't have a good replacement lineup ready.
 
-We'll also be interested in the Filthy Tide vs Kaiju Dynamo to see if Venus can be the player she was groomed for and if Sabah still has enough left in the tank to lead this Dynamo team.
+We'll also be interested in the Filthy Tide vs Kaiju Dynamo to see if Veens can be the player she was groomed for and if Sabah still has enough left in the tank to lead this Dynamo team.
 
 Everyone else will just be trying to establish themselves and not wind up in too big of a hole.
 

@@ -9,7 +9,7 @@
 
 
 * business storyline: IC-OM [[warreporter]] team owners hate each other competing industrial concerns labour vs management, DS-KD [[aficionado]] These teams have been doing well with scrappy players
-* player storyline  GF-GH [[warreporter]] can the Farmers stop Ziba?, RE-OW [[writer]] OW have players to play, but they need to play better, CF-FT [[aficionado]] Venus doesn't have to do all the work but she is trying for the Sardines crown and is down 3 TDs  
+* player storyline  GF-GH [[warreporter]] can the Farmers stop Ziba?, RE-OW [[writer]] OW have players to play, but they need to play better, CF-FT [[aficionado]] Veens doesn't have to do all the work but she is trying for the Sardines crown and is down 3 TDs  
 * team storyline AM-ZV [[writer]] after being upset hugely how does the Menace bounce back against another bad team?, SR-BC [[aficionado]] bad team overperforming as spoiler vs team that needs to do better, CT-EF [[warreporter]] do the Fatality now begin a slide?
 * Playoffs: Intradivisional: 
 
@@ -33,7 +33,7 @@ The Cogs kept the pressure on and the Machine remain a long way back in the Heap
 
 The Fatality had to work for it, but the win against a usually excellent defensive team bodes well for their eventual playoff longevity. CT 1 - EF 2 [[gcxi-09-ctef]]
 
-[[Venus]] didn't have a record-breaking match but comfortably stayed in the mix for the Sardines Crown while the rest of the team fought off injury and got the win to stay in second place overall. CF 1 - FT 4 [[gcxi-09-cfft]]
+[[Veens]] didn't have a record-breaking match but comfortably stayed in the mix for the Sardines Crown while the rest of the team fought off injury and got the win to stay in second place overall. CF 1 - FT 4 [[gcxi-09-cfft]]
 
 The Hired Gun Hemlock took out [[Olufunmi]] one of the Spectres' biggest stars early and then they proceeded to hang onto the ball through the first half and applied tactical pressure in the sloppy conditions of the second for a big Dynamo win. DS 0 - KD 3 [[gcxi-09-dskd]]
 
@@ -54,7 +54,7 @@ The Farmers performed a masterclass in containment, keeping [[Ziba]] off the sco
 
 | Player    | Team              | TDs  | Rush | Cp   | CpDist | Ctch | Int  | Cas  | Blck | Sck  | MVP  | SPP  |
 |-----------|-------------------|------|------|------|--------|------|------|------|------|------|------|------|
-| Venus    | Filthy Tide       |    4 |   20 |    0 |      0 |    1 |    0 |    0 |    0 |    0 |    0 |   12 |
+| Veens    | Filthy Tide       |    4 |   20 |    0 |      0 |    1 |    0 |    0 |    0 |    0 |    0 |   12 |
 | Frans    | Irregular Cogs    |    3 |   17 |    0 |      0 |    1 |    1 |    0 |    5 |    0 |    0 |   11 |
 | Johann   | Gore Farmers      |    3 |   39 |    0 |      0 |    1 |    0 |    0 |    1 |    0 |    0 |    9 |
 | Haruna   | Kaiju Dynamo      |    0 |    0 |    0 |      0 |    0 |    0 |    2 |    9 |    1 |    1 |    9 |

@@ -5,7 +5,7 @@
 # all-time
 
 * [[aeson]] 512
-* [[venus]] 376 (active)
+* [[Veens]] 376 (active)
 * [[ziba]] 273 (active)
 
 # modern era
@@ -36,7 +36,7 @@
 
 ## gcxi
 
-[[venus]]
+[[Veens]]
 
 # old-era
 

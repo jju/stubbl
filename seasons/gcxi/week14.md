@@ -10,7 +10,7 @@
 With two weeks left there are important races going in three divisions.
 
 * business storyline: [[warreporter]], *CT-DS* [[aficionado]] both embracing the just enough approach, GF-SR [[writer]] it doesn't matter at all so SHucker gave Green Cup playing time to a bunch of rookies.
-* player storyline  GH-OM [[warreporter]] with Venus on an off-week Ziba could gain some Sardines ground here, *IC-GF* [[writer]] who are the stars and who's been getting these teams through?, RE-FT [[aficionado]] Venus has her big lead in the Sardines race and the team has clinched but she's insisting on taking the field against a dangerous team
+* player storyline  GH-OM [[warreporter]] with Veens on an off-week Ziba could gain some Sardines ground here, *IC-GF* [[writer]] who are the stars and who's been getting these teams through?, RE-FT [[aficionado]] Veens has her big lead in the Sardines race and the team has clinched but she's insisting on taking the field against a dangerous team
 * team storyline *SR-KD* [[writer]] two almost lost causes one with more hope than the other, *AM-OW* [[aficionado]] Wyrms can't catch a bye but a loss leaves things more up in the air than they want, *EF-OM* [[warreporter]] Fatality have to bounce back and figure out a way without muscle while the Machine solely has muscle
 * Playoffs: Intradivisional: GF-SR but it doesn't matter at all, GH-OM could get the Machine out of the basement if the Vagabonds lose earlier, IC-CT Tatters win could put them in play for the division title.
 

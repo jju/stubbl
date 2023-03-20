@@ -8,7 +8,7 @@ pre-GCXI all-UBBL active players TD descending
 |--------|-------|---------:|---:|----:|
 | Aeson       | Badger Claws      |           177 |        157 |    0.8870 |
 | Atte        | Eldritch Fatality |            70 |         43 |    0.6143 |
-| Venus       | Filthy Tide       |            45 |         36 |    0.8000 |
+| Veens       | Filthy Tide       |            45 |         36 |    0.8000 |
 | Rickon      | Cackling Furies   |            73 |         31 |    0.4247 |
 | Georgina    | Arboreal Menace   |            68 |         29 |    0.4265 |
 | Babar       | Old Wyrms         |            64 |         29 |    0.4531 |
@@ -27,7 +27,7 @@ pre-GCXI Pro Players TD descending
 | Sabah    | Kaiju Dynamo      |            81 |         61 |    0.7531 |
 | Yakup    | Filthy Tide       |            74 |         55 |    0.7432 |
 | **Atte**      | Eldritch Fatality |            66 |         40 |    0.6061 |
-| **Venus**     | Filthy Tide       |            44 |         35 |    0.7955 |
+| **Veens**     | Filthy Tide       |            44 |         35 |    0.7955 |
 | Dragos   | Irregular Cogs    |            67 |         35 |    0.5224 |
 | Donat    | Badger Claws      |            54 |         35 |    0.6481 |
 | **Babar**     | Old Wyrms         |            60 |         29 |    0.4833 |
@@ -38,7 +38,7 @@ pre-GCXI Active Pro Players TD descending
 |--------|-------|---------:|---:|----:|
 | Aeson   | Badger Claws      |           155 |        138 |    0.8903 |
 | Atte    | Eldritch Fatality |            66 |         40 |    0.6061 |
-| Venus   | Filthy Tide       |            44 |         35 |    0.7955 |
+| Veens   | Filthy Tide       |            44 |         35 |    0.7955 |
 | Babar   | Old Wyrms         |            60 |         29 |    0.4833 |
 | Rickon  | Cackling Furies   |            66 |         27 |    0.4091 |
 | Amador  | Old Wyrms         |           104 |         27 |    0.2596 |

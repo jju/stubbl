@@ -4,7 +4,7 @@
 
 Pick: Even
 
-[[Elvis]] just needed one completion to pass [[yosif]] and got it after a wild end to end to end opening. Things settled down when [[Venus]] then scored and that was the way most of the match went, until with the game tied at 4, the perfect defense of the Wyrms got Venus on the ground and unable to score. They were aligned to make the defensive press and Elvis went into the scrum to get the ball out, and was hit. Again and again and didn't get up. He ended his career as the all-time Completions leader. The match was lost.
+[[Elvis]] just needed one completion to pass [[yosif]] and got it after a wild end to end to end opening. Things settled down when [[Veens]] then scored and that was the way most of the match went, until with the game tied at 4, the perfect defense of the Wyrms got Veens on the ground and unable to score. They were aligned to make the defensive press and Elvis went into the scrum to get the ball out, and was hit. Again and again and didn't get up. He ended his career as the all-time Completions leader. The match was lost.
 
 > Weather: Nice
 > Toss: OW-Receive

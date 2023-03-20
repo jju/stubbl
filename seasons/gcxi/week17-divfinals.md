@@ -46,7 +46,7 @@ The Fatality made it a sweep for the Divisional Champions in the Quarterfinal ro
 |----------|-------------------|------|------|------|--------|------|------|------|------|------|------|------|
 | Georgina | Arboreal Menace   |    1 |    8 |    0 |      0 |    0 |    1 |    0 |    0 |    0 |    1 |   10 |
 | Hrolfr   | Irregular Cogs    |    2 |   43 |    1 |      6 |    0 |    0 |    1 |    0 |    0 |    0 |    9 |
-| Venus    | Filthy Tide       |    3 |   32 |    0 |      0 |    4 |    0 |    0 |    0 |    0 |    0 |    9 |
+| Veens    | Filthy Tide       |    3 |   32 |    0 |      0 |    4 |    0 |    0 |    0 |    0 |    0 |    9 |
 | Amador   | Old Wyrms         |    1 |   10 |    0 |      0 |    2 |    0 |    0 |    2 |    0 |    1 |    8 |
 | Grumman  | Irregular Cogs    |    0 |    0 |    0 |      0 |    0 |    0 |    1 |    6 |    0 |    1 |    7 |
 | Laurel   | Arboreal Menace   |    2 |   37 |    0 |      0 |    3 |    0 |    0 |    0 |    0 |    0 |    6 |

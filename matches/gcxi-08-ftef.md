@@ -4,7 +4,7 @@
 
 Pick: Tide
 
-[[Venus]] steadily did her thing, leaping and scoring. [[Milica]] got the fifth TD for the Tide. In the second half [[Beatrix]] made a great interception while [[Betul]] took Venus out for the remainder of the match, but she stumbled while trying to push her speed to the end zone, and [[Geir]] and [[Milica]] pulled out the TD to not only avoid a draw, but hand the Fatality their first loss of the season.
+[[Veens]] steadily did her thing, leaping and scoring. [[Milica]] got the fifth TD for the Tide. In the second half [[Beatrix]] made a great interception while [[Betul]] took Veens out for the remainder of the match, but she stumbled while trying to push her speed to the end zone, and [[Geir]] and [[Milica]] pulled out the TD to not only avoid a draw, but hand the Fatality their first loss of the season.
 
 > Weather: Nice
 > Toss: FT-Receive

@@ -44,7 +44,7 @@ The Tide have finally made it to the big dance in a gutsy tense 3/4 of a match, 
 
 | Player   | Team              | TDs  | Rush | Cp   | CpDist | Ctch | Int  | Cas  | Blck | Sck  | MVP  | SPP  |
 |----------|-------------------|------|------|------|--------|------|------|------|------|------|------|------|
-| Venus    | Filthy Tide       |    4 |   22 |    0 |      0 |    3 |    0 |    0 |    0 |    0 |    0 |   12 |
+| Veens    | Filthy Tide       |    4 |   22 |    0 |      0 |    3 |    0 |    0 |    0 |    0 |    0 |   12 |
 | Ziba     | Glorious Hounds   |    4 |   38 |    0 |      0 |    4 |    0 |    0 |    0 |    0 |    0 |   12 |
 | Beatrix  | Eldritch Fatality |    0 |   10 |    2 |      9 |    1 |    0 |    1 |    5 |    1 |    1 |    9 |
 | Georgina | Arboreal Menace   |    1 |   32 |    0 |      0 |    3 |    0 |    0 |    1 |    0 |    1 |    8 |

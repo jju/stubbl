@@ -1,6 +1,6 @@
 # Renatus
 
-[[kickingmules]][[position]][[seasons/index]][[tier]]
+[[kickingmules]][[heavy]][[seasons/index]][[tier]]
 
 * Birthdate: 1261.
 * Deathdate: 1262.

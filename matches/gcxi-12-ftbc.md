@@ -4,7 +4,7 @@
 
 Pick: Claws
 
-Klim stumbled on his way in for the 3-2 TD. The 6-4 TD was a back and forth drive after Aleksy botched the pass to Venus. Eventually things settled down into trading TDs but the Tide had gotten their advantage in the first half and held it even as their defenders got injured.
+Klim stumbled on his way in for the 3-2 TD. The 6-4 TD was a back and forth drive after Aleksy botched the pass to Veens. Eventually things settled down into trading TDs but the Tide had gotten their advantage in the first half and held it even as their defenders got injured.
 
 > Weather: Nice
 > Toss: BC-Receive

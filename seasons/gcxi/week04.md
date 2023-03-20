@@ -5,7 +5,7 @@
 [next week](week05)
 
 * business storyline CF-DS [[aficionado]] the logic of the tank, RE-GF [[writer]] those new players just sitting there waiting, BC-OM [[warreporter]] the rivalry behind the ownership groups and how it plays out on the field,  
-* player storyline BC-OM [[writer]] Aeson's continued return and how the partnership with Klim plays out', FT-SR [[aficionado]] Venus trying to pull the team along in an intradivisional match, RE-GF [[warreporter]] injuries from Jantine
+* player storyline BC-OM [[writer]] Aeson's continued return and how the partnership with Klim plays out', FT-SR [[aficionado]] Veens trying to pull the team along in an intradivisional match, RE-GF [[warreporter]] injuries from Jantine
 * team storyline ZV-EF [[writer]] the rise of the Fatality especially against a team that's trying to mak a bit of money, CT-KD [[warreporter]] will the Tatters be able to bounce back and actually get a win, IC-OW [[aficionado]] the classic rivalry
 * Champions Circuit: AM-GH KD-CT and GF-RE need wins to get in, an AM win puts a nail in the hopes of the Hounds. The Cogs have an outside chance if they beat the Wyrms and the KD and GF both lose. Could also note that the Hounds have the toughest schedule to make the CC.
 
@@ -60,7 +60,7 @@ AM 4 - GH 7 [[gcxi-04-amgh]]
 | Briseida | Filthy Tide       |    2 |   18 |    0 |      0 |    0 |    1 |    0 |    8 |    1 |    0 |    8 |
 | Thiemo   | Cackling Furies   |    1 |    0 |    0 |      0 |    0 |    0 |    0 |    3 |    0 |    1 |    8 |
 | Uli      | Orbital Machine   |    0 |    0 |    0 |      0 |    0 |    0 |    4 |   15 |    0 |    0 |    8 |
-| Venus    | Filthy Tide       |    2 |   26 |    0 |      0 |    1 |    0 |    0 |    0 |    0 |    0 |    6 |
+| Veens    | Filthy Tide       |    2 |   26 |    0 |      0 |    1 |    0 |    0 |    0 |    0 |    0 |    6 |
 
 
 

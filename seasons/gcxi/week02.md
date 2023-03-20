@@ -5,7 +5,7 @@
 [next week](week03)
 
 * business storyline IC-GH [[warreporter]] learn history of GryjHun, RE-DS [[aficionado]] give the Spectres' weirdass lineup one more shot
-* player storyline CT-FT [[aficionado]] Venus doing her thing in adverse circumstances, BC-ZV [[writer]] Klim could be interesting, 
+* player storyline CT-FT [[aficionado]] Veens doing her thing in adverse circumstances, BC-ZV [[writer]] Klim could be interesting, 
 * team storyline RE-DS [[warreporter]] (knows BR Ossa from bad times), GF-OW [[writer]] Stacks division rivalry defending champion, SR-EF [[aficionado]] bad teams doing better
 * AM-OM CF-KD
 

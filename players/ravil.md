@@ -2,7 +2,7 @@
 
 [[glorioushounds]][[catcher]][[gcxi]][[star]]
 
-Ravil had a great rookie season in GCXI, getting a Fan Favourite award on a team somewhat dominated by [[Ziba]]'s pursuit of [[venus]] in the counting stats.
+Ravil had a great rookie season in GCXI, getting a Fan Favourite award on a team somewhat dominated by [[Ziba]]'s pursuit of [[Veens]] in the counting stats.
 
 * Birthdate: 1261.846-400:677 #t1846 
 

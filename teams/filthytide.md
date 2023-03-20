@@ -1,6 +1,6 @@
 # Filthy Tide
 
-The Filthy Tide are often called the best team to never win the Green Cup. They're an Original 8 team that has had two hall-of-fame scorers in the UBBL but has never been able to convert the big win to get those stars a (pro-level) championship. They have been in rebuild mode, but are banking on their new star [[venus]] to be the difference-maker.
+The Filthy Tide are often called the best team to never win the Green Cup. They're an Original 8 team that has had two hall-of-fame scorers in the UBBL but has never been able to convert the big win to get those stars a (pro-level) championship. They have been in rebuild mode, but are banking on their new star [[Veens]] to be the difference-maker.
 
 ## Playbook
 
@@ -33,7 +33,7 @@ SELECT pl.nr AS "#", pl.name AS Player, pl.f_pos_name AS Position, sum(mp.spp) A
 |-----------|-----------|-----|---------|
 | Geir        | Thrower       |   Emerging Star |       3 |
 | Aleksy      | Thrower       |   Superstar |       2 |
-| Venus       | Catcher |  Superstar |       2 |
+| Veens       | Catcher |  Superstar |       2 |
 | Septimus    | Catcher |   Superstar |       9 |
 | Slawomir    | Blitzer       |   Emerging Star |       3 |
 | Briseida    | Blitzer       |   Veteran |       5 |
@@ -133,7 +133,7 @@ The Tide had an excellent GCVII season going when they ran into the bizarrely su
 
 The UBBL pennant is no Green Cup, but the Filthy Tide were proud to be its first winners (and they played an amazing semi-final against the [Kaiju Dynamo](kaijudynamo) to do it). Perhaps merely by playing the most matches, the Filthy Tide inflicted the most casualties in this tournament, 16 (11-5-0).
 
-Their 4-win GCIX campaign was devastating to a team of such history. To follow up they put their efforts in the GCV Memorial tournament to develop a replacement for Yakup. Rather than learning a more conservative style of play to match up with their GCIX team's abilities they decided to try pinning their entire GCX season's fortunes on [[venus]], a young player who scored a TD in street-level play and looked fast doing it.
+Their 4-win GCIX campaign was devastating to a team of such history. To follow up they put their efforts in the GCV Memorial tournament to develop a replacement for Yakup. Rather than learning a more conservative style of play to match up with their GCIX team's abilities they decided to try pinning their entire GCX season's fortunes on [[Veens]], a young player who scored a TD in street-level play and looked fast doing it.
 
 This approach wasn't punished too harshly in GCX, until they hit the playoffs and were steamrolled by the [Gore Farmers](gorefarmers).
 
@@ -178,7 +178,7 @@ SELECT pl.f_tname AS Team, mt.round, sum(mx.catches) + sum(mx.pickups) + sum(md.
 |------|------------|----|---------|------|------|------|-------|------|------|------|------|------|------|-------------|--------|------|------|---------|--------|------|
 |    1 | Geir.1      | 17 |      36 |    1 |  126 |   14 |    38 |    0 |    0 |    1 |   29 |    2 |    1 |           1 |      1 |    2 |    1 |       2 |      0 |   24 |
 |    2 | Aleksy.3    | 19 |      69 |    0 |  183 |   39 |   116 |    0 |    0 |    0 |   20 |    1 |    1 |           1 |      1 |   11 |    0 |       0 |      0 |   44 |
-|    3 | Venus.3     | 18 |      79 |   69 |  770 |    1 |     3 |   47 |    0 |    0 |    1 |    1 |    1 |           0 |      2 |    3 |    2 |       1 |      0 |  213 |
+|    3 | Veens.3     | 18 |      79 |   69 |  770 |    1 |     3 |   47 |    0 |    0 |    1 |    1 |    1 |           0 |      2 |    3 |    2 |       1 |      0 |  213 |
 |    4 | Milica      | 16 |      24 |    2 |  136 |    6 |     2 |   10 |    0 |    0 |   15 |    1 |    2 |           3 |      4 |    5 |    1 |       1 |      0 |   22 |
 |    5 | Slawomir.3  | 18 |       0 |    0 |    0 |    0 |     0 |    0 |    0 |    1 |   71 |    2 |    2 |           0 |      0 |    5 |    1 |       1 |      0 |   12 |
 |    6 | Briseida.1  | 17 |       5 |    2 |   27 |    0 |     0 |    0 |    1 |    3 |  113 |    3 |    4 |           0 |      0 |    2 |    1 |       3 |      0 |   34 |
@@ -212,7 +212,7 @@ SELECT pl.nr AS "#", pl.name AS Player, count(md.f_match_id) AS GP, sum(mx.catch
 
 | Player           | Position      | W | D | L | GP | TD | Cp | Int | BH | SI | Ki | MVP | SPP |
 |------------------|---------------|--:|--:|--:|---:|---:|---:|----:|---:|---:|---:|----:|----:|
-| **Venus**      | Catcher |   20 |    2 |   12 |   34 |  106 |    1 |    0 |    0 |    0 |    0 |    5 |  344 |
+| **Veens**      | Catcher |   20 |    2 |   12 |   34 |  106 |    1 |    0 |    0 |    0 |    0 |    5 |  344 |
 | Yakup       | Catcher |   27 |    6 |   20 |   53 |   73 |    1 |    0 |    0 |    1 |    0 |    4 |  242 |
 | Somfuhr     | Heavy      |   31 |    9 |   29 |   69 |    0 |    0 |    0 |   42 |   13 |    6 |    6 |  152 |
 | Silas       | Thrower       |   35 |    9 |   31 |   75 |    2 |  125 |    2 |    1 |    0 |    0 |    2 |  147 |
@@ -236,13 +236,13 @@ SELECT pl.name AS Player, pl.f_pos_name AS Position, sum(mp.won) AS won, sum(mp.
 
 
 
-As of the start of GCXI, [[Somfuhr]] is in the Hall of Fame for inflicting the most casualties of any player in the Pro Division. For a time [[yakup]] seemed untouchable in his scoring abilities. That the team couldn't convert this dynamic duo into more than a third place Green Cup finish is heartbreaking. The new hope is [[venus]], who after one pro season has more SPP than [[sardines]] did.
+As of the start of GCXI, [[Somfuhr]] is in the Hall of Fame for inflicting the most casualties of any player in the Pro Division. For a time [[yakup]] seemed untouchable in his scoring abilities. That the team couldn't convert this dynamic duo into more than a third place Green Cup finish is heartbreaking. The new hope is [[Veens]], who after one pro season has more SPP than [[sardines]] did.
 
 #### Award Winners
 
 | #    | Player   | Position | Seasons | Prizes | Value  | Bonus |
 |------|----------|----------|---------|--------|--------|-------|
-|    3 | Venus    | Catcher |       4 |      4 | 270000 | 40000 |
+|    3 | Veens    | Catcher |       4 |      4 | 270000 | 40000 |
 |   79 | Somfuhr.  | Heavy      |       6 |      2 | 330000 | 70000 |
 |   83 | Sardines. | Catcher |       1 |      1 |  80000 |     0 |
 |   83 | Yakup.    | Catcher |       5 |      6 | 220000 |     0 |

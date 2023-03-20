@@ -2,7 +2,7 @@
 
 [[filthytide]][[blitzer]][[gcviii]][[gcix]][[uciii]][[gcx]][[uciv]][[gcxi]][[seasonedveteran]][[active]]
 
-Briseida really came into her own in tandem with [[venus]]. "Big Bad B" provides the muscle to punch a hole for Little V to score through. This technique doesn't lend itself well to a lot of glory or star player potential, but has been the site of some of the most beautiful bits of BludBol we've been fortunate enough to witness.
+Briseida really came into her own in tandem with [[Veens]]. "Big Bad B" provides the muscle to punch a hole for Little V to score through. This technique doesn't lend itself well to a lot of glory or star player potential, but has been the site of some of the most beautiful bits of BludBol we've been fortunate enough to witness.
 
 * Birthdate: 1262.113-943:038 #t2113 
 * Deathdate: 1262.

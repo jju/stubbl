@@ -4,7 +4,7 @@
 
 Pick: Tide (or Tatters)
 
-Septimus wasn't the equal of Venus and that's why the Tide didn't win this one.
+Septimus wasn't the equal of Veens and that's why the Tide didn't win this one.
 
 > Weather: Nice
 > Toss: FT-Receive
@@ -14,4 +14,4 @@ Septimus wasn't the equal of Venus and that's why the Tide didn't win this one.
 
 [[aficionado]]
 
-The dying moments when Venus could have won the match but she'd been badly hurt out in the open moments before were heartbreaking.
+The dying moments when Veens could have won the match but she'd been badly hurt out in the open moments before were heartbreaking.

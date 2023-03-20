@@ -6,9 +6,9 @@ Pick: Tide
 
 The Machine and Tide are a battle of eliminated vs clinched division title, but there is the intrigue of the Casualty and TD title leaders going head to head. If the Tide suffer casualties that could be a real blow.
 
-Tide management tried their best to keep Venus out of the meaningless match. She had a comfortable lead in the Sardines race and the team did not need another win before the playoffs. She wouldn't listen. "I'm not doing this for ego. I'm doing this to give the Tide the best chance at a championship. We need to keep winning to stay in the habit of winning, right?"
+Tide management tried their best to keep Veens out of the meaningless match. She had a comfortable lead in the Sardines race and the team did not need another win before the playoffs. She wouldn't listen. "I'm not doing this for ego. I'm doing this to give the Tide the best chance at a championship. We need to keep winning to stay in the habit of winning, right?"
 
-It all seemed to be going so well and then in the dying moments with Venus comfortably downfield in case something popped out from the Machine's final offensive outburst before reaching the endzone Uli got free and on the rampage with Venus in his sights. She hit the ground and the medical team couldn't mitigate the worst of the damage to her left leg.
+It all seemed to be going so well and then in the dying moments with Veens comfortably downfield in case something popped out from the Machine's final offensive outburst before reaching the endzone Uli got free and on the rampage with Veens in his sights. She hit the ground and the medical team couldn't mitigate the worst of the damage to her left leg.
 
 > Weather: Nice
 > Toss: OM-Receive
@@ -22,7 +22,7 @@ It all seemed to be going so well and then in the dying moments with Venus comfo
 |-----------|-----------------|---------|------|------|------|----------|--------|-------|------|--------|-------|------|-------------|--------|------|------|---------|--------|------|
 | Geir      | Filthy Tide     |       0 |    0 |    0 |    0 |        0 |      0 |     0 |    0 |      0 |     0 |    0 |           0 |      0 |    0 |    0 |       1 |      0 |    0 |
 | Aleksy    | Filthy Tide     |       3 |    0 |    9 |    2 |        2 |      0 |     0 |    0 |      1 |     0 |    1 |           0 |      0 |    0 |    0 |       0 |      0 |    7 |
-| Venus     | Filthy Tide     |       3 |    3 |   37 |    0 |        0 |      2 |     0 |    0 |      0 |     0 |    0 |           0 |      0 |    0 |    0 |       1 |      0 |    9 |
+| Veens     | Filthy Tide     |       3 |    3 |   37 |    0 |        0 |      2 |     0 |    0 |      0 |     0 |    0 |           0 |      0 |    0 |    0 |       1 |      0 |    9 |
 | Milica    | Filthy Tide     |       0 |    0 |    0 |    0 |        0 |      0 |     0 |    0 |      0 |     0 |    0 |           0 |      0 |    1 |    1 |       0 |      0 |    0 |
 | Slawomir  | Filthy Tide     |       0 |    0 |    0 |    0 |        0 |      0 |     0 |    0 |      5 |     0 |    0 |           0 |      0 |    0 |    0 |       1 |      0 |    0 |
 | Enrique   | Filthy Tide     |       0 |    0 |    0 |    0 |        0 |      0 |     0 |    0 |      2 |     0 |    0 |           0 |      0 |    1 |    0 |       0 |      0 |    0 |

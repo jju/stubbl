@@ -15,7 +15,7 @@ The rivalry match between the Irregular Cogs and the Old Wyrms is probably the m
 
 ## recap
 
-Kendrick saved the first half for the Machine. Venus managed to tie it up at 2 through a tiny gap, and then scored when she was put on defense. All around, a good Tide match, and one that might see the second half of the season not be a total waste. FT 3 - OM 2
+Kendrick saved the first half for the Machine. Veens managed to tie it up at 2 through a tiny gap, and then scored when she was put on defense. All around, a good Tide match, and one that might see the second half of the season not be a total waste. FT 3 - OM 2
 
 The odds were pretty even going into this match despite the Dynamo's loss of Sabah in Week 7, but a last-minute skill dump put journeymen on the field and should have made this easy picking for the Fatality. KD 0 - EF 3
 

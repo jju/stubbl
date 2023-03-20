@@ -4,7 +4,7 @@
 
 Pick: Even
 
-The Tide recovered from bad kick management to get the score without getting Venus hurt before the Eagles did a long play-out-the-clock and then score rest of the half. The second half was dragged out exactly as long as the Eagles wanted to knock out as many Tide players as possible. The medical staff was used up keeping Drita in the lineup while Venus was KOed before the final chance to get a draw.
+The Tide recovered from bad kick management to get the score without getting Veens hurt before the Eagles did a long play-out-the-clock and then score rest of the half. The second half was dragged out exactly as long as the Eagles wanted to knock out as many Tide players as possible. The medical staff was used up keeping Drita in the lineup while Veens was KOed before the final chance to get a draw.
 
 > Weather: Very Sunny
 > Toss: FT-Receive
@@ -18,7 +18,7 @@ The Tide recovered from bad kick management to get the score without getting Ven
 |-----------|-----------------|---------|------|------|------|----------|--------|-------|------|--------|-------|------|-------------|--------|------|------|---------|--------|------|
 | Geir          | Filthy Tide     |       1 |    0 |   -1 |    0 |        0 |      0 |     0 |    0 |      0 |     0 |    0 |           0 |      0 |    0 |    0 |       0 |      0 |    0 |
 | Aleksy        | Filthy Tide     |       2 |    0 |   -2 |    1 |       -3 |      0 |     0 |    0 |      3 |     0 |    0 |           0 |      0 |    2 |    0 |       0 |      0 |    1 |
-| Venus         | Filthy Tide     |       1 |    1 |   13 |    0 |        0 |      0 |     0 |    0 |      0 |     0 |    0 |           0 |      0 |    1 |    0 |       0 |      0 |    3 |
+| Veens         | Filthy Tide     |       1 |    1 |   13 |    0 |        0 |      0 |     0 |    0 |      0 |     0 |    0 |           0 |      0 |    1 |    0 |       0 |      0 |    3 |
 | Milica        | Filthy Tide     |       1 |    0 |    7 |    0 |        0 |      1 |     0 |    0 |      0 |     0 |    0 |           0 |      0 |    1 |    0 |       0 |      0 |    0 |
 | Slawomir      | Filthy Tide     |       0 |    0 |    0 |    0 |        0 |      0 |     0 |    0 |      0 |     0 |    0 |           0 |      0 |    1 |    0 |       0 |      0 |    0 |
 | Briseida      | Filthy Tide     |       0 |    0 |    0 |    0 |        0 |      0 |     0 |    0 |      3 |     0 |    0 |           0 |      0 |    0 |    0 |       1 |      0 |    0 |

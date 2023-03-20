@@ -15,7 +15,7 @@ It's sort of a down week in the schedule, with only the Arboreal Menace vs Badge
 
 # recap
 
-This week saw the scoring race really heat up with a new three-way tie for first place between [[atte]] [[sabah]] and [[aeson]] at 7 TDs apiece with [[costache]] right behind at 6. Player of the Week was the young upstart [[venus]] with 14 SPP.
+This week saw the scoring race really heat up with a new three-way tie for first place between [[atte]] [[sabah]] and [[aeson]] at 7 TDs apiece with [[costache]] right behind at 6. Player of the Week was the young upstart [[Veens]] with 14 SPP.
 
 Both teams seem to be satisfied with the single point in a mostly blizzard-fuelled matchup. ZV 2 - OM 2
 
@@ -25,7 +25,7 @@ Spectres' star Tooms II was killed in the opening drive of their match and the S
 
 **Not as high-scoring as it could have been but the dramatic turns in the dying moments put a lot of pressure on Sabah and the Dynamo to escape with the tie. OW 3 - KD 3**
 
-The Cogs used the blizzard to keep the inexperienced Venus out of the endzone to tie up the match in the dying moments. FT 3 - IC 4 #drama
+The Cogs used the blizzard to keep the inexperienced Veens out of the endzone to tie up the match in the dying moments. FT 3 - IC 4 #drama
 
 Perfectly executed first half defense set up a slightly looser second for the Tatters. The Runners were sorely missing some pop. SR 0 - CT 1
 

@@ -15,7 +15,7 @@ There's a Founders' match this week between the Vagabonds and Wyrms, as well as 
 
 ## recap
 
-While the Tide are happy with the continuing development of Venus, this intradivisional match put them in last place overall, and gained the Sump Runners some momentum. FT 3 - SR 5
+While the Tide are happy with the continuing development of Veens, this intradivisional match put them in last place overall, and gained the Sump Runners some momentum. FT 3 - SR 5
 
 A burner of barns that hasn't settled the early stage of the Sardines Award between Atte and Aeson (though Sabah has been put on notice for Week 5), but did get the Fatality a much needed win to cycle from the basement of the standings (a place they are not accustomed to). BC 4 - EF 5
 

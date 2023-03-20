@@ -4,7 +4,7 @@
 
 Pick: Menace
 
-Late in the second half Venus stumbled on a TD dash but the long play for the Menace went awry near the Tide's endzone and the chain of possession sent Septimus to the endzone for the winning TD. FT 6 - AM 5
+Late in the second half Veens stumbled on a TD dash but the long play for the Menace went awry near the Tide's endzone and the chain of possession sent Septimus to the endzone for the winning TD. FT 6 - AM 5
 
 > Weather: Pouring Rain, Nice
 > Toss: AM-Receive
@@ -14,7 +14,7 @@ Late in the second half Venus stumbled on a TD dash but the long play for the Me
 
 [[aficionado]]
 
-You settle into your preferred spot in the Tide's gantries and let another game unfold. It's always a joy to watch Venus play, especially against a team that doesn't take a stifling defense approach. While the teams traded touchdowns throughout it was the Tide's second that was a thing of beauty. After the Menace got their defense set up perfectly to thwart Venus off the kick, Briselda made a dynamic blocking run drawing both Blitzers away from the speedster and tying up Georgina's route for trying to make the interception. It doesn't show up in the scoresheet but it was the kind of dance that can make watching this game so enjoyable.
+You settle into your preferred spot in the Tide's gantries and let another game unfold. It's always a joy to watch Veens play, especially against a team that doesn't take a stifling defense approach. While the teams traded touchdowns throughout it was the Tide's second that was a thing of beauty. After the Menace got their defense set up perfectly to thwart Veens off the kick, Briselda made a dynamic blocking run drawing both Blitzers away from the speedster and tying up Georgina's route for trying to make the interception. It doesn't show up in the scoresheet but it was the kind of dance that can make watching this game so enjoyable.
 
 Are you writing anything about this match?
 

@@ -6,7 +6,7 @@
 [next week](week07)
 
 * business storyline GH-DS [[writer]] playing for a tanking team vs a team really trying to win, ZV-CT [[aficionado]] playing more with less and how it doesn't work for the Tatters  
-* player storyline RE-SR [[warreporter]] counting stats and Ekua's GP record (parallel with longevity in gangsterism), BC-AM [[writer]] Aeson vs Laurel in a battle of finesse and scoring and beauty, FT-GF [[aficionado]] Venus needs a rebound match after being stifled in the CC against the Mules
+* player storyline RE-SR [[warreporter]] counting stats and Ekua's GP record (parallel with longevity in gangsterism), BC-AM [[writer]] Aeson vs Laurel in a battle of finesse and scoring and beauty, FT-GF [[aficionado]] Veens needs a rebound match after being stifled in the CC against the Mules
 * team storyline EF-IC [[aficionado]] Drop Eagle matchup with two teams on top of their divisions, KD-OW [[writer]] the Wyrms need to start overachieving and they have the skills to do it, OM-CF [[warreporter]] rumours have it that this could be a bloodbath
 * Playoffs: Now is the middle game where teams just need to hang in until the trade deadline when lineups have to be solidified. We can expect a bit of experimentation.
 
@@ -32,7 +32,7 @@ Not as bloody as it could have been, but the Machine seemed to have no real inte
 
 The Claws were a comedy of errors to start and couldn't pull back a draw. BC 5 - AM6 [[gcxi-06-bcam]]
 
-A nice comeback match for Venus after the disappointment that was the Champions Circuit.  FT 4 - GF 3 [[gcxi-06-ftgf]]
+A nice comeback match for Veens after the disappointment that was the Champions Circuit.  FT 4 - GF 3 [[gcxi-06-ftgf]]
 
 The Dynamo hung onto the ball the entire second half without even scoring, making for a bit of a boring match, but a safe win that the Dynamo have often been loathe to try for. KD 2 - OW 0 [[gcxi-06-kdow]]
 
@@ -54,7 +54,7 @@ The Dynamo hung onto the ball the entire second half without even scoring, makin
 | Aeson     | Badger Claws      |    4 |   52 |    0 |      0 |    4 |    0 |    0 |    1 |    0 |    0 |   12 |
 | Aemulus   | Gore Farmers      |    3 |   22 |    1 |     10 |    3 |    0 |    0 |    3 |    0 |    0 |   10 |
 | Marley    | Carcosan Tatters  |    0 |    0 |    0 |      0 |    0 |    0 |    2 |    6 |    0 |    1 |    9 |
-| Venus     | Filthy Tide       |    3 |   38 |    0 |      0 |    2 |    0 |    0 |    0 |    0 |    0 |    9 |
+| Veens     | Filthy Tide       |    3 |   38 |    0 |      0 |    2 |    0 |    0 |    0 |    0 |    0 |    9 |
 | Faite     | Cackling Furies   |    2 |   27 |    0 |      0 |    1 |    0 |    1 |    4 |    0 |    0 |    8 |
 | Kropotkin | Arboreal Menace   |    1 |    8 |    0 |      0 |    0 |    0 |    0 |    5 |    1 |    1 |    8 |
 | Lazar     | Irregular Cogs    |    1 |    7 |    0 |      0 |    0 |    0 |    0 |    1 |    0 |    1 |    8 |

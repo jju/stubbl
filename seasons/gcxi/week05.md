@@ -23,7 +23,7 @@
 
 The Menace got the win they needed, but never really ran away with the match until the bitter end. AM 5 - SR 3 [[gcxi-05-amsr]]
 
-The Tide romped through the Spectres even with a down match from Venus. DS 0 - FT 4 [[gcxi-05-dsft]]
+The Tide romped through the Spectres even with a down match from Veens. DS 0 - FT 4 [[gcxi-05-dsft]]
 
 The Tatters couldn't quite manage to keep the Claws out of the endzone enough to make a difference. CT 2 - BC 3 [[gcxi-05-ctbc]]
 
@@ -78,7 +78,7 @@ SELECT pl.name AS Player, pl.f_tname AS Team, sum(md.td) AS TDs, sum(mx.rushing_
 |-------------------|------------------|------|------|------|----------|---------|---|---|--------|-------|------|------|
 | Laurel | Arboreal Menace   |   13 |  187 |    0 |      0 |   16 |    0 |    0 |    0 |    0 |    1 |   44 |
 | Ziba   | Glorious Hounds   |   13 |  152 |    0 |      0 |   12 |    0 |    0 |    3 |    1 |    0 |   39 |
-| Venus  | Filthy Tide       |   12 |  178 |    0 |      0 |    9 |    0 |    0 |    0 |    0 |    0 |   36 |
+| Veens  | Filthy Tide       |   12 |  178 |    0 |      0 |    9 |    0 |    0 |    0 |    0 |    0 |   36 |
 | Ayane  | Eldritch Fatality |    9 |   42 |    1 |      3 |    5 |    0 |    0 |   10 |    1 |    1 |   33 |
 | Olaug  | Old Wyrms         |    5 |  109 |    7 |      5 |    8 |    1 |    0 |   13 |    0 |    1 |   29 |
 
@@ -90,7 +90,7 @@ Top 5
 |-------------------|------------------|------|------|------|----------|---------|---|---|--------|-------|------|------|
 | Laurel | Arboreal Menace |   13 |  187 |    0 |      0 |   16 |    0 |    0 |    0 |    0 |    1 |   44 |
 | Ziba   | Glorious Hounds |   13 |  152 |    0 |      0 |   12 |    0 |    0 |    3 |    1 |    0 |   39 |
-| Venus  | Filthy Tide     |   12 |  178 |    0 |      0 |    9 |    0 |    0 |    0 |    0 |    0 |   36 |
+| Veens  | Filthy Tide     |   12 |  178 |    0 |      0 |    9 |    0 |    0 |    0 |    0 |    0 |   36 |
 
 Top 3
 
@@ -109,7 +109,7 @@ Top 3
 | Player            | Team             | TDs  | Rush | Cp   | CpDist | Ctch | Int | Cas  | Blck | Sck | MVP | SPP  |
 |-------------------|------------------|------|------|------|----------|---------|---|---|--------|-------|------|------|
 | Laurel | Arboreal Menace |   13 |  187 |    0 |      0 |   16 |    0 |    0 |    0 |    0 |    1 |   44 |
-| Venus  | Filthy Tide     |   12 |  178 |    0 |      0 |    9 |    0 |    0 |    0 |    0 |    0 |   36 |
+| Veens  | Filthy Tide     |   12 |  178 |    0 |      0 |    9 |    0 |    0 |    0 |    0 |    0 |   36 |
 | Ziba   | Glorious Hounds |   13 |  152 |    0 |      0 |   12 |    0 |    0 |    3 |    1 |    0 |   39 |
 
 ### catches

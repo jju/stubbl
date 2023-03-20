@@ -18,7 +18,7 @@ The Tatters came in prepared for the Aeson offensive and played out the first ha
 
 The Kaiju Dynamo continue their improbable Green Cup run with a dominant display that was notable for their caution and conservatism which they had gotten away from. Vardan played well, and did succumb to a bit of glory hogging from Starfin, but it worked out. And there weren't any serious injuries to mar their next matchup with the Vagabonds.
 
-The Tide forced overtime after a series of Venus' missteps, but they couldn't stop Bent and Nuru for connecting in the endzone to end the season.
+The Tide forced overtime after a series of Veens' missteps, but they couldn't stop Bent and Nuru for connecting in the endzone to end the season.
 
 ## standings
 

@@ -18,14 +18,14 @@ The Tide had a great season, but as we know, the playoffs mean one bad day can e
 | Old Wyrms         | Green Cup XI |   72 |       96 | 0.7500 |   39 | 0.5417 |          5 |   0.0521 |      11 |  0.1528 |
 | Filthy Tide       | Green Cup XI |   57 |       83 | 0.6867 |   71 | 1.2456 |          3 |   0.0361 |      27 |  0.4737 |
 
-The Wyrms passed more and were better at their passing than the Tide, who tended to use far more handoffs to get the ball to [[Venus]]
+The Wyrms passed more and were better at their passing than the Tide, who tended to use far more handoffs to get the ball to [[Veens]]
 
 | Team              | Season       | Touches | Rushing | TDs  | Rush_TD | Touches_TD |
 |-------------------|--------------|---------|---------|------|---------|------------|
 | Filthy Tide       | Green Cup XI |     216 |    1254 |   71 | 17.6620 |       3.04 |
 | Old Wyrms         | Green Cup XI |     183 |     785 |   39 | 20.1282 |       4.69 |
 
-Here we can see how the running game was the Tide's only real strategy this season. With Venus' injury in week 15 we may need to see a reevaluation of that.
+Here we can see how the running game was the Tide's only real strategy this season. With Veens' injury in week 15 we may need to see a reevaluation of that.
 
 | Team              | Season       | Cas  | BH   | SI   | Ki   | blocks | sacks | sack_block | cas_block | knockdowns | down_block |
 |-------------------|--------------|------|------|------|------|--------|-------|------------|-----------|------------|------------|
@@ -40,19 +40,19 @@ In their last match in week 7 [[gcxi-07-ftow]] the Tide won and ended the career
 > Toss: OW-Receive
 > Kickoffs: FT-QuickSnap (OW 1), OW-ChangingWeatherNice (FT 1), FT-CheeringFansFT (Half), OW-HighKick (OW 2), OW-CheeringFansFT (FT 2), FT-PerfectDefence (FT 3), FT-PitchInvasion (Final)
 
-The lights were bright and the Tide claimed to have reworked their techniques for the playoffs to show some new looks. They got off a deep kick, and then [[Jia]] messed up their very first pass attempt. But they recovered even with [[Venus]] putting pressure on, and got the ball down to [[Amador]] for a TD. FT 0 - OW 1
+The lights were bright and the Tide claimed to have reworked their techniques for the playoffs to show some new looks. They got off a deep kick, and then [[Jia]] messed up their very first pass attempt. But they recovered even with [[Veens]] putting pressure on, and got the ball down to [[Amador]] for a TD. FT 0 - OW 1
 
-The Tide lined up in a familiar overload formation but instead of having [[Venus]] as the beneficiary, [[Milica]] was there. But the best laid plans went awry when [[Geir]] botched the pickup. The Wyrms pressed and [[Seosamh]] made the play for the TD. He had the ball stripped and [[Aleksy]] got the ball out of danger and up to [[Venus]] who dashed forward and had the presence of mind to stick with the original plan and hand off to [[Milica]], who drew the sack attempt from [[Rati]] and dished the ball back to [[Venus]]. After the predictable mobbing by the Wyrms, [[Venus]] leapt free and got her TD to tie the match up. It took more time than they'd expected but playing it cool worked wonders. FT 1 - OW 1
+The Tide lined up in a familiar overload formation but instead of having [[Veens]] as the beneficiary, [[Milica]] was there. But the best laid plans went awry when [[Geir]] botched the pickup. The Wyrms pressed and [[Seosamh]] made the play for the TD. He had the ball stripped and [[Aleksy]] got the ball out of danger and up to [[Veens]] who dashed forward and had the presence of mind to stick with the original plan and hand off to [[Milica]], who drew the sack attempt from [[Rati]] and dished the ball back to [[Veens]]. After the predictable mobbing by the Wyrms, [[Veens]] leapt free and got her TD to tie the match up. It took more time than they'd expected but playing it cool worked wonders. FT 1 - OW 1
 
 Two serious injuries already and the Tide were using their entire lineup, which they needed to keep the Wyrms off the scoreboard and head into halftime tied up. FT 1 - OW 1
 
 [[Milica]] didn't stay safe as the Tide attempted to take the lead and the turnover cost them dearly. FT 1 - OW 2
 
-On the next attempt they managed it better and it was [[Kelemann]] who leapt into danger pushing things too hard. [[Aleksy]] recovered and got it to [[venus]] who did the [[Milica]] handoff again and then caught it back to leap out and score. FT 2 - OW 2
+On the next attempt they managed it better and it was [[Kelemann]] who leapt into danger pushing things too hard. [[Aleksy]] recovered and got it to [[Veens]] who did the [[Milica]] handoff again and then caught it back to leap out and score. FT 2 - OW 2
 
-The Wyrms rolled out a standard flank assault, but responded to the Tide's perfect defence by switching sides. It was enough to force a mistake. Aleksy managed to get the ball and passed to Venus, who missed the catch. [[Jia]] grabbed the ball and prepared for the long pass to score the winning TD, but wasn't paying attention and stumbled! [[Venus]] grabbed the ball herself and calmly scored. FT 3 - OW 2
+The Wyrms rolled out a standard flank assault, but responded to the Tide's perfect defence by switching sides. It was enough to force a mistake. Aleksy managed to get the ball and passed to Veens, who missed the catch. [[Jia]] grabbed the ball and prepared for the long pass to score the winning TD, but wasn't paying attention and stumbled! [[Veens]] grabbed the ball herself and calmly scored. FT 3 - OW 2
 
-The calm was only in [[Venus]]' head, as the home crowd stormed the pitch celebrating their champions of the Stacks. FT 3 - OW 2
+The calm was only in [[Veens]]' head, as the home crowd stormed the pitch celebrating their champions of the Stacks. FT 3 - OW 2
 
 
 [[filthytide]][[oldwyrms]][[gcxi]]
@@ -64,7 +64,7 @@ The calm was only in [[Venus]]' head, as the home crowd stormed the pitch celebr
 |-------------|-------------|---------|------|------|------|----------|--------|-------|------|--------|-------|------|-------------|--------|------|------|---------|--------|------|
 | Geir        | Filthy Tide |       0 |    0 |    0 |    0 |        0 |      0 |     0 |    0 |      1 |     0 |    0 |           0 |      0 |    0 |    1 |       0 |      0 |    0 |
 | Aleksy      | Filthy Tide |       6 |    0 |   19 |    3 |       10 |      0 |     0 |    0 |      1 |     0 |    0 |           0 |      0 |    1 |    0 |       0 |      0 |    3 |
-| Venus       | Filthy Tide |       8 |    3 |   32 |    0 |        0 |      4 |     0 |    0 |      0 |     0 |    0 |           0 |      2 |    0 |    0 |       0 |      0 |    9 |
+| Veens       | Filthy Tide |       8 |    3 |   32 |    0 |        0 |      4 |     0 |    0 |      0 |     0 |    0 |           0 |      2 |    0 |    0 |       0 |      0 |    9 |
 | Milica      | Filthy Tide |       4 |    0 |    2 |    2 |        0 |      1 |     0 |    0 |      0 |     0 |    0 |           0 |      0 |    0 |    0 |       0 |      0 |    2 |
 | Slawomir    | Filthy Tide |       0 |    0 |    0 |    0 |        0 |      0 |     0 |    0 |      8 |     1 |    0 |           0 |      0 |    0 |    0 |       0 |      0 |    0 |
 | Briseida    | Filthy Tide |       0 |    0 |    0 |    0 |        0 |      0 |     0 |    0 |      2 |     0 |    1 |           0 |      0 |    0 |    0 |       1 |      0 |    5 |

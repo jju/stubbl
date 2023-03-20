@@ -4,7 +4,7 @@
 
 Pick: Tide
 
-Like every team in GCXI the Tide need to beat the Sump Runners to prove their legitimacy this season. On the SR Blitz Milica and Tomer smoothly took over getting the ball down the field but they were foiled on the dump and run, and saved by a Briseida interception and TD. Venus also didn't demand the ball for a TD in the late second half when Briseida had made an excellent recovery and got some well-deserved kudos.
+Like every team in GCXI the Tide need to beat the Sump Runners to prove their legitimacy this season. On the SR Blitz Milica and Tomer smoothly took over getting the ball down the field but they were foiled on the dump and run, and saved by a Briseida interception and TD. Veens also didn't demand the ball for a TD in the late second half when Briseida had made an excellent recovery and got some well-deserved kudos.
 
 > Weather: Nice
 > Toss: FT-Receive
@@ -13,7 +13,7 @@ Like every team in GCXI the Tide need to beat the Sump Runners to prove their le
 [[sumprunners]][[filthytide]][[gcxi]]
 
 [[aficionado]]
-Venus trying to pull the team along in an intradivisional match,
+Veens trying to pull the team along in an intradivisional match,
 
 Are you writing anything about this match?
 

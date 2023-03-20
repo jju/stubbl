@@ -27,7 +27,7 @@ How will the bad teams do in GCXI? The Machine are kind of a dark horse for the 
 
 The Hounds were coming off a tournament win and were looking to show off against one of their arch-rivals, but a muffed pass set the tone early and the Tatters pulled the match down to their level. GH 2 - CT 2 [[gcxi-01-ghct]]
 
-The Filthy Tide haven't quite become a support band for [[venus]], yet. SpreadZone gave the Menace the edge in this battle of speed, but [[Septimus]] managed to rescue the win for the Tide FT 6 - AM 5 [[gcxi-01-ftam]]
+The Filthy Tide haven't quite become a support band for [[Veens]], yet. SpreadZone gave the Menace the edge in this battle of speed, but [[Septimus]] managed to rescue the win for the Tide FT 6 - AM 5 [[gcxi-01-ftam]]
 
 Note that spreadZone was wrong on everything so far except the Sump Runners and Machine being too close to call.
 
@@ -50,7 +50,7 @@ The Old Wyrms are prohibitive favourites on the season. Can they be even more do
 
 | Player    | Team              | TDs  | Rush | Cp   | CpDist | Ctch | Int  | Cas  | Blck | Sck  | MVP  | SPP  |
 |-----------|-------------------|------|------|------|--------|------|------|------|------|------|------|------|
-| Venus     | Filthy Tide       |    5 |   75 |    0 |      0 |    5 |    0 |    0 |    0 |    0 |    0 |   15 |
+| Veens     | Filthy Tide       |    5 |   75 |    0 |      0 |    5 |    0 |    0 |    0 |    0 |    0 |   15 |
 | Ayane     | Eldritch Fatality |    4 |   28 |    0 |      0 |    3 |    0 |    0 |    2 |    0 |    0 |   12 |
 | Jacquetta | TC Sump Runners   |    1 |    2 |    4 |     12 |    0 |    0 |    2 |    3 |    0 |    0 |   11 |
 | Donato    | Ravenous Eagles   |    1 |   23 |    0 |      0 |    0 |    0 |    1 |    1 |    1 |    1 |   10 |

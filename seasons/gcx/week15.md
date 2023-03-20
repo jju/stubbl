@@ -29,7 +29,7 @@ The Cogs won and secured the bye to rest their injured players. That should have
 
 The Dynamo fielded a ragged team of scrubs to end their regular season and to the relief of the Vagabonds, didn't pull out a win with them. CT 4 - KD 1
 
-Venus chipped away at Aeson's surprising TD lead, and the Eagles trooped through the muck to a loss, but an inconsequential one for the standings. FT 2 - RE 1
+Veens chipped away at Aeson's surprising TD lead, and the Eagles trooped through the muck to a loss, but an inconsequential one for the standings. FT 2 - RE 1
 
 The Vagabonds ended the season with a convincing win and the Hounds are bowing out for their UBBL Challenge. ZV 4 - GH 0
 

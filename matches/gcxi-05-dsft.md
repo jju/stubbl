@@ -4,7 +4,7 @@
 
 Pick: Tide 
 
-The Tide romped through the Spectres even with a down match from Venus (only 1 TD).
+The Tide romped through the Spectres even with a down match from Veens (only 1 TD).
 
 > Weather: Nice
 > Toss: FT-Receive

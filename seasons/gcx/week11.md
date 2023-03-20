@@ -22,7 +22,7 @@ The Arboreal Menace got their win, keeping the Outlands tight and by far the bes
 
 Another first vs last place battle, but this one was won by the favourite. OW - SR (OW+) 725.4
 
-The Tide were coming off two big wins, but Venus stumbled badly (twice in the first half when holding the ball to score) before getting it together in the second. But by then they were down by two and needed big efforts on defence, which they did not get.  FT 3 - DS 5
+The Tide were coming off two big wins, but Veens stumbled badly (twice in the first half when holding the ball to score) before getting it together in the second. But by then they were down by two and needed big efforts on defence, which they did not get.  FT 3 - DS 5
 
 The FuriesCF 3 - OM 1
 

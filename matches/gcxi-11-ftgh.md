@@ -4,7 +4,7 @@
 
 Pick: Hounds
 
-Venus botched the handoff for TD-2, but they got the ball back to her. Slawomir was doing their damndest to be a roadblock but Ziba kept bypassing them. In the near-dying moments Alexsy botched a pickup, spoiling the advantage they had from the kickoff and resulting in a draw.
+Veens botched the handoff for TD-2, but they got the ball back to her. Slawomir was doing their damndest to be a roadblock but Ziba kept bypassing them. In the near-dying moments Alexsy botched a pickup, spoiling the advantage they had from the kickoff and resulting in a draw.
 
 > Weather: Nice
 > Toss: FT-Receive

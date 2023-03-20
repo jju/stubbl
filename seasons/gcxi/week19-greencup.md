@@ -49,7 +49,7 @@ Congratulations to those who picked SpreadZone's Under 8.5 (and the Filthy Tide)
 | Player   | Team              | TDs  | Rush | Cp   | CpDist | Ctch | Int  | Cas  | Blck | Sck  | MVP  | SPP  |
 |----------|-------------------|------|------|------|--------|------|------|------|------|------|------|------|
 | Ziba     | Glorious Hounds |    1 |   18 |    0 |      0 |    1 |    2 |    0 |    1 |    0 |    1 |   12 |
-| Venus    | Filthy Tide     |    3 |   22 |    0 |      0 |    1 |    0 |    0 |    1 |    1 |    0 |    9 |
+| Veens    | Filthy Tide     |    3 |   22 |    0 |      0 |    1 |    0 |    0 |    1 |    1 |    0 |    9 |
 | Briseida | Filthy Tide     |    0 |    0 |    0 |      0 |    0 |    0 |    0 |    7 |    0 |    1 |    5 |
 | Oxana    | Glorious Hounds |    0 |   16 |    3 |     13 |    0 |    0 |    0 |    1 |    0 |    0 |    3 |
 | Irenaeus | Glorious Hounds |    1 |    7 |    0 |      0 |    1 |    0 |    0 |    4 |    1 |    0 |    3 |
@@ -71,7 +71,7 @@ SELECT pl.name AS Player, pl.f_tname AS Team, sum(md.td) AS TDs, sum(mx.rushing_
 
 | Player            | Team             | TDs  | Rush | Cp   | CpDist | Ctch | Int | Cas  | Blck | Sck | MVP | SPP  |
 |-------------------|------------------|------|------|------|----------|---------|---|---|--------|-------|------|------|
-| Venus  | Filthy Tide       |   69 |  770 |    1 |      3 |   47 |    0 |    0 |    1 |    1 |    1 |  213 |
+| Veens  | Filthy Tide       |   69 |  770 |    1 |      3 |   47 |    0 |    0 |    1 |    1 |    1 |  213 |
 | Ziba   | Glorious Hounds   |   63 |  739 |    2 |      0 |   58 |    2 |    0 |    9 |    1 |    3 |  210 |
 | Laurel | Arboreal Menace   |   34 |  519 |    0 |      0 |   42 |    1 |    0 |    1 |    0 |    1 |  109 |
 | Frans  | Irregular Cogs    |   19 |  241 |    4 |      9 |   24 |    5 |    1 |   36 |    0 |    1 |   78 |
@@ -83,7 +83,7 @@ Top 5
 
 | Player            | Team             | TDs  | Rush | Cp   | CpDist | Ctch | Int | Cas  | Blck | Sck | MVP | SPP  |
 |-------------------|------------------|------|------|------|----------|---------|---|---|--------|-------|------|------|
-| Venus  | Filthy Tide     |   69 |  770 |    1 |      3 |   47 |    0 |    0 |    1 |    1 |    1 |  213 |
+| Veens  | Filthy Tide     |   69 |  770 |    1 |      3 |   47 |    0 |    0 |    1 |    1 |    1 |  213 |
 | Ziba   | Glorious Hounds |   63 |  739 |    2 |      0 |   58 |    2 |    0 |    9 |    1 |    3 |  210 |
 | Laurel | Arboreal Menace |   34 |  519 |    0 |      0 |   42 |    1 |    0 |    1 |    0 |    1 |  109 |
 | Frans  | Irregular Cogs  |   19 |  241 |    4 |      9 |   24 |    5 |    1 |   36 |    0 |    1 |   78 |
@@ -105,7 +105,7 @@ Top 3
 
 | Player            | Team             | TDs  | Rush | Cp   | CpDist | Ctch | Int | Cas  | Blck | Sck | MVP | SPP  |
 |-------------------|------------------|------|------|------|----------|---------|---|---|--------|-------|------|------|
-| Venus  | Filthy Tide       |   69 |  770 |    1 |      3 |   47 |    0 |    0 |    1 |    1 |    1 |  213 |
+| Veens  | Filthy Tide       |   69 |  770 |    1 |      3 |   47 |    0 |    0 |    1 |    1 |    1 |  213 |
 | Ziba   | Glorious Hounds   |   63 |  739 |    2 |      0 |   58 |    2 |    0 |    9 |    1 |    3 |  210 |
 | Laurel | Arboreal Menace   |   34 |  519 |    0 |      0 |   42 |    1 |    0 |    1 |    0 |    1 |  109 |
 | Klim   | Badger Claws      |   19 |  267 |    0 |      0 |   19 |    0 |    0 |    2 |    2 |    2 |   67 |
@@ -116,7 +116,7 @@ Top 3
 | Player | Team            | TDs  | Rush | Cp   | CpDist | Ctch | Int | Cas  | Blck | Sck | MVP | SPP  |
 |--------|-----------------|------|------|------|--------|------|---|---|--------|-------|------|------|
 | Ziba   | Glorious Hounds |   63 |  739 |    2 |      0 |   58 |    2 |    0 |    9 |    1 |    3 |  210 |
-| Venus  | Filthy Tide     |   69 |  770 |    1 |      3 |   47 |    0 |    0 |    1 |    1 |    1 |  213 |
+| Veens  | Filthy Tide     |   69 |  770 |    1 |      3 |   47 |    0 |    0 |    1 |    1 |    1 |  213 |
 | Laurel | Arboreal Menace |   34 |  519 |    0 |      0 |   42 |    1 |    0 |    1 |    0 |    1 |  109 |
 | Aronne | Cackling Furies |    7 |  202 |    5 |     -6 |   29 |    0 |    0 |   18 |    2 |    0 |   26 |
 | Frans  | Irregular Cogs  |   19 |  241 |    4 |      9 |   24 |    5 |    1 |   36 |    0 |    1 |   78 |

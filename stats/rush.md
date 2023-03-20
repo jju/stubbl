@@ -120,7 +120,7 @@ LIMIT 10;
 | Souta    | Old Wyrms         | 60 |           157 |         65 |      0.41 |
 | Sabah    | Kaiju Dynamo      | 48 |            81 |         61 |      0.75 |
 | Yakup    | Filthy Tide       | 42 |            74 |         55 |      0.74 |
-| **Venus**     | Filthy Tide       | 18 |            57 |         46 |      0.81 |
+| **Veens**     | Filthy Tide       | 18 |            57 |         46 |      0.81 |
 | **Atte**      | Eldritch Fatality | 37 |            80 |         44 |      0.55 |
 | Dragos   | Irregular Cogs    | 53 |            67 |         35 |      0.52 |
 | **Rickon**    | Cackling Furies   | 42 |            78 |         35 |      0.45 |

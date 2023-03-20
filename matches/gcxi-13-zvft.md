@@ -4,7 +4,7 @@
 
 Pick: Tide+
 
-Venus touched the ball 8 times and scored on 7 of those possessions. Opposing teams need to get in the way of that pipeline. This loss technically kept the Machine in the running for a playoff spot.
+Veens touched the ball 8 times and scored on 7 of those possessions. Opposing teams need to get in the way of that pipeline. This loss technically kept the Machine in the running for a playoff spot.
 
 > Weather: Pouring Rain, Very Sunny, Nice
 > Toss: ZV-Receive
@@ -12,12 +12,12 @@ Venus touched the ball 8 times and scored on 7 of those possessions. Opposing te
 
 [[zensunvagabonds]][[filthytide]][[gcxi]]
 
-[[warreporter]] Venus has her big lead in the Sardines race and the team has clinched so not a lot to play for apart from keeping people healthy
+[[warreporter]] Veens has her big lead in the Sardines race and the team has clinched so not a lot to play for apart from keeping people healthy
 
 | Player    | Team            | Touches | TDs  | Rush | Cp   | PassDist | Caught | Picks | Cas  | Blocks | Sacks | MVPs | Intercepted | Sacked | KOed | Hurt | Injured | Killed | SPP  |
 |-----------|-----------------|---------|------|------|------|----------|--------|-------|------|--------|-------|------|-------------|--------|------|------|---------|--------|------|
 | Aleksy     | Filthy Tide      |       2 |    0 |    4 |    1 |        6 |      0 |     0 |    0 |      0 |     0 |    0 |           0 |      0 |    1 |    0 |       0 |      0 |    1 |
-| Venus      | Filthy Tide      |       8 |    7 |   64 |    1 |        3 |      4 |     0 |    0 |      0 |     0 |    0 |           0 |      0 |    0 |    0 |       0 |      0 |   22 |
+| Veens      | Filthy Tide      |       8 |    7 |   64 |    1 |        3 |      4 |     0 |    0 |      0 |     0 |    0 |           0 |      0 |    0 |    0 |       0 |      0 |   22 |
 | Milica     | Filthy Tide      |       2 |    0 |   12 |    2 |        1 |      1 |     0 |    0 |      0 |     0 |    0 |           0 |      0 |    0 |    0 |       0 |      0 |    2 |
 | Slawomir   | Filthy Tide      |       0 |    0 |    0 |    0 |        0 |      0 |     0 |    1 |      3 |     0 |    0 |           0 |      0 |    0 |    0 |       0 |      0 |    2 |
 | Briseida   | Filthy Tide      |       0 |    0 |    0 |    0 |        0 |      0 |     0 |    0 |      7 |     0 |    0 |           0 |      0 |    0 |    0 |       0 |      0 |    0 |

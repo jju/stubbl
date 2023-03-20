@@ -8,7 +8,7 @@
 [next week](week14)
 
 * business storyline: *OW-CT* [[warreporter]] two teams built on sharing the load and being profitable while doing it, CT-DS [[aficionado]] both embracing the just enough approach, CF-RE [[writer]] business of the intradivisional. both teams facing off again in a couple of weeks (hopefully)
-* player storyline  ZV-FT [[warreporter]] Venus has her big lead in the Sardines race and the team has clinched so not a lot to play for apart from keeping people healthy, IC-GF [[writer]] who are the stars and who's been getting these teams through?, BC-GH [[aficionado]] offense offense offense do these games get a little unpredictable?
+* player storyline  ZV-FT [[warreporter]] Veens has her big lead in the Sardines race and the team has clinched so not a lot to play for apart from keeping people healthy, IC-GF [[writer]] who are the stars and who's been getting these teams through?, BC-GH [[aficionado]] offense offense offense do these games get a little unpredictable?
 * team storyline SR-KD [[writer]] two almost lost causes one with more hope than the other, AM-OW [[aficionado]] Wyrms can't catch a bye but a loss leaves things more up in the air than they want, EF-OM [[warreporter]] Fatality have to bounce back and figure out a way without muscle while the Machine solely has muscle
 * Playoffs: Intradivisional: CF-RE is going to be huge.
 
@@ -28,7 +28,7 @@ The Dynamo handled the hapless Sump Runners easily and now await the result of t
 
 The Fatality got another win that's sort of meaningless as the Machine spent the match smashing for Uli's prize. EF 2 - OM 0 [[gcxi-13-efom]]
 
-Venus touched the ball 8 times and scored on 7 of those possessions. Opposing teams need to get in the way of that pipeline. This loss technically kept the Machine in the running for a playoff spot. ZV 0 - FT 7 [[gcxi-13-zvft]]
+Veens touched the ball 8 times and scored on 7 of those possessions. Opposing teams need to get in the way of that pipeline. This loss technically kept the Machine in the running for a playoff spot. ZV 0 - FT 7 [[gcxi-13-zvft]]
 
 For a touch of extra reliability the Claws pulled Aeson back into service for this match, giving Klim the game off. It turned out not to matter as the Hounds' defense stopped him from getting the ball at crucial moments which achieved the win and may have put the nail in the coffin of the Claws' season. BC 7 - GH 8 [[gcxi-13-bcgh]]
 
@@ -52,7 +52,7 @@ Sparrow and Arya made a nice connection in the beginning of the second half (aft
 
 | Player    | Team              | TDs  | Rush | Cp   | CpDist | Ctch | Int  | Cas  | Blck | Sck  | MVP  | SPP  |
 |-----------|-------------------|------|------|------|--------|------|------|------|------|------|------|------|
-| Venus    | Filthy Tide     |    7 |   64 |    1 |      3 |    4 |    0 |    0 |    0 |    0 |    0 |   22 |
+| Veens    | Filthy Tide     |    7 |   64 |    1 |      3 |    4 |    0 |    0 |    0 |    0 |    0 |   22 |
 | Ziba     | Glorious Hounds |    7 |   75 |    0 |      0 |    7 |    0 |    0 |    1 |    0 |    0 |   21 |
 | Aeson    | Badger Claws    |    4 |   55 |    0 |      0 |    4 |    0 |    0 |    1 |    0 |    0 |   12 |
 | Spinal   | Orbital Machine |    0 |    5 |    0 |      0 |    0 |    0 |    2 |    4 |    2 |    1 |    9 |

@@ -42,7 +42,7 @@ Numbers 1 and 3 in rushing on the season (and the Tide have the best rushing rec
 
 | Team            | Player  | Touches | Rushing | TDs  | Rush_TD | Touches_TD |
 |-----------------|---------|---------|---------|------|---------|------------|
-| Filthy Tide     | Venus   |      75 |     769 |   66 |  11.6515 |       1.14 |
+| Filthy Tide     | Veens   |      75 |     769 |   66 |  11.6515 |       1.14 |
 | Glorious Hounds | Ziba    |      71 |     725 |   62 | 11.6935 |       1.15 |
 | Glorious Hounds | Oxana   |      58 |     218 |    0 |    NULL |       NULL |
 | Filthy Tide     | Aleksy  |      62 |     168 |    0 |     NULL |       NULL |
@@ -85,17 +85,17 @@ The last time these teams met in Week 11 was a barn-burner of an offensive slugf
 > Toss: FT-Receive
 > Kickoffs: GH-PitchInvasion (FT 1), FT-PitchInvasion (GH 1), GH-PefectDefense (FT 2), FT-PitchInvasion (Half), FT-ChangingWeatherNice (GH 2), GH-CHeeringFansFT ()
 
-Green Cup play began in the bright lights and the fans couldn't wait to celebrate till things were over. As a bunch of Hounds hit the deck Milica na dVenus streaked up the sideline for their patented dumpoff play. Ziba was wise to the plan and got between them, making the pick as August went for the sack. Briseida and Milica got the ball back to Venus before it could get too far and the Tide took the lead. FT 1 - GH 0
+Green Cup play began in the bright lights and the fans couldn't wait to celebrate till things were over. As a bunch of Hounds hit the deck Milica and Veens streaked up the sideline for their patented dumpoff play. Ziba was wise to the plan and got between them, making the pick as August went for the sack. Briseida and Milica got the ball back to Veens before it could get too far and the Tide took the lead. FT 1 - GH 0
 
 The Tide's crowd handlers again couldn't keep the people back which opened up new holes in the lines for attack, which weren't strictly necessary as Oxana made a clean connection to Ziba who scored. FT 1 - GH 1
 
-The Hounds adapted their defense on the next kick, but Venus leapt through. Udo did catch up and stripped the ball from her but when Oxana picked it up she couldn't make an accurate pass back up to Ziba. Aleksy zipped up the middle to pass to an open Othniel but he messed that up too. A bit more back and forth and the Tide managed to keep the ball in Aleksy's hands long enough for Venus to get in position for the TD. FT 2 - GH 1
+The Hounds adapted their defense on the next kick, but Veens leapt through. Udo did catch up and stripped the ball from her but when Oxana picked it up she couldn't make an accurate pass back up to Ziba. Aleksy zipped up the middle to pass to an open Othniel but he messed that up too. A bit more back and forth and the Tide managed to keep the ball in Aleksy's hands long enough for Veens to get in position for the TD. FT 2 - GH 1
 
 If the Hounds could tie it up here, the game would still be under their control. They would still have the speed advantage in the second half. The fans invaded the pitch meaning Ziba would have a straight run for the endzone. And then Cecile botched the quick pass and the Tide entered the second with a lead instead of being poised to surrender one. FT 2 - GH 1
 
 The second half kicked off with Oxana messing up another pass, giving the Tide a chance to expand their lead instead of let it all get tied up. They couldn't corral the ball and Irenaeus scored instead. FT 2 - GH 2
 
-The Tide tried their Milica Venus dumpoff run and again, Ziba made the interception! The Hounds got the ball downfield but Tomer was playing safety and got the ball out to Aleksy who couldn't complete the pass to Venus. Oxana tried to get the ball out and make the pass to Udo, but couldn't handle it in all the traffic Drita was making. Geir got in and grabbed the ball and made the slightly shaky handoff to Venus, who scored the winning TD. The Tide are finally Green Cup Champions! FT 3 - GH 2
+The Tide tried their Milica Veens dumpoff run and again, Ziba made the interception! The Hounds got the ball downfield but Tomer was playing safety and got the ball out to Aleksy who couldn't complete the pass to Veens. Oxana tried to get the ball out and make the pass to Udo, but couldn't handle it in all the traffic Drita was making. Geir got in and grabbed the ball and made the slightly shaky handoff to Veens, who scored the winning TD. The Tide are finally Green Cup Champions! FT 3 - GH 2
 
 
 [[filthytide]][[glorioushounds]][[gcxi]]

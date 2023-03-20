@@ -42,7 +42,7 @@ The Wyrms cemented first in the Stacks and the point from the draw put the Spect
 
 Honestly the fact that the Dynamo have been playing so much better since losing Sabah speaks volumes about the team nature of BludBol. KD 2 - CF 1
 
-With the Tide's playoff spot guaranteed already it might have been smarter to sit Venus out and protect her for the postseason, but Aeson had tied up the Sardines race, so she argued her way onto the field and got two TDs. There weren't any major injuries and the Tide even got the win before they rematch in the first round. FT 3 - GF 1
+With the Tide's playoff spot guaranteed already it might have been smarter to sit Veens out and protect her for the postseason, but Aeson had tied up the Sardines race, so she argued her way onto the field and got two TDs. There weren't any major injuries and the Tide even got the win before they rematch in the first round. FT 3 - GF 1
 
 ## standings
 
