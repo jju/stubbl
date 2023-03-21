@@ -1,5 +1,3 @@
-# now
-
 The mass elevator is huge, apparently. One of the largest engineering projects they've done in the spire in at least the last century. Of course the spire itself doesn't count as a project. It's all of creation. But in some way it's easier to think of the spire's hugeness than the elevator's. The spire weighs down on the Stacks, condensing waste and air and emotion to a slurry of depression and rust.
 
 But the elevator is hidden. When they built it, it replaced whole blocks of buildings, most of them were abandoned heaps of slag anyway, best for gangbangers to do their dirty works in. The builders scaffolded up around a huge chunk of Stacksburg, encasing it like a spider with its prey. And then no one saw inside again.
@@ -162,4 +160,4 @@ He looks like a huckster. Of course he does. But maybe this story will be worth 
 
 "Oh whatever. There were others down here that were good too. I would love to get in touch with Sardines, but all reports said he died years ago."
 
-"Hm. Well then." Do you want him to
+"Hm. Well then." 

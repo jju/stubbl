@@ -2,7 +2,7 @@
 
 [[filthytide]][[catcher]][[runner]][[gcx]][[gcxi]][[legend]][[active]]
 
-Veens was "discovered" in the Green Cup V Memorial tournament and is now the greatest hope the Tide have for winning a Green Cup. She once scored 8 TDs in her Round 9 GCX match against the Badger Claws, which is better than [[Yakup]] ever managed. She holds second place in the single match TD record list after [[aeson]].
+Veens was "discovered" in the Green Cup V Memorial tournament and her scoring touch was now the greatest hope the Tide have for winning a Green Cup. She once scored 8 TDs in her [[seasons/gcx/week09 | Week 9 GCX match]] against the Badger Claws, which is better than [[Yakup]] ever managed. She holds second place in the single match TD record list after [[aeson]].
 
 * Birthdate 1262.121-274:700 #t2121 (Born during GCII)
 

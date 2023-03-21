@@ -35,43 +35,19 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "story/notes/choicetree.md",
+                        "file": "story/library.md",
                         "mode": "source",
                         "source": true
                       }
                     }
                   },
                   {
-                    "id": "dbc9e07e585d758e",
+                    "id": "76d3311677aa02bd",
                     "type": "leaf",
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "story/notes/gcxi-re.md",
-                        "mode": "source",
-                        "source": true
-                      }
-                    }
-                  },
-                  {
-                    "id": "b5dcc8e77b4995b5",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "story/notes/gcxi-om.md",
-                        "mode": "source",
-                        "source": true
-                      }
-                    }
-                  },
-                  {
-                    "id": "cd5b3f59759bb322",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "story/index.md",
+                        "file": "story/rulesofthegame.md",
                         "mode": "source",
                         "source": true
                       }
@@ -83,14 +59,14 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "gcv-veens.md",
+                        "file": "story/2683-gcv-veens.md",
                         "mode": "source",
                         "source": true
                       }
                     }
                   }
                 ],
-                "currentTab": 5
+                "currentTab": 2
               },
               {
                 "id": "da8a5cbaaca25629",
@@ -130,7 +106,7 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "seasons/seasoncomps.md",
+                        "file": "teams/filthytide.md",
                         "mode": "source",
                         "source": true
                       }
@@ -219,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "gcv-veens.md",
+                "file": "story/rulesofthegame.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,33 +222,33 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "b6ba4a6be22560d8",
+  "active": "76d3311677aa02bd",
   "lastOpenFiles": [
-    "seasons/seasoncomps.md",
-    "gcv-veens.md",
-    "teams/kickingmules.md",
-    "players/veens.md",
-    "story/index.md",
-    "story/notes/gcxi-om.md",
-    "story/first-view-veens.md",
-    "timeline.md",
-    "story/notes/01-gcvi-01-ct.md",
-    "story/notes/00-ratdream.md",
-    "story/notes/choicetree.md",
-    "story/notes/gcxi-re.md",
-    "teams/irregularcogs.md",
-    "story/notes/01-gcvi-00-teamselect.md",
-    "story/notes/01-gcvi-00-intro.md",
-    "players/Renatus.md",
-    "seasons/gcxi/week19-greencup.md",
-    "seasons/gcxi/week18-conffinals.md",
-    "seasons/gcxi/week17-divfinals.md",
-    "seasons/gcx/week16.md",
-    "seasons/gcx/week15.md",
-    "seasons/gcxi/week15.md",
-    "seasons/gcx/week14.md",
-    "seasons/gcxi/week14.md",
-    "seasons/gcx/week13.md",
-    "seasons/gcxi/week13.md"
+    "story/library.md",
+    "story/2565-harebrainedscheme.md",
+    "story/2683-gcv-veens.md",
+    "story/2568-firstviewveens.md",
+    "story/2565-diggingupstuff.md",
+    "story/notes/xx-research.md",
+    "story/notes/xx-barhappenings.md",
+    "story/notes/scraps.md",
+    "story/rulesofthegame.md",
+    "story/notes/philosophy of the game.md",
+    "story/notes/people.md",
+    "story/notes/KRJ.md",
+    "story/2772-gcxi-re.md",
+    "story/notes/10-gcx-fans.md",
+    "story/notes/02-gcc6-00.md",
+    "story/notes/01-stacks.md",
+    "story/2772-gcxi-om.md",
+    "story/2714-sabahsend.md",
+    "story/notes/10-gcx-00.md",
+    "story/notes/07-gcix-00.md",
+    "story/notes/05-gcviii-00.md",
+    "story/notes/03-gcvii-00.md",
+    "story/2564-ZaacBugs.md",
+    "story/notes/01-slacker.md",
+    "story/notes/01-roundup-b.md",
+    "story/2566-street.md"
   ]
 }

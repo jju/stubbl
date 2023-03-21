@@ -30,7 +30,7 @@ Rules. There were rules back in the gangster times. Rules that got people stabbe
 `And if it makes a difference, there's some promoter coming down from the spire to see what these bollers are setting up. You don't want them to catch a scoop do you?`
 
 > "Fine. Let me get up to speed on your stupid bludbol."->[[01-research]]
-> "OK. I'll find this Spirey douchebag and see if there's a story here."->[[01-promoter-arrival]]
+> "OK. I'll find this Spirey douchebag and see if there's a story here."->[[2564-masselevatorarrival]]
 > "Sure. I'll write about your games. I don't need to leave my cube do I?"->[[01-slacker]]
 > "Fuck it. I'll write your bullshit, but first I'm going to a bar."->[[01-stacks]]
 > "Fuck off. I'm a writer, not a cliche-scrummer."->[[01-resist]]

@@ -133,3 +133,7 @@ Some teams are preternaturally good at keeping their payroll down and winning ma
 The one thing the players have made a part of bludbol negotiations is the impossibility of downgrading a player's pay for any reason. There are also mandated salary increases as they achieve certain milestones. This ensures that valuable players are paid something approaching what they are worth to the team.
 
 It doesn't always happen that players are receiving kudos for their actual skills. There are a number of players who coast on fan recognition and weird out-of-sport antics to ensure they are paid better season after season.
+
+# philosophy
+
+[[philosophy of the game]]

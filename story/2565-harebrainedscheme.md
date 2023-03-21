@@ -1,5 +1,7 @@
 # thinking about it
 
+> hateswords' view
+
 When Halfleg Jack was on his game, he was a marvel. I can say that not just as a fan but as a person who appreciates the marvelous in many many forms. I mean, we can talk about ballet and grace and all that shit, but Halfleg, well, he did it all without question.
 
 Style has always been a part of bludbol.
@@ -10,4 +12,4 @@ Sacrifice might be part of it too. Halfleg, is one of those stars that could hav
 
 And this is what Zaac is trying to bring back? There's something to be done there.
 
-"You see"
+#t2565 

@@ -107,13 +107,13 @@
 
 # ogiii
 
-* Nkosana - OGI
-* Bianka - OGI, OGIII
-* Renatus - OGI
-* Lambert - OGI, OGIII ?
-* Gottfried - OGI
-* Amalie - OGI, OGIII
-* Torborg - OGI, OGIII
+* [[Nkosana]] - OGI
+* [[Bianka]] - OGI, OGIII
+* [[Renatus]] - OGI
+* [[Lambert]] - OGI, OGIII ?
+* [[Gottfried]] - OGI
+* [[Amalie]] - OGI, OGIII
+* [[Torborg]] - OGI, OGIII
 * Alida - OGI
 * Reshat - OGI
 * Lasse - OGI, OGIII
@@ -134,3 +134,20 @@
 * Juan ?
 * Renatus
 * Yaxkin ?
+
+# xi
+
+* [[Geir]]
+* [[Aleksy]]
+* [[veens]]
+* [[Milica]]
+* [[Slawomir]]
+* [[briseida]]
+* [[Karthikeyan]] ?
+* [[Ellanher]]
+* [[Angilberct]]
+* [[Tomer]]
+* [[Othniel]]
+* [[Drita]]
+* [[Septimus]]
+ 
