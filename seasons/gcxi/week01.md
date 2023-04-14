@@ -1,6 +1,6 @@
 # week 01
 
-[Previously in the preseason](preseason) #t2772
+[Previously in the preseason](seasons/gcxi/preseason.md) #t2772
 [next week](week02)
 
 * business storyline DS-GF [[aficionado]]

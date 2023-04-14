@@ -1,3 +1,42 @@
+# GCXII
+
+## Burger Conference
+
+### Stacks
+
+* [Old Wyrms](../teams/oldwyrms) [[oldwyrms]] 9-1-5 
+* [Filthy Tide](../teams/filthytide) [[filthytide]] 7-1-7
+* [Gore Farmers](../teams/gorefarmers) [[gorefarmers]] 7-0-8
+* [TC Sump Runners](../teams/sumprunners) [[sumprunners]] 6-0-9
+* Virtua Raptors [[virtuaraptors]]
+
+### Outlands
+
+* [Badger Claws](../teams/badgerclaws) [[badgerclaws]] 9-1-5
+* [Irregular Cogs](../teams/irregularcogs) [[irregularcogs]] 9-0-6
+* [Carcosan Tatters](../teams/carcosantatters) [[carcosantatters]] 8-1-6
+* [Arboreal Menace](../teams/arborealmenace) [[arborealmenace]] 8-1-6
+* 
+
+## Classic Conference
+
+### Heaps
+
+* [Orbital Machine](../teams/orbitalmachine) [[orbitalmachine]] 8-1-6
+* [Glorious Hounds](../teams/glorioushounds) [[glorioushounds]] 8-0-7
+* [Kaiju Dynamo](../teams/kaijudynamo) [[kaijudynamo]] 7-2-6
+* [Zensun Vagabonds](../teams/zensunvagabonds) [[zensunvagabonds]] 7-1-7
+* Kicking Mules [[kickingmules]]
+
+### Pits
+
+* [Eldritch Fatality](../teams/eldritchfatality) [[eldritchfatality]] 8-1-6
+* [Ravenous Eagles](../teams/ravenouseagles) [[ravenouseagles]] 7-1-7
+* [Cackling Furies](../teams/cacklingfuries) [[cacklingfuries]] 6-3-6
+* [Darkling Spectres](../teams/darklingspectres) [[darklingspectres]] 6-2-7
+* Gladiolas
+
+
 # GCXI
 
 ## Burger Conference
