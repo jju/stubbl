@@ -8,7 +8,7 @@ The Champions Circuit was designed as a showcase for the top 3 teams in the Gree
 
 ## matchups
 
-* [Irregular Cogs](../../teams/irregularcogs) - [Gladiolas](../../teams/gladiolas) #t2777.5
+* [Irregular Cogs](../../teams/irregularcogs) - [Gladiolas](palaceorchids.md) #t2777.5
 * [Filthy Tide](../../teams/filthytide) - [Mules](kickingmules.md) #t2777.7
 * [Raptors](virtuaraptors.md) - [Eldritch Fatality](../../teams/eldritchfatality) #t2777.9
 

@@ -8,14 +8,14 @@ The [[thorns]] who came second in OGI did not make the playoffs in OGII. There's
 
 The Thorns, Carrion Pickers and Gentlefolk have been eliminated from consideration for the second Orange Goblet leaving these matchups 
 
-* [Gladiolas](../teams/gladiolas)[[gladiolas]] - Thrillers (G won 4-3 in Week 9 and 3-2 in UCIV QF)
+* [Gladiolas](../teams/gladiolas)[[palaceorchids]] - Thrillers (G won 4-3 in Week 9 and 3-2 in UCIV QF)
 * Warthogs - Raptors (W won 2-0 in Week 6)
 * Vanadium Hunters - Mules (M won 2-0 in Week 5)
 * Deep Dreamers - Geometers (DD won 3-1 in Week 9)
 
 So if past performance indicates anything about future success, we should see the favourites win (possibly apart from the Mules, who were also the underdog standings-wise every playoff round in OGI before winning the title.)
 
-The [Gladiolas](../../teams/gladiolas)[[gladiolas]]-Thrillers match could be the highest scoring. The Deep Dreamers' aggressive interception strategy doesn't give them much of an advantage against the ground-pounding Geometers. The Raptors have the muscle to put up a fight against the big front line of the Warthogs, but they'll have to resist getting too cute on offense, especially running out their sparkly playoff lineup. Can the Mules put together another upset reel as the 7th place seed?
+The [Gladiolas](palaceorchids.md)[[palaceorchids]]-Thrillers match could be the highest scoring. The Deep Dreamers' aggressive interception strategy doesn't give them much of an advantage against the ground-pounding Geometers. The Raptors have the muscle to put up a fight against the big front line of the Warthogs, but they'll have to resist getting too cute on offense, especially running out their sparkly playoff lineup. Can the Mules put together another upset reel as the 7th place seed?
 
 ## results
 

@@ -107,13 +107,13 @@ The Vagabonds have been getting better as of late.
 
 The Vagabonds have a long history in which they've been fine. They would have been relegated after GCIV if the interruption hadn't happened (which is why they weren't invited to the GCV Memorial Tournament), but since that did happen they were happy to pick things up again in GCVI and keep on being fine for a few cycles.
 
-But then the Green Cup X season was a triumph for the Vagabonds, marred only by the playoff loss. If they can build on that success they could be hoisting the Green Cup.
+But then the Green Cup X season was a triumph for the Vagabonds, marred only by the playoff loss. If they can build on that success they could be hoisting the Green Cup. They couldn't live up to the expectations in GCXI but a good showing in UCV has them optimistic.
 
-#### Projection GCXI
+#### Projection GCXII
 
-W-D-L 7-1-7
+W-D-L 6-1-8
 
-The projections are somewhat hard on the Vagabonds, because it's hard to ignore that long history, but the fact remains that the current incarnation of the team is good and also cheap, which means they have room to afford better.
+The projections are somewhat hard on the Vagabonds, because it's hard to ignore that long history. They'll need to play really well to make the playoffs, where they're going to have some really tough divisional rivals to get through.
 
 #### summary last season
 
@@ -138,36 +138,7 @@ The projections are somewhat hard on the Vagabonds, because it's hard to ignore 
 | Zensun Vagabonds |    QF |      10 |    2 |   40 |    4 |       15 |      4 |          0 |    3 |     33 |     0 |    1 |   21 |           3 |           2 |
 
 ```
-SELECT pl.f_tname AS Team, mt.round, sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches) AS Touches, sum(md.td) AS TDs, sum(mx.rushing_distance_move) AS Rush, sum(md.cp) AS Cp, sum(mx.pass_distance) AS PassDist, sum(mx.catches) AS Caught, sum(md.intcpt) AS Intercepts, sum(md.bh) + sum(md.si) + sum(md.ki) AS Cas, sum(mx.inflicted_blocks) AS Blocks, sum(mx.inflicted_sacks) AS Sacks, sum(md.mvp) AS MVPs, (sum(md.td) * 3) + sum(md.cp) + (sum(md.intcpt) * 2) + (sum(md.bh) * 2) + (sum(md.si) * 2) + (sum(md.ki) * 2) + (sum(md.mvp) * 5) AS SPP, mt.team1_score, mt.team2_score FROM match_data AS md JOIN match_data_es AS mx ON md.f_player_id = mx.f_pid AND md.f_match_id = mx.f_mid JOIN players AS pl ON md.f_player_id = pl.player_id AND md.f_team_id = pl.owned_by_team_id JOIN matches AS mt ON mt.match_id = md.f_match_id WHERE md.f_tour_id = 29 AND pl.f_tname = "Zensun Vagabonds" GROUP BY pl.f_tname, mt.round ORDER BY mt.round ASC;
-```
-
-#### roster by season
-
-
-| #    | Player     | GP | Touches | TD   | Rsh  | Cp   | CpDst | Ctch | Int  | Cas  | Blk  | Sck  | MVP  | Intercepted | Sacked | KOed | Hurt | Injured | Killed | SPP  |
-|------|------------|----|---------|------|------|------|-------|------|------|------|------|------|------|-------------|--------|------|------|---------|--------|------|
-|    1 | Clydon      |  7 |       7 |    0 |   13 |    4 |    18 |    1 |    0 |    0 |    9 |    1 |    2 |           1 |      1 |    2 |    0 |       0 |      0 |   14 |
-|    2 | Betuel      | 16 |      73 |    0 |  197 |   51 |   231 |    2 |    0 |    3 |   10 |    1 |    1 |           5 |      1 |    6 |    1 |       0 |      0 |   62 |
-|    4 | Padma       | 16 |      35 |   18 |  230 |    0 |     0 |   22 |    0 |    1 |   46 |    1 |    0 |           0 |      5 |    2 |    1 |       1 |      0 |   56 |
-|    5 | Green       | 10 |      10 |    2 |   50 |    1 |     2 |    6 |    0 |    2 |   48 |    4 |    1 |           0 |      0 |    1 |    2 |       1 |      0 |   16 |
-|    6 | Dene        |  9 |       0 |    0 |    0 |    0 |     0 |    0 |    0 |    1 |   28 |    0 |    0 |           0 |      0 |    3 |    0 |       0 |      0 |    2 |
-|    7 | Breann      | 11 |       0 |    0 |    0 |    0 |     0 |    0 |    0 |    1 |   32 |    0 |    1 |           0 |      0 |    4 |    2 |       0 |      0 |    7 |
-|    8 | Hamza       | 15 |       0 |    0 |    0 |    0 |     0 |    0 |    0 |    1 |   47 |    0 |    1 |           0 |      0 |    4 |    1 |       2 |      0 |    7 |
-|    9 | Everette    | 12 |       0 |    0 |    0 |    0 |     0 |    0 |    0 |    2 |   31 |    0 |    2 |           0 |      0 |    1 |    0 |       1 |      0 |   14 |
-|   13 | Alphege     | 12 |      14 |    0 |   40 |    3 |    12 |    6 |    1 |    2 |   29 |    1 |    2 |           0 |      7 |    4 |    0 |       0 |      0 |   19 |
-|   15 | Mia         | 16 |      31 |    9 |  165 |    3 |     7 |   18 |    1 |    5 |   72 |    2 |    1 |           0 |      9 |    6 |    2 |       1 |      0 |   47 |
-|   16 | Zaira       |  8 |       0 |    0 |    5 |    0 |     0 |    0 |    0 |    4 |   43 |    1 |    1 |           0 |      0 |    2 |    0 |       3 |      0 |   13 |
-|   17 | Voos        |  9 |       1 |    1 |    7 |    0 |     0 |    1 |    0 |    1 |   33 |    2 |    1 |           0 |      0 |    2 |    0 |       1 |      0 |   10 |
-|   32 | Joscelin.   |  2 |       0 |    0 |    0 |    0 |     0 |    0 |    0 |    1 |    7 |    0 |    0 |           0 |      0 |    0 |    0 |       0 |      0 |    2 |
-|   33 | Sashka.     |  5 |       0 |    0 |    0 |    0 |     0 |    0 |    0 |    0 |    5 |    0 |    0 |           0 |      0 |    2 |    0 |       0 |      0 |    0 |
-|   70 | Leone.      | 11 |       2 |    0 |    0 |    0 |     0 |    0 |    0 |    1 |   19 |    0 |    0 |           0 |      0 |    1 |    2 |       2 |      R |    2 |
-|   71 | Yehochanan. | 16 |       1 |    0 |    1 |    0 |     0 |    0 |    1 |    0 |   22 |    0 |    1 |           0 |      0 |    3 |    0 |       1 |      R |    7 |
-|   86 | Alizee.     |  5 |       4 |    0 |    3 |    2 |     3 |    0 |    0 |    0 |   22 |    2 |    1 |           0 |      0 |    0 |    1 |       0 |      1 |    7 |
-|   89 | Eetu.       |  5 |       1 |    0 |    0 |    0 |     0 |    0 |    0 |    0 |   25 |    1 |    1 |           0 |      0 |    0 |    0 |       1 |      1 |    5 |
-|   94 | Jonah.      |  4 |      11 |    4 |   61 |    0 |     0 |    7 |    2 |    0 |    4 |    1 |    1 |           1 |      0 |    2 |    0 |       2 |      1 |   21 |
-
-```
-SELECT pl.nr AS "#", pl.name AS Player, count(md.f_match_id) AS GP, sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches) AS Touches, sum(md.td) AS TD, sum(mx.rushing_distance_move) AS Rsh, sum(md.cp) AS Cp, sum(mx.pass_distance) AS CpDst, sum(mx.catches) AS Ctch, sum(md.intcpt) AS "Int", sum(md.bh) + sum(md.si) + sum(md.ki) AS Cas, sum(mx.inflicted_blocks) AS Blk, sum(mx.inflicted_sacks) AS Sck, sum(md.mvp) AS MVP, sum(mx.interceptions_thrown) AS Intercepted, sum(mx.sustained_sacks) AS Sacked, sum(mx.sustained_kos) AS KOed, sum(mx.sustained_bhs) AS Hurt, sum(mx.sustained_sis) AS Injured, sum(mx.sustained_kill) AS Killed, (sum(md.td) * 3) + sum(md.cp) + (sum(md.intcpt) * 2) + (sum(md.bh) * 2) + (sum(md.si) * 2) + (sum(md.ki) * 2) + (sum(md.mvp) * 5) AS SPP FROM match_data AS md JOIN match_data_es AS mx ON md.f_player_id = mx.f_pid AND md.f_match_id = mx.f_mid JOIN players AS pl ON md.f_player_id = pl.player_id AND md.f_team_id = pl.owned_by_team_id JOIN matches AS mt ON mt.match_id = md.f_match_id JOIN tours ON md.f_tour_id = tours.tour_id AND md.f_did = tours.f_did WHERE tours.name = "Green Cup XI" AND pl.f_tname = "Zensun Vagabonds" GROUP BY pl.name, pl.nr ORDER BY pl.nr ASC;
+SELECT pl.f_tname AS Team, mt.round, CASE WHEN mt.team1_id = md.f_team_id THEN "Home" ELSE "Away" END AS Location, CASE WHEN mt.team1_score - mt.team2_score > 0 AND mt.team1_id = md.f_team_id THEN "Win" WHEN mt.team2_score - mt.team1_score > 0 AND mt.team2_id = md.f_team_id THEN "Win" WHEN mt.team1_score = mt.team2_score THEN "Draw" ELSE "Loss" END AS Result, mt.team1_score AS Home, mt.team2_score AS Away, sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches) AS Touches, sum(md.td) AS TDs, sum(mx.rushing_distance_move) AS Rush, sum(md.cp) AS Cp, sum(mx.pass_distance) AS PassDist, sum(mx.catches) AS Caught, sum(md.intcpt) AS Intercepts, sum(md.bh) + sum(md.si) + sum(md.ki) AS Cas, sum(mx.inflicted_blocks) AS Blocks, sum(mx.inflicted_sacks) AS Sacks, sum(md.mvp) AS MVPs, (sum(md.td) * 3) + sum(md.cp) + (sum(md.intcpt) * 2) + (sum(md.bh) * 2) + (sum(md.si) * 2) + (sum(md.ki) * 2) + (sum(md.mvp) * 5) AS SPP FROM match_data AS md JOIN match_data_es AS mx ON md.f_player_id = mx.f_pid AND md.f_match_id = mx.f_mid JOIN players AS pl ON md.f_player_id = pl.player_id AND md.f_team_id = pl.owned_by_team_id JOIN matches AS mt ON mt.match_id = md.f_match_id WHERE md.f_tour_id = 29 AND pl.f_tname = "Zensun Vagabonds" GROUP BY pl.f_tname, mt.round ORDER BY mt.round ASC;
 ```
 
 ### Stars
@@ -193,8 +164,6 @@ SELECT pl.nr AS "#", pl.name AS Player, count(md.f_match_id) AS GP, sum(mx.catch
 | **Zaira**        | Heavy     |   23 |    7 |   15 |   45 |    1 |    0 |    1 |   10 |    5 |    3 |    5 |   66 |
 
 
-
-
 ```
 SELECT pl.name AS Player, pl.f_pos_name AS Position, sum(mp.won) AS won, sum(mp.draw) AS draw, sum(mp.lost) AS lost, sum(mp.played) AS GP, sum(mp.td) AS TD, sum(mp.cp) AS Cp, sum(mp.intcpt) AS "Int",	sum(mp.bh) AS BH, sum(mp.si) AS SI,	sum(mp.ki) AS Ki, sum(mp.mvp) AS MVP, sum(mp.spp) AS SPP FROM mv_players AS mp JOIN players AS pl ON mp.f_pid = pl.player_id AND mp.f_tid = pl.owned_by_team_id JOIN tours ON mp.f_trid = tours.tour_id AND mp.f_did = tours.f_did WHERE pl.f_tname = "Zensun Vagabonds" GROUP BY pl.name, pl.f_tname, pl.f_pos_name ORDER BY SPP DESC limit 11;
 ```
@@ -212,6 +181,34 @@ The Vagabonds miss the days of having [[hulud]] anchoring their lineup, but [[Za
 
 ```
 SELECT pl.nr AS "#", pl.name AS Player, pl.f_pos_name AS Position, count(DISTINCT mp.f_trid) AS Seasons, count(DISTINCT hof.hof_id) AS Prizes, pl.value AS Value, pl.extra_val AS Bonus FROM mv_players as mp JOIN players as pl ON mp.f_pid = pl.player_id AND mp.f_tid = pl.owned_by_team_id JOIN hof ON pl.player_id = hof.pid WHERE pl.f_tname = "Zensun Vagabonds" GROUP BY pl.name ORDER BY pl.nr ASC;
+```
+
+#### GCXI roster
+
+| #    | Player     | GP | Touches | TD   | Rsh  | Cp   | CpDst | Ctch | Int  | Cas  | Blk  | Sck  | MVP  | Intercepted | Sacked | KOed | Hurt | Injured | Killed | SPP  |
+|------|------------|----|---------|------|------|------|-------|------|------|------|------|------|------|-------------|--------|------|------|---------|--------|------|
+|    1 | Clydon      |  7 |       7 |    0 |   13 |    4 |    18 |    1 |    0 |    0 |    9 |    1 |    2 |           1 |      1 |    2 |    0 |       0 |      0 |   14 |
+|    2 | Betuel      | 16 |      73 |    0 |  197 |   51 |   231 |    2 |    0 |    3 |   10 |    1 |    1 |           5 |      1 |    6 |    1 |       0 |      0 |   62 |
+|    4 | Padma       | 16 |      35 |   18 |  230 |    0 |     0 |   22 |    0 |    1 |   46 |    1 |    0 |           0 |      5 |    2 |    1 |       1 |      0 |   56 |
+|    5 | Green       | 10 |      10 |    2 |   50 |    1 |     2 |    6 |    0 |    2 |   48 |    4 |    1 |           0 |      0 |    1 |    2 |       1 |      0 |   16 |
+|    6 | Dene        |  9 |       0 |    0 |    0 |    0 |     0 |    0 |    0 |    1 |   28 |    0 |    0 |           0 |      0 |    3 |    0 |       0 |      0 |    2 |
+|    7 | Breann      | 11 |       0 |    0 |    0 |    0 |     0 |    0 |    0 |    1 |   32 |    0 |    1 |           0 |      0 |    4 |    2 |       0 |      0 |    7 |
+|    8 | Hamza       | 15 |       0 |    0 |    0 |    0 |     0 |    0 |    0 |    1 |   47 |    0 |    1 |           0 |      0 |    4 |    1 |       2 |      0 |    7 |
+|    9 | Everette    | 12 |       0 |    0 |    0 |    0 |     0 |    0 |    0 |    2 |   31 |    0 |    2 |           0 |      0 |    1 |    0 |       1 |      0 |   14 |
+|   13 | Alphege     | 12 |      14 |    0 |   40 |    3 |    12 |    6 |    1 |    2 |   29 |    1 |    2 |           0 |      7 |    4 |    0 |       0 |      0 |   19 |
+|   15 | Mia         | 16 |      31 |    9 |  165 |    3 |     7 |   18 |    1 |    5 |   72 |    2 |    1 |           0 |      9 |    6 |    2 |       1 |      0 |   47 |
+|   16 | Zaira       |  8 |       0 |    0 |    5 |    0 |     0 |    0 |    0 |    4 |   43 |    1 |    1 |           0 |      0 |    2 |    0 |       3 |      0 |   13 |
+|   17 | Voos        |  9 |       1 |    1 |    7 |    0 |     0 |    1 |    0 |    1 |   33 |    2 |    1 |           0 |      0 |    2 |    0 |       1 |      0 |   10 |
+|   32 | Joscelin.   |  2 |       0 |    0 |    0 |    0 |     0 |    0 |    0 |    1 |    7 |    0 |    0 |           0 |      0 |    0 |    0 |       0 |      0 |    2 |
+|   33 | Sashka.     |  5 |       0 |    0 |    0 |    0 |     0 |    0 |    0 |    0 |    5 |    0 |    0 |           0 |      0 |    2 |    0 |       0 |      0 |    0 |
+|   70 | Leone.      | 11 |       2 |    0 |    0 |    0 |     0 |    0 |    0 |    1 |   19 |    0 |    0 |           0 |      0 |    1 |    2 |       2 |      R |    2 |
+|   71 | Yehochanan. | 16 |       1 |    0 |    1 |    0 |     0 |    0 |    1 |    0 |   22 |    0 |    1 |           0 |      0 |    3 |    0 |       1 |      R |    7 |
+|   86 | Alizee.     |  5 |       4 |    0 |    3 |    2 |     3 |    0 |    0 |    0 |   22 |    2 |    1 |           0 |      0 |    0 |    1 |       0 |      1 |    7 |
+|   89 | Eetu.       |  5 |       1 |    0 |    0 |    0 |     0 |    0 |    0 |    0 |   25 |    1 |    1 |           0 |      0 |    0 |    0 |       1 |      1 |    5 |
+|   94 | Jonah.      |  4 |      11 |    4 |   61 |    0 |     0 |    7 |    2 |    0 |    4 |    1 |    1 |           1 |      0 |    2 |    0 |       2 |      1 |   21 |
+
+```
+SELECT pl.nr AS "#", pl.name AS Player, count(md.f_match_id) AS GP, sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches) AS Touches, sum(md.td) AS TD, sum(mx.rushing_distance_move) AS Rsh, sum(md.cp) AS Cp, sum(mx.pass_distance) AS CpDst, sum(mx.catches) AS Ctch, sum(md.intcpt) AS "Int", sum(md.bh) + sum(md.si) + sum(md.ki) AS Cas, sum(mx.inflicted_blocks) AS Blk, sum(mx.inflicted_sacks) AS Sck, sum(md.mvp) AS MVP, sum(mx.interceptions_thrown) AS Intercepted, sum(mx.sustained_sacks) AS Sacked, sum(mx.sustained_kos) AS KOed, sum(mx.sustained_bhs) AS Hurt, sum(mx.sustained_sis) AS Injured, sum(mx.sustained_kill) AS Killed, (sum(md.td) * 3) + sum(md.cp) + (sum(md.intcpt) * 2) + (sum(md.bh) * 2) + (sum(md.si) * 2) + (sum(md.ki) * 2) + (sum(md.mvp) * 5) AS SPP FROM match_data AS md JOIN match_data_es AS mx ON md.f_player_id = mx.f_pid AND md.f_match_id = mx.f_mid JOIN players AS pl ON md.f_player_id = pl.player_id AND md.f_team_id = pl.owned_by_team_id JOIN matches AS mt ON mt.match_id = md.f_match_id JOIN tours ON md.f_tour_id = tours.tour_id AND md.f_did = tours.f_did WHERE tours.name = "Green Cup XI" AND pl.f_tname = "Zensun Vagabonds" GROUP BY pl.name, pl.nr ORDER BY pl.nr ASC;
 ```
 
 ### Management

@@ -7,6 +7,16 @@ mysql -u cmsh -p sbbdb -e 'SQLCOMMANDS;' > /var/www/html/stubbl/outfile.txt
 
 Select ID, IF((Select COUNT(*) FROM Students WHERE Language = 'English')>(Select COUNT(*) from Students WHERE Language <> 'English'),(CONCAT("Name is ", Name)),(CONCAT("Course is ", Course))) AS 'Name/Course' from Students;
 
+CASE WHEN team1_score - team2_score > 0 THEN "Home" WHEN team1_score - team2_score < 0 THEN "Away" ELSE "Draw" END AS Winner
+
+```sql
+SET sql_mode = 'NO_UNSIGNED_SUBTRACTION';
+```
+
+# test
+
+SELECT pl.name AS Player, pl.f_tname AS Team, sum(md.td) AS TDs, sum(mx.rushing_distance_move) AS Rush, sum(md.cp) AS Cp,	sum(mx.pass_distance) AS CpDist, sum(mx.catches) AS Ctch, sum(md.intcpt) AS "Int", sum(md.bh) + sum(md.si) + sum(md.ki) AS Cas, sum(mx.inflicted_blocks) AS Blck, sum(mx.inflicted_sacks) AS Sck, sum(md.mvp) AS MVPs, (sum(md.td) * 3) + sum(md.cp) + (sum(md.intcpt) * 2) + (sum(md.bh) * 2) + (sum(md.si) * 2) + (sum(md.ki) * 2) + (sum(md.mvp) * 5) AS SPP FROM match_data AS md JOIN match_data_es AS mx ON md.f_player_id = mx.f_pid AND md.f_match_id = mx.f_mid JOIN players AS pl ON md.f_player_id = pl.player_id AND md.f_team_id = pl.owned_by_team_id JOIN matches AS mt ON mt.match_id = md.f_match_id JOIN tours ON mt.f_tour_id = tours.tour_id WHERE tours.name = "UBBL Challenge V" AND pl.f_tname = "Arboreal Menace" GROUP BY pl.f_tname ORDER BY SPP DESC LIMIT 10;
+
 # player statlines
 
 ## by season
@@ -331,7 +341,7 @@ SELECT pl.name AS Player, pl.f_tname AS Team, mx.catches + mx.pickups + md.intcp
 
 ### export player stats by season
 
-#### all players in a season to csv
+#### all players in a season to csv USE THIS
 
 mysql -u cmsh -p sbbdb -e 'SELECT pl.name AS Player, pl.f_tname AS Team, tours.name AS Season, count(md.f_match_id) AS Games, sum(md.td) AS TDs, sum(mx.rushing_distance_move) AS Rush,sum(md.cp) AS Cp, sum(mx.pass_distance) AS PassDist, sum(mx.catches) AS Caught,sum(md.intcpt) AS Picks, sum(md.bh) + sum(md.si) + sum(md.ki) AS Cas, sum(mx.inflicted_blocks) AS Blocks, sum(mx.inflicted_sacks) AS Sacks, sum(md.mvp) AS MVPs, (sum(md.td) * 3) + sum(md.cp) + (sum(md.intcpt) * 2) + (sum(md.bh) * 2) + (sum(md.si) * 2) + (sum(md.ki) * 2) + (sum(md.mvp) * 5) AS SPP FROM match_data AS md JOIN match_data_es AS mx ON md.f_player_id = mx.f_pid AND md.f_match_id = mx.f_mid JOIN players AS pl ON md.f_player_id = pl.player_id AND md.f_team_id = pl.owned_by_team_id JOIN matches AS mt ON mt.match_id = md.f_match_id JOIN tours ON md.f_tour_id = tours.tour_id AND md.f_did = tours.f_did WHERE tours.tour_id = 29 GROUP BY pl.name, pl.f_tname, tours.name ORDER BY SPP DESC;' > /var/www/html/stubbl/gcxi-players.csv
 
@@ -354,6 +364,8 @@ SELECT teams.name,  sum(mr.won),  sum(mr.draw), sum(mr.lost), sum(mr.played), su
 ## home match records by round
 
 mysql -u cmsh -p sbbdb -e 'SELECT tours.name, mt.round, teams.name, mt.team1_score, mt.tcas1, mt.ffactor1, mt.income1, mt.team2_id, mt.team2_score, mt.tcas2, mt.ffactor2, mt.income2 FROM matches AS mt  JOIN tours ON mt.f_tour_id = tours.tour_id JOIN teams ON teams.team_id = mt.team1_id WHERE tours.name = "Green Cup XI" ORDER BY round ASC;' > /var/www/html/stubbl/matches-home-gcxi.csv
+
+## away match records by round
 
 mysql -u cmsh -p sbbdb -e 'SELECT tours.name, mt.round, teams.name, mt.team2_score, mt.tcas2, mt.ffactor2, mt.income2, mt.team1_id, mt.team1_score, mt.tcas1, mt.ffactor1, mt.income1 FROM matches AS mt  JOIN tours ON mt.f_tour_id = tours.tour_id JOIN teams ON teams.team_id = mt.team2_id WHERE tours.name = "Green Cup XI" ORDER BY tours.tour_id, round ASC;' > /var/www/html/stubbl/matches-away-gcxi.csv
 
@@ -633,7 +645,7 @@ limit 5;
 # current team lineup
 
 ```
-SELECT pl.name AS Player, pl.f_pos_name AS Position, sum(mp.spp), count(DISTINCT mp.f_trid) AS Seasons, pl.date_sold AS Benched FROM mv_players as mp JOIN players as pl ON mp.f_pid = pl.player_id AND mp.f_tid = pl.owned_by_team_id WHERE pl.f_tname = "Team" GROUP BY pl.name HAVING pl.name NOT LIKE '%.' ORDER BY Benched, pl.nr ASC;
+SELECT pl.name AS Player, pl.f_pos_name AS Position, sum(mp.spp), sum(mp.sdiff) count(DISTINCT mp.f_trid) AS Seasons, pl.date_sold AS Benched FROM mv_players as mp JOIN players as pl ON mp.f_pid = pl.player_id AND mp.f_tid = pl.owned_by_team_id WHERE pl.f_tname = "Team" GROUP BY pl.name HAVING pl.name NOT LIKE '%.' ORDER BY Benched, pl.nr ASC;
 ```
 
 

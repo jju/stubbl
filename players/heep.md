@@ -28,7 +28,7 @@ As the seasons wore on, Heep got more fragile and he didn't put up too much of a
 
 # Prize Stats
 
-* MVP - GCC06 [[mvp#gcc06]]
+* MVP - GCC06 [[prizes/mvp#gcc06]]
 * Sardine Crown - GCC06 [[sardinecrown#gcc06]]
 * Centurion [[centurion#former]]
 

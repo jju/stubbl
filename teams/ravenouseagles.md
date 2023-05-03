@@ -10,6 +10,11 @@ The Eagles use the Charles Dorf playbook, which is built on a very rigid divisio
 
 | # | Player    | Position  | SPP | Seasons | GP | Contracts | Value | Bonus |
 |---|-----------|-----------|-----|---------|----|-----------|-------|-------|
+|    2 | Wanjiku  | Hobgoblin           |   33 |       5 |   32 |         2 | 110000 |     0 |
+|    5 | Chibueze | Chaos Dwarf Blocker |   25 |       3 |   17 |         1 | 120000 |     0 |
+|   14 | Chikondi | Bull Centaur        |   68 |       8 |   78 |         5 | 260000 | 50000 |
+|   16 | Percy    | Minotaur            |  117 |       5 |   47 |         3 | 300000 | 40000 |
+|   17 | Rajendra | Bull Centaur        |   38 |       2 |   22 |         1 | 200000 |     0 |
 |    1 | Humbert  | Hobgoblin           |   93 |       7 |   45 |         3 | 170000 |     0 |
 |    2 | Wanjiku  | Hobgoblin           |   33 |       5 |   32 |         2 | 110000 |     0 |
 |    3 | Calixta  | Hobgoblin           |   44 |       5 |   30 |         2 | 110000 |     0 |
@@ -144,13 +149,13 @@ With the new divisions in place in GCIX there was some thought teams bashy teams
 
 Outside the Pro Division the Eagles put together a wonderful GCV Memorial season with their retirees and rookies, then got it all together for an exciting final match. Sure this didn't mean anything but it's fun to win. The Eagles actually tied with the [Irregular Cogs](irregularcogs) for Casualties inflicted (20), but their casualty composition (11-5-4) meant they ended more careers and had a better differential (14) so they won the prize.
 
-The Eagles then made some huge strides and in GCX their veterans got them within a whisker of another championship and secured their second Iron Fist in a row.
+The Eagles then made some huge strides and in GCX their veterans got them within a whisker of another championship and secured their second Iron Fist in a row. In Green Cup XI they met the Spectres in the round of 16 and lost, slightly underperforming preseason expectations.
 
-#### Projection GCXI
+#### Projection GCXII
 
-W-D-L 7-1-7
+W-D-L 5-2-8
 
-We've seen the Eagles make a dashing playoff run before, and with the Spectres seemingly rolling over for the season, the regular season might give the Eagles time to develop some support for their big 3 bashers.
+The Eagles look like the biggest losers when it comes to the expansion of Green Cup play. The [Palace Orchids](palaceorchids) are coming into the Pits Division with high expectations, pushing everyone else down a rung. Combine that with the financial difficulties the Ossa leadership group is said to be having which means they might not be able to afford their stars, and this is probably going to be a nightmare season even if they don't occupy the very basement.
 
 #### summary GCXI
 
@@ -174,7 +179,7 @@ We've seen the Eagles make a dashing playoff run before, and with the Spectres s
 | Ravenous Eagles |   R16 |       9 |    0 |   26 |    2 |        5 |      2 |          1 |    3 |     58 |     3 |    1 |   15 |           1 |           0 |
 
 ```
-SELECT pl.f_tname AS Team, mt.round, sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches) AS Touches, sum(md.td) AS TDs, sum(mx.rushing_distance_move) AS Rush, sum(md.cp) AS Cp, sum(mx.pass_distance) AS PassDist, sum(mx.catches) AS Caught, sum(md.intcpt) AS Intercepts, sum(md.bh) + sum(md.si) + sum(md.ki) AS Cas, sum(mx.inflicted_blocks) AS Blocks, sum(mx.inflicted_sacks) AS Sacks, sum(md.mvp) AS MVPs, (sum(md.td) * 3) + sum(md.cp) + (sum(md.intcpt) * 2) + (sum(md.bh) * 2) + (sum(md.si) * 2) + (sum(md.ki) * 2) + (sum(md.mvp) * 5) AS SPP, mt.team1_score, mt.team2_score FROM match_data AS md JOIN match_data_es AS mx ON md.f_player_id = mx.f_pid AND md.f_match_id = mx.f_mid JOIN players AS pl ON md.f_player_id = pl.player_id AND md.f_team_id = pl.owned_by_team_id JOIN matches AS mt ON mt.match_id = md.f_match_id WHERE md.f_tour_id = 29 AND pl.f_tname = "Ravenous Eagles" GROUP BY pl.f_tname, mt.round ORDER BY mt.round ASC;
+SELECT pl.f_tname AS Team, mt.round, CASE WHEN mt.team1_id = md.f_team_id THEN "Home" ELSE "Away" END AS Location, CASE WHEN mt.team1_score - mt.team2_score > 0 AND mt.team1_id = md.f_team_id THEN "Win" WHEN mt.team2_score - mt.team1_score > 0 AND mt.team2_id = md.f_team_id THEN "Win" WHEN mt.team1_score = mt.team2_score THEN "Draw" ELSE "Loss" END AS Result, mt.team1_score AS Home, mt.team2_score AS Away, sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches) AS Touches, sum(md.td) AS TDs, sum(mx.rushing_distance_move) AS Rush, sum(md.cp) AS Cp, sum(mx.pass_distance) AS PassDist, sum(mx.catches) AS Caught, sum(md.intcpt) AS Intercepts, sum(md.bh) + sum(md.si) + sum(md.ki) AS Cas, sum(mx.inflicted_blocks) AS Blocks, sum(mx.inflicted_sacks) AS Sacks, sum(md.mvp) AS MVPs, (sum(md.td) * 3) + sum(md.cp) + (sum(md.intcpt) * 2) + (sum(md.bh) * 2) + (sum(md.si) * 2) + (sum(md.ki) * 2) + (sum(md.mvp) * 5) AS SPP FROM match_data AS md JOIN match_data_es AS mx ON md.f_player_id = mx.f_pid AND md.f_match_id = mx.f_mid JOIN players AS pl ON md.f_player_id = pl.player_id AND md.f_team_id = pl.owned_by_team_id JOIN matches AS mt ON mt.match_id = md.f_match_id WHERE md.f_tour_id = 29 AND pl.f_tname = "Ravenous Eagles" GROUP BY pl.f_tname, mt.round ORDER BY mt.round ASC;
 ```
 
 #### roster GCXI

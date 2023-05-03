@@ -4,7 +4,7 @@
 
 ## schedule
 
-* [Gladiolas](../teams/gladiolas)[[gladiolas]] - Raptors (R won 3-2 in Week 1)
+* [Gladiolas](../teams/gladiolas)[[palaceorchids]] - Raptors (R won 3-2 in Week 1)
 * Deep Dreamers - Mules (M won 3-0 in Week 6)
 
 

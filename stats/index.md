@@ -1,5 +1,20 @@
 # stats in UBBL
 
+## traditional stats
+
+The traditional statistics tracked in BludBol are touchdowns [[TD]], completions [[Cp]], interceptions [[Int]], casualties [[Cas]] and the fan-voted most valuable player [[stats/MVP]]. Together, these make up star player points [[SPP]] which is the general ranking of bludbol players.
+
+More detailed stats have been recorded in the modern era which let us analyze players a bit more closely.
+
+## offense
+
+* [[pass]]
+* [[rush]]
+* [[gcxi-td-race]]
+* [[oe-touch leaders]]
+* [[relentlesscannon-alltime]]
+* [[speeddemons]]
+
 ### touches / td
 
 pre-GCXI all-UBBL active players TD descending
@@ -47,3 +62,8 @@ pre-GCXI Active Pro Players TD descending
 | Aronne  | Cackling Furies   |            81 |         21 |    0.2593 |
 | Shashi  | Cackling Furies   |            29 |         21 |    0.7241 |
 
+## defence
+
+* [[block]]
+* [[gcxi-cas-race]]
+* [[dVP]]

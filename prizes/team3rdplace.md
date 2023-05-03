@@ -64,7 +64,7 @@
 
 ## ogi
 
-[[gladiolas]]
+[[palaceorchids]]
 
 ## uciv
 
@@ -72,7 +72,7 @@
 
 ## ogii
 
-[[gladiolas]]
+[[palaceorchids]]
 
 ## ogiii
 

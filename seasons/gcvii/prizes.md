@@ -1,6 +1,6 @@
 # gcvii
 
-* [[mvp]] - [[yakup]]
+* [[prizes/mvp]] - [[yakup]]
 * [[sardinecrown]] - [[yakup]]
 * [[carminefist]] - [[rohit]]
 * [[softhands]] - [[souta]]

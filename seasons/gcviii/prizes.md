@@ -1,6 +1,6 @@
 # gcviii
 
-* [[mvp]] - [[costache]]
+* [[prizes/mvp]] - [[costache]]
 * [[sardinecrown]] - [[costache]]
 * [[carminefist]] - [[Somfuhr]]
 * [[softhands]] - [[costache]]

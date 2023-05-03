@@ -1,67 +1,62 @@
 # Filthy Tide
 
-The Filthy Tide are often called the best team to never win the Green Cup. They're an Original 8 team that has had two hall-of-fame scorers in the UBBL but has never been able to convert the big win to get those stars a (pro-level) championship. They have been in rebuild mode, but are banking on their new star [[Veens]] to be the difference-maker.
+The Filthy Tide were often called the best team to never win the Green Cup, but that all changed with [Green Cup XI](../seasons/gcxi/). They're an Original 8 team that previously had two hall-of-fame scorers but had never been able to convert the big win to get those stars a (pro-level) championship. [[Veens]] ended that drought in what ends up being a fairly epic tale.
 
 ## Playbook
 
 The Filthy Tide uses the Scrying Avian playbook which emphasizes speed above all else, especially the health of your own players. The position slots only include 2 blitzers, but have 2 throwers, 4 catchers (sometimes more accurately labelled runners), and a heavy available. With proper training it's possible to have a super-fast scorer onside, which makes the lack of defensive ability easier to overcome.
 
-
-## Active Roster
+## Active Roster GCXII
 
 | # | Player    | Position  | SPP | Seasons | GP | Contracts | Value | Bonus |
 |---|-----------|-----------|-----|---------|----|-----------|-------|-------|
+|    1 | Geir       | Thrower       |   59 |       6 |   33 |         2 | 190000 | 20000 |
+|    2 | Hiba       | Thrower       |    2 |       1 |    1 |         0 |  90000 |     0 |
+|    3 | Veens      | Gutter Runner |  344 |       4 |   35 |         2 | 270000 | 40000 |
+|    4 | Milica     | Gutter Runner |   70 |       5 |   38 |         3 | 180000 |     0 |
+|    5 | Cevdet     | Blitzer       |    0 |       1 |    1 |         0 |  90000 |     0 |
+|    6 | Briseida   | Blitzer       |   53 |       7 |   43 |         3 | 220000 | 30000 |
+|    7 | Jarl       | Lineman       |   10 |       2 |    2 |         0 |  70000 |     0 |
+|    8 | Maximino   | Lineman       |    7 |       2 |    2 |         0 |  70000 |     0 |
+|    9 | Ellanher   | Lineman       |    8 |       4 |   18 |         1 |  70000 |     0 |
+|   10 | Mehmood    | Lineman       |    7 |       2 |    2 |         0 |  70000 |     0 |
+|   14 | Tomer      | Gutter Runner |  102 |       5 |   56 |         4 | 220000 | 40000 |
+|   15 | Othniel    | Gutter Runner |   51 |       4 |   24 |         2 | 170000 |     0 |
+|   16 | Drita      | Rat Ogre      |   16 |       3 |   12 |         1 | 190000 |     0 |
 
 ### Depth (on payroll)
 
 | # | Player    | Position  | SPP | Seasons | GP | Contracts | Value | Bonus |
 |---|-----------|-----------|-----|---------|----|-----------|-------|-------|
+|    3 | Marinda    | Gutter Runner |    3 |       1 |    1 |         0 |  80000 |     0 |
+|    4 | Septimus   | Gutter Runner |   81 |      11 |   87 |         6 | 240000 | 60000 |
+|    6 | Col        | Blitzer       |    2 |       1 |    1 |         0 |  90000 |     0 |
+|   14 | Tipene     | Gutter Runner |    8 |       1 |    1 |         0 | 130000 |     0 |
+|   15 | Sanford    | Gutter Runner |    6 |       1 |    1 |         0 | 100000 |     0 |
 
 
 ### Non Roster
 
 | # | Player    | Position  | SPP | Seasons | GP | Contracts | Value | Bonus |
 |---|-----------|-----------|-----|---------|----|-----------|-------|-------|
+|   22 | Dipika.      | Lineman       |    8 |       1 |    5 |         0 |  70000 |     0 |
+|   23 | Yavor.       | Lineman       |    6 |       1 |    2 |         0 |  80000 |     0 |
+|   25 | Giselle.     | Lineman       |    0 |       3 |    6 |         0 |  50000 |     0 |
+|   26 | Dora.        | Lineman       |    0 |       2 |    2 |         0 |  50000 |     0 |
+|   27 | Buckley.     | Lineman       |    6 |       4 |   11 |         1 |  80000 | 10000 |
+|   28 | Casper.      | Lineman       |   31 |       6 |   47 |         3 | 140000 | 30000 |
+|   30 | Daibhi.      | Lineman       |    0 |       3 |    5 |         0 |  50000 |     0 |
+|   34 | Teofil.      | Lineman       |    0 |       1 |    2 |         0 |  50000 |     0 |
+|   36 | Robin.       | Lineman       |    0 |       1 |    1 |         0 |  50000 |     0 |
+|   41 | Hanne.       | Lineman       |    0 |       1 |    3 |         0 |  50000 |     0 |
+|   42 | Neha.        | Lineman       |    2 |       1 |    1 |         0 |  50000 |     0 |
+|   43 | Elmer.       | Lineman       |    0 |       2 |    9 |         1 |  50000 |     0 |
+|   44 | Kgosi.       | Lineman       |    0 |       3 |    6 |         0 |  50000 |     0 |
 
 ```
 SELECT pl.nr AS "#", pl.name AS Player, pl.f_pos_name AS Position, sum(mp.spp) AS 'SPP', count(DISTINCT mp.f_trid) AS Seasons, sum(mp.played) AS "GP", ROUND(sum(mp.played)/15) AS Contracts, pl.value AS Value, pl.extra_val AS Bonus FROM mv_players as mp JOIN players as pl ON mp.f_pid = pl.player_id AND mp.f_tid = pl.owned_by_team_id WHERE pl.f_tname = "Filthy Tide" GROUP BY pl.name HAVING pl.name NOT LIKE '%.' ORDER BY pl.nr ASC;
 ```
 
-## Lineup
-
-| Player    | Position  | SPP | Seasons |
-|-----------|-----------|-----|---------|
-| Geir        | Thrower       |   Emerging Star |       3 |
-| Aleksy      | Thrower       |   Superstar |       2 |
-| Veens       | Catcher |  Superstar |       2 |
-| Septimus    | Catcher |   Superstar |       9 |
-| Slawomir    | Blitzer       |   Emerging Star |       3 |
-| Briseida    | Blitzer       |   Veteran |       5 |
-| Angilberct  | Line       |    Experienced |       3 |
-| Emilee      | Line       |    Experienced |       3 |
-| Hadassah    | Line       |   Veteran |       4 |
-| Kgosi       | Line       |    Rookie |       3 |
-| Ellanher    | Line       |    Experienced |       2 |
-| Milica      | Catcher |   Emerging Star |       3 |
-| Othniel     | Catcher |   Veteran |       2 |
-| Tomer       | Catcher |   Star |       3 |
-| Uzma        | Heavy      |   Star |       4 |
-
-
-### Bench
-
-| Player    | Position  | SPP | Seasons |
-|-----------|-----------|-----|---------|
-| Enrique     | Line       |    Rookie |       1 |
-| Karthikeyan | Line       |    Rookie |       2 |
-| Giselle     | Line       |    Rookie |       2 |
-| Dora        | Line       |    Rookie |       1 |
-| Daibhi      | Line       |    Rookie |       2 |
-| Teofil      | Line       |    Rookie |       1 |
-| Robin       | Line       |    Rookie |       1 |
-| Hanne       | Line       |    Rookie |       1 |
-| Idunn       | Line       |    Rookie |       1 |
-| Elmer       | Line       |    Rookie |       2 |
 
 ## Records
 
@@ -125,19 +120,20 @@ SELECT teams.name AS Team, tours.name AS Season, mr.won, mr.draw, mr.lost, 	mr.p
 
 The Tide is an integral part of the UBBL and has been from the beginning. They never really broke through in the old-era though they've had big stars. They came into the modern era trying to forge a new identity, and claimed their first team prizes in GCVI.
 
-The Tide had an excellent GCVII season going when they ran into the bizarrely successful [Eagles](ravenouseagles) team who took Yakup out early and deflated the team.
+The Tide had an excellent GCVII season going when they ran into the bizarrely successful [Eagles](ravenouseagles) team who took [[Yakup]] out early and deflated the team.
 
-The UBBL pennant is no Green Cup, but the Filthy Tide were proud to be its first winners (and they played an amazing semi-final against the [Kaiju Dynamo](kaijudynamo) to do it). Perhaps merely by playing the most matches, the Filthy Tide inflicted the most casualties in this tournament, 16 (11-5-0).
+The UBBL pennant is no Green Cup, but the Filthy Tide were proud to be its first winners (and they played an amazing semi-final against the [Kaiju Dynamo](kaijudynamo) to do it). Perhaps merely by playing the most matches, the Filthy Tide also inflicted the most casualties in this tournament, 16 (11-5-0).
 
 Their 4-win GCIX campaign was devastating to a team of such history. To follow up they put their efforts in the GCV Memorial tournament to develop a replacement for Yakup. Rather than learning a more conservative style of play to match up with their GCIX team's abilities they decided to try pinning their entire GCX season's fortunes on [[Veens]], a young player who scored a TD in street-level play and looked fast doing it.
 
-This approach wasn't punished too harshly in GCX, until they hit the playoffs and were steamrolled by the [Gore Farmers](gorefarmers).
+This approach wasn't punished too harshly in GCX, until they hit the playoffs and were steamrolled by the [Gore Farmers](gorefarmers). Before GCXI the projections had them as another round of 16 exit fearing they couldn't match up against the powerhouse [Wyrms](oldwyrms). But they had an amazing season, winning the division by 5 wins. Even with injury to their legendary superstar [[veens]] in the end of the regular season they put together a playoff run and hoisted the Green Cup.
 
-#### GCXI Projection
 
-W-D-L 7-1-7 
+#### GCXII Projection
 
-The Tide should be able to make the playoffs since they share the Stacks with a soft [TC Sump Runner team](sumprunners). Of all the teams in this Green Cup they would benefit most from getting a first-round playoff bye to avoid a round of being smashed to bits, but that means getting more wins in 15 matches than the powerhouse, defending champion [Wyrms](oldwyrms). Our projection has another round of 16 exit in store for the Tide.
+W-D-L 7-0-8 
+
+The Tide should be able to make the playoffs again since they share the Stacks with a soft [TC Sump Runner team](sumprunners), but no one is expecting them to defend their championship, especially with the further
 
 #### summary last season
 
@@ -164,7 +160,7 @@ The Tide should be able to make the playoffs since they share the Stacks with a 
 | Filthy Tide |    GC |      17 |    3 |   67 |    1 |        1 |      1 |          0 |    0 |     51 |     3 |    1 |   15 |           3 |           2 |
 
 ```
-SELECT pl.f_tname AS Team, mt.round, sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches) AS Touches, sum(md.td) AS TDs, sum(mx.rushing_distance_move) AS Rush, sum(md.cp) AS Cp, sum(mx.pass_distance) AS PassDist, sum(mx.catches) AS Caught, sum(md.intcpt) AS Intercepts, sum(md.bh) + sum(md.si) + sum(md.ki) AS Cas, sum(mx.inflicted_blocks) AS Blocks, sum(mx.inflicted_sacks) AS Sacks, sum(md.mvp) AS MVPs, (sum(md.td) * 3) + sum(md.cp) + (sum(md.intcpt) * 2) + (sum(md.bh) * 2) + (sum(md.si) * 2) + (sum(md.ki) * 2) + (sum(md.mvp) * 5) AS SPP, mt.team1_score, mt.team2_score FROM match_data AS md JOIN match_data_es AS mx ON md.f_player_id = mx.f_pid AND md.f_match_id = mx.f_mid JOIN players AS pl ON md.f_player_id = pl.player_id AND md.f_team_id = pl.owned_by_team_id JOIN matches AS mt ON mt.match_id = md.f_match_id WHERE md.f_tour_id = 29 AND pl.f_tname = "Filthy Tide" GROUP BY pl.f_tname, mt.round ORDER BY mt.round ASC;
+SELECT pl.f_tname AS Team, mt.round, CASE WHEN mt.team1_id = md.f_team_id THEN "Home" ELSE "Away" END AS Location, CASE WHEN mt.team1_score - mt.team2_score > 0 AND mt.team1_id = md.f_team_id THEN "Win" WHEN mt.team2_score - mt.team1_score > 0 AND mt.team2_id = md.f_team_id THEN "Win" WHEN mt.team1_score = mt.team2_score THEN "Draw" ELSE "Loss" END AS Result, mt.team1_score AS Home, mt.team2_score AS Away, sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches) AS Touches, sum(md.td) AS TDs, sum(mx.rushing_distance_move) AS Rush, sum(md.cp) AS Cp, sum(mx.pass_distance) AS PassDist, sum(mx.catches) AS Caught, sum(md.intcpt) AS Intercepts, sum(md.bh) + sum(md.si) + sum(md.ki) AS Cas, sum(mx.inflicted_blocks) AS Blocks, sum(mx.inflicted_sacks) AS Sacks, sum(md.mvp) AS MVPs, (sum(md.td) * 3) + sum(md.cp) + (sum(md.intcpt) * 2) + (sum(md.bh) * 2) + (sum(md.si) * 2) + (sum(md.ki) * 2) + (sum(md.mvp) * 5) AS SPP FROM match_data AS md JOIN match_data_es AS mx ON md.f_player_id = mx.f_pid AND md.f_match_id = mx.f_mid JOIN players AS pl ON md.f_player_id = pl.player_id AND md.f_team_id = pl.owned_by_team_id JOIN matches AS mt ON mt.match_id = md.f_match_id WHERE md.f_tour_id = 29 AND pl.f_tname = "Filthy Tide" GROUP BY pl.f_tname, mt.round ORDER BY mt.round ASC;
 ```
 
 #### roster by season
@@ -172,31 +168,31 @@ SELECT pl.f_tname AS Team, mt.round, sum(mx.catches) + sum(mx.pickups) + sum(md.
 
 | #    | Player     | GP | Touches | TD   | Rsh  | Cp   | CpDst | Ctch | Int  | Cas  | Blk  | Sck  | MVP  | Intercepted | Sacked | KOed | Hurt | Injured | Killed | SPP  |
 |------|------------|----|---------|------|------|------|-------|------|------|------|------|------|------|-------------|--------|------|------|---------|--------|------|
-|    1 | Geir.1      | 17 |      36 |    1 |  126 |   14 |    38 |    0 |    0 |    1 |   29 |    2 |    1 |           1 |      1 |    2 |    1 |       2 |      0 |   24 |
-|    2 | Aleksy.3    | 19 |      69 |    0 |  183 |   39 |   116 |    0 |    0 |    0 |   20 |    1 |    1 |           1 |      1 |   11 |    0 |       0 |      0 |   44 |
-|    3 | Veens.3     | 18 |      79 |   69 |  770 |    1 |     3 |   47 |    0 |    0 |    1 |    1 |    1 |           0 |      2 |    3 |    2 |       1 |      0 |  213 |
-|    4 | Milica      | 16 |      24 |    2 |  136 |    6 |     2 |   10 |    0 |    0 |   15 |    1 |    2 |           3 |      4 |    5 |    1 |       1 |      0 |   22 |
-|    5 | Slawomir.3  | 18 |       0 |    0 |    0 |    0 |     0 |    0 |    0 |    1 |   71 |    2 |    2 |           0 |      0 |    5 |    1 |       1 |      0 |   12 |
-|    6 | Briseida.1  | 17 |       5 |    2 |   27 |    0 |     0 |    0 |    1 |    3 |  113 |    3 |    4 |           0 |      0 |    2 |    1 |       3 |      0 |   34 |
-|    8 | Karthikeyan |  6 |       0 |    0 |    0 |    0 |     0 |    0 |    0 |    0 |    9 |    0 |    0 |           0 |      0 |    2 |    0 |       2 |      0 |    0 |
-|    9 | Ellanher    | 14 |       0 |    0 |    0 |    0 |     0 |    0 |    0 |    0 |   30 |    2 |    0 |           0 |      0 |    5 |    4 |       0 |      0 |    0 |
-|   10 | Angilberct  | 12 |       0 |    0 |    0 |    0 |     0 |    0 |    0 |    1 |   21 |    0 |    0 |           0 |      0 |    6 |    0 |       3 |      0 |    2 |
-|   14 | Tomer.4     | 17 |      17 |    4 |   66 |    3 |    14 |    2 |    1 |    2 |   42 |    5 |    3 |           0 |      0 |    7 |    1 |       0 |      0 |   36 |
-|   15 | Othniel     | 18 |      22 |    3 |   67 |    2 |     7 |    5 |    2 |    0 |   27 |    3 |    3 |           1 |      1 |    7 |    3 |       1 |      0 |   30 |
-|   16 | Drita       | 10 |       1 |    0 |    0 |    0 |     0 |    0 |    1 |    2 |   61 |    2 |    2 |           0 |      1 |    2 |    0 |       1 |      0 |   16 |
-|   17 | Septimus.1  |  6 |      10 |    1 |   55 |    2 |     2 |    3 |    0 |    0 |    1 |    0 |    0 |           0 |      1 |    1 |    0 |       0 |      0 |    5 |
-|   25 | Giselle.    |  1 |       0 |    0 |    0 |    0 |     0 |    0 |    0 |    0 |    0 |    0 |    0 |           0 |      0 |    1 |    0 |       0 |      0 |    0 |
-|   26 | Dora.       |  1 |       0 |    0 |    0 |    0 |     0 |    0 |    0 |    0 |    0 |    0 |    0 |           0 |      0 |    0 |    0 |       0 |      0 |    0 |
-|   30 | Daibhi.     |  1 |       0 |    0 |    0 |    0 |     0 |    0 |    0 |    0 |    0 |    0 |    0 |           0 |      0 |    1 |    0 |       0 |      0 |    0 |
-|   87 | Enrique     |  8 |       0 |    0 |    0 |    0 |     0 |    0 |    0 |    0 |   12 |    0 |    0 |           0 |      0 |    4 |    0 |       1 |      1 |    0 |
-|   87 | Wangi.      |  3 |       0 |    0 |    0 |    0 |     0 |    0 |    0 |    0 |    5 |    0 |    0 |           0 |      0 |    1 |    0 |       0 |      0 |    0 |
-|   87 | Didac.      |  1 |       0 |    0 |    0 |    0 |     0 |    0 |    0 |    0 |    0 |    0 |    0 |           0 |      0 |    0 |    0 |       0 |      0 |    0 |
-|   88 | Emilee.     |  9 |       0 |    0 |    0 |    0 |     0 |    0 |    0 |    1 |   16 |    0 |    1 |           0 |      0 |    2 |    0 |       1 |      1 |    7 |
-|   88 | Sharif.     |  1 |       0 |    0 |    0 |    0 |     0 |    0 |    0 |    0 |    0 |    0 |    0 |           0 |      0 |    0 |    0 |       0 |      0 |    0 |
-|   89 | Hadassah.   |  6 |       0 |    0 |    0 |    0 |     0 |    0 |    0 |    0 |   14 |    0 |    0 |           0 |      0 |    2 |    0 |       0 |      1 |    0 |
-|   89 | Christina.  |  1 |       0 |    0 |    0 |    0 |     0 |    0 |    0 |    0 |    0 |    0 |    0 |           0 |      0 |    0 |    0 |       0 |      0 |    0 |
-|   96 | Uzma.       |  2 |       0 |    0 |    0 |    0 |     0 |    0 |    0 |    0 |    1 |    0 |    0 |           0 |      0 |    2 |    0 |       0 |      1 |    0 |
-|   99 | Idunn       |  1 |       0 |    0 |    0 |    0 |     0 |    0 |    0 |    0 |    0 |    0 |    0 |           0 |      0 |    0 |    0 |       0 |      0 |    0 |
+|    1 | Geir         | 17 |      36 |    1 |  126 |   14 |    38 |    0 |    0 |    1 |   29 |    2 |    1 |           1 |      1 |    2 |    1 |       2 |      0 |   24 |
+|    3 | Veens        | 18 |      79 |   69 |  770 |    1 |     3 |   47 |    0 |    0 |    1 |    1 |    1 |           0 |      2 |    3 |    2 |       1 |      0 |  213 |
+|    4 | Milica       | 16 |      24 |    2 |  136 |    6 |     2 |   10 |    0 |    0 |   15 |    1 |    2 |           3 |      4 |    5 |    1 |       1 |      0 |   22 |
+|    4 | Septimus     |  6 |      10 |    1 |   55 |    2 |     2 |    3 |    0 |    0 |    1 |    0 |    0 |           0 |      1 |    1 |    0 |       0 |      0 |    5 |
+|    6 | Briseida     | 17 |       5 |    2 |   27 |    0 |     0 |    0 |    1 |    3 |  113 |    3 |    4 |           0 |      0 |    2 |    1 |       3 |      0 |   34 |
+|    9 | Ellanher     | 14 |       0 |    0 |    0 |    0 |     0 |    0 |    0 |    0 |   30 |    2 |    0 |           0 |      0 |    5 |    4 |       0 |      0 |    0 |
+|   14 | Tomer        | 17 |      17 |    4 |   66 |    3 |    14 |    2 |    1 |    2 |   42 |    5 |    3 |           0 |      0 |    7 |    1 |       0 |      0 |   36 |
+|   15 | Othniel      | 18 |      22 |    3 |   67 |    2 |     7 |    5 |    2 |    0 |   27 |    3 |    3 |           1 |      1 |    7 |    3 |       1 |      0 |   30 |
+|   16 | Drita        | 10 |       1 |    0 |    0 |    0 |     0 |    0 |    1 |    2 |   61 |    2 |    2 |           0 |      1 |    2 |    0 |       1 |      0 |   16 |
+|   25 | Giselle.     |  1 |       0 |    0 |    0 |    0 |     0 |    0 |    0 |    0 |    0 |    0 |    0 |           0 |      0 |    1 |    0 |       0 |      0 |    0 |
+|   26 | Dora.        |  1 |       0 |    0 |    0 |    0 |     0 |    0 |    0 |    0 |    0 |    0 |    0 |           0 |      0 |    0 |    0 |       0 |      0 |    0 |
+|   30 | Daibhi.      |  1 |       0 |    0 |    0 |    0 |     0 |    0 |    0 |    0 |    0 |    0 |    0 |           0 |      0 |    1 |    0 |       0 |      0 |    0 |
+|   62 | Aleksy.      | 19 |      69 |    0 |  183 |   39 |   116 |    0 |    0 |    0 |   20 |    1 |    1 |           1 |      1 |   11 |    0 |       0 |      0 |   44 |
+|   65 | Slawomir.    | 18 |       0 |    0 |    0 |    0 |     0 |    0 |    0 |    1 |   71 |    2 |    2 |           0 |      0 |    5 |    1 |       1 |      0 |   12 |
+|   68 | Karthikeyan. |  6 |       0 |    0 |    0 |    0 |     0 |    0 |    0 |    0 |    9 |    0 |    0 |           0 |      0 |    2 |    0 |       2 |      0 |    0 |
+|   70 | Angilberct   | 12 |       0 |    0 |    0 |    0 |     0 |    0 |    0 |    1 |   21 |    0 |    0 |           0 |      0 |    6 |    0 |       3 |      0 |    2 |
+|   87 | Wangi.       |  3 |       0 |    0 |    0 |    0 |     0 |    0 |    0 |    0 |    5 |    0 |    0 |           0 |      0 |    1 |    0 |       0 |      0 |    0 |
+|   87 | Enrique.     |  8 |       0 |    0 |    0 |    0 |     0 |    0 |    0 |    0 |   12 |    0 |    0 |           0 |      0 |    4 |    0 |       1 |      1 |    0 |
+|   87 | Didac.       |  1 |       0 |    0 |    0 |    0 |     0 |    0 |    0 |    0 |    0 |    0 |    0 |           0 |      0 |    0 |    0 |       0 |      0 |    0 |
+|   88 | Sharif.      |  1 |       0 |    0 |    0 |    0 |     0 |    0 |    0 |    0 |    0 |    0 |    0 |           0 |      0 |    0 |    0 |       0 |      0 |    0 |
+|   88 | Emilee.      |  9 |       0 |    0 |    0 |    0 |     0 |    0 |    0 |    1 |   16 |    0 |    1 |           0 |      0 |    2 |    0 |       1 |      1 |    7 |
+|   89 | Christina.   |  1 |       0 |    0 |    0 |    0 |     0 |    0 |    0 |    0 |    0 |    0 |    0 |           0 |      0 |    0 |    0 |       0 |      0 |    0 |
+|   89 | Hadassah.    |  6 |       0 |    0 |    0 |    0 |     0 |    0 |    0 |    0 |   14 |    0 |    0 |           0 |      0 |    2 |    0 |       0 |      1 |    0 |
+|   96 | Uzma.        |  2 |       0 |    0 |    0 |    0 |     0 |    0 |    0 |    0 |    1 |    0 |    0 |           0 |      0 |    2 |    0 |       0 |      1 |    0 |
+|   99 | Idunn.       |  1 |       0 |    0 |    0 |    0 |     0 |    0 |    0 |    0 |    0 |    0 |    0 |           0 |      0 |    0 |    0 |       0 |      0 |    0 |
 
 ```
 SELECT pl.nr AS "#", pl.name AS Player, count(md.f_match_id) AS GP, sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches) AS Touches, sum(md.td) AS TD, sum(mx.rushing_distance_move) AS Rsh, sum(md.cp) AS Cp, sum(mx.pass_distance) AS CpDst, sum(mx.catches) AS Ctch, sum(md.intcpt) AS "Int", sum(md.bh) + sum(md.si) + sum(md.ki) AS Cas, sum(mx.inflicted_blocks) AS Blk, sum(mx.inflicted_sacks) AS Sck, sum(md.mvp) AS MVP, sum(mx.interceptions_thrown) AS Intercepted, sum(mx.sustained_sacks) AS Sacked, sum(mx.sustained_kos) AS KOed, sum(mx.sustained_bhs) AS Hurt, sum(mx.sustained_sis) AS Injured, sum(mx.sustained_kill) AS Killed, (sum(md.td) * 3) + sum(md.cp) + (sum(md.intcpt) * 2) + (sum(md.bh) * 2) + (sum(md.si) * 2) + (sum(md.ki) * 2) + (sum(md.mvp) * 5) AS SPP FROM match_data AS md JOIN match_data_es AS mx ON md.f_player_id = mx.f_pid AND md.f_match_id = mx.f_mid JOIN players AS pl ON md.f_player_id = pl.player_id AND md.f_team_id = pl.owned_by_team_id JOIN matches AS mt ON mt.match_id = md.f_match_id JOIN tours ON md.f_tour_id = tours.tour_id AND md.f_did = tours.f_did WHERE tours.name = "Green Cup XI" AND pl.f_tname = "Filthy Tide" GROUP BY pl.name, pl.nr ORDER BY pl.nr ASC;
@@ -208,19 +204,19 @@ SELECT pl.nr AS "#", pl.name AS Player, count(md.f_match_id) AS GP, sum(mx.catch
 
 | Player           | Position      | W | D | L | GP | TD | Cp | Int | BH | SI | Ki | MVP | SPP |
 |------------------|---------------|--:|--:|--:|---:|---:|---:|----:|---:|---:|---:|----:|----:|
-| **Veens**      | Catcher |   20 |    2 |   12 |   34 |  106 |    1 |    0 |    0 |    0 |    0 |    5 |  344 |
+| **Veens**      | Catcher |   20 |    2 |   13 |   35 |  106 |    1 |    0 |    0 |    0 |    0 |    5 |  344 |
 | Yakup       | Catcher |   27 |    6 |   20 |   53 |   73 |    1 |    0 |    0 |    1 |    0 |    4 |  242 |
 | Somfuhr     | Heavy      |   31 |    9 |   29 |   69 |    0 |    0 |    0 |   42 |   13 |    6 |    6 |  152 |
 | Silas       | Thrower       |   35 |    9 |   31 |   75 |    2 |  125 |    2 |    1 |    0 |    0 |    2 |  147 |
 | *Despereaux* | Catcher | ?? | ?? | ?? | 43 | 31 | 10 | 1 | 1 | 0 | 0 | 5 | 132 |
 | Mayu        | Catcher |   28 |    6 |   21 |   55 |   35 |    3 |    2 |    1 |    0 |    0 |    3 |  129 |
-| Aleksy     | Thrower       |   24 |    5 |   21 |   50 |    2 |   90 |    0 |    1 |    1 |    0 |    5 |  125 |
+| Aleksy     | Thrower       |   24 |    5 |   22 |   51 |    2 |   90 |    0 |    1 |    1 |    0 |    5 |  125 |
 | *Sardines*   | Catcher | ?? | ?? | ?? | 27 | 39 | 2 | 0 | 0 | 0 | 0 | 1 | 124 |
 | *Nadaz*      | Thrower | ?? | ?? | ?? | 55 | 1 | 86 | 1 | 1 | 0 | 0 | 3 | 119 |
-| Tomer      | Catcher |   27 |    7 |   21 |   55 |   17 |    6 |    2 |    3 |    0 |    0 |    7 |  102 |
+| Tomer      | Catcher |   27 |    7 |   22 |   56 |   17 |    6 |    2 |    3 |    0 |    0 |    7 |  102 |
 | Madhavi     | Blitzer       |   31 |    9 |   29 |   69 |    4 |    2 |    4 |    9 |    5 |    3 |    8 |   96 |
 | *Asmodeus*   | Catcher | ?? | ?? | ?? | 55 | 19 | 7 | 3 | 1 | 0 | 0 | 3 | 87 |
-| **Septimus**   | Catcher |   37 |    7 |   42 |   86 |   18 |    9 |    2 |    1 |    0 |    1 |    2 |   81 |
+| **Septimus**   | Catcher |   38 |    7 |   42 |   87 |   18 |    9 |    2 |    1 |    0 |    1 |    2 |   81 |
 | Nicodemus II | Catcher |    8 |    2 |    9 |   19 |   21 |    2 |    0 |    0 |    0 |    0 |    3 |   80 |
 | *Nicodemus*  | Catcher | ?? | ?? | ?? | 55 | 14 | 9 | 2 | 2 | 0 | 0 | 4 | 79 | 
 | Fikri       | Thrower       |   21 |    5 |   13 |   39 |    4 |   47 |    0 |    2 |    0 |    0 |    2 |   73 |

@@ -1,1 +1,17 @@
-The third Orange Goblet tournament was begun with  an unrestricted playoff run with substitutions allowed, something they aren't doing in the pro circuit.
+The third Orange Goblet tournament was begun with an unrestricted playoff run with substitutions allowed, something they aren't doing in the pro circuit.
+
+* [[seasons/ogiii/week01]]
+* [[seasons/ogiii/week02]]
+* [[seasons/ogiii/week03]]
+* [[seasons/ogiii/week04]]
+* [[seasons/ogiii/week05]]
+* [[seasons/ogiii/week06]]
+* [[seasons/ogiii/week07]]
+* [[seasons/ogiii/week08]]
+* [[seasons/ogiii/week09]]
+* [[seasons/ogiii/week10]]
+* [[seasons/ogiii/week11]]
+* [[seasons/ogiii/week12-quarterfinals]]
+* [[seasons/ogiii/week13-semifinals]]
+* [[seasons/ogiii/week14-finals]]
+* [[seasons/ogiii/prizes]]

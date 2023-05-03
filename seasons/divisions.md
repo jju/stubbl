@@ -8,7 +8,7 @@
 * [Filthy Tide](../teams/filthytide) [[filthytide]] 7-1-7
 * [Gore Farmers](../teams/gorefarmers) [[gorefarmers]] 7-0-8
 * [TC Sump Runners](../teams/sumprunners) [[sumprunners]] 6-0-9
-* Virtua Raptors [[virtuaraptors]]
+* [Virtua Raptors](../teams/virtuaraptors) [[virtuaraptors]]
 
 ### Outlands
 
@@ -16,7 +16,7 @@
 * [Irregular Cogs](../teams/irregularcogs) [[irregularcogs]] 9-0-6
 * [Carcosan Tatters](../teams/carcosantatters) [[carcosantatters]] 8-1-6
 * [Arboreal Menace](../teams/arborealmenace) [[arborealmenace]] 8-1-6
-* 
+* WildCard
 
 ## Classic Conference
 
@@ -34,7 +34,7 @@
 * [Ravenous Eagles](../teams/ravenouseagles) [[ravenouseagles]] 7-1-7
 * [Cackling Furies](../teams/cacklingfuries) [[cacklingfuries]] 6-3-6
 * [Darkling Spectres](../teams/darklingspectres) [[darklingspectres]] 6-2-7
-* Gladiolas
+* Palace Orchids [[palaceorchids]]
 
 
 # GCXI

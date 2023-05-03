@@ -26,7 +26,7 @@ Daividh was the first homegrown Modern Era star. He performed with grace in his 
 
 # Prize Stats
 
-* MVP - GCVI [[mvp#gcvi]]
+* MVP - GCVI [[prizes/mvp#gcvi]]
 
 | Player | Team         | Season          | GP | TD  | Rsh | Cp   | CpDst | Ctch | Int | Cas  | Blk | Sck | MVP | SPP  |
 |--------|--------------|-----------------|----|-----|-----|------|-------|------|-----|------|-----|-----|-----|------|

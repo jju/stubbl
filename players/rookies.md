@@ -60,8 +60,8 @@ SELECT pl.name AS Player,  pl.f_tname AS Team, pl.f_pos_name AS Position, count(
 
 * [[Adnan]] - [[deepdreamers]]
 * [[Gijsbert]] - [[deepdreamers]]
-* [[Marques]] - [[gladiolas]]
-* [[Rhode]] - [[gladiolas]]
+* [[Marques]] - [[palaceorchids]]
+* [[Rhode]] - [[palaceorchids]]
 * [[Geretrudis]] - [[thrillers]]
 * [[Svetomir]] - [[thrillers]]
 * [[Renat]] - [[umberhulks]]

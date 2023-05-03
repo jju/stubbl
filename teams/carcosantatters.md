@@ -1,6 +1,6 @@
 # Carcosan Tatters
 
-The Carcosan Tatters have always been a very good team. They're defensive-minded without really flashy stars and can lock a game down to a muddy slog even in the middle of a drought.
+The Carcosan Tatters have always been a good team. They're defensive-minded without really flashy stars and can lock a game down to a muddy slog even in the middle of a drought.
 
 ## Playbook
 
@@ -10,7 +10,7 @@ The Tatters use the Nergal playbook, which some (especially fans of pretty BludB
 
 | # | Player    | Position  | SPP | Seasons | GP | Contracts | Value | Bonus |
 |---|-----------|-----------|-----|---------|----|-----------|-------|-------|
-|    1 | Liubou           | Thrower          |   31 |       2 |   10 |         1 | 110000 |     0 |
+|    1 | Liubou           | Line          |   31 |       2 |   10 |         1 | 110000 |     0 |
 |    2 | Maryna           | Line          |   10 |       2 |    9 |         1 |  60000 |     0 |
 |    3 | Sparrow          | Blitzer        |  131 |       4 |   46 |         3 | 210000 |     0 |
 |    4 | Arya             | Blitzer        |  110 |       5 |   44 |         3 | 250000 | 30000 |
@@ -20,23 +20,47 @@ The Tatters use the Nergal playbook, which some (especially fans of pretty BludB
 |    8 | FlamingLion      | Blocker  |   54 |       5 |   40 |         3 | 250000 | 50000 |
 |    9 | OreSmitingMaster | Blocker  |   53 |       8 |   69 |         5 | 250000 | 50000 |
 |   10 | Shunmyo          | Blocker  |   40 |       3 |   36 |         2 | 170000 |     0 |
-|   11 | Uzmal            | Line          |   18 |       4 |   18 |         1 |  80000 |     0 |
 |   12 | Seela            | Line          |    6 |       1 |    7 |         0 |  70000 |     0 |
+|   13 | Uzmal            | Line          |   18 |       4 |   18 |         1 |  80000 |     0 |
 |   16 | Pierre           | Heavy |   94 |       8 |   68 |         5 | 290000 | 50000 |
 
 ### Depth (on payroll)
 
 | # | Player    | Position  | SPP | Seasons | GP | Contracts | Value | Bonus |
 |---|-----------|-----------|-----|---------|----|-----------|-------|-------|
-|   17 | MaskedPain       | Blitzer        |   66 |       5 |   42 |         3 | 190000 | 30000 |
-|   18 | alFadl           | Blitzer        |   21 |       1 |   10 |         1 | 130000 | 10000 |
-
+| 10 | Pluto | Blocker |
+|   17 | MaskedPain       | Blitzer        |   66 |       5 |   43 |         3 | 190000 | 30000 |
+|   18 | alFadl           | Blitzer        |   21 |       1 |   11 |         1 | 130000 | 10000 |
 
 ### Non Roster
 
 | # | Player    | Position  | SPP | Seasons | GP | Contracts | Value | Bonus |
 |---|-----------|-----------|-----|---------|----|-----------|-------|-------|
-
+|   11 | Cain.               | Line         |   10 |       6 |   43 |         3 |  90000 | 30000 |
+|   19 | LastForsakenVenom.  | Blocker |   51 |       4 |   42 |         3 | 220000 | 30000 |
+|   20 | SpearoftheDepths.   | Blocker |   31 |       3 |   20 |         1 | 190000 | 10000 |
+|   21 | EbonMiseryDragon.   | Blocker |   34 |       4 |   35 |         2 | 170000 |     0 |
+|   22 | Mate.               | Line         |    0 |       1 |    1 |         0 |  40000 |     0 |
+|   27 | Bruno.              | Blocker |   25 |       4 |   23 |         2 | 150000 |     0 |
+|   31 | Valeriy.            | Line         |    0 |       1 |    7 |         0 |  40000 |     0 |
+|   32 | Frommik.            | Line         |    3 |       3 |   16 |         1 |  50000 | 10000 |
+|   32 | Iapheth.            | Line         |    7 |       5 |   38 |         3 |  60000 |     0 |
+|   33 | Alizee.             | Line         |    0 |       1 |    5 |         0 |  40000 |     0 |
+|   33 | Hermes.             | Line         |    8 |       1 |    9 |         1 |  70000 |     0 |
+|   34 | Swanahil.           | Line         |    2 |       6 |   25 |         2 |  40000 |     0 |
+|   35 | Lucrece.            | Line         |   22 |       5 |   34 |         2 |  80000 |     0 |
+|   43 | Yamilet.            | Line         |    6 |       1 |    3 |         0 |  70000 |     0 |
+|   51 | Zhi.                | Line         |    8 |       1 |    6 |         0 |  60000 |     0 |
+|   52 | Indiana.            | Line         |    8 |       1 |    1 |         0 |  60000 |     0 |
+|   52 | Lazar.              | Line         |    7 |       1 |    6 |         0 |  60000 |     0 |
+|   52 | Chijindum.          | Line         |    6 |       1 |    5 |         0 |  60000 |     0 |
+|   52 | Libitina.           | Line         |    8 |       1 |    2 |         0 |  60000 |     0 |
+|   54 | Steinunn.           | Line         |    0 |       2 |    3 |         0 |  40000 |     0 |
+|   55 | Cahal.              | Line         |    0 |       2 |    5 |         0 |  40000 |     0 |
+|   56 | Zeki.               | Line         |    0 |       2 |    2 |         0 |  40000 |     0 |
+|   57 | Albina.             | Line         |    2 |       2 |    2 |         0 |  40000 |     0 |
+|   58 | Anacletus.          | Line         |    6 |       2 |    5 |         0 |  60000 |     0 |
+|   59 | Eveleen.            | Line         |    0 |       2 |    4 |         0 |  40000 |     0 |
 ```
 SELECT pl.nr AS "#", pl.name AS Player, pl.f_pos_name AS Position, sum(mp.spp) AS 'SPP', count(DISTINCT mp.f_trid) AS Seasons, sum(mp.played) AS "GP", ROUND(sum(mp.played)/15) AS Contracts, pl.value AS Value, pl.extra_val AS Bonus FROM mv_players as mp JOIN players as pl ON mp.f_pid = pl.player_id AND mp.f_tid = pl.owned_by_team_id WHERE pl.f_tname = "Carcosan Tatters" GROUP BY pl.name HAVING pl.name NOT LIKE '%.' ORDER BY pl.nr ASC;
 ```
@@ -49,7 +73,7 @@ SELECT pl.nr AS "#", pl.name AS Player, pl.f_pos_name AS Position, sum(mp.spp) A
 | Team             | Division | W    | D    | L    | GP   | Win%   | GF   | GA   | Cas  | CasDiff | Fans |
 |------------------|----------|------|------|------|------|--------|------|------|------|---------|------|
 | Carcosan Tatters | Pro      |   67 |   19 |   47 |  133 | 58.116 |  195 |  196 |  320 |     200 |    4 |
-| Carcosan Tatters | Street   |    4 |    1 |    6 |   11 | 40.909 |    9 |   14 |   18 |       5 |   -3 |
+| Carcosan Tatters | Street   |    4 |    2 |    6 |   12 | 45.455 |    9 |   14 |   18 |       5 |   -3 |
 | Carcosan Tatters | Open     |    3 |    0 |    3 |    6 | 50.000 |    7 |    7 |   13 |       5 |    1 |
 
 ```
@@ -60,7 +84,7 @@ SELECT teams.name AS Team, divisions.name AS Division, sum(mr.won) AS W, sum(mr.
 
 | Team             | W    | D    | L    | GP   | Win%   | GF   | GA   | Cas  | CasDiff | Fans |
 |------------------|-----:|-----:|-----:|-----:|-------:|-----:|-----:|-----:|--------:|-----:|
-| Carcosan Tatters |   74 |   20 |   56 |  150 | 55.329 |  211 |  217 |  351 |     210 |    2 |
+| Carcosan Tatters |   74 |   21 |   56 |  151 | 54.920 |  211 |  217 |  351 |     210 |    2 |
 
 
 ```
@@ -87,7 +111,7 @@ SELECT teams.name AS Team, sum(mr.won) AS W, sum(mr.draw) AS D, sum(mr.lost) AS 
 | Carcosan Tatters | Green Cup X          |    8 |    3 |    5 |     16 |  59.38 |   25 |   21 |   39 |     29 |    0 |
 | Carcosan Tatters | Green Cup IX         |    8 |    3 |    5 |     16 |  59.38 |   25 |   24 |   37 |     25 |    6 |
 | Carcosan Tatters | Green Cup IV         |    5 |    3 |    3 |     11 | 59.09 |   17 |   17 |   35 |     28 |   -4 |
-| Carcosan Tatters | Green Cup XI         |    7 |    2 |    7 |     16 |      50 |   28 |   26 |   41 |     24 |    0 |
+| Carcosan Tatters | Green Cup XI         |    7 |    2 |    7 |     16 | 50.00 |   28 |   26 |   41 |     24 |    0 |
 | Carcosan Tatters | Green Cup V Memorial |    4 |    1 |    6 |     11 | 40.91 |    9 |   14 |   14 |      5 |   -3 |
 | Carcosan Tatters | UBBL Challenge IV    |    1 |    0 |    2 |      3 | 33.33 |    3 |    4 |    5 |      2 |    0 |
 | Carcosan Tatters | Green Cup VII        |    3 |    1 |   12 |     16 |  21.88 |   15 |   36 |   30 |     13 |   -3 |
@@ -106,37 +130,31 @@ The Tatters won the first Green Cup they entered as an expansion team. They didn
 
 Under former player BSEncef's leadership the Tatters bashed their way to second place in the rejuvenated UBBL. While the GCVII campaign went terribly, it remains their only losing pro-level season on record.
 
-#### Projection GCXI
-
-W-D-L 8-1-6
-
-The Tatters could be in position to upset for a Divisional title, but hopes are not tremendously high. The team's main goal is to get more wins than losses and to not be embarassed out there. Probably not a recipe for glory.
-
 #### GCXI summary
 
-Their first exactly even season.
+Their first exactly even season, which fell a touch short of the preseason expectations.
 
-| Team            | round | Touches | TDs  | Rush | Cp   | PassDist | Caught | Intercepts | Cas  | Blocks | Sacks | MVPs | SPP  |  Location | WDL |
-|-----------------|-------|---------|------|------|------|----------|--------|------------|------|--------|-------|------|------|-------------|-------------|
-| Carcosan Tatters |     1 |       9 |    2 |   39 |    3 |       13 |      3 |          0 |    3 |     51 |     1 |    0 |   15 |           2 |           2 |
-| Carcosan Tatters |     2 |       8 |    2 |   40 |    1 |        6 |      1 |          0 |    4 |     53 |     0 |    1 |   20 |           2 |           2 |
-| Carcosan Tatters |     3 |       7 |    2 |   58 |    3 |        5 |      3 |          0 |    1 |     56 |     0 |    1 |   16 |           2 |           4 |
-| Carcosan Tatters |     4 |       4 |    1 |   18 |    0 |        0 |      0 |          0 |    4 |     60 |     0 |    1 |   16 |           1 |           0 |
-| Carcosan Tatters |     5 |      12 |    2 |   44 |    5 |       14 |      5 |          0 |    3 |     54 |     1 |    1 |   22 |           2 |           3 |
-| Carcosan Tatters |     6 |       8 |    2 |   52 |    2 |       13 |      2 |          0 |    4 |     73 |     1 |    1 |   21 |           1 |           2 |
-| Carcosan Tatters |     7 |       7 |    2 |   34 |    3 |       14 |      3 |          0 |    1 |     42 |     2 |    1 |   16 |           3 |           2 |
-| Carcosan Tatters |     8 |       5 |    0 |   10 |    1 |        4 |      1 |          1 |    1 |     49 |     3 |    1 |   10 |           1 |           0 |
-| Carcosan Tatters |     9 |       7 |    1 |   37 |    0 |        0 |      0 |          0 |    2 |     59 |     1 |    1 |   12 |           1 |           2 |
-| Carcosan Tatters |    10 |       7 |    2 |   25 |    1 |        4 |      1 |          0 |    3 |     33 |     2 |    1 |   18 |           0 |           2 |
-| Carcosan Tatters |    11 |       6 |    2 |   36 |    2 |       11 |      2 |          0 |    0 |     52 |     0 |    1 |   13 |           1 |           2 |
-| Carcosan Tatters |    12 |       7 |    2 |   33 |    0 |        0 |      0 |          0 |    3 |     50 |     2 |    1 |   17 |           0 |           2 |
-| Carcosan Tatters |    13 |      13 |    1 |   38 |    3 |       16 |      3 |          1 |    2 |     46 |     0 |    1 |   17 |           1 |           2 |
-| Carcosan Tatters |    14 |      16 |    2 |   46 |    4 |       12 |      4 |          0 |    1 |     33 |     0 |    1 |   17 |           1 |           2 |
-| Carcosan Tatters |    15 |       9 |    3 |   46 |    4 |       11 |      4 |          0 |    3 |     50 |     1 |    1 |   24 |           3 |           0 |
-| Carcosan Tatters |   R16 |      13 |    2 |   52 |    4 |       15 |      5 |          1 |    5 |     79 |     1 |    1 |   27 |           4 |           2 |
+| Team            | round | Location | Result | Home | Away | Touches | TDs  | Rush | Cp   | PassDist | Caught | Intercepts | Cas  | Blocks | Sacks | MVPs | SPP  |  Location | WDL |
+|-----------------|-------|----------|--------|--------|------|------|------|----------|--------|------------|------|--------|-------|------|------|-------------|-------------|
+| Carcosan Tatters |     1 | Away     | Draw   |    2 |    2 |       9 |    2 |   39 |    3 |       13 |      3 |          0 |    3 |     51 |     1 |    0 |   15 |
+| Carcosan Tatters |     2 | Home     | Draw   |    2 |    2 |       8 |    2 |   40 |    1 |        6 |      1 |          0 |    4 |     53 |     0 |    1 |   20 |
+| Carcosan Tatters |     3 | Home     | Loss   |    2 |    4 |       7 |    2 |   58 |    3 |        5 |      3 |          0 |    1 |     56 |     0 |    1 |   16 |
+| Carcosan Tatters |     4 | Home     | Win    |    1 |    0 |       4 |    1 |   18 |    0 |        0 |      0 |          0 |    4 |     60 |     0 |    1 |   16 |
+| Carcosan Tatters |     5 | Home     | Loss   |    2 |    3 |      12 |    2 |   44 |    5 |       14 |      5 |          0 |    3 |     54 |     1 |    1 |   22 |
+| Carcosan Tatters |     6 | Away     | Win    |    1 |    2 |       8 |    2 |   52 |    2 |       13 |      2 |          0 |    4 |     73 |     1 |    1 |   21 |
+| Carcosan Tatters |     7 | Away     | Loss   |    3 |    2 |       7 |    2 |   34 |    3 |       14 |      3 |          0 |    1 |     42 |     2 |    1 |   16 |
+| Carcosan Tatters |     8 | Away     | Loss   |    1 |    0 |       5 |    0 |   10 |    1 |        4 |      1 |          1 |    1 |     49 |     3 |    1 |   10 |
+| Carcosan Tatters |     9 | Home     | Loss   |    1 |    2 |       7 |    1 |   37 |    0 |        0 |      0 |          0 |    2 |     59 |     1 |    1 |   12 |
+| Carcosan Tatters |    10 | Away     | Win    |    0 |    2 |       7 |    2 |   25 |    1 |        4 |      1 |          0 |    3 |     33 |     2 |    1 |   18 |
+| Carcosan Tatters |    11 | Away     | Win    |    1 |    2 |       6 |    2 |   36 |    2 |       11 |      2 |          0 |    0 |     52 |     0 |    1 |   13 |
+| Carcosan Tatters |    12 | Away     | Win    |    0 |    2 |       7 |    2 |   33 |    0 |        0 |      0 |          0 |    3 |     50 |     2 |    1 |   17 |
+| Carcosan Tatters |    13 | Home     | Loss   |    1 |    2 |      13 |    1 |   38 |    3 |       16 |      3 |          1 |    2 |     46 |     0 |    1 |   17 |
+| Carcosan Tatters |    14 | Away     | Win    |    1 |    2 |      16 |    2 |   46 |    4 |       12 |      4 |          0 |    1 |     33 |     0 |    1 |   17 |
+| Carcosan Tatters |    15 | Home     | Win    |    3 |    0 |       9 |    3 |   46 |    4 |       11 |      4 |          0 |    3 |     50 |     1 |    1 |   24 |
+| Carcosan Tatters |   R16 | Away     | Loss   |    4 |    2 |      13 |    2 |   52 |    4 |       15 |      5 |          1 |    5 |     79 |     1 |    1 |   27 |
 
 ```
-SELECT pl.f_tname AS Team, mt.round, sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches) AS Touches, sum(md.td) AS TDs, sum(mx.rushing_distance_move) AS Rush, sum(md.cp) AS Cp, sum(mx.pass_distance) AS PassDist, sum(mx.catches) AS Caught, sum(md.intcpt) AS Intercepts, sum(md.bh) + sum(md.si) + sum(md.ki) AS Cas, sum(mx.inflicted_blocks) AS Blocks, sum(mx.inflicted_sacks) AS Sacks, sum(md.mvp) AS MVPs, (sum(md.td) * 3) + sum(md.cp) + (sum(md.intcpt) * 2) + (sum(md.bh) * 2) + (sum(md.si) * 2) + (sum(md.ki) * 2) + (sum(md.mvp) * 5) AS SPP, mt.team1_score, mt.team2_score FROM match_data AS md JOIN match_data_es AS mx ON md.f_player_id = mx.f_pid AND md.f_match_id = mx.f_mid JOIN players AS pl ON md.f_player_id = pl.player_id AND md.f_team_id = pl.owned_by_team_id JOIN matches AS mt ON mt.match_id = md.f_match_id WHERE md.f_tour_id = 29 AND pl.f_tname = "Carcosan Tatters" GROUP BY pl.f_tname, mt.round ORDER BY mt.round ASC;
+SELECT pl.f_tname AS Team, mt.round, CASE WHEN mt.team1_id = md.f_team_id THEN "Home" ELSE "Away" END AS Location, CASE WHEN mt.team1_score - mt.team2_score > 0 AND mt.team1_id = md.f_team_id THEN "Win" WHEN mt.team2_score - mt.team1_score > 0 AND mt.team2_id = md.f_team_id THEN "Win" WHEN mt.team1_score = mt.team2_score THEN "Draw" ELSE "Loss" END AS Result, mt.team1_score AS Home, mt.team2_score AS Away, sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches) AS Touches, sum(md.td) AS TDs, sum(mx.rushing_distance_move) AS Rush, sum(md.cp) AS Cp, sum(mx.pass_distance) AS PassDist, sum(mx.catches) AS Caught, sum(md.intcpt) AS Intercepts, sum(md.bh) + sum(md.si) + sum(md.ki) AS Cas, sum(mx.inflicted_blocks) AS Blocks, sum(mx.inflicted_sacks) AS Sacks, sum(md.mvp) AS MVPs, (sum(md.td) * 3) + sum(md.cp) + (sum(md.intcpt) * 2) + (sum(md.bh) * 2) + (sum(md.si) * 2) + (sum(md.ki) * 2) + (sum(md.mvp) * 5) AS SPP FROM match_data AS md JOIN match_data_es AS mx ON md.f_player_id = mx.f_pid AND md.f_match_id = mx.f_mid JOIN players AS pl ON md.f_player_id = pl.player_id AND md.f_team_id = pl.owned_by_team_id JOIN matches AS mt ON mt.match_id = md.f_match_id WHERE md.f_tour_id = 29 AND pl.f_tname = "Carcosan Tatters" GROUP BY pl.f_tname, mt.round ORDER BY mt.round ASC;
 ```
 
 #### roster GCXI
@@ -174,6 +192,12 @@ SELECT pl.f_tname AS Team, mt.round, sum(mx.catches) + sum(mx.pickups) + sum(md.
 ```
 SELECT pl.nr AS "#", pl.name AS Player, count(md.f_match_id) AS GP, sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches) AS Touches, sum(md.td) AS TD, sum(mx.rushing_distance_move) AS Rsh, sum(md.cp) AS Cp, sum(mx.pass_distance) AS CpDst, sum(mx.catches) AS Ctch, sum(md.intcpt) AS "Int", sum(md.bh) + sum(md.si) + sum(md.ki) AS Cas, sum(mx.inflicted_blocks) AS Blk, sum(mx.inflicted_sacks) AS Sck, sum(md.mvp) AS MVP, sum(mx.interceptions_thrown) AS Intercepted, sum(mx.sustained_sacks) AS Sacked, sum(mx.sustained_kos) AS KOed, sum(mx.sustained_bhs) AS Hurt, sum(mx.sustained_sis) AS Injured, sum(mx.sustained_kill) AS Killed, (sum(md.td) * 3) + sum(md.cp) + (sum(md.intcpt) * 2) + (sum(md.bh) * 2) + (sum(md.si) * 2) + (sum(md.ki) * 2) + (sum(md.mvp) * 5) AS SPP FROM match_data AS md JOIN match_data_es AS mx ON md.f_player_id = mx.f_pid AND md.f_match_id = mx.f_mid JOIN players AS pl ON md.f_player_id = pl.player_id AND md.f_team_id = pl.owned_by_team_id JOIN matches AS mt ON mt.match_id = md.f_match_id JOIN tours ON md.f_tour_id = tours.tour_id AND md.f_did = tours.f_did WHERE tours.name = "Green Cup XI" AND pl.f_tname = "Carcosan Tatters" GROUP BY pl.name, pl.nr ORDER BY pl.nr ASC;
 ```
+
+#### Projection GCXII
+
+W-D-L 7-1-7
+
+The Tatters could be in position to upset for a Divisional title, but hopes are not tremendously high. The team's main goal is to get more wins than losses and to not be embarassed out there. Probably not a recipe for glory.
 
 
 ### Stars

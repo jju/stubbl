@@ -1,6 +1,6 @@
 # Kicking Mules
 
-The Kicking Mules were the first and third winners of the Orange Goblet, a championship for the Open Division of the UBBL.
+The Kicking Mules were the first and third winners of the Orange Goblet, a championship for the Open Division of the UBBL. When expansion came to the Green Cup, the Mules were a shoo-in for inclusion.
 
 ## Playbook
 
@@ -8,20 +8,22 @@ The Mules use the Darvati Dorf playbook, which is built on a lineup slow tackler
 
 ## Active Roster
 
+Going into the GCXII season the Mules have a lot of flexibility with many players under contract and excited to play in the big leagues. If they do end up making the playoffs we'll see a major selection, but if they keep up with their basic reinvestment in development (and durability) there could be room for a division-spanning dynasty.
+
 | # | Player    | Position  | SPP | Seasons | GP | Contracts | Value | Bonus |
 |---|-----------|-----------|-----|---------|----|-----------|-------|-------|
-|    1 | Pilvi     | Runner       |   49 |       2 |   16 |         1 | 170000 |     0 |
-|    2 | Bianka    | Runner       |   88 |       8 |   43 |         3 | 180000 |     0 |
-|    3 | Mawunyo   | Blitzer      |   38 |       2 |   21 |         1 | 140000 |     0 |
-|    4 | Jade      | Blitzer      |    9 |       2 |   15 |         1 | 100000 |     0 |
+|    1 | Pilvi     | Runner     49 |       2 |   16 |         1 | 170000 |     0 |
+|    2 | Bianka    | Runner  |   88 |       8 |   43 |         3 | 180000 |     0 |
+|    3 | Mawunyo   | Blitzer |   38 |       2 |   21 |         1 | 140000 |     0 |
+|    4 | Jade      | Blitzer |    9 |       2 |   15 |         1 | 100000 |     0 |
 |    5 | Danilo    | Attacker |   14 |       2 |   16 |         1 | 110000 |     0 |
 |    6 | Aygul     | Attacker |   25 |       1 |   13 |         1 | 130000 |     0 |
-|    7 | Volker    | Blocker      |   22 |       4 |   23 |         2 | 120000 |     0 |
-|    8 | Reshat    | Blocker      |   16 |       5 |   25 |         2 | 110000 |     0 |
-|    9 | Yijun     | Blocker      |    6 |       1 |   10 |         1 |  90000 |     0 |
-|   10 | Khloe     | Blocker      |   10 |       5 |   24 |         2 |  90000 |     0 |
-|   11 | Thera     | Blocker      |   31 |       8 |   49 |         3 | 130000 |     0 |
-|   12 | Lasse     | Blocker      |   23 |       8 |   54 |         4 | 110000 |     0 |
+|    7 | Volker    | Blocker  |   22 |       4 |   23 |         2 | 120000 |     0 |
+|    8 | Reshat    | Blocker  |   16 |       5 |   25 |         2 | 110000 |     0 |
+|    9 | Yijun     | Blocker  |    6 |       1 |   10 |         1 |  90000 |     0 |
+|   10 | Khloe     | Blocker  |   10 |       5 |   24 |         2 |  90000 |     0 |
+|   11 | Thera     | Blocker  |   31 |       8 |   49 |         3 | 130000 |     0 |
+|   12 | Lasse     | Blocker  |   23 |       8 |   54 |         4 | 110000 |     0 |
 |   16 | Renatus   | Heavy  |   44 |       6 |   28 |         2 | 230000 |     0 |
 
 ### Depth (on payroll)
@@ -78,12 +80,12 @@ SELECT teams.name AS Team, sum(mr.won) AS W, sum(mr.draw) AS D, sum(mr.lost) AS 
 
 ### Prizes
 
-* Orange Goblet I - Orange Goblet Champions [[team1stplace]]
+* Orange Goblet I - Orange Goblet Champions [[team1stplace#orange goblet]]
 * Orange Goblet II - Orange Goblet Runner-Up [[team2ndplace#orange goblet ii]]
-* Orange Goblet II - Gorefield Honour [[teamcasualties]]
-* UBBL Challenge III - Gorefield Honour [[teamcasualties]]
-* Orange Goblet III - Orange Goblet Champions [[team1stplace]]
-* Orange Goblet III - Gorefield Honour [[teamcasualties]]
+* Orange Goblet II - Gorefield Honour [[teamcasualties#orange goblet ii]]
+* UBBL Challenge III - Gorefield Honour [[teamcasualties#ubbl challenge ii]]
+* Orange Goblet III - Orange Goblet Champions [[team1stplace#orange goblet iii]]
+* Orange Goblet III - Gorefield Honour [[teamcasualties#orange goblet iii]]
 
 ### Seasons
 
@@ -115,9 +117,11 @@ That the Mules managed to win the inaugural Orange Goblet season was impressive 
 
 #### projection Next Season
 
-W-D-L ?-?-?
+W-D-L 9-0-6
 
-#### summary last season
+For their first season in the Green Cup, expectations are high. Based on their Orange Goblet performances, they're projected for 27 regular season points in GCXII. While that would give them a playoff berth in GCXI (they're being slotted into the Heaps which had a couple of team-best-records in GCXI), as a projection it is the best any team is slated for in GCXII.
+
+#### summary last season (OGIII)
 
 | Team  | round | Touches | TDs  | Rush | Cp   | PassDist | Caught | Intercepts | Cas  | Blocks | Sacks | MVPs | SPP  |  Location | WDL |
 |-------|-------|---------|------|------|------|----------|--------|------------|------|--------|-------|------|------|-------------|-------------|
@@ -136,7 +140,7 @@ W-D-L ?-?-?
 | Mules |    OG |       6 |    2 |   35 |    0 |        0 |      0 |          0 |    4 |     44 |     0 |    1 |   19 |           2 |           1 |
 
 ```
-SELECT pl.f_tname AS Team, mt.round, sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches) AS Touches, sum(md.td) AS TDs, sum(mx.rushing_distance_move) AS Rush, sum(md.cp) AS Cp, sum(mx.pass_distance) AS PassDist, sum(mx.catches) AS Caught, sum(md.intcpt) AS Intercepts, sum(md.bh) + sum(md.si) + sum(md.ki) AS Cas, sum(mx.inflicted_blocks) AS Blocks, sum(mx.inflicted_sacks) AS Sacks, sum(md.mvp) AS MVPs, (sum(md.td) * 3) + sum(md.cp) + (sum(md.intcpt) * 2) + (sum(md.bh) * 2) + (sum(md.si) * 2) + (sum(md.ki) * 2) + (sum(md.mvp) * 5) AS SPP, mt.team1_score, mt.team2_score FROM match_data AS md JOIN match_data_es AS mx ON md.f_player_id = mx.f_pid AND md.f_match_id = mx.f_mid JOIN players AS pl ON md.f_player_id = pl.player_id AND md.f_team_id = pl.owned_by_team_id JOIN matches AS mt ON mt.match_id = md.f_match_id WHERE md.f_tour_id = 30 AND pl.f_tname = "Kicking Mules" GROUP BY pl.f_tname, mt.round ORDER BY mt.round ASC;
+SELECT pl.f_tname AS Team, mt.round, CASE WHEN mt.team1_id = md.f_team_id THEN "Home" ELSE "Away" END AS Location, CASE WHEN mt.team1_score - mt.team2_score > 0 AND mt.team1_id = md.f_team_id THEN "Win" WHEN mt.team2_score - mt.team1_score > 0 AND mt.team2_id = md.f_team_id THEN "Win" WHEN mt.team1_score = mt.team2_score THEN "Draw" ELSE "Loss" END AS Result, mt.team1_score AS Home, mt.team2_score AS Away, sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches) AS Touches, sum(md.td) AS TDs, sum(mx.rushing_distance_move) AS Rush, sum(md.cp) AS Cp, sum(mx.pass_distance) AS PassDist, sum(mx.catches) AS Caught, sum(md.intcpt) AS Intercepts, sum(md.bh) + sum(md.si) + sum(md.ki) AS Cas, sum(mx.inflicted_blocks) AS Blocks, sum(mx.inflicted_sacks) AS Sacks, sum(md.mvp) AS MVPs, (sum(md.td) * 3) + sum(md.cp) + (sum(md.intcpt) * 2) + (sum(md.bh) * 2) + (sum(md.si) * 2) + (sum(md.ki) * 2) + (sum(md.mvp) * 5) AS SPP FROM match_data AS md JOIN match_data_es AS mx ON md.f_player_id = mx.f_pid AND md.f_match_id = mx.f_mid JOIN players AS pl ON md.f_player_id = pl.player_id AND md.f_team_id = pl.owned_by_team_id JOIN matches AS mt ON mt.match_id = md.f_match_id WHERE md.f_tour_id = 30 AND pl.f_tname = "Kicking Mules" GROUP BY pl.f_tname, mt.round ORDER BY mt.round ASC;
 ```
 
 The Mules' Orange Goblet campaign was an historic defensive season. While it wasn't the fewest TDs allowed in an Open or Pro division play, keeping opponents below a 1 TD/match average had only happened in one comparable length season before.

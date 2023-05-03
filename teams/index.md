@@ -15,6 +15,9 @@
 * [Ravenous Eagles](ravenouseagles) [[ravenouseagles]]
 * [TC Sump Runners](sumprunners) [[sumprunners]]
 * [Zensun Vagabonds](zensunvagabonds) [[zensunvagabonds]]
+* [Kicking Mules](kickingmules.md) [[kickingmules]]
+* [Palace Orchids](palaceorchids.md) [[palaceorchids]]
+* [Virtua Raptors](virtuaraptors.md) [[virtuaraptors]]
 
 ## former green cup teams
 * [Gargantuan Brutes](gargantuanbrutes) [[gargantuanbrutes]] - Folded
@@ -23,13 +26,10 @@
 
 # orange goblet teams
 
-* [Mules](kickingmules.md) [[kickingmules]]
-* [Gladiolas](gladiolas) [[gladiolas]]
 * [Thrillers](thrillers)[[thrillers]]
 * [Warthogs](warthogs)[[warthogs]]
 * [Deep Dreamers](deepdreamers) [[deepdreamers]]
 * [Geometers](geometers) [[geometers]]
-* [Raptors](virtuaraptors.md) [[virtuaraptors]]
 * [Vanadium Hunters](vanadiumhunters) [[vanadiumhunters]]
 * [Magpies](magpies) [[magpies]]
 * [Umber Hulks](umberhulks) [[umberhulks]]
@@ -42,6 +42,9 @@
 * [Carrion Pickers](carrionpickers) [[carrionpickers]]
 * [Particulates](particulates) [[particulates]]
 * [Gentlefolk](gentlefolk) [[gentlefolk]] - Folded
+* [Kicking Mules](kickingmules.md) [[kickingmules]]
+* [Palace Orchids](palaceorchids.md) [[palaceorchids]]
+* [Virtua Raptors](virtuaraptors.md) [[virtuaraptors]]
 
 # street teams
 
@@ -77,9 +80,9 @@
 | Poets             | Pro  |           1 |            1 |            8 |             10 |                 15 |         11 |         31 |            14 |             -7 |         -1 |
 | Gladiolas         | Pro  |           0 |            0 |            1 |              1 |                  0 |          2 |          3 |             1 |             -2 |         -1 |
 
-`
+```
 SELECT teams.name, divisions.name, sum(mr.won), sum(mr.draw), sum(mr.lost), sum(mr.played), avg(mr.win_pct), sum(mr.gf), sum(mr.ga), sum(mr.tcasf), sum(mr.tcdiff), sum(mr.ff) FROM mv_teams AS mr JOIN divisions ON mr.f_did = divisions.did JOIN teams ON teams.team_id = mr.f_tid WHERE divisions.name = "Pro" GROUP BY teams.name, mr.f_did ORDER BY sum(mr.won) DESC;
-`
+```
 
 # overall records
 
@@ -123,6 +126,6 @@ SELECT teams.name, divisions.name, sum(mr.won), sum(mr.draw), sum(mr.lost), sum(
 | Roadkillz         | Street   |           0 |            1 |           12 |             13 |                  5 |         11 |         41 |            19 |            -21 |         -2 |
 | Storming Giants   | Street   |           0 |            2 |            8 |             10 |  6.666666666666667 |          8 |         23 |            17 |            -16 |          0 |
 
-`
+```
 SELECT teams.name, divisions.name, sum(mr.won), sum(mr.draw), sum(mr.lost), sum(mr.played), avg(mr.win_pct), sum(mr.gf), sum(mr.ga), sum(mr.tcasf), sum(mr.tcdiff), sum(mr.ff) FROM mv_teams AS mr JOIN divisions ON mr.f_did = divisions.did JOIN teams ON teams.team_id = mr.f_tid WHERE mr.f_lid = 1 GROUP BY teams.name ORDER BY sum(mr.won) DESC;
-`
+```

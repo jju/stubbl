@@ -16,7 +16,7 @@ An original UBBL scorer so good he had the "Most TDs in a Season prize named aft
 
 # Prize Stats
 
-* MVP - Green Cup II [[mvp#gcii]]
+* MVP - Green Cup II [[prizes/mvp#gcii]]
 
 | Player | Team         | Season          | GP | TD | Rsh | Cp | CpDst | Ctch | Int | Cas | Blk | Sck | MVP | SPP |
 |--------|--------------|-----------------|---:|---:|----:|---:|------:|-----:|----:|----:|----:|----:|----:|----:|

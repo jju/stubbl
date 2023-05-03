@@ -77,7 +77,8 @@ SELECT teams.name AS Team, sum(mr.won) AS W, sum(mr.draw) AS D, sum(mr.lost) AS 
 
 ### Prizes
 
-* Orange Goblet II Champions - [[team1stplace]]
+* Orange Goblet II Champions - [[team1stplace#orange goblet ii]]
+* Orange Goblet III Third Place - [[team3rdplace]]
 
 ### Seasons
 
@@ -122,7 +123,7 @@ W-D-L ?
 | Virtua Raptors |    SF |       1 |    1 |   54 |    1 |        1 |      1 |          0 |    0 |     32 |     2 |    1 |    9 |           1 |           5 |
 
 ```
-SELECT pl.f_tname AS Team, mt.round, mx.catches + mx.pickups + md.intcpt + mx.handoff_catches AS Touches, sum(md.td) AS TDs, sum(mx.rushing_distance_move) AS Rush, sum(md.cp) AS Cp, sum(mx.pass_distance) AS PassDist, sum(mx.catches) AS Caught, sum(md.intcpt) AS Intercepts, sum(md.bh) + sum(md.si) + sum(md.ki) AS Cas, sum(mx.inflicted_blocks) AS Blocks, sum(mx.inflicted_sacks) AS Sacks, sum(md.mvp) AS MVPs, (sum(md.td) * 3) + sum(md.cp) + (sum(md.intcpt) * 2) + (sum(md.bh) * 2) + (sum(md.si) * 2) + (sum(md.ki) * 2) + (sum(md.mvp) * 5) AS SPP, mt.team1_score, mt.team2_score FROM match_data AS md JOIN match_data_es AS mx ON md.f_player_id = mx.f_pid AND md.f_match_id = mx.f_mid JOIN players AS pl ON md.f_player_id = pl.player_id AND md.f_team_id = pl.owned_by_team_id JOIN matches AS mt ON mt.match_id = md.f_match_id WHERE md.f_tour_id = 30 AND pl.f_tname = "Virtua Raptors" GROUP BY pl.f_tname, mt.round ORDER BY mt.round ASC;
+SELECT pl.f_tname AS Team, mt.round, CASE WHEN mt.team1_id = md.f_team_id THEN "Home" ELSE "Away" END AS Location, CASE WHEN mt.team1_score - mt.team2_score > 0 AND mt.team1_id = md.f_team_id THEN "Win" WHEN mt.team2_score - mt.team1_score > 0 AND mt.team2_id = md.f_team_id THEN "Win" WHEN mt.team1_score = mt.team2_score THEN "Draw" ELSE "Loss" END AS Result, mt.team1_score AS Home, mt.team2_score AS Away, sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches) AS Touches, sum(md.td) AS TDs, sum(mx.rushing_distance_move) AS Rush, sum(md.cp) AS Cp, sum(mx.pass_distance) AS PassDist, sum(mx.catches) AS Caught, sum(md.intcpt) AS Intercepts, sum(md.bh) + sum(md.si) + sum(md.ki) AS Cas, sum(mx.inflicted_blocks) AS Blocks, sum(mx.inflicted_sacks) AS Sacks, sum(md.mvp) AS MVPs, (sum(md.td) * 3) + sum(md.cp) + (sum(md.intcpt) * 2) + (sum(md.bh) * 2) + (sum(md.si) * 2) + (sum(md.ki) * 2) + (sum(md.mvp) * 5) AS SPP FROM match_data AS md JOIN match_data_es AS mx ON md.f_player_id = mx.f_pid AND md.f_match_id = mx.f_mid JOIN players AS pl ON md.f_player_id = pl.player_id AND md.f_team_id = pl.owned_by_team_id JOIN matches AS mt ON mt.match_id = md.f_match_id WHERE md.f_tour_id = 30 AND pl.f_tname = "Virtua Raptors" GROUP BY pl.f_tname, mt.round ORDER BY mt.round ASC;
 ```
 
 #### roster by season
@@ -195,9 +196,12 @@ SELECT pl.nr AS "#", pl.name AS Player, pl.f_pos_name AS Position, count(DISTINC
 
 ### Management
 
+Sponsored by Virtua Shipping, the team has so far been very profitable. It will likely produce less of a cash stockpile for the company in a non-salary-capped environment, but the publicity should be useful nonetheless.
+
 ### Fans
 
 
 ### Famous Games
 
+The Raptors aren't famous for any one match, but a string of them. Their 13-game win streak over two seasons (three if you count the Champions' Circuit as something separate) is the best the UBBL has ever seen (the Pro Circuit claim is 12 games in a row by the Orbital Machine between GCVI and GCVII).
 

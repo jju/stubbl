@@ -10,7 +10,7 @@ The Gladiolas couldn't get a lot going against the Cogs, who are really getting 
 > Toss: IC-Receive
 > Kickoffs: Gd-Blitz (IC-1), IC-ChangingWeatherNice (Gd), Gd-ChangingWeatherPouringRain (Half), IC-BrilliantCoachingGd (IC-2), IC-CheeringFansGd (Final)
 
-[[irregularcogs]][[gladiolas]][[cc-02]]
+[[irregularcogs]][[palaceorchids]][[cc-02]]
 
 
 

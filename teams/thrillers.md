@@ -33,9 +33,9 @@ Nova-Unglewort takes a similar approach to the traditional Unglewort playbook, b
 | Thrillers | Orange Goblet      |    3 |    2 |    6 |     11 | 36.3636 |   19 |   20 |    9 |      3 |   -2 |
 | Thrillers | UBBL Challenge     |    0 |    0 |    3 |      3 |       0 |    5 |   12 |    3 |      0 |    0 |
 
-`
+```
 SELECT teams.name AS Team, tours.name AS Season, mr.won, mr.draw, mr.lost, 	mr.played, mr.win_pct, mr.gf, mr.ga, mr.cas, mr.tcdiff,	mr.ff FROM mv_teams AS mr JOIN tours ON mr.f_trid = tours.tour_id and mr.f_did = tours.f_did JOIN teams ON teams.team_id = mr.f_tid WHERE teams.name = "Thrillers" ORDER BY mr.win_pct DESC limit 15;
-`
+```
 
 ## History
 

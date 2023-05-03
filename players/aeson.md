@@ -43,16 +43,16 @@ SELECT pl.name AS Player, pl.f_tname AS Team, tours.name AS Season, mp.won AS W,
 
 # Prize Stats
 
-* StUBBL Jumper - UBBL Challenge I [[mvp#ubbl challenge]]
-* MVP - GCIX [[mvp#gcix]]
+* StUBBL Jumper - UBBL Challenge I [[prizes/mvp#ubbl challenge]]
+* MVP - GCIX [[prizes/mvp#gcix]]
 * Sardine Crown - GCIX [[sardinecrown#gcix]]
 * Halfleg Award - GCIX [[halflegaward#gcix]]
-* MVP - GCX [[mvp#gcx]]
+* MVP - GCX [[prizes/mvp#gcx]]
 * Sardine Crown - GCX [[sardinecrown#gcx]]
 * Halfleg Award - GCX [[halflegaward#gcx]]
 * Soft Hands Award - GCX [[softhands#gcx]]
 * Best Single Match Performance - GCX [[bestmatch]]
-* MVP - All-Time [[mvp#all-time]]
+* MVP - All-Time [[prizes/mvp#all-time]]
 * Quintuple Centurion [[centurion]]
 * All-Star - GCX, GCIX, GCVIII [[allstars]]
 

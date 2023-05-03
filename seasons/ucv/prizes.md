@@ -1,4 +1,4 @@
 # ubbl challenge v
 
-* [[mvp]] - [[ziba]]
+* [[prizes/mvp]] - [[ziba]]
 * [[carminefist]] - [[Borislav]]

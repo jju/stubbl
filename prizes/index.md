@@ -26,7 +26,7 @@ The italicized teams are ones who have won the coveted Green Cup. It is quite co
 
 ## Individual Awards
 
-* Most SPP [[mvp]]
+* Most SPP [[prizes/mvp]]
 * Most TDs [[sardinecrown]]
 * Most Casualties inflicted [[carminefist]]
 * Most Catches [[softhands]]

@@ -8,15 +8,10 @@ SELECT pl.name AS Player, pl.f_tname AS Team, count(md.f_match_id) AS GP, sum(md
 
 ## gcxi
 
-<<<<<<< HEAD
-| Player | Team         | GP | TD | Rsh | Cp | CpDst | Ctch | Int | Cas | Blk | Sck | MVP | SPP |
-|--------|--------------|---:|---:|----:|---:|------:|-----:|----:|----:|----:|----:|----:|----:|
-| [[Veens]]   | Filthy Tide       | 18 |   69 |  770 |    1 |     3 |   47 |    0 |    0 |    1 |    1 |    1 |  213 |
-=======
+
 | Player    | Team              | GP | TD | Rsh | Cp | CpDst | Ctch | Int | Cas | Blk | Sck | MVP | SPP |
 |-----------|-------------------|---:|---:|----:|---:|------:|-----:|----:|----:|----:|----:|----:|----:|
 | [[Veens]] | Filthy Tide       | 18 |   69 |  770 |    1 |     3 |   47 |    0 |    0 |    1 |    1 |    1 |  213 |
->>>>>>> 5ba9819c70286f12bf025ebf0d84f75ded037197
 | Ziba    | Glorious Hounds   | 19 |   63 |  739 |    2 |     0 |   58 |    2 |    0 |    9 |    1 |    3 |  210 |
 | Laurel  | Arboreal Menace   | 18 |   34 |  519 |    0 |     0 |   42 |    1 |    0 |    1 |    0 |    1 |  109 |
 | Frans   | Irregular Cogs    | 17 |   19 |  241 |    4 |     9 |   24 |    5 |    1 |   36 |    0 |    1 |   78 |
@@ -132,14 +127,14 @@ SELECT pl.name AS Player, pl.f_tname AS Team, count(md.f_match_id) AS GP, sum(md
 
 | Player  | Team              | GP | TD | Rsh | Cp | CpDst | Ctch | Int | Cas | Blk | Sck | MVP | SPP |
 |---------|-------------------|---:|---:|----:|---:|------:|-----:|----:|----:|----:|----:|----:|----:|
-| Marques    | Gladiolas        | 11 |   14 |  226 |    3 |     5 |   20 |    3 |    2 |   22 |    3 |    1 |   60 |
+| Marques    | Palace Orchids   | 11 |   14 |  226 |    3 |     5 |   20 |    3 |    2 |   22 |    3 |    1 |   60 |
 | Marita     | Deep Dreamers    | 13 |   13 |  164 |    3 |     7 |   13 |    3 |    0 |    2 |    0 |    1 |   53 |
 | Kassandros | Magpies          | 11 |   10 |  145 |    0 |     0 |   14 |    0 |    1 |   15 |    1 |    4 |   52 |
 | Krister    | Deep Dreamers    | 13 |    7 |  122 |   13 |    36 |    6 |    3 |    0 |    3 |    1 |    2 |   50 |
 | Pilvi      | Mules            | 13 |    9 |  171 |    2 |     5 |    0 |    0 |    2 |   32 |    1 |    1 |   38 |
 | Amata      | Vanadium Hunters | 11 |    4 |  124 |    8 |    -2 |   17 |    1 |    1 |    9 |    1 |    2 |   34 |
-| Eufemia    | Gladiolas        | 11 |    1 |  105 |   31 |   106 |    1 |    0 |    0 |   12 |    2 |    0 |   34 |
-| Karpos     | Gladiolas        | 11 |    3 |   25 |    0 |     0 |    1 |    1 |    1 |   52 |    0 |    4 |   33 |
+| Eufemia    | Palace Orchids   | 11 |    1 |  105 |   31 |   106 |    1 |    0 |    0 |   12 |    2 |    0 |   34 |
+| Karpos     | Palace Orchids   | 11 |    3 |   25 |    0 |     0 |    1 |    1 |    1 |   52 |    0 |    4 |   33 |
 | Zahida     | Vanadium Hunters | 11 |    0 |  116 |   25 |    93 |    0 |    0 |    1 |    7 |    2 |    1 |   32 |
 | Debbie     | Hoods            | 11 |    6 |  186 |    9 |    24 |    8 |    2 |    0 |   18 |    0 |    0 |   31 |
 | Umut       | Mules            |  8 |    6 |  108 |    1 |     4 |    2 |    0 |    1 |    9 |    1 |    2 |   31 |
@@ -147,25 +142,25 @@ SELECT pl.name AS Player, pl.f_tname AS Team, count(md.f_match_id) AS GP, sum(md
 | Jolanda.   | Magpies          |  9 |    9 |   99 |    1 |    10 |    9 |    0 |    1 |   27 |    0 |    0 |   30 |
 | Waltraut   | Raptors          | 12 |    6 |  115 |    1 |    -1 |    0 |    0 |    0 |    5 |    0 |    2 |   29 |
 | Hursit     | Warthogs         | 10 |    4 |  162 |   16 |    62 |    0 |    0 |    0 |    8 |    0 |    0 |   28 |
-| Borgisl    | Gladiolas        |  7 |    7 |   75 |    2 |     2 |    9 |    0 |    0 |    9 |    0 |    1 |   28 |
+| Borgisl    | Palace Orchids        |  7 |    7 |   75 |    2 |     2 |    9 |    0 |    0 |    9 |    0 |    1 |   28 |
 
 ## ogii
 
 | Player  | Team              | GP | TD | Rsh | Cp | CpDst | Ctch | Int | Cas | Blk | Sck | MVP | SPP |
 |---------|-------------------|---:|---:|----:|---:|------:|-----:|----:|----:|----:|----:|----:|----:|
 | Mihael.   | Deep Dreamers    | 12 |   10 |  178 |    5 |    25 |   12 |    5 |    1 |    4 |    0 |    1 |   52 |
-| Euri      | Gladiolas        |  8 |   14 |  141 |    2 |     0 |   11 |    0 |    1 |   11 |    0 |    1 |   51 |
+| Euri      | Palace Orchids   |  8 |   14 |  141 |    2 |     0 |   11 |    0 |    1 |   11 |    0 |    1 |   51 |
 | Francine. | Raptors          | 12 |    8 |  178 |    8 |    16 |    0 |    0 |    0 |    4 |    1 |    2 |   42 |
 | Ella      | Raptors          | 10 |   12 |  165 |    1 |     0 |    5 |    0 |    0 |    2 |    0 |    1 |   42 |
-| Barbro    | Gladiolas        |  7 |   12 |  129 |    0 |     0 |   13 |    1 |    0 |   16 |    2 |    0 |   38 |
+| Barbro    | Palace Orchids   |  7 |   12 |  129 |    0 |     0 |   13 |    1 |    0 |   16 |    2 |    0 |   38 |
 | Nor       | Geometers        |  9 |   10 |  153 |    0 |     0 |    9 |    0 |    1 |   13 |    2 |    1 |   37 |
-| Juozas    | Gladiolas        | 10 |    9 |   67 |    2 |     3 |    8 |    0 |    0 |   16 |    2 |    1 |   34 |
+| Juozas    | Palace Orchids   | 10 |    9 |   67 |    2 |     3 |    8 |    0 |    0 |   16 |    2 |    1 |   34 |
 | Nahor     | Thrillers        | 10 |    8 |   77 |    1 |     3 |    4 |    1 |    0 |   50 |    0 |    1 |   32 |
 | Marita    | Deep Dreamers    | 11 |    4 |   66 |    1 |     3 |    6 |    2 |    0 |    5 |    0 |    3 |   32 |
 | Gautstafr | Vanadium Hunters |  6 |    6 |   88 |    2 |     5 |    8 |    1 |    0 |    2 |    1 |    2 |   32 |
 | Amata     | Vanadium Hunters |  9 |    8 |  129 |    5 |     0 |   16 |    0 |    1 |    7 |    0 |    0 |   31 |
 | Ragu.     | Warthogs         | 11 |   10 |  159 |    1 |     4 |   18 |    0 |    0 |    4 |    1 |    0 |   31 |
-| Eufemia   | Gladiolas        | 12 |    1 |  124 |   25 |   123 |    4 |    0 |    1 |    9 |    2 |    0 |   30 |
+| Eufemia   | Palace Orchids   | 12 |    1 |  124 |   25 |   123 |    4 |    0 |    1 |    9 |    2 |    0 |   30 |
 | Tamara    | Thorns           |  8 |    7 |  103 |    2 |     5 |   11 |    0 |    0 |   15 |    2 |    1 |   28 |
 | Omiros    | Warthogs         |  8 |    7 |   60 |    0 |     0 |    2 |    0 |    1 |   30 |    2 |    1 |   28 |
 | Mariyka.  | Thrillers        |  7 |    6 |  142 |    3 |    11 |    6 |    0 |    0 |    4 |    0 |    1 |   26 |
@@ -175,13 +170,13 @@ SELECT pl.name AS Player, pl.f_tname AS Team, count(md.f_match_id) AS GP, sum(md
 | Player  | Team              | GP | TD | Rsh | Cp | CpDst | Ctch | Int | Cas | Blk | Sck | MVP | SPP |
 |---------|-------------------|---:|---:|----:|---:|------:|-----:|----:|----:|----:|----:|----:|----:|
 | Achille.    | Thorns           | 13 |   13 |  173 |    8 |   -11 |   22 |    0 |    1 |   37 |    4 |    2 |   59 |
-| Eufemia     | Gladiolas        | 12 |    1 |  139 |   34 |   160 |    2 |    0 |    0 |    7 |    1 |    3 |   52 |
+| Eufemia     | Palace Orchids   | 12 |    1 |  139 |   34 |   160 |    2 |    0 |    0 |    7 |    1 |    3 |   52 |
 | Nkosana     | Mules            | 13 |   12 |  219 |    3 |    12 |   13 |    1 |    1 |   20 |    2 |    0 |   43 |
-| Joukahainen | Gladiolas        | 11 |   13 |  127 |    1 |     1 |   16 |    0 |    1 |   23 |    3 |    0 |   42 |
+| Joukahainen | Palace Orchids   | 11 |   13 |  127 |    1 |     1 |   16 |    0 |    1 |   23 |    3 |    0 |   42 |
 | Nanna.      | Thrillers        | 11 |    5 |  203 |   15 |    34 |    1 |    2 |    0 |   11 |    0 |    1 |   39 |
 | Signe       | Hoods            | 10 |    0 |   17 |    2 |     1 |    0 |    0 |    7 |   71 |    6 |    4 |   36 |
 | Amata       | Vanadium Hunters | 11 |    9 |  122 |    2 |     8 |   10 |    1 |    0 |   18 |    2 |    1 |   36 |
-| Barbro      | Gladiolas        | 11 |    9 |  132 |    1 |     2 |   13 |    0 |    1 |   18 |    0 |    1 |   35 |
+| Barbro      | Palace Orchids   | 11 |    9 |  132 |    1 |     2 |   13 |    0 |    1 |   18 |    0 |    1 |   35 |
 | Bianka      | Mules            | 12 |    5 |  180 |   13 |    28 |    1 |    0 |    1 |   15 |    0 |    1 |   35 |
 | Gautstafr   | Vanadium Hunters | 11 |   10 |  122 |    1 |    -2 |   14 |    2 |    0 |    6 |    1 |    0 |   35 |
 | Balwinder   | Thorns           | 13 |    1 |  117 |   26 |    84 |    0 |    0 |    0 |    8 |    1 |    1 |   34 |

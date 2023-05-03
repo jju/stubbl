@@ -3,7 +3,7 @@
 
 ## Playbook
 
-The Thorns use what's known as the Excelsior playbook, where a fast fragile receiving corps works together downfield making catches in traffic and getting out of trouble. It's a shorter-passing game than the High Extension playbook used by the [Gladiolas](gladiolas) but when you can avoid injury it's very effective, as the Pro-Level [Old Wyrms](oldwyrms) have shown.
+The Thorns use what's known as the Excelsior playbook, where a fast fragile receiving corps works together downfield making catches in traffic and getting out of trouble. It's a shorter-passing game than the High Extension playbook used by the [Gladiolas](palaceorchids.md) but when you can avoid injury it's very effective, as the Pro-Level [Old Wyrms](oldwyrms) have shown.
 
 ## History
 

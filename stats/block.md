@@ -52,16 +52,17 @@ ORDER BY Cas_Block DESC;
 
 | Player | Team | Season | Cas | BH | SI | Ki | Blk | Sck | SckBlkRate | CasBlkRate | Fouls | fBH | fSI | fKi | Ejections |
 |---|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| Walton.  | Cackling Furies   | Green Cup VIII       |           0 |          0 |          0 |          0 |      8 |     0 |     0.0000 |    0.0000 |    23 |    2 |    0 |    0 |         6 |
-| Ishii.   | Eldritch Fatality | Green Cup IX         |           0 |          0 |          0 |          0 |     50 |     0 |     0.0000 |    0.0000 |    22 |    0 |    0 |    0 |         1 |
-| Eulaylia | Gore Farmers      | Green Cup X          |           0 |          0 |          0 |          0 |      8 |     0 |     0.0000 |    0.0000 |    22 |    0 |    0 |    0 |         3 |
-| Leech.   | Ravenous Eagles   | Green Cup V Memorial |           0 |          0 |          0 |          0 |      3 |     0 |     0.0000 |    0.0000 |    21 |    1 |    0 |    0 |         4 |
-| Lucius   | Old Wyrms         | Green Cup VII        |           1 |          0 |          1 |          0 |      2 |     1 |     0.5000 |    0.5000 |    19 |    0 |    0 |    0 |         2 |
-| Walton.  | Cackling Furies   | Green Cup IX         |           2 |          1 |          1 |          0 |     17 |     0 |     0.0000 |    0.1176 |    17 |    1 |    1 |    2 |         2 |
-| Ishii.   | Eldritch Fatality | Green Cup VIII       |           0 |          0 |          0 |          0 |     46 |     0 |     0.0000 |    0.0000 |    14 |    0 |    0 |    0 |         1 |
-| Walton.  | Cackling Furies   | Green Cup VII        |           3 |          2 |          1 |          0 |     17 |     1 |     0.0588 |    0.1765 |    13 |    0 |    0 |    1 |         6 |
-| Lucrece  | Carcosan Tatters  | Green Cup X          |           1 |          0 |          0 |          1 |     20 |     0 |     0.0000 |    0.0500 |    11 |    0 |    0 |    0 |         3 |
-| Ondina   | Particulates      | Orange Goblet        |           0 |          0 |          0 |          0 |      6 |     1 |     0.1667 |    0.0000 |    11 |    0 |    0 |    0 |         0 |
+| Walton.   | Cackling Furies   | Green Cup VIII       |           0 |          0 |          0 |          0 |      8 |     0 |     0.0000 |    0.0000 |    23 |    2 |    0 |    0 |         6 |
+| Ishii.    | Eldritch Fatality | Green Cup IX         |           0 |          0 |          0 |          0 |     50 |     0 |     0.0000 |    0.0000 |    22 |    0 |    0 |    0 |         1 |
+| Eulaylia. | Gore Farmers      | Green Cup X          |           0 |          0 |          0 |          0 |      8 |     0 |     0.0000 |    0.0000 |    22 |    0 |    0 |    0 |         3 |
+| Leech.    | Ravenous Eagles   | Green Cup V Memorial |           0 |          0 |          0 |          0 |      3 |     0 |     0.0000 |    0.0000 |    21 |    1 |    0 |    0 |         4 |
+| Lucius.   | Old Wyrms         | Green Cup VII        |           1 |          0 |          1 |          0 |      2 |     1 |     0.5000 |    0.5000 |    19 |    0 |    0 |    0 |         2 |
+| Walton.   | Cackling Furies   | Green Cup IX         |           2 |          1 |          1 |          0 |     17 |     0 |     0.0000 |    0.1176 |    17 |    1 |    1 |    2 |         2 |
+| Eulaylia. | Gore Farmers      | Green Cup XI         |           0 |          0 |          0 |          0 |      3 |     0 |     0.0000 |    0.0000 |    14 |    0 |    0 |    1 |         2 |
+| Ishii.    | Eldritch Fatality | Green Cup VIII       |           0 |          0 |          0 |          0 |     46 |     0 |     0.0000 |    0.0000 |    14 |    0 |    0 |    0 |         1 |
+| Walton.   | Cackling Furies   | Green Cup VII        |           3 |          2 |          1 |          0 |     17 |     1 |     0.0588 |    0.1765 |    13 |    0 |    0 |    1 |         6 |
+| Lucrece.  | Carcosan Tatters  | Green Cup X          |           1 |          0 |          0 |          1 |     20 |     0 |     0.0000 |    0.0500 |    11 |    0 |    0 |    0 |         3 |
+| Ondina    | Particulates      | Orange Goblet        |           0 |          0 |          0 |          0 |      6 |     1 |     0.1667 |    0.0000 |    11 |    0 |    0 |    0 |         0 |
 
 ```
 SELECT  pl.name,  pl.f_tname, tours.name,  sum(mp.cas),  sum(mp.bh), sum(mp.si), sum(mp.ki), sum(me.inflicted_blocks) AS blocks,  sum(me.inflicted_sacks) AS sacks,  sum(me.inflicted_sacks) / sum(me.inflicted_blocks) AS sack_block,  sum(mp.cas) / sum(me.inflicted_blocks) AS cas_block, sum(me.inflicted_fouls) AS fouls, sum(me.inflicted_foul_bhs) AS fBH, sum(me.inflicted_foul_sis) AS fSI, sum(me.inflicted_foul_kills) AS fKi, sum(me.sustained_ejections) AS ejections FROM mv_es_players AS me  JOIN mv_players AS mp ON me.f_pid = mp.f_pid AND me.f_trid = mp.f_trid  JOIN players AS pl ON mp.f_pid = pl.player_id AND mp.f_tid = pl.owned_by_team_id  JOIN tours ON mp.f_trid = tours.tour_id and mp.f_did = tours.f_did WHERE mp.f_lid = 1 GROUP BY pl.name, pl.f_tname, tours.name ORDER BY sum(me.inflicted_fouls) DESC limit 10;

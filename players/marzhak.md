@@ -43,3 +43,5 @@ Fortunately for Marzhak, she got paid. Until the salary reforms at the end of GC
 | Marzhak | Gargantuan Brutes | UBBL Challenge II    |  7 |    0 |    0 |    0 |     0 |    0 |    0 |   **10** |  112 |    7 |    0 |   20 |
 | Marzhak | Gargantuan Brutes | Green Cup IX         | 15 |    0 |    0 |    0 |     0 |    0 |    0 |   13 |  146 |    6 |    1 |   31 |
 | Marzhak | Gargantuan Brutes | UBBL Challenge III   |  3 |    0 |    0 |    0 |     0 |    0 |    0 |    5 |   28 |    1 |    1 |   15 |
+
+Marzhak is possibly the best defensive player the UBBL has seen. To see these contributions we would be better off forgoing the traditional SPP rating system in favour of dVP, where she claims an UBBL-high 180.6.

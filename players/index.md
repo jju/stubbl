@@ -30,7 +30,7 @@ In the individual player stat pages we keep the basic box scores under Basic Sta
 * [[Borghild]] [[cacklingfuries]]->[[ravenouseagles]]
 * [[Seela]] [[zensunvagabonds]]->[[eldritchfatality]] -> [[carcosantatters]]
 * [[Green]] [[eldritchfatality]]->[[zensunvagabonds]]
-* [[Federikka]] [[gladiolas]]->[[thrillers]]
+* [[Federikka]] [[palaceorchids]]->[[thrillers]]
 * [[Tacita]] [[particulates]]->[[thrillers]]
 * [[Margarita]] [[deepdreamers]]->[[newcursed]]
 * [[Bozhidar]] [[thorns]]->[[thrillers]]

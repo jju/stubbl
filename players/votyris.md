@@ -28,7 +28,7 @@ Votyris belongs in a weird space in the UBBL recordbook. She was the best player
 
 # Prize Stats
 
-* StUBBL Jumper - UBBL Challenge II [[mvp#ubbl challenge ii]]
+* StUBBL Jumper - UBBL Challenge II [[prizes/mvp#ubbl challenge ii]]
 
 | Player | Team         | Season          | GP | TD | Rsh | Cp | CpDst | Ctch | Int | Cas | Blk | Sck | MVP | SPP |
 |--------|--------------|-----------------|---:|---:|----:|---:|------:|-----:|----:|----:|----:|----:|----:|----:|

@@ -1,6 +1,6 @@
 # gcc06
 
-* [[mvp]] - [[heep]]
+* [[prizes/mvp]] - [[heep]]
 * [[sardinecrown]] - [[heep]]
 * [[carminefist]] - [[marzhak]]
 * [[softhands]] - [[qtpi]]

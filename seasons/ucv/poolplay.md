@@ -1,0 +1,5 @@
+The fifth UBBL Challenge tournament went back to the 8 pool format used in [[seasons/uciv/poolplay]]. Each team only had to play two matches, which was not too onerous for the Green Cup teams which really just wanted to get back to games that counted. It put a lot of pressure on the teams invited to show their stuff.
+
+New to the tournament were the developmental teams for the [[irregularcogs]] and [[filthytide]], neither of which were required to play in the tournament.
+
+Two tea,s didn't get a point in pool play, the Fragrant Tide and the [[roadkillz]]. Other teams that didn't make it out of their divisions were: [[storminggiants | Storming Giants]] [[darklingspectres | Darkling Spectres]] [[cacklingfuries | Cackling Furies]] [[hoods | Hoods]] [[magpies]] and the [[sumprunners | TC Sump Runners]]. The [[sumprunners | TC Sump Runners]] were facing relegation so their sole win doesn't bode well.

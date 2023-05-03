@@ -2,9 +2,9 @@
 
 * [[team1stplace]] - [[virtuaraptors]]
 * [[team2ndplace]] - [[kickingmules]]
-* [[team3rdplace]] - [[gladiolas]]
+* [[team3rdplace]] - [[palaceorchids]]
 * [[teamcasualties]] - [[kickingmules]]
-* [[mvp]] - [[mihael]] / [[mihael]] / [[mihael]]
+* [[prizes/mvp]] - [[mihael]] / [[mihael]] / [[mihael]]
 * [[sardinecrown]] - [[Ella]] / [[Euri]] / [[Euri]]
 * [[carminefist]] - [[Svjetlana]] / [[Svjetlana]] / [[Gottfried]]
 * [[softhands]] - [[Tamara]] / [[Ragu]] / [[Ragu]]

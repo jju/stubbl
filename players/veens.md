@@ -35,7 +35,7 @@ SELECT pl.name AS Player, pl.f_tname AS Team, tours.name AS Season, mp.won AS W,
 
 * Rookie of the Year - Green Cup X [[rookieofyear#gcx]]
 * All-Star - GCX [[allstars#gcx]]
-* MVP - GCXI [[mvp#gcxi]]
+* MVP - GCXI [[prizes/mvp#gcxi]]
 * Sardines Crown - GCXI [[sardinecrown#gcxi]]
 * Halfleg Award - GCXI [[halflegaward#gcxi]]
 * All-Star - GCXI [[allstars#gcxi]]

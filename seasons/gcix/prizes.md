@@ -1,6 +1,6 @@
 # gcix
 
-* [[mvp]] - [[aeson]]
+* [[prizes/mvp]] - [[aeson]]
 * [[sardinecrown]] - [[aeson]]
 * [[carminefist]] - [[jantine]]
 * [[softhands]] - [[souta]]

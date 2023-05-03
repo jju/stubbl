@@ -35,8 +35,8 @@ SELECT pl.name AS Player, pl.f_tname AS Team, tours.name AS Season, mp.won AS W,
 
 # Prize Stats
 
-* MVP - Orange Goblet II [[mvp#orange goblet ii]]
-* Rookie of the Year - Orange Goblet II [[mvp#orange goblet ii]]
+* MVP - Orange Goblet II [[prizes/mvp#orange goblet ii]]
+* Rookie of the Year - Orange Goblet II [[prizes/mvp#orange goblet ii]]
 
 | Player | Team         | Season          | GP | TD | Rsh | Cp | CpDst | Ctch | Int | Cas | Blk | Sck | MVP | SPP |
 |--------|--------------|-----------------|---:|---:|----:|---:|------:|-----:|----:|----:|----:|----:|----:|----:|

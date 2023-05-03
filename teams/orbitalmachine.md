@@ -1,10 +1,10 @@
 # Orbital Machine
 
-A dominant bashing Modern-Era team, the Orbital Machine embodies a team-oriented approach. They inflict a lot of casualties and have the best winning streak in the UBBL (12 wins spanning two seasons).
+A dominant bashing Modern-Era team, the Orbital Machine embodies a team-oriented approach. They inflict a lot of casualties and have the best winning streak in the UBBL's Pro Division (12 wins spanning two seasons).
 
 ## Playbook
 
-The Orbital Machine uses the Chariot playbook. This involves four massive players on the line with everyone else more lightly armoured but able to blitz like no one's business. Passing and ball-handling tend to be a secondary consideration and get focused into whichever players show an aptitude while the rest of the team assembles the cage to roll down the field.
+The Orbital Machine uses the Chariot playbook. This involves four massive players on the line with a versatile bunch of more lightly armoured (and one heavy) blitzers. Passing and ball-handling tend to be a secondary consideration and get focused into whichever players show an aptitude while the rest of the team assembles the cage to roll down the field.
 
 ## Active Roster
 
@@ -104,13 +104,7 @@ They continued to win throughout GCVII but lost in the Division Finals to the [E
 
 The GCIX season was their first in which they did not lead the league in Casualties inflicted.
 
-In GCXI the Machine did not make the playoffs (but as former Green Cup winners they did not face relegation).
-
-#### Projection GCXI
-
-W-D-L 8-1-6
-
-The Machine is due for another deep playoff run and this season could be the one where they take advantage of a tough-to-call division. The more interesting race might be to see if they can wrestle the [Iron Fist](../prizes/teamcasualties) from the [Ravenous Eagles](ravenouseagles).
+In GCXI the Machine did not make the playoffs despite being projected for a winning season (but as former Green Cup winners they did not face relegation in the UBBL Challenge tournament).
 
 #### GCXI Recap
 
@@ -136,10 +130,36 @@ The Machine didn't have that deep playoff run they were expecting. They didn't s
 | Orbital Machine |   251 |       0 |    0 |    0 |    0 |        0 |      0 |          0 |    0 |      0 |     0 |    0 |    0 |   BYE | L |
 
 ```
-SELECT pl.f_tname AS Team, mt.round, sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches) AS Touches, sum(md.td) AS TDs, sum(mx.rushing_distance_move) AS Rush, sum(md.cp) AS Cp, sum(mx.pass_distance) AS PassDist, sum(mx.catches) AS Caught, sum(md.intcpt) AS Intercepts, sum(md.bh) + sum(md.si) + sum(md.ki) AS Cas, sum(mx.inflicted_blocks) AS Blocks, sum(mx.inflicted_sacks) AS Sacks, sum(md.mvp) AS MVPs, (sum(md.td) * 3) + sum(md.cp) + (sum(md.intcpt) * 2) + (sum(md.bh) * 2) + (sum(md.si) * 2) + (sum(md.ki) * 2) + (sum(md.mvp) * 5) AS SPP, mt.team1_score, mt.team2_score FROM match_data AS md JOIN match_data_es AS mx ON md.f_player_id = mx.f_pid AND md.f_match_id = mx.f_mid JOIN players AS pl ON md.f_player_id = pl.player_id AND md.f_team_id = pl.owned_by_team_id JOIN matches AS mt ON mt.match_id = md.f_match_id WHERE md.f_tour_id = 29 AND pl.f_tname = "Orbital Machine" GROUP BY pl.f_tname, mt.round ORDER BY mt.round ASC;
+SELECT pl.f_tname AS Team, mt.round, CASE WHEN mt.team1_id = md.f_team_id THEN "Home" ELSE "Away" END AS Location, CASE WHEN mt.team1_score - mt.team2_score > 0 AND mt.team1_id = md.f_team_id THEN "Win" WHEN mt.team2_score - mt.team1_score > 0 AND mt.team2_id = md.f_team_id THEN "Win" WHEN mt.team1_score = mt.team2_score THEN "Draw" ELSE "Loss" END AS Result, mt.team1_score AS Home, mt.team2_score AS Away, sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches) AS Touches, sum(md.td) AS TDs, sum(mx.rushing_distance_move) AS Rush, sum(md.cp) AS Cp, sum(mx.pass_distance) AS PassDist, sum(mx.catches) AS Caught, sum(md.intcpt) AS Intercepts, sum(md.bh) + sum(md.si) + sum(md.ki) AS Cas, sum(mx.inflicted_blocks) AS Blocks, sum(mx.inflicted_sacks) AS Sacks, sum(md.mvp) AS MVPs, (sum(md.td) * 3) + sum(md.cp) + (sum(md.intcpt) * 2) + (sum(md.bh) * 2) + (sum(md.si) * 2) + (sum(md.ki) * 2) + (sum(md.mvp) * 5) AS SPP FROM match_data AS md JOIN match_data_es AS mx ON md.f_player_id = mx.f_pid AND md.f_match_id = mx.f_mid JOIN players AS pl ON md.f_player_id = pl.player_id AND md.f_team_id = pl.owned_by_team_id JOIN matches AS mt ON mt.match_id = md.f_match_id WHERE md.f_tour_id = 29 AND pl.f_tname = "Orbital Machine" GROUP BY pl.f_tname, mt.round ORDER BY mt.round ASC;
 ```
 
-#### GCXI
+#### Projection GCXII
+
+W-D-L 5-2-8
+
+It's hard to see the Machine making a playoff run in the new expansion-era Heaps. Their generalist approach fell apart in GCXI, scoring only 60% what they did in GCX, but allowing more TDs against. Was that a glitch? Hard to say.
+
+### Stars
+
+> **Currently active players** are highlighted and modern-era players whose careers are over are not marked.
+
+| Player           | Team        | Position      | W | D | L | GP | TD | Cp | Int | BH | SI | Ki | MVP | SPP |
+|------------------|-------------|---------------|--:|--:|--:|---:|---:|---:|----:|---:|---:|---:|----:|----:|
+| Heep   | Orbital Machine | Blitzer      |   26 |    4 |   12 |   42 |   28 |    5 |    4 |    6 |    1 |    0 |    2 |  121 |
+| **Leppard** | Orbital Machine | Blitzer      |   38 |   11 |   25 |   74 |   14 |   26 |    2 |    3 |    4 |    2 |    6 |  120 |
+| Lars   | Orbital Machine | Heavy      |   18 |    4 |    7 |   29 |    1 |    0 |    2 |   11 |    6 |    1 |    6 |   73 |
+| **Uli**     | Orbital Machine | Heavy      |   13 |    6 |   11 |   30 |    0 |    0 |    0 |   17 |    5 |    1 |    4 |   66 |
+| **Ruslan**  | Orbital Machine | Blitzer      |   13 |    6 |   12 |   31 |    9 |    5 |    1 |    6 |    1 |    0 |    3 |   63 |
+| Ioana  | Orbital Machine | Heavy      |    9 |    1 |    9 |   19 |    2 |    0 |    2 |    8 |    2 |    2 |    5 |   59 |
+| **Odalric** | Orbital Machine | Blocker |   14 |    7 |   14 |   35 |    3 |    0 |    0 |    8 |    1 |    1 |    6 |   59 |
+| **Jothi**   | Orbital Machine | Blocker |   13 |    6 |   12 |   31 |    3 |    2 |    2 |    7 |    1 |    0 |    5 |   56 |
+| Priest | Orbital Machine | Blitzer      |   25 |    4 |   10 |   39 |    8 |   24 |    1 |    0 |    0 |    0 |    1 |   55 |
+| Ozzy   | Orbital Machine | Blitzer      |   20 |    4 |    9 |   33 |   11 |   11 |    1 |    3 |    1 |    0 |    0 |   54 |
+| Def    | Orbital Machine | Blitzer      |   28 |    5 |   13 |   46 |    3 |    2 |    2 |    5 |    3 |    1 |    4 |   53 |
+
+### roster by season
+
+#### GCXI Players
 
 | #    | Player   | GP | Touches | TD   | Rsh  | Cp   | CpDst | Ctch | Int  | Cas  | Blk  | Sck  | MVP  | Intercepted | Sacked | KOed | Hurt | Injured | Killed | SPP  |
 |------|----------|----|---------|------|------|------|-------|------|------|------|------|------|------|-------------|--------|------|------|---------|--------|------|
@@ -170,28 +190,6 @@ SELECT pl.f_tname AS Team, mt.round, sum(mx.catches) + sum(mx.pickups) + sum(md.
 ```
 SELECT pl.nr, pl.name AS Player, count(md.f_match_id) AS GP, sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches) AS Touches, sum(md.td) AS TD, sum(mx.rushing_distance_move) AS Rsh, sum(md.cp) AS Cp, sum(mx.pass_distance) AS CpDst, sum(mx.catches) AS Ctch, sum(md.intcpt) AS "Int", sum(md.bh) + sum(md.si) + sum(md.ki) AS Cas, sum(mx.inflicted_blocks) AS Blk, sum(mx.inflicted_sacks) AS Sck, sum(md.mvp) AS MVP, sum(mx.interceptions_thrown) AS Intercepted, sum(mx.sustained_sacks) AS Sacked, sum(mx.sustained_kos) AS KOed, sum(mx.sustained_bhs) AS Hurt, sum(mx.sustained_sis) AS Injured, sum(mx.sustained_kill) AS Killed, (sum(md.td) * 3) + sum(md.cp) + (sum(md.intcpt) * 2) + (sum(md.bh) * 2) + (sum(md.si) * 2) + (sum(md.ki) * 2) + (sum(md.mvp) * 5) AS SPP FROM match_data AS md JOIN match_data_es AS mx ON md.f_player_id = mx.f_pid AND md.f_match_id = mx.f_mid JOIN players AS pl ON md.f_player_id = pl.player_id AND md.f_team_id = pl.owned_by_team_id JOIN matches AS mt ON mt.match_id = md.f_match_id JOIN tours ON md.f_tour_id = tours.tour_id AND md.f_did = tours.f_did WHERE tours.name = "Green Cup XI" AND pl.f_tname = "Orbital Machine" GROUP BY pl.name, pl.nr ORDER BY pl.nr ASC;
 ```
-
-
-### Stars
-
-> **Currently active players** are highlighted and modern-era players whose careers are over are not marked.
-
-| Player           | Team        | Position      | W | D | L | GP | TD | Cp | Int | BH | SI | Ki | MVP | SPP |
-|------------------|-------------|---------------|--:|--:|--:|---:|---:|---:|----:|---:|---:|---:|----:|----:|
-| Heep   | Orbital Machine | Blitzer      |   26 |    4 |   12 |   42 |   28 |    5 |    4 |    6 |    1 |    0 |    2 |  121 |
-| **Leppard** | Orbital Machine | Blitzer      |   38 |   11 |   25 |   74 |   14 |   26 |    2 |    3 |    4 |    2 |    6 |  120 |
-| Lars   | Orbital Machine | Heavy      |   18 |    4 |    7 |   29 |    1 |    0 |    2 |   11 |    6 |    1 |    6 |   73 |
-| **Uli**     | Orbital Machine | Heavy      |   13 |    6 |   11 |   30 |    0 |    0 |    0 |   17 |    5 |    1 |    4 |   66 |
-| **Ruslan**  | Orbital Machine | Blitzer      |   13 |    6 |   12 |   31 |    9 |    5 |    1 |    6 |    1 |    0 |    3 |   63 |
-| Ioana  | Orbital Machine | Heavy      |    9 |    1 |    9 |   19 |    2 |    0 |    2 |    8 |    2 |    2 |    5 |   59 |
-| **Odalric** | Orbital Machine | Blocker |   14 |    7 |   14 |   35 |    3 |    0 |    0 |    8 |    1 |    1 |    6 |   59 |
-| **Jothi**   | Orbital Machine | Blocker |   13 |    6 |   12 |   31 |    3 |    2 |    2 |    7 |    1 |    0 |    5 |   56 |
-| Priest | Orbital Machine | Blitzer      |   25 |    4 |   10 |   39 |    8 |   24 |    1 |    0 |    0 |    0 |    1 |   55 |
-| Ozzy   | Orbital Machine | Blitzer      |   20 |    4 |    9 |   33 |   11 |   11 |    1 |    3 |    1 |    0 |    0 |   54 |
-| Def    | Orbital Machine | Blitzer      |   28 |    5 |   13 |   46 |    3 |    2 |    2 |    5 |    3 |    1 |    4 |   53 |
-
-### roster by season
-
 
 #### Cup Winners
 
@@ -227,9 +225,8 @@ The Orbital Machine is owned by Orolk, an industrial concern with long local tie
 
 ### Fans
 
-Fans of the Machine don't get on especially well with the other main bashing teams in the Pros (the [Carcosan Tatters](carcosantatters) and [Gore Farmers](gorefarmers)). Adding to the frisson with the Farmers is the disputed nature of the "true winner" of the sixth Green Cup.
+Fans of the Machine don't get on especially well with the other main bashing teams in the Pros (the [Carcosan Tatters](carcosantatters) and [Gore Farmers](gorefarmers)). Adding to the frisson with the Farmers is the disputed nature of the "true winner" of the sixth Green Cup. Machine fans do a "Drill Baby Drill" chant that other teams tend to find exceedingly obnoxious (numerous polls back this up).
 
 ### Famous Games
 
 The betrayal at Dungardin vs the [Cogs](irregularcogs) in GCVII Week 8 was notable for historical reasons (also, it was a 2 interception match for the Machine).
-

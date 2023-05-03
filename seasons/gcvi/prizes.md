@@ -1,6 +1,6 @@
 # gcvi
 
-* [[mvp]] - [[daividh]]
+* [[prizes/mvp]] - [[daividh]]
 * [[sardinecrown]] - [[yakup]]
 * [[carminefist]] - [[hulud]]
 * [[softhands]] - [[souta]]

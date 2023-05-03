@@ -1,4 +1,4 @@
 # gciii
 
-* [[mvp]] - [[Joey]]
+* [[prizes/mvp]] - [[Joey]]
 * [[carminefist]] - [[Benjen]]

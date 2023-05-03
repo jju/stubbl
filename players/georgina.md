@@ -27,7 +27,7 @@ Georgina was an inveterate ball-hawk in the third UBBL Challenge tournament and 
 
 # Prize Stats
 
-* StUBBL Jumper - UBBL Challenge III [[mvp#ubbl challenge iii]]
+* StUBBL Jumper - UBBL Challenge III [[prizes/mvp#ubbl challenge iii]]
 
 | Player | Team         | Season          | GP | TD | Rsh | Cp | CpDst | Ctch | Int | Cas | Blk | Sck | MVP | SPP |
 |--------|--------------|-----------------|---:|---:|----:|---:|------:|-----:|----:|----:|----:|----:|----:|----:|

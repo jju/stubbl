@@ -34,7 +34,7 @@ SELECT pl.name AS Player, pl.f_tname AS Team, tours.name AS Season, mp.won AS W,
 
 # Prize Stats
 
-* StUBBL Jumper - UBBL Challenge IV [[mvp#ubbl challenge iv]]
+* StUBBL Jumper - UBBL Challenge IV [[prizes/mvp#ubbl challenge iv]]
 * All-Star - GCX [[allstars#gcx]]
 * Player of the Week - GCXI [[seasons/gcxi/week04]]
 * Soft Hands Award - GCXI [[softhands#gcxi]]

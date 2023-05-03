@@ -1,11 +1,11 @@
 # ogiii
 
-* [[team1stplace]] - 
-* [[team2ndplace]] - 
+* [[team1stplace]] - [[kickingmules]]
+* [[team2ndplace]] - [[deepdreamers]]
 * [[team3rdplace]] - [[virtuaraptors]]
-* [[teamcasualties]] - 
-* [[mvp]] - [[Marques]] [[Marita]] [[Krister]]
-* [[sardinecrown]] - [[Marques]] [[Marita]] 
+* [[teamcasualties]] - [[kickingmules]]
+* [[prizes/mvp]] - [[Marques]] 
+* [[sardinecrown]] - [[Marques]] 
 * [[carminefist]] - [[katka]]
 * [[softhands]] - [[Marques]]
 * [[relentlesscannon]] - [[Eufemia]]
@@ -13,4 +13,4 @@
 * [[hunteraward]] - [[Maja]]
 * [[dervishaward]] - [[Borislav]]
 * [[fanfavourite]] - [[Kassandros]]
-* [[rookieofyear]] - 
+* [[rookieofyear]] - [[Marques]]

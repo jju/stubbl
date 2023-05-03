@@ -10,49 +10,53 @@ The Furies use the Norton playbook, which is mostly a way to get less skilled pl
 
 | # | Player    | Position  | SPP | Seasons | GP | Contracts | Value | Bonus |
 |---|-----------|-----------|-----|---------|----|-----------|-------|-------|
-|    2 | Thiemo     | Line  | Emerging Star |       5 |   19 |         1 | 140000 |     0 |
-|    3 | Aronne     | Catcher  | Superstar |       6 |   52 |         3 | 260000 | 30000 |
-|    4 | Shashi     | Catcher  | Superstar |       3 |   26 |         2 | 240000 | 20000 |
-|    6 | Faite      | Blitzer  | Veteran |       2 |   15 |         1 | 140000 |     0 |
-|    7 | Aniketos   | Line  | Rookie |       2 |    7 |         0 |  50000 |     0 |
-|    7 | Mahendra   | Line  | Rookie |       2 |    9 |         1 | 180000 | 50000 |
-|    8 | Puneeta    | Line  | Veteran |       4 |   26 |         2 |  90000 |     0 |
-|    9 | Aarthi     | Line  | Rookie |       2 |    6 |         0 |  50000 |     0 |
-|   10 | Orazio     | Line  | Veteran |       5 |   17 |         1 |  90000 |     0 |
-|   10 | Mumina     | Line  | Rookie |       2 |    6 |         0 |  50000 |     0 |
-|   11 | Tofa       | Line  | Rookie |       2 |    6 |         0 |  50000 |     0 |
-|   12 | Matleena   | Line  | Experienced |       5 |   14 |         1 |  70000 |     0 |
-|   13 | Chizoba    | Line  | Experienced |       3 |   15 |         1 |  70000 |     0 |
-|   15 | Svyatopolk | Heavy   | Emerging Star |       4 |   17 |         1 | 220000 |     0 |
+|    2 | Thiemo     | Lineman  |   36 |       5 |   19 |         1 | 140000 |     0 |
+|    3 | Aronne     | Catcher  |  147 |       6 |   52 |         3 | 260000 | 30000 |
+|    4 | Shashi     | Catcher  |  100 |       3 |   26 |         2 | 240000 | 20000 |
+|    6 | Faite      | Blitzer  |   20 |       2 |   15 |         1 | 140000 |     0 |
+|    7 | Mahendra   | Lineman  |    2 |       3 |   11 |         1 | 180000 | 50000 |
+|    8 | Puneeta    | Lineman  |   25 |       4 |   26 |         2 |  90000 |     0 |
+|    9 | Aarthi     | Lineman  |    0 |       2 |    6 |         0 |  50000 |     0 |
+|   10 | Orazio     | Lineman  |   25 |       6 |   19 |         1 |  90000 |     0 |
+|   11 | Tofa       | Lineman  |    0 |       2 |    6 |         0 |  50000 |     0 |
+|   12 | Matleena   | Lineman  |    7 |       6 |   16 |         1 |  70000 |     0 |
+|   13 | Chizoba    | Lineman  |   13 |       4 |   17 |         1 |  70000 |     0 |
+|   15 | Svyatopolk | Yhetee   |   32 |       5 |   19 |         1 | 220000 |     0 |
 
 ### Depth (on payroll)
 
 | # | Player    | Position  | SPP | Seasons | GP | Contracts | Value | Bonus |
 |---|-----------|-----------|-----|---------|----|-----------|-------|-------|
+|    7 | Aniketos   | Lineman  |    0 |       2 |    7 |         0 |  50000 |     0 |
+|   10 | Mumina     | Lineman  |    0 |       2 |    6 |         0 |  50000 |     0 |
 
 
 ### Non Roster
 
 | # | Player    | Position  | SPP | Seasons | GP | Contracts | Value | Bonus |
 |---|-----------|-----------|-----|---------|----|-----------|-------|-------|
-|    1 | Luanna    | Thrower        | Legend |       6 |   56 |         4 | 270000 | 50000 |
-|    5 | Danr      | Blitzer        | Superstar |       4 |   43 |         3 | 240000 | 30000 |
-|    6 | Ed        | Blitzer        | Seasoned Veteran |       6 |   44 |         3 | 170000 | 30000 |
-|    9 | Rina      | Line        | Veteran |       6 |   29 |         2 | 110000 | 20000 |
-|   14 | Hin       | Attacker | Star |       6 |   56 |         4 | 230000 | 40000 |
-|   16 | Hasan     | Line        | Seasoned Veteran |       5 |   31 |         2 | 150000 | 10000 |
-|   20 | Kota      | Catcher        | Superstar |       4 |   38 |         3 | 200000 |     0 |
-|   25 | Mukabe    | Blitzer        | Superstar |       6 |   46 |         3 | 200000 |     0 |
-|   26 | Bryce     | Blitzer        | Star |       6 |   43 |         3 | 230000 | 30000 |
-|   27 | Norbert   | Line        | Experienced |       2 |    7 |         0 |  70000 |     0 |
-|   27 | Boreal    | Line        | Seasoned Veteran |       5 |   43 |         3 | 120000 |     0 |
-|   28 | Fergal    | Line        | Veteran |       3 |   29 |         2 | 110000 | 20000 |
-|   28 | Shalev    | Line        | Rookie* |       1 |    1 |         0 | 160000 | 60000 |
-|   29 | Francizek | Line        | Veteran |       3 |   28 |         2 | 120000 | 20000 |
-|   30 | Rafferty  | Line        | Experienced |       2 |    5 |         0 |  80000 |     0 |
-|   31 | Garron    | Line        | Experienced |       6 |   60 |         4 | 110000 | 40000 |
-|   32 | Walton    | Line        | Seasoned Veteran |       8 |   83 |         6 | 160000 | 50000 |
-|   34 | Ife       | Attacker | Star |       6 |   50 |         3 | 220000 | 30000 |
+|    1 | Luanna.    | Thrower        |  198 |       7 |   58 |         4 | 270000 | 50000 |
+|    5 | Danr.      | Blitzer        |   84 |       4 |   43 |         3 | 240000 | 30000 |
+|    6 | Ed.        | Blitzer        |   44 |       6 |   44 |         3 | 200000 | 30000 |
+|   14 | Hin.       | Norse Werewolf |   55 |       6 |   56 |         4 | 230000 | 40000 |
+|   16 | Hasan.     | Lineman        |   35 |       5 |   31 |         2 | 150000 | 10000 |
+|   20 | Kota.      | Catcher        |  104 |       4 |   38 |         3 | 200000 |     0 |
+|   26 | Bryce.     | Blitzer        |   56 |       6 |   43 |         3 | 230000 | 30000 |
+|   27 | Boreal.    | Lineman        |   39 |       5 |   43 |         3 | 120000 |     0 |
+|   28 | Shalev.    | Lineman        |    0 |       1 |    1 |         0 | 160000 | 60000 |
+|   29 | Francizek. | Lineman        |   20 |       3 |   28 |         2 | 120000 | 20000 |
+|   30 | Rafferty.  | Lineman        |    7 |       2 |    5 |         0 |  80000 |     0 |
+|   31 | Garron.    | Lineman        |   10 |       6 |   60 |         4 | 110000 | 40000 |
+|   32 | Walton.    | Lineman        |   31 |       8 |   83 |         6 | 160000 | 50000 |
+|   34 | Ife.       | Norse Werewolf |   51 |       6 |   50 |         3 | 220000 | 30000 |
+|   41 | Kalisha.   | Lineman        |    8 |       1 |    3 |         0 |  70000 |     0 |
+|   42 | Sylvette.  | Lineman        |    6 |       1 |    2 |         0 |  70000 |     0 |
+|   51 | Melpomeni. | Lineman        |    1 |       2 |    5 |         0 |  50000 |     0 |
+|   52 | Shaul.     | Lineman        |    2 |       3 |    3 |         0 |  50000 |     0 |
+|   52 | Masamba.   | Lineman        |    2 |       1 |    2 |         0 |  50000 |     0 |
+|   52 | Fawn.      | Lineman        |    2 |       1 |    5 |         0 |  50000 |     0 |
+|   53 | Svetlana.  | Lineman        |    3 |       2 |    3 |         0 |  50000 |     0 |
+|   53 | Rosalia.   | Lineman        |    2 |       2 |    2 |         0 |  50000 |     0 |
 
 ```
 SELECT pl.nr AS "#", pl.name AS Player, pl.f_pos_name AS Position, sum(mp.spp) AS 'SPP', count(DISTINCT mp.f_trid) AS Seasons, sum(mp.played) AS "GP", ROUND(sum(mp.played)/15) AS Contracts, pl.value AS Value, pl.extra_val AS Bonus FROM mv_players as mp JOIN players as pl ON mp.f_pid = pl.player_id AND mp.f_tid = pl.owned_by_team_id WHERE pl.f_tname = "Cackling Furies" GROUP BY pl.name HAVING pl.name NOT LIKE '%.' ORDER BY pl.nr ASC;
@@ -65,7 +69,7 @@ SELECT pl.nr AS "#", pl.name AS Player, pl.f_pos_name AS Position, sum(mp.spp) A
 | Team            | Division | W    | D    | L    | GP   | Win%   | GF   | GA   | Cas  | CasDiff | Fans |
 |-----------------|----------|------|------|------|------|--------|------|------|------|---------|------|
 | Cackling Furies | Pro      |   45 |   25 |   54 |  124 | 45.985 |  244 |  254 |  278 |      45 |    0 |
-| Cackling Furies | Open     |    6 |    1 |    4 |   11 | 56.944 |   28 |   19 |   37 |      18 |    4 |
+| Cackling Furies | Open     |    7 |    1 |    5 |   13 | 55.208 |   30 |   23 |   39 |      14 |    4 |
 | Cackling Furies | Street   |    3 |    3 |    6 |   12 | 42.500 |   12 |   22 |   20 |       0 |   -2 |
 
 
@@ -79,8 +83,7 @@ SELECT teams.name AS Team, divisions.name AS Division, sum(mr.won) AS W, sum(mr.
 
 | Team            | W    | D    | L    | GP   | Win%   | GF   | GA   | Cas  | CasDiff | Fans |
 |-----------------|-----:|-----:|-----:|-----:|-------:|-----:|-----:|-----:|--------:|-----:|
-| Cackling Furies |   54 |   29 |   64 |  147 | 47.835 |  284 |  295 |  335 |      63 |    2 |
-
+| Cackling Furies |   55 |   29 |   65 |  149 | 47.980 |  286 |  299 |  337 |      59 |    2 |
 
 ```
 SELECT teams.name AS Team, sum(mr.won) AS W, sum(mr.draw) AS D, sum(mr.lost) AS L, sum(mr.played) AS GP, round(avg(mr.win_pct),3) AS "Win%", sum(mr.gf) AS GF, sum(mr.ga) AS GA, sum(mr.tcasf) AS Cas, sum(mr.tcdiff) AS CasDiff, sum(mr.ff) AS Fans FROM mv_teams AS mr JOIN teams ON teams.team_id = mr.f_tid WHERE teams.name = "Cackling Furies" GROUP BY teams.name ORDER BY sum(mr.won) DESC limit 3;
@@ -96,18 +99,20 @@ SELECT teams.name AS Team, sum(mr.won) AS W, sum(mr.draw) AS D, sum(mr.lost) AS 
 
 | Team            | Season               | W  | D | L | GP | Win% | GF   | GA   | Cas  | CDif | FF   |
 |-----------------|----------------------|--:|--:|--:|---:|-----:|---:|---:|----:|-----:|---:|
-| Cackling Furies | UBBL Challenge II    |    3 |    0 |    1 |      4 |      75.00 |   11 |    5 |   16 |      5 |    3 |
-| Cackling Furies | Green Cup III        |    9 |    1 |    3 |     13 | 73.08 |   33 |   23 |    38 |     13 |    1 |
-| Cackling Furies | UBBL Challenge       |    2 |    1 |    1 |      4 |    62.50 |   12 |    8 |    9 |     12 |    2 |
-| Cackling Furies | Green Cup IX         |    7 |    7 |    3 |     17 | 61.76 |   38 |   34 |   24 |     -3 |    4 |
-| Cackling Furies | Green Cup X          |    7 |    4 |    6 |     17 | 52.94 |   41 |   30 |   27 |     -1 |    0 |
-| Cackling Furies | Green Cup II         |    4 |    2 |    5 |     11 | 45.45 |   20 |   19 |    33 |     10 |   -1 |
-| Cackling Furies | Green Cup IV         |    3 |    2 |    5 |     10 |      40.00 |   18 |   25 |    34 |     16 |   -2 |
-| Cackling Furies | Green Cup Classic 06 |    1 |    4 |    3 |      8 |    37.50 |   11 |   15 |   15 |      0 |    1 |
+| Cackling Furies | UBBL Challenge II    |    3 |    0 |    1 |      4 |      75 |   11 |    5 |   16 |      5 |    3 |
+| Cackling Furies | Green Cup III        |    9 |    1 |    3 |     13 | 73.0769 |   33 |   23 |    0 |     13 |    1 |
+| Cackling Furies | UBBL Challenge       |    2 |    1 |    1 |      4 |    62.5 |   12 |    8 |    9 |     12 |    2 |
+| Cackling Furies | Green Cup IX         |    7 |    7 |    3 |     17 | 61.7647 |   38 |   34 |   24 |     -3 |    4 |
+| Cackling Furies | Green Cup X          |    7 |    4 |    6 |     17 | 52.9412 |   41 |   30 |   27 |     -1 |    0 |
+| Cackling Furies | UBBL Challenge V     |    1 |    0 |    1 |      2 |      50 |    2 |    4 |    3 |     -4 |    0 |
+| Cackling Furies | StUBBL Scramble      |    0 |    2 |    0 |      2 |      50 |    1 |    1 |    0 |      0 |    1 |
+| Cackling Furies | Green Cup II         |    4 |    2 |    5 |     11 | 45.4545 |   20 |   19 |    0 |     10 |   -1 |
+| Cackling Furies | Green Cup IV         |    3 |    2 |    5 |     10 |      40 |   18 |   25 |    0 |     16 |   -2 |
+| Cackling Furies | Green Cup Classic 06 |    1 |    4 |    3 |      8 |    37.5 |   11 |   15 |   15 |      0 |    1 |
 | Cackling Furies | Green Cup XI         |    5 |    2 |    9 |     16 |    37.5 |   32 |   36 |   25 |     -2 |    0 |
-| Cackling Furies | Green Cup V Memorial |    3 |    1 |    6 |     10 |      35.00 |   11 |   21 |   19 |      0 |   -3 |
-| Cackling Furies | Green Cup VII        |    4 |    3 |    9 |     16 |  34.38 |   28 |   34 |   31 |      4 |   -1 |
-| Cackling Furies | UBBL Challenge IV    |    1 |    0 |    2 |      3 | 33.33 |    5 |    6 |    5 |      1 |   -1 |
+| Cackling Furies | Green Cup V Memorial |    3 |    1 |    6 |     10 |      35 |   11 |   21 |   19 |      0 |   -3 |
+| Cackling Furies | Green Cup VII        |    4 |    3 |    9 |     16 |  34.375 |   28 |   34 |   31 |      4 |   -1 |
+| Cackling Furies | UBBL Challenge IV    |    1 |    0 |    2 |      3 | 33.3333 |    5 |    6 |    5 |      1 |   -1 |
 | Cackling Furies | Green Cup VIII       |    5 |    0 |   11 |     16 |   31.25 |   23 |   38 |   43 |      8 |   -2 |
 
 ```
@@ -125,12 +130,6 @@ The Cackling Furies aren't an original Green Cup team, but in their second seaso
 Their next winning seasons only came in the Open Division in the first two UBBL Challenges. The Furies represented the Green Cup faithful in the final for the UBBL Pennant in UCII after stomping through the B-Side challengers, but fell to the [Brutes](gargantuanbrutes).
 
 After that it took a long time to work back to a winning season in Green Cup play, but they managed it. Green Cups IX and X went better for the Furies. They made it to the division finals each time before being knocked out by the [Eldritch Fatality](eldritchfatality) and [Ravenous Eagles](ravenouseagles) respectively.
-
-#### Projection GCXI
-
-W-D-L 6-3-6
-
-The Furies are hoping for a chance at the divisional title, but will have to work to make the playoffs first. Keeping [[Aronne]] and [[luanna]] healthy for a playoff run is going to be a major goal.
 
 #### Summary GCXI
 
@@ -156,7 +155,7 @@ The Furies didn't miss their projected target by much, going 5-2-8 in the regula
 | Cackling Furies |   BYE |       0 |    0 |    0 |    0 |        0 |      0 |          0 |    0 |      0 |     0 |    0 |    0 |         BYE |           L |
 
 ```
-SELECT pl.f_tname AS Team, mt.round, sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches) AS Touches, sum(md.td) AS TDs, sum(mx.rushing_distance_move) AS Rush, sum(md.cp) AS Cp, sum(mx.pass_distance) AS PassDist, sum(mx.catches) AS Caught, sum(md.intcpt) AS Intercepts, sum(md.bh) + sum(md.si) + sum(md.ki) AS Cas, sum(mx.inflicted_blocks) AS Blocks, sum(mx.inflicted_sacks) AS Sacks, sum(md.mvp) AS MVPs, (sum(md.td) * 3) + sum(md.cp) + (sum(md.intcpt) * 2) + (sum(md.bh) * 2) + (sum(md.si) * 2) + (sum(md.ki) * 2) + (sum(md.mvp) * 5) AS SPP, mt.team1_score, mt.team2_score FROM match_data AS md JOIN match_data_es AS mx ON md.f_player_id = mx.f_pid AND md.f_match_id = mx.f_mid JOIN players AS pl ON md.f_player_id = pl.player_id AND md.f_team_id = pl.owned_by_team_id JOIN matches AS mt ON mt.match_id = md.f_match_id WHERE md.f_tour_id = 29 AND pl.f_tname = "Cackling Furies" GROUP BY pl.f_tname, mt.round ORDER BY mt.round ASC;
+SELECT pl.f_tname AS Team, mt.round, CASE WHEN mt.team1_id = md.f_team_id THEN "Home" ELSE "Away" END AS Location, CASE WHEN mt.team1_score - mt.team2_score > 0 AND mt.team1_id = md.f_team_id THEN "Win" WHEN mt.team2_score - mt.team1_score > 0 AND mt.team2_id = md.f_team_id THEN "Win" WHEN mt.team1_score = mt.team2_score THEN "Draw" ELSE "Loss" END AS Result, mt.team1_score AS Home, mt.team2_score AS Away, sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches) AS Touches, sum(md.td) AS TDs, sum(mx.rushing_distance_move) AS Rush, sum(md.cp) AS Cp, sum(mx.pass_distance) AS PassDist, sum(mx.catches) AS Caught, sum(md.intcpt) AS Intercepts, sum(md.bh) + sum(md.si) + sum(md.ki) AS Cas, sum(mx.inflicted_blocks) AS Blocks, sum(mx.inflicted_sacks) AS Sacks, sum(md.mvp) AS MVPs, (sum(md.td) * 3) + sum(md.cp) + (sum(md.intcpt) * 2) + (sum(md.bh) * 2) + (sum(md.si) * 2) + (sum(md.ki) * 2) + (sum(md.mvp) * 5) AS SPP FROM match_data AS md JOIN match_data_es AS mx ON md.f_player_id = mx.f_pid AND md.f_match_id = mx.f_mid JOIN players AS pl ON md.f_player_id = pl.player_id AND md.f_team_id = pl.owned_by_team_id JOIN matches AS mt ON mt.match_id = md.f_match_id WHERE md.f_tour_id = 29 AND pl.f_tname = "Cackling Furies" GROUP BY pl.f_tname, mt.round ORDER BY mt.round ASC;
 ```
 
 #### roster GCXI
@@ -194,6 +193,12 @@ SELECT pl.f_tname AS Team, mt.round, sum(mx.catches) + sum(mx.pickups) + sum(md.
 SELECT pl.nr AS "#", pl.name AS Player, count(md.f_match_id) AS GP, sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches) AS Touches, sum(md.td) AS TD, sum(mx.rushing_distance_move) AS Rsh, sum(md.cp) AS Cp, sum(mx.pass_distance) AS CpDst, sum(mx.catches) AS Ctch, sum(md.intcpt) AS "Int", sum(md.bh) + sum(md.si) + sum(md.ki) AS Cas, sum(mx.inflicted_blocks) AS Blk, sum(mx.inflicted_sacks) AS Sck, sum(md.mvp) AS MVP, sum(mx.interceptions_thrown) AS Intercepted, sum(mx.sustained_sacks) AS Sacked, sum(mx.sustained_kos) AS KOed, sum(mx.sustained_bhs) AS Hurt, sum(mx.sustained_sis) AS Injured, sum(mx.sustained_kill) AS Killed, (sum(md.td) * 3) + sum(md.cp) + (sum(md.intcpt) * 2) + (sum(md.bh) * 2) + (sum(md.si) * 2) + (sum(md.ki) * 2) + (sum(md.mvp) * 5) AS SPP FROM match_data AS md JOIN match_data_es AS mx ON md.f_player_id = mx.f_pid AND md.f_match_id = mx.f_mid JOIN players AS pl ON md.f_player_id = pl.player_id AND md.f_team_id = pl.owned_by_team_id JOIN matches AS mt ON mt.match_id = md.f_match_id JOIN tours ON md.f_tour_id = tours.tour_id AND md.f_did = tours.f_did WHERE tours.name = "Green Cup XI" AND pl.f_tname = "Cackling Furies" GROUP BY pl.name, pl.nr ORDER BY pl.nr ASC;
 ```
 
+#### Projection GCXII
+
+W-D-L 7-1-8
+
+The Furies are hoping for a chance at the divisional title, but will have to work to make the playoffs first. With Luanna out of the picture at the season's start with a rookie instead, it's probably going to be a rough one for Furies fans.
+
 
 ### Stars
 
@@ -201,7 +206,7 @@ SELECT pl.nr AS "#", pl.name AS Player, count(md.f_match_id) AS GP, sum(mx.catch
 
 | Player           | Position      | W | D | L | GP | TD | Cp | Int | BH | SI | Ki | MVP | SPP |
 |------------------|---------------|--:|--:|--:|---:|---:|---:|----:|---:|---:|---:|----:|----:|
-| Luanna    | Thrower        |   21 |   14 |   21 |   56 |    8 |  129 |    1 |    3 |    0 |    0 |    5 |  186 |
+| Luanna    | Thrower        |   22 |   14 |   22 |   58 |    8 |  134 |    1 |    3 |    1 |    0 |    6 |  198 || Rickon    | Catcher        |   32 |   16 |   40 |   88 |   41 |    2 |    2 |    1 |    0 |    0 |    4 |  151 |
 | Rickon    | Catcher        |   32 |   16 |   40 |   88 |   41 |    2 |    2 |    1 |    0 |    0 |    4 |  151 |
 | **Aronne**     | Catcher        |   20 |   14 |   18 |   52 |   31 |   30 |    2 |    0 |    0 |    0 |    4 |  147 |
 | *Rodrik*   | Catcher | *23* | ?? | ?? | 44 | 39 | 2 | 2 | 0 | 0 | 0 | 3 | 138 |
@@ -228,7 +233,7 @@ While the old-era superstar [[Rodrik]] was atop the Furies' leaderboard for ages
 
 | #    | Player | Position | Seasons | Prizes | Value  | Bonus |
 |------|--------|----------|---------|--------|--------|-------|
-|    1 | Luanna | Thrower  |       6 |      1 | 270000 | 50000 |
+|    1 | Luanna | Thrower  |       7 |      2 | 270000 | 50000 |
 |   81 | Yusra  | Thrower  |       3 |      1 | 150000 |     0 |
 |   85 | Benjen | Blitzer  |       3 |      1 | 110000 |     0 |
 

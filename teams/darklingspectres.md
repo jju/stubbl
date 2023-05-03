@@ -11,17 +11,23 @@ The Spectres use the traditional Unglewort playbook. They have nigh-unlimited ch
 
 | # | Player    | Position  | SPP | Seasons | GP | Contracts | Value | Bonus |
 |---|-----------|-----------|-----|---------|----|-----------|-------|-------|
-|    1 | Ross          | Runner    |   32 |       1 |    8 |         1 | 140000 |     0 |
-|    2 | Persis        | Line |   33 |       2 |   17 |         1 | 120000 |     0 |
-|    3 | Sacnicte      | Runner    |   29 |       1 |    8 |         1 | 120000 |     0 |
-|   14 | Xiomara       | Line |   17 |       2 |   15 |         1 | 100000 | 10000 |
-|   16 | Blodeuwedd    | Line |    7 |       2 |   18 |         1 | 100000 | 10000 |
-|   18 | Xochiquetzal  | Blitzer    |   20 |       3 |   25 |         2 | 130000 |     0 |
+|    1 | Ross         | Runner    |   32 |       1 |    8 |         1 | 140000 |     0 |
+|    2 | Persis       | Line |   33 |       2 |   17 |         1 | 120000 |     0 |
+|    3 | Sacnicte     | Runner    |   29 |       1 |    8 |         1 | 120000 |     0 |
+|    5 | Nnenna       | Line |    8 |       2 |    6 |         0 |  70000 |     0 |
+|    6 | Reinhold     | Line |    6 |       2 |    4 |         0 |  70000 |     0 |
+|    7 | Cheaphat     | Blocker    |   31 |       2 |   28 |         2 | 200000 | 20000 |
+|    8 | Onesiphorus  | Blocker    |   63 |       3 |   46 |         3 | 240000 | 30000 |
+|    9 | Xiomara      | Line |   17 |       2 |   15 |         1 | 100000 | 10000 |
+|   10 | Helga       | Line |    0 |       2 |    4 |         0 |  40000 |     0 |
+|   11 | Renate      | Line |    0 |       2 |    4 |         0 |  40000 |     0 |
+|   16 | Blodeuwedd   | Line |    7 |       2 |   18 |         1 | 100000 | 10000 |
 
 ### Depth (on payroll)
 
 | # | Player    | Position  | SPP | Seasons | GP | Contracts | Value | Bonus |
 |---|-----------|-----------|-----|---------|----|-----------|-------|-------|
+|   18 | Xochiquetzal | Blitzer    |   20 |       3 |   25 |         2 | 130000 |     0 |
 
 
 ### Non Roster
@@ -52,17 +58,13 @@ The Spectres use the traditional Unglewort playbook. They have nigh-unlimited ch
 |   35 | Alexandros.  | Line   |    0 |       1 |    4 |         0 |  40000 |     0 |
 |   35 | Kole.        | Line |    9 |       2 |    8 |         1 |  70000 |     0 |
 |   36 | Uilliam.     | Line   |    0 |       2 |   19 |         1 |  40000 |     0 |
-|   41 | Reinhold.    | Line |    5 |       1 |    2 |         0 |  40000 |     0 |
-|   42 | Nnenna.      | Line |    0 |       1 |    4 |         0 |  40000 |     0 |
-|   43 | Helga.       | Line |    0 |       1 |    2 |         0 |  40000 |     0 |
-|   44 | Renate.      | Line |    0 |       1 |    2 |         0 |  40000 |     0 |
-|   45 | Elise.       | Line |    0 |       1 |    6 |         0 |  40000 |     0 |
-|   46 | Sheyna.      | Line |    0 |       1 |    1 |         0 |  40000 |     0 |
-|   47 | Mahesh.      | Blocker    |   42 |       2 |   19 |         1 | 180000 |     0 |
-|   48 | Daire.       | Blocker    |   27 |       2 |   17 |         1 | 160000 |     0 |
-|   49 | Nisha.       | Line   |   12 |       1 |    7 |         0 |  60000 |     0 |
-|   50 | Page.        | Line   |    0 |       1 |    2 |         0 |  40000 |     0 |
-|   51 | Goddard.     | Line |    0 |       2 |   12 |         1 |  40000 |     0 |
+|   45 | Elise.       | Line |    0 |       2 |    8 |         1 |  40000 |     0 |
+|   46 | Sheyna.      | Line |    5 |       2 |    3 |         0 |  40000 |     0 |
+|   47 | Mahesh.      | Blocker    |   44 |       3 |   21 |         1 | 180000 |     0 |
+|   48 | Daire.       | Blocker    |   27 |       3 |   19 |         1 | 160000 |     0 |
+|   49 | Nisha.       | Line   |   12 |       2 |    9 |         1 |  60000 |     0 |
+|   50 | Page.        | Line   |    0 |       2 |    4 |         0 |  40000 |     0 |
+|   51 | Goddard.     | Line |    0 |       3 |   14 |         1 |  40000 |     0 |
 
 
 ```
@@ -77,7 +79,7 @@ SELECT pl.nr AS "#", pl.name AS Player, pl.f_pos_name AS Position, sum(mp.spp) A
 | Team              | Division | W    | D    | L    | GP   | Win%   | GF   | GA   | Cas  | CasDiff | Fans |
 |-------------------|----------|------|------|------|------|--------|------|------|------|---------|------|
 | Darkling Spectres | Pro    |   47 |   15 |   55 |  117 | 47.423 |  228 |  278 |           214 |             58 |          4 |
-| Darkling Spectres | Open   |    7 |    0 |    5 |   12 | 48.333 |   26 |   28 |            15 |             -2 |          0 |
+| Darkling Spectres | Open   |    7 |    1 |    6 |   14 | 43.667 |   27 |   30 |            17 |             -3 |          0 |
 | Darkling Spectres | Street |    2 |    1 |    7 |   10 | 25.000 |    9 |   19 |            21 |              6 |         -1 |
 
 ```
@@ -88,7 +90,7 @@ SELECT teams.name, divisions.name, sum(mr.won) AS W, sum(mr.draw) AS D, sum(mr.l
 
 | Team            | W    | D    | L    | GP   | Win%   | GF   | GA   | Cas  | CasDiff | Fans |
 |-----------------|-----:|-----:|-----:|-----:|-------:|-----:|-----:|-----:|--------:|-----:|
-| Darkling Spectres | 56 |   16 |   67 |  139 | 45.978 |  263 |  325 |  250 |      62 |    3 |
+| Darkling Spectres |          56 |           17 |           68 |            141 |                   44.480 |        264 |        327 |           252 |             61 |          3 |
 
 ```
 SELECT teams.name, sum(mr.won), sum(mr.draw), sum(mr.lost), sum(mr.played), round(avg(mr.win_pct),3), sum(mr.gf), sum(mr.ga), sum(mr.tcasf), sum(mr.tcdiff), sum(mr.ff) FROM mv_teams AS mr JOIN teams ON teams.team_id = mr.f_tid WHERE teams.name = "Darkling Spectres" GROUP BY teams.name ORDER BY sum(mr.won) DESC limit 3;
@@ -105,19 +107,21 @@ SELECT teams.name, sum(mr.won), sum(mr.draw), sum(mr.lost), sum(mr.played), roun
 
 | Team      | Season             | W  | D | L | GP | Win% | GF   | GA   | Cas  | CDif | FF   |
 |-----------|--------------------|--:|--:|--:|---:|-----:|---:|---:|----:|-----:|---:|
-| Darkling Spectres | UBBL Challenge II    |    2 |    0 |    1 |      3 | 66.67 |    7 |    8 |    7 |      2 |   -1 |
-| Darkling Spectres | UBBL Challenge IV    |    2 |    0 |    1 |      3 | 66.67 |    7 |    8 |    6 |     -1 |    1 |
-| Darkling Spectres | Green Cup Classic 06 |    5 |    3 |    2 |     10 |      65.00 |   17 |   14 |   10 |     -2 |    3 |
-| Darkling Spectres | UBBL Challenge       |    3 |    0 |    2 |      5 |      60.00 |   12 |    8 |    7 |      0 |    1 |
-| Darkling Spectres | Green Cup IV         |    6 |    2 |    4 |     12 | 58.33 |   24 |   20 |   24 |      9 |    0 |
-| Darkling Spectres | Green Cup VII        |   10 |    0 |    9 |     19 | 52.63 |   36 |   39 |   33 |     14 |    1 |
+| Darkling Spectres | UBBL Challenge IV    |    2 |    0 |    1 |      3 | 66.6667 |    7 |    8 |    6 |     -1 |    1 |
+| Darkling Spectres | UBBL Challenge II    |    2 |    0 |    1 |      3 | 66.6667 |    7 |    8 |    7 |      2 |   -1 |
+| Darkling Spectres | Green Cup Classic 06 |    5 |    3 |    2 |     10 |      65 |   17 |   14 |   10 |     -2 |    3 |
+| Darkling Spectres | UBBL Challenge       |    3 |    0 |    2 |      5 |      60 |   12 |    8 |    7 |      0 |    1 |
+| Darkling Spectres | Green Cup IV         |    6 |    2 |    4 |     12 | 58.3333 |   24 |   20 |    0 |      9 |    0 |
+| Darkling Spectres | Green Cup VII        |   10 |    0 |    9 |     19 | 52.6316 |   36 |   39 |   33 |     14 |    1 |
 | Darkling Spectres | Green Cup XI         |    8 |    1 |    8 |     17 |      50 |   33 |   49 |   20 |      5 |    1 |
-| Darkling Spectres | Green Cup IX         |    5 |    3 |    8 |     16 |  40.63 |   32 |   45 |   27 |     -3 |   -2 |
-| Darkling Spectres | Green Cup III        |    3 |    2 |    5 |     10 |      40.00 |   21 |   24 |   25 |     13 |    2 |
-| Darkling Spectres | Green Cup X          |    5 |    2 |    9 |     16 |    37.50 |   35 |   45 |   24 |     -1 |    0 |
-| Darkling Spectres | Green Cup VIII       |    5 |    2 |   10 |     17 | 35.29 |   30 |   42 |   42 |     23 |   -1 |
-| Darkling Spectres | Green Cup V Memorial |    2 |    1 |    7 |     10 |      25.00 |    9 |   19 |   17 |      6 |   -1 |
-| Darkling Spectres | UBBL Challenge III   |    0 |    0 |    1 |      1 |       0.00 |    0 |    4 |    2 |     -3 |   -1 |
+| Darkling Spectres | Green Cup IX         |    5 |    3 |    8 |     16 |  40.625 |   32 |   45 |   27 |     -3 |   -2 |
+| Darkling Spectres | Green Cup III        |    3 |    2 |    5 |     10 |      40 |   21 |   24 |    0 |     13 |    2 |
+| Darkling Spectres | Green Cup X          |    5 |    2 |    9 |     16 |    37.5 |   35 |   45 |   24 |     -1 |    0 |
+| Darkling Spectres | Green Cup VIII       |    5 |    2 |   10 |     17 | 35.2941 |   30 |   42 |   42 |     23 |   -1 |
+| Darkling Spectres | Green Cup V Memorial |    2 |    1 |    7 |     10 |      25 |    9 |   19 |   17 |      6 |   -1 |
+| Darkling Spectres | UBBL Challenge V     |    0 |    1 |    1 |      2 |      25 |    1 |    2 |    1 |     -1 |    0 |
+| Darkling Spectres | UBBL Challenge III   |    0 |    0 |    1 |      1 |       0 |    0 |    4 |    2 |     -3 |   -1 |
+
 
 ```
 SELECT teams.name AS Team, tours.name AS Season, mr.won, mr.draw, mr.lost, 	mr.played, mr.win_pct, mr.gf, mr.ga, mr.cas, mr.tcdiff,	mr.ff FROM mv_teams AS mr JOIN tours ON mr.f_trid = tours.tour_id and mr.f_did = tours.f_did JOIN teams ON teams.team_id = mr.f_tid WHERE teams.name = "Darkling Spectres" ORDER BY mr.win_pct DESC limit 16;
@@ -133,39 +137,35 @@ Their best pro season was the short GCC06 in which The Spectres handily won thei
 
 There've been rumblings that ownership wanted to take their money and run, folding the team. Their lacklustre play in UBBL Challenge III lent weight to the idea, but they returned for the GCX. Everyone was watching them to see if they'd be tanking, but they ended up making the playoffs (on the backs of a surprisingly bad [Eldritch Fatality](eldritchfatality) team.
 
-#### Projection GCXI
-
-W-D-L 6-2-7 
-
-The starting lineup being shown off in pre-GCXI training camps is surprising. While it does manage to stay above the 1700 Value Floor set for the season, it's hard to see how these scrubs are going to stay out of last place in the Heaps.
+In GCXI despite fielding a ragtag lineup seemingly destinged to make money rather than win games, the Spectres outperformed their projections and pulled off a .500 season, losing in the Divisional Finals.
 
 #### GCXI summary
 
-| Team            | round | Touches | TDs  | Rush | Cp   | PassDist | Caught | Intercepts | Cas  | Blocks | Sacks | MVPs | SPP  |  Location | WDL |
-|-----------------|-------|---------|------|------|------|----------|--------|------------|------|--------|-------|------|------|-------------|-------------|
-| Darkling Spectres |     1 |       4 |    1 |   29 |    2 |        5 |      2 |          0 |    1 |     28 |     0 |    1 |   12 |           1 |           2 |
-| Darkling Spectres |     2 |       4 |    2 |   24 |    1 |        3 |      1 |          0 |    1 |     25 |     1 |    1 |   14 |           1 |           2 |
-| Darkling Spectres |     3 |       7 |    0 |   34 |    2 |       10 |      2 |          1 |    0 |     47 |     2 |    1 |    9 |           0 |           5 |
-| Darkling Spectres |     4 |       7 |    0 |   41 |    1 |        1 |      1 |          0 |    1 |     32 |     0 |    1 |    8 |           5 |           0 |
-| Darkling Spectres |     5 |       7 |    0 |   26 |    0 |        0 |      1 |          0 |    2 |     42 |     3 |    1 |    9 |           0 |           4 |
-| Darkling Spectres |     6 |      16 |    4 |   81 |    6 |       15 |      6 |          0 |    1 |     50 |     1 |    1 |   25 |           8 |           4 |
-| Darkling Spectres |     7 |       8 |    3 |   46 |    2 |        2 |      2 |          0 |    1 |     26 |     1 |    1 |   18 |           1 |           3 |
-| Darkling Spectres |     8 |      16 |    6 |   78 |    4 |       12 |      4 |          0 |    1 |     38 |     1 |    1 |   29 |           6 |           4 |
-| Darkling Spectres |     9 |       2 |    0 |   25 |    1 |        2 |      1 |          0 |    0 |     31 |     0 |    1 |    6 |           0 |           3 |
-| Darkling Spectres |    10 |       9 |    4 |   53 |    3 |        8 |      3 |          1 |    1 |     50 |     1 |    1 |   24 |           2 |           4 |
-| Darkling Spectres |    11 |      11 |    1 |   43 |    2 |        6 |      2 |          0 |    1 |     43 |     0 |    1 |   12 |           5 |           1 |
-| Darkling Spectres |    12 |      14 |    3 |   33 |    3 |       10 |      3 |          0 |    5 |     35 |     1 |    1 |   27 |           3 |           0 |
-| Darkling Spectres |    13 |       5 |    2 |   29 |    0 |        0 |      0 |          0 |    1 |     26 |     0 |    1 |   13 |           1 |           2 |
-| Darkling Spectres |    14 |      12 |    3 |   51 |    4 |       12 |      4 |          1 |    1 |     37 |     0 |    1 |   22 |           3 |           3 |
-| Darkling Spectres |    15 |      11 |    3 |   46 |    3 |       10 |      3 |          0 |    3 |     38 |     0 |    1 |   23 |           1 |           3 |
-| Darkling Spectres |   R16 |      11 |    1 |   19 |    2 |       16 |      2 |          0 |    0 |     42 |     4 |    1 |   10 |           1 |           0 |
-| Darkling Spectres |    QF |       4 |    0 |   20 |    1 |        5 |      1 |          0 |    0 |     45 |     2 |    1 |    6 |           4 |           0 |
+| Team            | round | Location | Result | Home | Away | Touches | TDs  | Rush | Cp   | PassDist | Caught | Intercepts | Cas  | Blocks | Sacks | MVPs | SPP  |  Location | WDL |
+|-----------------|-------|----------|--------|--------|------|------|------|----------|--------|------------|------|--------|-------|------|------|-------------|-------------|
+| Darkling Spectres |     1 | Home     | Loss   |    1 |    2 |       4 |    1 |   29 |    2 |        5 |      2 |          0 |    1 |     28 |     0 |    1 |   12 |
+| Darkling Spectres |     2 | Away     | Win    |    1 |    2 |       4 |    2 |   24 |    1 |        3 |      1 |          0 |    1 |     25 |     1 |    1 |   14 |
+| Darkling Spectres |     3 | Home     | Loss   |    0 |    5 |       7 |    0 |   34 |    2 |       10 |      2 |          1 |    0 |     47 |     2 |    1 |    9 |
+| Darkling Spectres |     4 | Away     | Loss   |    5 |    0 |       7 |    0 |   41 |    1 |        1 |      1 |          0 |    1 |     32 |     0 |    1 |    8 |
+| Darkling Spectres |     5 | Home     | Loss   |    0 |    4 |       7 |    0 |   26 |    0 |        0 |      1 |          0 |    2 |     42 |     3 |    1 |    9 |
+| Darkling Spectres |     6 | Away     | Loss   |    8 |    4 |      16 |    4 |   81 |    6 |       15 |      6 |          0 |    1 |     50 |     1 |    1 |   25 |
+| Darkling Spectres |     7 | Away     | Win    |    1 |    3 |       8 |    3 |   46 |    2 |        2 |      2 |          0 |    1 |     26 |     1 |    1 |   18 |
+| Darkling Spectres |     8 | Home     | Win    |    6 |    4 |      16 |    6 |   78 |    4 |       12 |      4 |          0 |    1 |     38 |     1 |    1 |   29 |
+| Darkling Spectres |     9 | Home     | Loss   |    0 |    3 |       2 |    0 |   25 |    1 |        2 |      1 |          0 |    0 |     31 |     0 |    1 |    6 |
+| Darkling Spectres |    10 | Away     | Win    |    2 |    4 |       9 |    4 |   53 |    3 |        8 |      3 |          1 |    1 |     50 |     1 |    1 |   24 |
+| Darkling Spectres |    11 | Away     | Loss   |    5 |    1 |      11 |    1 |   43 |    2 |        6 |      2 |          0 |    1 |     43 |     0 |    1 |   12 |
+| Darkling Spectres |    12 | Home     | Win    |    3 |    0 |      14 |    3 |   33 |    3 |       10 |      3 |          0 |    5 |     35 |     1 |    1 |   27 |
+| Darkling Spectres |    13 | Away     | Win    |    1 |    2 |       5 |    2 |   29 |    0 |        0 |      0 |          0 |    1 |     26 |     0 |    1 |   13 |
+| Darkling Spectres |    14 | Home     | Draw   |    3 |    3 |      12 |    3 |   51 |    4 |       12 |      4 |          1 |    1 |     37 |     0 |    1 |   22 |
+| Darkling Spectres |    15 | Away     | Win    |    1 |    3 |      11 |    3 |   46 |    3 |       10 |      3 |          0 |    3 |     38 |     0 |    1 |   23 |
+| Darkling Spectres |   R16 | Home     | Win    |    1 |    0 |      11 |    1 |   19 |    2 |       16 |      2 |          0 |    0 |     42 |     4 |    1 |   10 |
+| Darkling Spectres |    QF | Away     | Loss   |    4 |    0 |       4 |    0 |   20 |    1 |        5 |      1 |          0 |    0 |     45 |     2 |    1 |    6 |
 
 ```
-SELECT pl.f_tname AS Team, mt.round, sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches) AS Touches, sum(md.td) AS TDs, sum(mx.rushing_distance_move) AS Rush, sum(md.cp) AS Cp, sum(mx.pass_distance) AS PassDist, sum(mx.catches) AS Caught, sum(md.intcpt) AS Intercepts, sum(md.bh) + sum(md.si) + sum(md.ki) AS Cas, sum(mx.inflicted_blocks) AS Blocks, sum(mx.inflicted_sacks) AS Sacks, sum(md.mvp) AS MVPs, (sum(md.td) * 3) + sum(md.cp) + (sum(md.intcpt) * 2) + (sum(md.bh) * 2) + (sum(md.si) * 2) + (sum(md.ki) * 2) + (sum(md.mvp) * 5) AS SPP, mt.team1_score, mt.team2_score FROM match_data AS md JOIN match_data_es AS mx ON md.f_player_id = mx.f_pid AND md.f_match_id = mx.f_mid JOIN players AS pl ON md.f_player_id = pl.player_id AND md.f_team_id = pl.owned_by_team_id JOIN matches AS mt ON mt.match_id = md.f_match_id WHERE md.f_tour_id = 29 AND pl.f_tname = "Darkling Spectres" GROUP BY pl.f_tname, mt.round ORDER BY mt.round ASC;
+SELECT pl.f_tname AS Team, mt.round, CASE WHEN mt.team1_id = md.f_team_id THEN "Home" ELSE "Away" END AS Location, CASE WHEN mt.team1_score - mt.team2_score > 0 AND mt.team1_id = md.f_team_id THEN "Win" WHEN mt.team2_score - mt.team1_score > 0 AND mt.team2_id = md.f_team_id THEN "Win" WHEN mt.team1_score = mt.team2_score THEN "Draw" ELSE "Loss" END AS Result, mt.team1_score AS Home, mt.team2_score AS Away, sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches) AS Touches, sum(md.td) AS TDs, sum(mx.rushing_distance_move) AS Rush, sum(md.cp) AS Cp, sum(mx.pass_distance) AS PassDist, sum(mx.catches) AS Caught, sum(md.intcpt) AS Intercepts, sum(md.bh) + sum(md.si) + sum(md.ki) AS Cas, sum(mx.inflicted_blocks) AS Blocks, sum(mx.inflicted_sacks) AS Sacks, sum(md.mvp) AS MVPs, (sum(md.td) * 3) + sum(md.cp) + (sum(md.intcpt) * 2) + (sum(md.bh) * 2) + (sum(md.si) * 2) + (sum(md.ki) * 2) + (sum(md.mvp) * 5) AS SPP FROM match_data AS md JOIN match_data_es AS mx ON md.f_player_id = mx.f_pid AND md.f_match_id = mx.f_mid JOIN players AS pl ON md.f_player_id = pl.player_id AND md.f_team_id = pl.owned_by_team_id JOIN matches AS mt ON mt.match_id = md.f_match_id WHERE md.f_tour_id = 29 AND pl.f_tname = "Darkling Spectres" GROUP BY pl.f_tname, mt.round ORDER BY mt.round ASC;
 ```
 
-#### roster by season
+#### GCXI roster
 
 
 | #    | Player     | GP | Touches | TD   | Rsh  | Cp   | CpDst | Ctch | Int  | Cas  | Blk  | Sck  | MVP  | Intercepted | Sacked | KOed | Hurt | Injured | Killed | SPP  |
@@ -204,6 +204,14 @@ SELECT pl.f_tname AS Team, mt.round, sum(mx.catches) + sum(mx.pickups) + sum(md.
 ```
 SELECT pl.nr AS "#", pl.name AS Player, count(md.f_match_id) AS GP, sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches) AS Touches, sum(md.td) AS TD, sum(mx.rushing_distance_move) AS Rsh, sum(md.cp) AS Cp, sum(mx.pass_distance) AS CpDst, sum(mx.catches) AS Ctch, sum(md.intcpt) AS "Int", sum(md.bh) + sum(md.si) + sum(md.ki) AS Cas, sum(mx.inflicted_blocks) AS Blk, sum(mx.inflicted_sacks) AS Sck, sum(md.mvp) AS MVP, sum(mx.interceptions_thrown) AS Intercepted, sum(mx.sustained_sacks) AS Sacked, sum(mx.sustained_kos) AS KOed, sum(mx.sustained_bhs) AS Hurt, sum(mx.sustained_sis) AS Injured, sum(mx.sustained_kill) AS Killed, (sum(md.td) * 3) + sum(md.cp) + (sum(md.intcpt) * 2) + (sum(md.bh) * 2) + (sum(md.si) * 2) + (sum(md.ki) * 2) + (sum(md.mvp) * 5) AS SPP FROM match_data AS md JOIN match_data_es AS mx ON md.f_player_id = mx.f_pid AND md.f_match_id = mx.f_mid JOIN players AS pl ON md.f_player_id = pl.player_id AND md.f_team_id = pl.owned_by_team_id JOIN matches AS mt ON mt.match_id = md.f_match_id JOIN tours ON md.f_tour_id = tours.tour_id AND md.f_did = tours.f_did WHERE tours.name = "Green Cup XI" AND pl.f_tname = "Darkling Spectres" GROUP BY pl.name, pl.nr ORDER BY pl.nr ASC;
 ```
+
+#### Projection GCXII
+
+W-D-L 5-1-9 
+
+The Spectres are projecting to be even worse this season battling the [Ravenous Eagles](ravenouseagles) to stay out of the Pits' basement. That said if the [Palace Orchids](palaceorchids) find Green Cup play a lot tougher than Orange Goblet, they might have another chance to sneak into the playoffs again.
+
+
 ### Stars
 
 > **Currently active players** are highlighted and modern-era players whose careers are over are not marked. *Old-era players* have incomplete statistics.
@@ -219,7 +227,7 @@ SELECT pl.nr AS "#", pl.name AS Player, count(md.f_match_id) AS GP, sum(mx.catch
 | *Tutankhamun* | Blocker | ?? | ?? | ?? | 38 |  0 | 0 | 2 | 16 | 9 | 4 | 3 | 76 |
 | Hortensius    | Runner    |    9 |    3 |   13 |   25 |   20 |    6 |    0 |    1 |    0 |    0 |    1 |   73 |
 | Zdravko       | Runner    |   11 |    1 |   17 |   29 |   16 |    3 |    1 |    1 |    1 |    0 |    2 |   67 |
-| Onesiphorus | Blocker    |   20 |    5 |   21 |   46 |    0 |    0 |    0 |   11 |   12 |    1 |    3 |   63 |
+| **Onesiphorus** | Blocker    |   20 |    5 |   21 |   46 |    0 |    0 |    0 |   11 |   12 |    1 |    3 |   63 |
 | Lamont       | Blitzer    |   27 |    5 |   26 |   58 |    3 |    0 |    0 |    6 |    5 |    1 |    6 |   63 |
 | Ragnar       | Runner    |    9 |    2 |    7 |   18 |   11 |    4 |    2 |    1 |    0 |    0 |    3 |   58 |
 | Federica     | Runner    |    8 |    2 |   11 |   21 |   12 |    3 |    0 |    1 |    0 |    0 |    3 |   56 |

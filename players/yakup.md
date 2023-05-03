@@ -34,7 +34,7 @@ Yakup retired from pro BludBol at the end of GCVIII (652.4) but then returned fo
 # Prize Stats
 
 * Sardine Crown - GCVI [[sardinecrown#gcvi]]
-* MVP - GCVII [[mvp#gcvii]]
+* MVP - GCVII [[prizes/mvp#gcvii]]
 * Halfleg Award - GCVI [[halflegaward#gcvii]]
 * First Centurion [[centurion]]
 * Best Single Match Performance [[bestmatch]]

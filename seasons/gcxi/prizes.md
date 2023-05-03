@@ -6,7 +6,7 @@ midway / end of regular season / final
 * [[team2ndplace]] - [[filthytide]] / [[filthytide]] / [[glorioushounds]]
 * [[team3rdplace]] - [[glorioushounds]] / [[glorioushounds]] / [[eldritchfatality]]
 * [[teamcasualties]] - [[ravenouseagles]] / [[ravenouseagles]] / [[ravenouseagles]]
-* [[mvp]] -  [[ziba]] / [[Veens]] / [[Veens]]
+* [[prizes/mvp]] -  [[ziba]] / [[Veens]] / [[Veens]]
 <<<<<<< HEAD
 * [[sardinecrown]] - [[ziba]]  / [[Veens]] / [[Veens]]
 =======

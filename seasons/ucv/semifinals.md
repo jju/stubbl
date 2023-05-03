@@ -1,3 +1,3 @@
-Thrillers -	Raptors
-Glorious Hounds	- Warthogs
+Thrillers -	New Cursed
+Arboreal Menace - Stripped Cogs
 
