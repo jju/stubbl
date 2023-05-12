@@ -58,33 +58,34 @@
 
 # open division
 
-## ubbl challenge
+## uc
 
 [[aeson]]
 
-## ubbl challenge ii
+## ucii
 
 [[votyris]]
 
-## ubbl challenge iii
+## uciii
 
 [[georgina]]
 
-## orange goblet
+## og
 
 [[Achille]]
 
-## ubbl challenge iv
+## uciv
 
 [[ziba]]
 
-## orange goblet ii
+## ogii
 
 [[mihael]]
 
-## orange goblet iii
+## ogiii
 
 [[Marques]]
 
-## ubbl challenge v
+## ucv
 
+[[Evgenia]]* disputed

@@ -8,6 +8,27 @@ Playing on the line is not the glamorous part of BludBol. The job is to get hit 
 SELECT count(distinct(md.f_player_id)) AS Players, count(md.f_match_id) AS Games, sum(md.td) AS TDs, sum(mx.rushing_distance_move) AS Rush, sum(md.cp) AS Cp, sum(mx.pass_distance) AS CpDist, sum(mx.catches) AS Ctch, sum(md.intcpt) AS "Int", sum(md.bh) + sum(md.si) + sum(md.ki) AS Cas, sum(mx.inflicted_blocks) AS Blck, sum(mx.inflicted_sacks) AS Sck, sum(md.td) + sum(md.cp) + sum(mx.catches) + (sum(mx.rushing_distance_move) * 0.1) + (sum(mx.pass_distance) * 0.1) AS oVP, (sum(md.intcpt) * 2) + sum(md.bh) + sum(md.si) + sum(md.ki) + (sum(mx.inflicted_blocks) * 0.2) + sum(mx.inflicted_sacks) AS dVP, (sum(md.td) + sum(md.cp) + sum(mx.catches) + (sum(mx.rushing_distance_move) * 0.1) + (sum(mx.pass_distance) * 0.1) + (sum(md.intcpt) * 2) + sum(md.bh) + sum(md.si) + sum(md.ki) + (sum(mx.inflicted_blocks) * 0.2) + sum(mx.inflicted_sacks))/count(md.f_match_id) AS tVPG, (sum(md.td) + sum(md.cp) + sum(mx.catches) + (sum(mx.rushing_distance_move) * 0.1) + (sum(mx.pass_distance) * 0.1) + (sum(md.intcpt) * 2) + sum(md.bh) + sum(md.si) + sum(md.ki) + (sum(mx.inflicted_blocks) * 0.2) + sum(mx.inflicted_sacks))/count(distinct(md.f_player_id)) AS tVPP FROM match_data AS md JOIN match_data_es AS mx ON md.f_player_id = mx.f_pid AND md.f_match_id = mx.f_mid JOIN players AS pl ON md.f_player_id = pl.player_id AND md.f_team_id = pl.owned_by_team_id JOIN matches AS mt ON mt.match_id = md.f_match_id JOIN tours ON mt.f_tour_id = tours.tour_id WHERE pl.f_pos_name IN ("Lineman", "Rotter", "Zombie", "Skeleton", "Linewoman", "Marauder", "Beastman", "Hobgoblin", "Thrall", "Halfling") ;
 ```
 
+## position hall of fame
+
+| Player     | Team             | Games | TDs  | Rush | Cp   | CpDist | Ctch | Int  | Cas  | Blck | Sck  | oVP   | dVP  | tVPG    | tVP   |
+|------------|------------------|-------|------|------|------|--------|------|------|------|------|------|-------|------|---------|-------|
+| [[Jacquetta]] | TC Sump Runners  |    59 |    4 |  466 |  107 |    368 |   13 |    2 |    6 |   96 |    6 | 207.4 | 35.2 | 4.11186 | 242.6 |
+| [[Leppard]]   | Orbital Machine  |    86 |   18 |  644 |   26 |     97 |    8 |    2 |   10 |  226 |    9 | 126.1 | 68.2 | 2.25930 | 194.3 |
+| [[Tycho]]     | Carcosan Tatters |    55 |    4 |  559 |   51 |    195 |    2 |    2 |    3 |   37 |    2 | 132.4 | 16.4 | 2.70545 | 148.8 |
+| [[Heep]]      | Orbital Machine  |    42 |   28 |  421 |    5 |      2 |   30 |    4 |    7 |   86 |    1 | 105.3 | 33.2 | 3.29762 | 138.5 |
+| [[Medb]]      | Deep Dreamers    |    50 |    0 |  429 |   53 |    147 |    1 |    1 |    2 |   58 |    6 | 111.6 | 21.6 | 2.66400 | 133.2 |
+| [[Humbert]]   | Ravenous Eagles  |    44 |   12 |  491 |   36 |    106 |    4 |    2 |    1 |   34 |    2 | 111.7 | 13.8 | 2.85227 | 125.5 |
+| **[[Ruslan]]**     | Orbital Machine  |    43 |   12 |  404 |   10 |     22 |   13 |    1 |    7 |  105 |    5 |  77.6 | 35.0 | 2.61860 | 112.6 |
+| **[[Sadhbh]]**     | Hoods            |    31 |    6 |  263 |   37 |    146 |   14 |    1 |    2 |   36 |    1 |  97.9 | 12.2 | 3.55161 | 110.1 |
+| [[Frediano]]  | Ravenous Eagles  |    38 |   13 |  512 |   20 |     46 |    5 |    1 |    1 |   40 |    2 |  93.8 | 13.0 | 2.81053 | 106.8 |
+| [[Edgar]]     | TC Sump Runners  |    90 |    0 |   16 |    4 |     11 |    3 |    2 |   12 |  342 |   11 |   9.7 | 95.4 | 1.16778 | 105.1 |
+
+```
+SELECT pl.name AS Player, pl.f_tname AS Team, count(md.f_match_id) AS Games, sum(md.td) AS TDs, sum(mx.rushing_distance_move) AS Rush, sum(md.cp) AS Cp, sum(mx.pass_distance) AS CpDist, sum(mx.catches) AS Ctch, sum(md.intcpt) AS "Int", sum(md.bh) + sum(md.si) + sum(md.ki) AS Cas, sum(mx.inflicted_blocks) AS Blck, sum(mx.inflicted_sacks) AS Sck, sum(md.td) + sum(md.cp) + sum(mx.catches) + (sum(mx.rushing_distance_move) * 0.1) + (sum(mx.pass_distance) * 0.1) AS oVP, (sum(md.intcpt) * 2) + sum(md.bh) + sum(md.si) + sum(md.ki) + (sum(mx.inflicted_blocks) * 0.2) + sum(mx.inflicted_sacks) AS dVP, (sum(md.td) + sum(md.cp) + sum(mx.catches) + (sum(mx.rushing_distance_move) * 0.1) + (sum(mx.pass_distance) * 0.1) + (sum(md.intcpt) * 2) + sum(md.bh) + sum(md.si) + sum(md.ki) + (sum(mx.inflicted_blocks) * 0.2) + sum(mx.inflicted_sacks))/count(md.f_match_id) AS tVPG, round((sum(md.td) + sum(md.cp) + sum(mx.catches) + (sum(mx.rushing_distance_move) * 0.1) + (sum(mx.pass_distance) * 0.1) + (sum(md.intcpt) * 2) + sum(md.bh) + sum(md.si) + sum(md.ki) + (sum(mx.inflicted_blocks) * 0.2) + sum(mx.inflicted_sacks))/count(distinct(md.f_player_id)),1) AS tVP FROM match_data AS md JOIN match_data_es AS mx ON md.f_player_id = mx.f_pid AND md.f_match_id = mx.f_mid JOIN players AS pl ON md.f_player_id = pl.player_id AND md.f_team_id = pl.owned_by_team_id JOIN matches AS mt ON mt.match_id = md.f_match_id JOIN tours ON mt.f_tour_id = tours.tour_id WHERE pl.f_pos_name IN ("Lineman", "Rotter", "Zombie", "Skeleton", "Linewoman", "Marauder", "Beastman", "Hobgoblin", "Thrall", "Halfling") GROUP BY pl.name ORDER BY tVP DESC LIMIT 10;
+```
+
+[[jacquetta]] is by far the most valuable player to have played a career on the line. Her teammate [[Edgar]] is the most defensively valuable.
+
 Different playbooks can sometimes use different names for the position, which does make for a bit of variability.
 
 | Position  | Players | Games | TDs  | Rush | Cp   | CpDist | Ctch | Int  | Cas  | Blck  | Sck  | oVP    | dVP    | tVPG    |

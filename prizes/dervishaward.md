@@ -63,16 +63,16 @@ Unknown
 
 ## ubbl challenge iii
 
-## orange goblet
+## og
 
 [[Amalie]]
 
 ## ubbl challenge iv
 
-## orange goblet ii
+## ogii
 
 [[Amalie]]
 
-## orange goblet iii
+## ogiii
 
 [[Borislav]]

@@ -1,6 +1,6 @@
 # Jacquetta
 
-[[sumprunners]][[line]][[thrower]][[ucii]][[gcix]][[uciii]][[gcx]][[uciv]][[gcxi]][[active]][[superstar]]
+[[sumprunners]][[line]][[thrower]][[ucii]][[gcix]][[uciii]][[gcx]][[uciv]][[gcxi]][[active]][[legend]]
 
 Jacquetta takes up an interesting spot in the Sump Runner roster. He came up as a line playing grunt but is a very competent thrower as well, which gives the team some extra flexibility. They've squandered it because the Sump Runners aren't very good, but the opportunity is there.
 

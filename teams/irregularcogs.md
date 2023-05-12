@@ -67,7 +67,7 @@ SELECT teams.name AS Team, divisions.name AS Division, sum(mr.won) AS W, sum(mr.
 ```
 SELECT teams.name AS Team, sum(mr.won) AS W, sum(mr.draw) AS D, sum(mr.lost) AS L, sum(mr.played) AS GP, round(avg(mr.win_pct),3) AS "Win%", sum(mr.gf) AS GF, sum(mr.ga) AS GA, sum(mr.tcasf) AS Cas, sum(mr.tcdiff) AS CasDiff, sum(mr.ff) AS Fans FROM mv_teams AS mr JOIN teams ON teams.team_id = mr.f_tid WHERE teams.name = "Irregular Cogs" GROUP BY teams.name ORDER BY sum(mr.won) DESC limit 3;
 ```
-80-17-53
+
 
 ### Prizes
 
@@ -82,7 +82,7 @@ SELECT teams.name AS Team, sum(mr.won) AS W, sum(mr.draw) AS D, sum(mr.lost) AS 
 |-----------|--------------------|--:|--:|--:|---:|-----:|---:|---:|----:|-----:|---:|
 | Irregular Cogs | Green Cup V Memorial |    8 |    3 |    2 |     13 | 73.08 |   27 |   14 |   20 |      9 |    0 |
 | Irregular Cogs | Green Cup VII        |   13 |    0 |    5 |     18 | 72.22 |   51 |   32 |   12 |    -19 |    2 |
-| Irregular Cogs | **Green Cup I**          |    7 |    3 |    2 |     12 | 70.83 |   36 |   27 |   14 |    -10 |    2 |
+| Irregular Cogs | **Green Cup I**      |    7 |    3 |    2 |     12 | 70.83 |   36 |   27 |   14 |    -10 |    2 |
 | Irregular Cogs | Green Cup IX         |   11 |    1 |    5 |     17 | 67.65 |   49 |   36 |   15 |    -12 |    7 |
 | Irregular Cogs | Green Cup X          |   10 |    2 |    5 |     17 | 64.71 |   49 |   35 |   18 |     -4 |    0 |
 | Irregular Cogs | UBBL Challenge       |    2 |    1 |    1 |      4 |    62.50 |    9 |    8 |    5 |     -2 |   -1 |
@@ -113,40 +113,35 @@ In the street-level GCV Memorial tournament the Cogs ended up with second place 
 
 Both Green Cups IX and X ended in the Division Finals with losses to the [Badger Claws](badgerclaws) and underperforming expectations yet again. GCX even had the Cogs at the top of the standings by the end of the regular season, but a long playoff run just wasn't in the cards.
 
-#### GCXI Projection
-
-W-D-L 9-0-6 
-
-There's no obvious reason the Cogs can't win the Green Cup this season. They have a big payroll and should be able to afford to develop some rookies as the season progresses. Playing for the division title is mostly about keeping the fragile [Badger Claws](badgerclaws) from getting a bye to rest up their scorers, so if things are going well early, expect them to ease up. But in GCX, the Outlands were the toughest division and they don't want to get stuck on the outside looking in.
+There was no obvious reason the Cogs couldn't win the Green Cup in GCXI. They had a big payroll and should have been able to afford to develop some rookies as the season progressed. Sadly their star runner [[merlyn]] was forcibly retired before the playoffs and though they made it to the divisional finals they fell to the [[arborealmenace]].
 
 #### GCXI summary
 
-| Team            | round | Touches | TDs  | Rush | Cp   | PassDist | Caught | Intercepts | Cas  | Blocks | Sacks | MVPs | SPP  |  Location | WDL |
-|-----------------|-------|---------|------|------|------|----------|--------|------------|------|--------|-------|------|------|-------------|-------------|
-| Irregular Cogs |     1 |       5 |    2 |   58 |    2 |        5 |      2 |          0 |    3 |     30 |     1 |    1 |   19 |           1 |           2 |
-| Irregular Cogs |     2 |       9 |    1 |   30 |    4 |        9 |      4 |          0 |    1 |     46 |     1 |    1 |   14 |           1 |           3 |
-| Irregular Cogs |     3 |       9 |    2 |   35 |    3 |       15 |      3 |          1 |    1 |     46 |     3 |    1 |   18 |           2 |           2 |
-| Irregular Cogs |     4 |       9 |    3 |   54 |    3 |       20 |      3 |          0 |    2 |     56 |     2 |    1 |   21 |           3 |           2 |
-| Irregular Cogs |     5 |      17 |    5 |   74 |    6 |       11 |      6 |          2 |    2 |     44 |     1 |    1 |   34 |           5 |           1 |
-| Irregular Cogs |     6 |       7 |    1 |   37 |    1 |        6 |      1 |          0 |    0 |     47 |     2 |    1 |    9 |           3 |           1 |
-| Irregular Cogs |     7 |      22 |    4 |  107 |   12 |       23 |     12 |          0 |    0 |     53 |     2 |    1 |   29 |           5 |           4 |
-| Irregular Cogs |     8 |      19 |    5 |   70 |    9 |       31 |      9 |          2 |    1 |     44 |     4 |    1 |   35 |           2 |           5 |
-| Irregular Cogs |     9 |       9 |    3 |   34 |    2 |        4 |      2 |          1 |    1 |     36 |     6 |    1 |   20 |           3 |           1 |
-| Irregular Cogs |    10 |      18 |    7 |  103 |    8 |       10 |      8 |          1 |    3 |     42 |     1 |    1 |   42 |           4 |           7 |
-| Irregular Cogs |    11 |      10 |    3 |   76 |    3 |        9 |      3 |          0 |    1 |     34 |     0 |    1 |   19 |           3 |           3 |
-| Irregular Cogs |    12 |       5 |    0 |   10 |    2 |        6 |      2 |          0 |    0 |     26 |     0 |    1 |    7 |           3 |           0 |
-| Irregular Cogs |    13 |       9 |    3 |   37 |    2 |       14 |      2 |          0 |    0 |     37 |     0 |    1 |   16 |           3 |           1 |
-| Irregular Cogs |    14 |       9 |    1 |   44 |    2 |        1 |      2 |          2 |    0 |     24 |     1 |    1 |   14 |           1 |           2 |
-| Irregular Cogs |    15 |      10 |    2 |   50 |    4 |       17 |      4 |          0 |    3 |     35 |     0 |    1 |   21 |           1 |           2 |
-| Irregular Cogs |   R16 |       9 |    4 |   69 |    2 |        5 |      2 |          0 |    1 |     42 |     2 |    1 |   21 |           4 |           2 |
-| Irregular Cogs |    QF |       7 |    2 |   56 |    1 |        6 |      1 |          0 |    2 |     35 |     0 |    1 |   16 |           3 |           2 |
+| Team           | round | Location | Result | Home | Away | Touches | TDs  | Rush | Cp   | PassDist | Caught | Intercepts | Cas  | Blocks | Sacks | MVPs | SPP  |
+|----------------|-------|----------|--------|------|------|---------|------|------|------|----------|--------|------------|------|--------|-------|------|------|
+| Irregular Cogs |     1 | Away     | Win    |    1 |    2 |       5 |    2 |   58 |    2 |        5 |      2 |          0 |    3 |     30 |     1 |    1 |   19 |
+| Irregular Cogs |     2 | Home     | Loss   |    1 |    3 |       9 |    1 |   30 |    4 |        9 |      4 |          0 |    1 |     46 |     1 |    1 |   14 |
+| Irregular Cogs |     3 | Home     | Draw   |    2 |    2 |       9 |    2 |   35 |    3 |       15 |      3 |          1 |    1 |     46 |     3 |    1 |   18 |
+| Irregular Cogs |     4 | Home     | Win    |    3 |    2 |       9 |    3 |   54 |    3 |       20 |      3 |          0 |    2 |     56 |     2 |    1 |   21 |
+| Irregular Cogs |     5 | Home     | Win    |    5 |    1 |      17 |    5 |   74 |    6 |       11 |      6 |          2 |    2 |     44 |     1 |    1 |   34 |
+| Irregular Cogs |     6 | Away     | Loss   |    3 |    1 |       7 |    1 |   37 |    1 |        6 |      1 |          0 |    0 |     47 |     2 |    1 |    9 |
+| Irregular Cogs |     7 | Away     | Loss   |    5 |    4 |      22 |    4 |  107 |   12 |       23 |     12 |          0 |    0 |     53 |     2 |    1 |   29 |
+| Irregular Cogs |     8 | Away     | Win    |    2 |    5 |      19 |    5 |   70 |    9 |       31 |      9 |          2 |    1 |     44 |     4 |    1 |   35 |
+| Irregular Cogs |     9 | Home     | Win    |    3 |    1 |       9 |    3 |   34 |    2 |        4 |      2 |          1 |    1 |     36 |     6 |    1 |   20 |
+| Irregular Cogs |    10 | Away     | Win    |    4 |    7 |      18 |    7 |  103 |    8 |       10 |      8 |          1 |    3 |     42 |     1 |    1 |   42 |
+| Irregular Cogs |    11 | Away     | Draw   |    3 |    3 |      10 |    3 |   76 |    3 |        9 |      3 |          0 |    1 |     34 |     0 |    1 |   19 |
+| Irregular Cogs |    12 | Away     | Loss   |    3 |    0 |       5 |    0 |   10 |    2 |        6 |      2 |          0 |    0 |     26 |     0 |    1 |    7 |
+| Irregular Cogs |    13 | Home     | Win    |    3 |    1 |       9 |    3 |   37 |    2 |       14 |      2 |          0 |    0 |     37 |     0 |    1 |   16 |
+| Irregular Cogs |    14 | Home     | Loss   |    1 |    2 |       9 |    1 |   44 |    2 |        1 |      2 |          2 |    0 |     24 |     1 |    1 |   14 |
+| Irregular Cogs |    15 | Away     | Win    |    1 |    2 |      10 |    2 |   50 |    4 |       17 |      4 |          0 |    3 |     35 |     0 |    1 |   21 |
+| Irregular Cogs |   251 | Home     | Win    |    4 |    2 |       9 |    4 |   69 |    2 |        5 |      2 |          0 |    1 |     42 |     2 |    1 |   21 |
+| Irregular Cogs |   252 | Away     | Loss   |    3 |    2 |       7 |    2 |   56 |    1 |        6 |      1 |          0 |    2 |     35 |     0 |    1 |   16 |
 
 ```
 SELECT pl.f_tname AS Team, mt.round, CASE WHEN mt.team1_id = md.f_team_id THEN "Home" ELSE "Away" END AS Location, CASE WHEN mt.team1_score - mt.team2_score > 0 AND mt.team1_id = md.f_team_id THEN "Win" WHEN mt.team2_score - mt.team1_score > 0 AND mt.team2_id = md.f_team_id THEN "Win" WHEN mt.team1_score = mt.team2_score THEN "Draw" ELSE "Loss" END AS Result, mt.team1_score AS Home, mt.team2_score AS Away, sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches) AS Touches, sum(md.td) AS TDs, sum(mx.rushing_distance_move) AS Rush, sum(md.cp) AS Cp, sum(mx.pass_distance) AS PassDist, sum(mx.catches) AS Caught, sum(md.intcpt) AS Intercepts, sum(md.bh) + sum(md.si) + sum(md.ki) AS Cas, sum(mx.inflicted_blocks) AS Blocks, sum(mx.inflicted_sacks) AS Sacks, sum(md.mvp) AS MVPs, (sum(md.td) * 3) + sum(md.cp) + (sum(md.intcpt) * 2) + (sum(md.bh) * 2) + (sum(md.si) * 2) + (sum(md.ki) * 2) + (sum(md.mvp) * 5) AS SPP FROM match_data AS md JOIN match_data_es AS mx ON md.f_player_id = mx.f_pid AND md.f_match_id = mx.f_mid JOIN players AS pl ON md.f_player_id = pl.player_id AND md.f_team_id = pl.owned_by_team_id JOIN matches AS mt ON mt.match_id = md.f_match_id WHERE md.f_tour_id = 29 AND pl.f_tname = "Irregular Cogs" GROUP BY pl.f_tname, mt.round ORDER BY mt.round ASC;
 ```
 
 #### GCXI roster
-
 
 | #    | Player     | GP | Touches | TD   | Rsh  | Cp   | CpDst | Ctch | Int  | Cas  | Blk  | Sck  | MVP  | Intercepted | Sacked | KOed | Hurt | Injured | Killed | SPP  |
 |------|------------|----|---------|------|------|------|-------|------|------|------|------|------|------|-------------|--------|------|------|---------|--------|------|
@@ -175,6 +170,12 @@ SELECT pl.f_tname AS Team, mt.round, CASE WHEN mt.team1_id = md.f_team_id THEN "
 ```
 SELECT pl.nr AS "#", pl.name AS Player, count(md.f_match_id) AS GP, sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches) AS Touches, sum(md.td) AS TD, sum(mx.rushing_distance_move) AS Rsh, sum(md.cp) AS Cp, sum(mx.pass_distance) AS CpDst, sum(mx.catches) AS Ctch, sum(md.intcpt) AS "Int", sum(md.bh) + sum(md.si) + sum(md.ki) AS Cas, sum(mx.inflicted_blocks) AS Blk, sum(mx.inflicted_sacks) AS Sck, sum(md.mvp) AS MVP, sum(mx.interceptions_thrown) AS Intercepted, sum(mx.sustained_sacks) AS Sacked, sum(mx.sustained_kos) AS KOed, sum(mx.sustained_bhs) AS Hurt, sum(mx.sustained_sis) AS Injured, sum(mx.sustained_kill) AS Killed, (sum(md.td) * 3) + sum(md.cp) + (sum(md.intcpt) * 2) + (sum(md.bh) * 2) + (sum(md.si) * 2) + (sum(md.ki) * 2) + (sum(md.mvp) * 5) AS SPP FROM match_data AS md JOIN match_data_es AS mx ON md.f_player_id = mx.f_pid AND md.f_match_id = mx.f_mid JOIN players AS pl ON md.f_player_id = pl.player_id AND md.f_team_id = pl.owned_by_team_id JOIN matches AS mt ON mt.match_id = md.f_match_id JOIN tours ON md.f_tour_id = tours.tour_id AND md.f_did = tours.f_did WHERE tours.name = "Green Cup XI" AND pl.f_tname = "Irregular Cogs" GROUP BY pl.name, pl.nr ORDER BY pl.nr ASC;
 ```
+#### GCXII Projection
+
+W-D-L 8-0-7 
+
+Again, the Cogs look like they could win the division, but making a deep playoff run will require some new offensive threats to be developed from within.
+
 
 ### Stars
 

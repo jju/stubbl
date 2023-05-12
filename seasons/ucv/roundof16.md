@@ -13,4 +13,4 @@ The weirdest outcome of the round was a 2-2 Draw for the Cogs and Dynamo. The Co
 
 The Arboreal Menace are looking like the class of the tournament with a 3-2 win over another talented team.
 
-Other winners: The [[newcursed | New Cursed]], [[thrillers]], [[deepdreamers]], [[badgerclaws]], [[zensunvagabonds | Zensun Vagabonds]], and [[warthogs]].
+Other winners: The [[newcursed | New Cursed]], [[xenothrillers]], [[deepdreamers]], [[badgerclaws]], [[zensunvagabonds | Zensun Vagabonds]], and [[warthogs]].

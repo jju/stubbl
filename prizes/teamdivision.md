@@ -43,3 +43,10 @@
 * Outlands - [[arborealmenace]]
 * Heaps - [[glorioushounds]]
 * Pits - [[eldritchfatality]]
+
+# gcxii
+
+* Stacks - 
+* Outlands - 
+* Heaps - 
+* Pits - 

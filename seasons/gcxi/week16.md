@@ -33,6 +33,8 @@ The Wyrms played like defending champions and seem to have their hearts set on t
 
 The Spectres defeated the Eagles in a tense nail-biting match that almost seemed destined for overtime, but was won on a drive where it felt like everyone touched the ball, and Ragnar was martyred out of it. [[gcxi-16-dsre]]
 
+The Cogs defeated the Tatters IC 4 - CT 1. [[gcxi-16-icct]]
+
 ## standings
 
 | Stacks | W-D-L | Outlands | W-D-L | Heaps | W-D-L | Pits | W-D-L |

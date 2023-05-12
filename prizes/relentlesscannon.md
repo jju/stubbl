@@ -67,14 +67,14 @@ Unknown
 
 ## ubbl challenge iii
 
-## orange goblet
+## og
 
 [[Eufemia]]
 
-## orange goblet ii
+## ogii
 
 [[Eufemia]]
 
-## orange goblet iii
+## ogiii
 
 [[Eufemia]]

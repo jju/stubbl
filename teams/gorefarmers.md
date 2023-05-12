@@ -6,7 +6,7 @@ When the Gore Farmers are good they can be very good, as evidenced by their two 
 
 The Orville-Crush approach to BludBol is traditional, simple, but also somewhat arcane. A team can use 4 strong slow and unskilled linemen, 4 faster attacking blitzers, 2 dedicated ball-handlers, 4 weak slow receivers and a nigh-unlimited supply of tough fodder. The basic idea is to get a ball handler into a cage and grind out a 2-1 win, but there are more options for the team that wishes to develop them. The Gore Farmers, for instance, *mostly* eschew the Big Guy approach.
 
-## Active Roster GCXI Playoffs
+## Active Roster
 
 | # | Player    | Position  | SPP | Seasons | GP | Contracts | Value | Bonus |
 |---|-----------|-----------|-----|---------|----|-----------|-------|-------|
@@ -66,7 +66,7 @@ SELECT pl.nr AS "#", pl.name AS Player, pl.f_pos_name AS Position, sum(mp.spp) A
 
 ## Records
 
-### Record by Division (W-D-L)
+### Record by Division
 
 | Team            | Division | W    | D    | L    | GP   | Win%   | GF   | GA   | Cas  | CasDiff | Fans |
 |-----------------|----------|------|------|------|------|--------|------|------|------|---------|------|
@@ -88,7 +88,6 @@ SELECT teams.name, divisions.name, sum(mr.won) AS W, sum(mr.draw) AS D, sum(mr.l
 ```
 SELECT teams.name, sum(mr.won), sum(mr.draw), sum(mr.lost), sum(mr.played), Round(avg(mr.win_pct),3) AS "Win%", sum(mr.gf), sum(mr.ga), sum(mr.tcasf), sum(mr.tcdiff), sum(mr.ff) FROM mv_teams AS mr JOIN teams ON teams.team_id = mr.f_tid WHERE teams.name = "Gore Farmers" GROUP BY teams.name ORDER BY sum(mr.won) DESC limit 3;
 ```
-52-22-60
 
 ### Prizes
 

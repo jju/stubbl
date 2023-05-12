@@ -23,7 +23,19 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "players/Marques.md",
+                        "file": "story/vh-trades.md",
+                        "mode": "source",
+                        "source": true
+                      }
+                    }
+                  },
+                  {
+                    "id": "7a58bf6b3878a0b8",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "players/donat.md",
                         "mode": "source",
                         "source": true
                       }
@@ -42,24 +54,13 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "seasons/ogiii/index.md",
+                        "file": "positions/kicker.md",
                         "mode": "source",
                         "source": true
                       }
                     }
-                  },
-                  {
-                    "id": "f1f5f671a4b68e6c",
-                    "type": "leaf",
-                    "state": {
-                      "type": "release-notes",
-                      "state": {
-                        "currentVersion": "1.2.7"
-                      }
-                    }
                   }
-                ],
-                "currentTab": 1
+                ]
               }
             ],
             "direction": "vertical"
@@ -80,26 +81,13 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "seasons/ucv/semifinals.md",
-                        "mode": "source",
-                        "source": true
-                      }
-                    }
-                  },
-                  {
-                    "id": "7515bb007f720b0e",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "seasons/ucv/poolplay.md",
+                        "file": "players/Green.md",
                         "mode": "source",
                         "source": true
                       }
                     }
                   }
-                ],
-                "currentTab": 1
+                ]
               },
               {
                 "id": "4ed04effd1af26db",
@@ -107,92 +95,18 @@
                 "dimension": 48.39948783610757,
                 "children": [
                   {
-                    "id": "8a8dbe2864851b2c",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "positions/line.md",
-                        "mode": "source",
-                        "source": true
-                      }
-                    }
-                  },
-                  {
-                    "id": "9a078df083df5c1e",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "positions/thrower.md",
-                        "mode": "source",
-                        "source": true
-                      }
-                    }
-                  },
-                  {
-                    "id": "e8d8fd4ae39ffcef",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "positions/attacker.md",
-                        "mode": "source",
-                        "source": true
-                      }
-                    }
-                  },
-                  {
-                    "id": "9095b9581b8aed58",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "positions/heavy.md",
-                        "mode": "source",
-                        "source": true
-                      }
-                    }
-                  },
-                  {
-                    "id": "a7de4ccecd735a36",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "positions/runner.md",
-                        "mode": "source",
-                        "source": true
-                      }
-                    }
-                  },
-                  {
-                    "id": "24fb8b4b79b7924a",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "positions/blocker.md",
-                        "mode": "source",
-                        "backlinks": true,
-                        "source": true
-                      }
-                    }
-                  },
-                  {
                     "id": "4168a745da8a1e0a",
                     "type": "leaf",
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "positions/index.md",
+                        "file": "timeline.md",
                         "mode": "source",
                         "source": true
                       }
                     }
                   }
-                ],
-                "currentTab": 2
+                ]
               }
             ],
             "direction": "vertical"
@@ -264,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "seasons/ogiii/index.md",
+                "file": "players/Green.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -291,35 +205,35 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f1f5f671a4b68e6c",
+  "active": "19fcccc25eb6a56c",
   "lastOpenFiles": [
-    "seasons/ucv/poolplay.md",
-    "positions/attacker.md",
-    "positions/blocker.md",
-    "positions/index.md",
-    "positions/line.md",
-    "positions/catcher.md",
-    "stats/tVP.md",
-    "stats/Int.md",
-    "stats/Cp.md",
-    "stats/Cas.md",
-    "stats/TD.md",
+    "story/vh-trades.md",
+    "players/Green.md",
+    "players/ziba.md",
+    "players/nicodemusii.md",
+    "story/vh-trickery.md",
+    "players/donat.md",
     "timeline.md",
-    "stats/SPP.md",
-    "stats/block.md",
-    "positions/runner.md",
+    "positions/line.md",
+    "teams/vanadiumhunters.md",
+    "Mayflower.md",
+    "mysqlqueries.md",
+    "positions/kicker.md",
+    "teams/template.md",
+    "prizes/carminefist.md",
+    "teams/ravenouseagles.md",
+    "story/re-funding.md",
+    "seasons/gcxii/preseason.md",
+    "story/ft-parade.md",
+    "Blocks.md",
+    "players/ekua.md",
     "positions/blitzer.md",
-    "players/Marques.md",
-    "positions/heavy.md",
-    "positions/thrower.md",
+    "positions/attacker.md",
+    "matches/gcxi-16-kdzv.md",
+    "story/index.md",
+    "teams/index.md",
+    "matches/gcvii-08-omic.md",
     "positions",
-    "seasons/ogiii/index.md",
-    "seasons/ogiii/prizes.md",
-    "seasons/ogiii/week13-semifinals.md",
-    "seasons/ogiii/week14-finals.md",
-    "players/beardpuller.md",
-    "seasons/ucv/semifinals.md",
-    "seasons/ucv/quarterfinals.md",
     "seasons/gcxii",
     "seasons/ucv"
   ]

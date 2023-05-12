@@ -64,10 +64,10 @@ Unknown
 
 ## orange goblet
 
-## orange goblet ii
+## ogii
 
 [[mihael]]
 
-## orange goblet iii
+## ogiii
 
 [[Marques]]

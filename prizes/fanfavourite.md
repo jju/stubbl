@@ -64,16 +64,16 @@ Unknown
 
 ## ubbl challenge iii
 
-## orange goblet
+## og
 
 [[Daphnee]]
 
 ## ubbl challenge iv
 
-## orange goblet ii
+## ogii
 
 [[Sita]]
 
-## orange goblet iii
+## ogiii
 
 [[Tacita]]

@@ -50,30 +50,34 @@
 
 # open division
 
-## ubbl challenge
+## uc
 
 [[filthytide]]
 
-## ubbl challenge ii
+## ucii
 
 [[gargantuanbrutes]]
 
-## ubbl challenge iii
+## uciii
 
 [[arborealmenace]]
 
-## orange goblet
+## og
 
 [[kickingmules]]
 
-## ubbl challenge iv
+## uciv
 
 [[glorioushounds]]
 
-## orange goblet ii
+## ogii
 
 [[virtuaraptors]]
 
-## orange goblet iii
+## ogiii
 
 [[kickingmules]]
+
+## ucv
+
+[[xenothrillers]]

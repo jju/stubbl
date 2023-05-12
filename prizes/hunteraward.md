@@ -63,14 +63,14 @@ Unknown
 
 ## ubbl challenge iii
 
-## orange goblet
+## og
 
 [[Olga]]
 
-## orange goblet ii
+## ogii
 
 [[Mahmud]]
 
-## orange goblet iii
+## ogiii
 
 [[Maja]]

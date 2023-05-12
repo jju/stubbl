@@ -128,6 +128,10 @@ Unless specified, we're dealing with the 1262 epoch.
 	* Week 8 780.0 #t2780 [[seasons/gcxi/week08]]
 	* Week 9 781.0 #t2781 [[seasons/gcxi/week09]]
 	* Week 10 782.0 #t2782 [[seasons/gcxi/week10]]
+* GCXI parade #t2794
+* Champions Circuit 794.9 795.9 796.9
+* UBBL Challenge V 800.0 -> 808.0
+* GCXII 1262.815-000:000 -> 1262.840-000:000
 
 
 
@@ -139,5 +143,6 @@ Current era players birthdates:
 * GCIX: 1261.604 - 1262.144
 * GCX: 1261.634 - 1262.174
 * GCXI: 1261.664 - 1262.204
+* GCXII: 1261.694 - 1262.234
 
 Old era player birthdates: 1260.933 - 1261.533 (random 600)

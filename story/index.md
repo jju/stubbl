@@ -8,3 +8,4 @@
 
 # other
 
+[[ft-parade]]

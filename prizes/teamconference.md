@@ -22,3 +22,8 @@
 
 - Burger Conference Champions [[filthytide]]
 - Classic Conference Champions [[glorioushounds]]
+
+# gcxii
+
+- Burger Conference Champions
+- Classic Conference Champions

@@ -63,34 +63,34 @@ For most Casualties in a season.
 
 # open division
 
-## ubbl challenge
+## uc
 
 [[galley]]
 
-## ubbl challenge ii
+## ucii
 
 [[marzhak]]
 
-## ubbl challenge iii
+## uciii
 
 [[katka]]
 
-## orange goblet
+## og
 
 [[katka]]
 
-## ubbl challenge iv
+## uciv
 
 [[Borislav]]
 
-## orange goblet ii
+## ogii
 
 [[Gottfried]]
 
-## orange goblet iii
+## ogiii
 
 [[katka]]
 
-## ubbl challenge v
+## ucv
 
-
+[[Asketill]]

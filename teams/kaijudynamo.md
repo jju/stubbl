@@ -10,28 +10,28 @@ The Dynamo use the Elizabeth Aardman playbook, with a front line of strong block
 
 |  # | Player    | Position  |  SPP | Seasons |   GP | Contracts |  Value | Bonus |
 |----|-----------|-----------|------|---------|------|-----------|--------|-------|
-|  1 | Vardan    | Runner    |   81 |       3 |   26 |         2 | 210000 | 20000 |
-|  2 | Louis     | Runner    |   62 |       3 |   18 |         1 | 170000 | 10000 |
-|  3 | Marco     | Runner    |   79 |       5 |   51 |         3 | 220000 | 40000 |
-|  4 | Fidolio   | Runner    |   58 |       6 |   31 |         2 | 140000 |     0 |
-|  5 | Deepali   | Blocker   |   82 |       6 |   75 |         5 | 250000 | 60000 |
-|  6 | Haruna    | Blocker   |   54 |       6 |   74 |         5 | 170000 |     0 |
-|  7 | Sudhir    | Blocker   |   21 |       4 |   24 |         2 | 150000 |     0 |
-|  9 | Quan      | Blocker   |   40 |       4 |   42 |         3 | 170000 | 30000 |
-| 10 | Nelson    | Blocker   |   39 |       6 |   48 |         3 | 140000 |     0 |
-| 11 | Ion       | Runner    |    8 |       3 |   11 |         1 | 110000 | 10000 |
-| 12 | Erika     | Runner    |   18 |       3 |   13 |         1 | 100000 |     0 |
-| 13 | Oliwer    | Runner    |   31 |       4 |   21 |         1 | 140000 | 10000 |
-| 14 | Dinh      | Runner    |   32 |       4 |   21 |         1 | 130000 |     0 |
-| 16 | Tijmen    | Heavy     |   85 |       5 |   55 |         4 | 280000 | 40000 |
+|    1 | Vardan    | Skink    |   81 |       3 |   26 |         2 | 210000 | 20000 |
+|    2 | Louis     | Skink    |   62 |       3 |   18 |         1 | 170000 | 10000 |
+|    3 | Marco     | Skink    |   79 |       5 |   51 |         3 | 220000 | 40000 |
+|    4 | Fidolio   | Skink    |   58 |       6 |   31 |         2 | 140000 |     0 |
+|    5 | Deepali   | Saurus   |   82 |       6 |   75 |         5 | 250000 | 60000 |
+|    6 | Haruna    | Saurus   |   54 |       6 |   74 |         5 | 170000 |     0 |
+|    7 | Nelson    | Saurus   |   39 |       7 |   51 |         3 | 140000 |     0 |
+|    8 | Narayan   | Saurus   |   34 |       5 |   43 |         3 | 170000 | 30000 |
+|    9 | Quan      | Saurus   |   40 |       5 |   45 |         3 | 170000 | 30000 |
+|   10 | Sudhir    | Saurus   |   21 |       5 |   27 |         2 | 150000 |     0 |
+|   11 | Ion       | Skink    |    8 |       3 |   11 |         1 | 110000 | 10000 |
+|   12 | Erika     | Skink    |   18 |       4 |   16 |         1 | 100000 |     0 |
+|   13 | Oliwer    | Skink    |   31 |       4 |   21 |         1 | 140000 | 10000 |
+|   14 | Dinh      | Skink    |   32 |       4 |   21 |         1 | 130000 |     0 |
+|   16 | Tijmen    | Kroxigor |   85 |       5 |   55 |         4 | 280000 | 40000 |
 
 ### Depth (on payroll)
 
 |  # | Player    | Position  | SPP | Seasons | GP | Contracts | Value | Bonus |
 |----|-----------|-----------|-----|---------|----|-----------|-------|-------|
-| 17 | Narayan   | Blocker   |  34 |       5 |   43 |         3 | 140000 |     0 |
-| 28 | Jana      | Runner    |   0 |       1 |    4 |         0 |  60000 |     0 |
-
+|   18 | Pentecost | Skink    |   32 |       7 |   74 |         5 | 170000 | 40000 |
+|   19 | Jana      | Skink    |    0 |       1 |    4 |         0 |  60000 |     0 |
 
 ### Non Roster
 
@@ -78,7 +78,7 @@ SELECT pl.nr AS "#", pl.name AS Player, pl.f_pos_name AS Position, sum(mp.spp) A
 | Team         | Division | W    | D    | L    | GP   | Win%   | GF   | GA   | Cas  | CasDiff | Fans |
 |--------------|----------|------|------|------|------|--------|------|------|------|---------|------|
 | Kaiju Dynamo | Pro      |   63 |   19 |   55 |  137 | 50.474 |  326 |  321 |  228 |       8 |    6 |
-| Kaiju Dynamo | Open     |    7 |    0 |    3 |   10 | 69.048 |   19 |   12 |   28 |      16 |    3 |
+| Kaiju Dynamo | Open     |    7 |    3 |    3 |   13 | 62.698 |   23 |   16 |   33 |      16 |    0 |
 | Kaiju Dynamo | Street   |    2 |    3 |    5 |   10 | 35.000 |   12 |   19 |    9 |     -17 |   -3 |
 
 ```
@@ -92,8 +92,7 @@ SELECT teams.name AS Team, divisions.name AS Division, sum(mr.won) AS W, sum(mr.
 
 | Team         | W    | D    | L    | GP   | Win%   | GF   | GA   | Cas  | CasDiff | Fans |
 |--------------|-----:|-----:|-----:|-----:|-------:|-----:|-----:|-----:|--------:|-----:|
-| Kaiju Dynamo |   72 |   22 |   63 |  157 | 52.141 |  357 |  352 |  265 |       7 |    6 |
-
+| Kaiju Dynamo |   72 |   25 |   63 |  160 | 51.988 |  361 |  356 |  270 |       7 |    3 |
 
 ```
 SELECT teams.name AS Team, sum(mr.won) AS W, sum(mr.draw) AS D, sum(mr.lost) AS L, sum(mr.played) AS GP, round(avg(mr.win_pct),3) AS "Win%", sum(mr.gf) AS GF, sum(mr.ga) AS GA, sum(mr.tcasf) AS Cas, sum(mr.tcdiff) AS CasDiff, sum(mr.ff) AS Fans FROM mv_teams AS mr JOIN teams ON teams.team_id = mr.f_tid WHERE teams.name = "Kaiju Dynamo" GROUP BY teams.name ORDER BY sum(mr.won) DESC limit 3;
@@ -119,6 +118,7 @@ SELECT teams.name AS Team, sum(mr.won) AS W, sum(mr.draw) AS D, sum(mr.lost) AS 
 | Kaiju Dynamo | Green Cup I          |    6 |    2 |    4 |     12 | 58.33 |   29 |   28 |   21 |     10 |    2 |
 | Kaiju Dynamo | Green Cup IX         |    8 |    3 |    6 |     17 | 55.88 |   50 |   45 |   23 |      0 |   -3 |
 | Kaiju Dynamo | Green Cup X          |    8 |    3 |    6 |     17 | 55.88 |   36 |   39 |   29 |     13 |    2 |
+| Kaiju Dynamo | UBBL Challenge V     |    0 |    3 |    0 |      3 |      50 |    4 |    4 |    4 |      0 |   -3 |
 | Kaiju Dynamo | Green Cup III        |    4 |    2 |    5 |     11 | 45.45 |   26 |   25 |   14 |    -11 |    0 |
 | Kaiju Dynamo | Green Cup Classic 06 |    2 |    4 |    3 |      9 | 44.44 |   20 |   19 |    9 |      0 |    1 |
 | Kaiju Dynamo | Green Cup VII        |    7 |    1 |    9 |     17 | 44.18 |   33 |   44 |   34 |      1 |    1 |
@@ -146,34 +146,29 @@ With Sabah's help the Dynamo finished on top of the GCVIII regular season standi
 
 The death of Sabah in GCX was a huge blow to the team and most commentators wrote them off right then. In the end, however they achieved the same record as in GCIX (albeit with 14 fewer TDs).
 
-#### Projection GCXI
-
-W-D-L 7-2-6
-
-Fighting for third place in the Heaps.
-
-#### summary last season
-
 The Dynamo really exceeded expectations in GCXI, collecting 10 wins and battling for the Division title throughout the season. That they were victims of a huge upset to the Vagabonds inthe first round of the playoffs hurt, but the fans seemed to understand.
 
-| Team         | round | Touches | TDs  | Rush | Cp   | PassDist | Caught | Intercepts | Cas  | Blocks | Sacks | MVPs | SPP  |  Location | WDL |
-|--------------|-------|---------|------|------|------|----------|--------|------------|------|--------|-------|------|------|-------------|-------------|
-| Kaiju Dynamo |     1 |       6 |    1 |   28 |    0 |        0 |      0 |          0 |    0 |     40 |     0 |    1 |    8 |           1 |           2 |
-| Kaiju Dynamo |     2 |      13 |    2 |   75 |    0 |        0 |      0 |          0 |    1 |     39 |     2 |    1 |   13 |           1 |           2 |
-| Kaiju Dynamo |     3 |      15 |    5 |   92 |    2 |       10 |      2 |          0 |    3 |     54 |     0 |    1 |   28 |           5 |           3 |
-| Kaiju Dynamo |     4 |       2 |    0 |    6 |    0 |        0 |      0 |          0 |    1 |     40 |     1 |    1 |    7 |           1 |           0 |
-| Kaiju Dynamo |     5 |      12 |    4 |   61 |    2 |        1 |      2 |          1 |    0 |     42 |     2 |    1 |   21 |           0 |           4 |
-| Kaiju Dynamo |     6 |       5 |    2 |   55 |    0 |        0 |      0 |          0 |    1 |     55 |     1 |    1 |   13 |           2 |           0 |
-| Kaiju Dynamo |     7 |      10 |    1 |   32 |    1 |        4 |      1 |          0 |    4 |     53 |     2 |    1 |   17 |           5 |           1 |
-| Kaiju Dynamo |     8 |      13 |    3 |   72 |    1 |        4 |      1 |          0 |    2 |     58 |     2 |    1 |   19 |           3 |           2 |
-| Kaiju Dynamo |     9 |       4 |    3 |   40 |    1 |        3 |      1 |          0 |    3 |     50 |     1 |    1 |   21 |           0 |           3 |
-| Kaiju Dynamo |    10 |       9 |    3 |   41 |    1 |       -2 |      1 |          0 |    1 |     48 |     2 |    1 |   17 |           3 |           0 |
-| Kaiju Dynamo |    11 |       7 |    1 |   37 |    0 |        0 |      0 |          0 |    3 |     35 |     2 |    1 |   14 |           1 |           1 |
-| Kaiju Dynamo |    12 |      11 |    0 |   65 |    3 |       11 |      3 |          0 |    1 |     53 |     0 |    1 |   10 |           0 |           6 |
-| Kaiju Dynamo |    13 |       7 |    2 |   49 |    2 |        6 |      2 |          0 |    2 |     44 |     1 |    1 |   17 |           0 |           2 |
-| Kaiju Dynamo |    14 |       1 |    3 |   38 |    0 |        0 |      0 |          0 |    1 |     48 |     0 |    1 |   16 |           3 |           2 |
-| Kaiju Dynamo |    15 |       9 |    2 |   47 |    0 |        0 |      0 |          1 |    3 |     43 |     1 |    1 |   19 |           1 |           2 |
-| Kaiju Dynamo |   R16 |      12 |    3 |   76 |    1 |        1 |      1 |          0 |    1 |     63 |     1 |    1 |   17 | Home | L |
+#### summary GCXI
+
+
+| Team         | round | Location | Result | Home | Away | Touches | TDs  | Rush | Cp   | PassDist | Caught | Intercepts | Cas  | Blocks | Sacks | MVPs | SPP  |
+|--------------|-------|----------|--------|------|------|---------|------|------|------|----------|--------|------------|------|--------|-------|------|------|
+| Kaiju Dynamo |     1 | Home     | Loss   |    1 |    2 |       6 |    1 |   28 |    0 |        0 |      0 |          0 |    0 |     40 |     0 |    1 |    8 |
+| Kaiju Dynamo |     2 | Away     | Win    |    1 |    2 |      13 |    2 |   75 |    0 |        0 |      0 |          0 |    1 |     39 |     2 |    1 |   13 |
+| Kaiju Dynamo |     3 | Home     | Win    |    5 |    3 |      15 |    5 |   92 |    2 |       10 |      2 |          0 |    3 |     54 |     0 |    1 |   28 |
+| Kaiju Dynamo |     4 | Away     | Loss   |    1 |    0 |       2 |    0 |    6 |    0 |        0 |      0 |          0 |    1 |     40 |     1 |    1 |    7 |
+| Kaiju Dynamo |     5 | Away     | Win    |    0 |    4 |      12 |    4 |   61 |    2 |        1 |      2 |          1 |    0 |     42 |     2 |    1 |   21 |
+| Kaiju Dynamo |     6 | Home     | Win    |    2 |    0 |       5 |    2 |   55 |    0 |        0 |      0 |          0 |    1 |     55 |     1 |    1 |   13 |
+| Kaiju Dynamo |     7 | Away     | Loss   |    5 |    1 |      10 |    1 |   32 |    1 |        4 |      1 |          0 |    4 |     53 |     2 |    1 |   17 |
+| Kaiju Dynamo |     8 | Home     | Win    |    3 |    2 |      13 |    3 |   72 |    1 |        4 |      1 |          0 |    2 |     58 |     2 |    1 |   19 |
+| Kaiju Dynamo |     9 | Away     | Win    |    0 |    3 |       4 |    3 |   40 |    1 |        3 |      1 |          0 |    3 |     50 |     1 |    1 |   21 |
+| Kaiju Dynamo |    10 | Home     | Win    |    3 |    0 |       9 |    3 |   41 |    1 |       -2 |      1 |          0 |    1 |     48 |     2 |    1 |   17 |
+| Kaiju Dynamo |    11 | Away     | Draw   |    1 |    1 |       7 |    1 |   37 |    0 |        0 |      0 |          0 |    3 |     35 |     2 |    1 |   14 |
+| Kaiju Dynamo |    12 | Home     | Loss   |    0 |    6 |      11 |    0 |   65 |    3 |       11 |      3 |          0 |    1 |     53 |     0 |    1 |   10 |
+| Kaiju Dynamo |    13 | Away     | Win    |    0 |    2 |       7 |    2 |   49 |    2 |        6 |      2 |          0 |    2 |     44 |     1 |    1 |   17 |
+| Kaiju Dynamo |    14 | Home     | Win    |    3 |    2 |       1 |    3 |   38 |    0 |        0 |      0 |          0 |    1 |     48 |     0 |    1 |   16 |
+| Kaiju Dynamo |    15 | Away     | Win    |    1 |    2 |       9 |    2 |   47 |    0 |        0 |      0 |          1 |    3 |     43 |     1 |    1 |   19 |
+| Kaiju Dynamo |   R16 | Home     | Loss   |    3 |    4 |      12 |    3 |   76 |    1 |        1 |      1 |          0 |    1 |     63 |     1 |    1 |   17 |
 
 ```
 SELECT pl.f_tname AS Team, mt.round, CASE WHEN mt.team1_id = md.f_team_id THEN "Home" ELSE "Away" END AS Location, CASE WHEN mt.team1_score - mt.team2_score > 0 AND mt.team1_id = md.f_team_id THEN "Win" WHEN mt.team2_score - mt.team1_score > 0 AND mt.team2_id = md.f_team_id THEN "Win" WHEN mt.team1_score = mt.team2_score THEN "Draw" ELSE "Loss" END AS Result, mt.team1_score AS Home, mt.team2_score AS Away, sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches) AS Touches, sum(md.td) AS TDs, sum(mx.rushing_distance_move) AS Rush, sum(md.cp) AS Cp, sum(mx.pass_distance) AS PassDist, sum(mx.catches) AS Caught, sum(md.intcpt) AS Intercepts, sum(md.bh) + sum(md.si) + sum(md.ki) AS Cas, sum(mx.inflicted_blocks) AS Blocks, sum(mx.inflicted_sacks) AS Sacks, sum(md.mvp) AS MVPs, (sum(md.td) * 3) + sum(md.cp) + (sum(md.intcpt) * 2) + (sum(md.bh) * 2) + (sum(md.si) * 2) + (sum(md.ki) * 2) + (sum(md.mvp) * 5) AS SPP FROM match_data AS md JOIN match_data_es AS mx ON md.f_player_id = mx.f_pid AND md.f_match_id = mx.f_mid JOIN players AS pl ON md.f_player_id = pl.player_id AND md.f_team_id = pl.owned_by_team_id JOIN matches AS mt ON mt.match_id = md.f_match_id WHERE md.f_tour_id = 29 AND pl.f_tname = "Kaiju Dynamo" GROUP BY pl.f_tname, mt.round ORDER BY mt.round ASC;
@@ -210,6 +205,14 @@ No major personnel losses over the season, though Starfin and Brown weren't reta
 ```
 SELECT pl.nr AS "#", pl.name AS Player, count(md.f_match_id) AS GP, sum(mx.catches) + sum(mx.pickups) + sum(md.intcpt) + sum(mx.handoff_catches) AS Touches, sum(md.td) AS TD, sum(mx.rushing_distance_move) AS Rsh, sum(md.cp) AS Cp, sum(mx.pass_distance) AS CpDst, sum(mx.catches) AS Ctch, sum(md.intcpt) AS "Int", sum(md.bh) + sum(md.si) + sum(md.ki) AS Cas, sum(mx.inflicted_blocks) AS Blk, sum(mx.inflicted_sacks) AS Sck, sum(md.mvp) AS MVP, sum(mx.interceptions_thrown) AS Intercepted, sum(mx.sustained_sacks) AS Sacked, sum(mx.sustained_kos) AS KOed, sum(mx.sustained_bhs) AS Hurt, sum(mx.sustained_sis) AS Injured, sum(mx.sustained_kill) AS Killed, (sum(md.td) * 3) + sum(md.cp) + (sum(md.intcpt) * 2) + (sum(md.bh) * 2) + (sum(md.si) * 2) + (sum(md.ki) * 2) + (sum(md.mvp) * 5) AS SPP FROM match_data AS md JOIN match_data_es AS mx ON md.f_player_id = mx.f_pid AND md.f_match_id = mx.f_mid JOIN players AS pl ON md.f_player_id = pl.player_id AND md.f_team_id = pl.owned_by_team_id JOIN matches AS mt ON mt.match_id = md.f_match_id JOIN tours ON md.f_tour_id = tours.tour_id AND md.f_did = tours.f_did WHERE tours.name = "Green Cup XI" AND pl.f_tname = "Kaiju Dynamo" GROUP BY pl.name, pl.nr ORDER BY pl.nr ASC;
 ```
+
+#### Projection GCXII
+
+W-D-L 7-1-7
+
+The Dynamo will probably be fighting for third place in the Heaps again, though the offseason feeling is that the Vagabonds will have
+
+
 
 ### Stars
 
