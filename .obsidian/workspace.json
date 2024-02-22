@@ -41,7 +41,8 @@
                       }
                     }
                   }
-                ]
+                ],
+                "currentTab": 1
               },
               {
                 "id": "da8a5cbaaca25629",
@@ -54,7 +55,7 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "positions/kicker.md",
+                        "file": "positions/catcher.md",
                         "mode": "source",
                         "source": true
                       }
@@ -81,13 +82,26 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "story/notes/01-stacks.md",
+                        "file": "story/2566-street.md",
+                        "mode": "source",
+                        "source": true
+                      }
+                    }
+                  },
+                  {
+                    "id": "e18ab1bcc216ccc1",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "story/2755-donatinterview.md",
                         "mode": "source",
                         "source": true
                       }
                     }
                   }
-                ]
+                ],
+                "currentTab": 1
               },
               {
                 "id": "4ed04effd1af26db",
@@ -178,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "story/notes/01-stacks.md",
+                "file": "story/2755-donatinterview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,8 +219,20 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "19fcccc25eb6a56c",
+  "active": "e18ab1bcc216ccc1",
   "lastOpenFiles": [
+    "positions/catcher.md",
+    "positions/kicker.md",
+    "story/2755-donatinterview.md",
+    "players/donat.md",
+    "story/2566-street.md",
+    "story/2683-gcv-veens.md",
+    "story/vh-trickery.md",
+    "story/rulesofthegame.md",
+    "story/re-funding.md",
+    "story/ft-parade.md",
+    "story/index.md",
+    "story/notes/01-stacks.md",
     "story/notes/01-slacker.md",
     "story/notes/01-roundup-b.md",
     "story/2564-masselevatorarrival.md",
@@ -214,25 +240,13 @@
     "story/2565-diggingupstuff.md",
     "story/2565-harebrainedscheme.md",
     "story/2565-KnockingonDoors.md",
-    "story/2566-street.md",
     "story/2568-firstviewveens.md",
-    "story/2683-gcv-veens.md",
     "story/2714-sabahsend.md",
     "story/2772-gcxi-om.md",
     "story/2772-gcxi-re.md",
     "mysqlqueries.md",
     "teams/oldwyrms.md",
     "seasons/gcxii/preseason.md",
-    "seasons/gcxii/week01.md",
-    "seasons/gcxii/index.md",
-    "teams/filthytide.md",
-    "players/Green.md",
-    "story/vh-trades.md",
-    "players/ziba.md",
-    "players/nicodemusii.md",
-    "story/vh-trickery.md",
-    "players/donat.md",
-    "timeline.md",
     "positions",
     "seasons/gcxii",
     "seasons/ucv"
