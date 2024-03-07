@@ -35,7 +35,7 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "players/donat.md",
+                        "file": "teams/orbitalmachine.md",
                         "mode": "source",
                         "source": true
                       }
@@ -55,7 +55,7 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "positions/catcher.md",
+                        "file": "teams/kickingmules.md",
                         "mode": "source",
                         "source": true
                       }
@@ -192,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "story/2755-donatinterview.md",
+                "file": "teams/kickingmules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,12 +219,16 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "e18ab1bcc216ccc1",
+  "active": "4be3a52b611d4d6b",
   "lastOpenFiles": [
+    "teams/orbitalmachine.md",
+    "players/donat.md",
+    "teams/kickingmules.md",
+    "teams/irregularcogs.md",
+    "teams/ravenouseagles.md",
+    "story/2755-donatinterview.md",
     "positions/catcher.md",
     "positions/kicker.md",
-    "story/2755-donatinterview.md",
-    "players/donat.md",
     "story/2566-street.md",
     "story/2683-gcv-veens.md",
     "story/vh-trickery.md",
@@ -243,10 +247,6 @@
     "story/2568-firstviewveens.md",
     "story/2714-sabahsend.md",
     "story/2772-gcxi-om.md",
-    "story/2772-gcxi-re.md",
-    "mysqlqueries.md",
-    "teams/oldwyrms.md",
-    "seasons/gcxii/preseason.md",
     "positions",
     "seasons/gcxii",
     "seasons/ucv"

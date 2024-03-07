@@ -12,7 +12,7 @@ Going into the GCXII season the Mules have a lot of flexibility with many player
 
 | # | Player    | Position  | SPP | Seasons | GP | Contracts | Value | Bonus |
 |---|-----------|-----------|-----|---------|----|-----------|-------|-------|
-|    1 | Pilvi     | Runner     49 |       2 |   16 |         1 | 170000 |     0 |
+|    1 | Pilvi     | Runner  |   49 |       2 |   16 |         1 | 170000 |     0 |
 |    2 | Bianka    | Runner  |   88 |       8 |   43 |         3 | 180000 |     0 |
 |    3 | Mawunyo   | Blitzer |   38 |       2 |   21 |         1 | 140000 |     0 |
 |    4 | Jade      | Blitzer |    9 |       2 |   15 |         1 | 100000 |     0 |
@@ -260,7 +260,9 @@ SELECT pl.nr AS "#", pl.name AS Player, pl.f_pos_name AS Position, count(DISTINC
 
 ### Management
 
-Pico Corp picked up the sponsorship of the mules who'd been a very effectively run community team.
+Pico Corp picked up the sponsorship of the Mules who'd been a very effectively run community team.
+
+Interesting fact: The Kicking Mules were not named after an animal but a machine. The team originated in the workshop of an Orolk factory where there was a finickymachine known as the Kicking Mule. After a series of injuries that were ignored by Orolk a worker was killed on the job, getting her head smashed in by the machine. The workers rose up and endured a brutal strike for labour protections and workplace safety. This became practically its own gang war, but eventually the workers prevailed. The Kicking Mule became the mascot for their BludBol team  with the symbol of a red bloody skull and grim-set black jaw so the players wouldn't forget how they came to be the toughest bunch of goons in the Stacks.
 
 ### Fans
 
