@@ -1,12 +1,12 @@
 # week 01
 
-Wow. Did free agency ever fuck up the Vanadium Hunters. Donat played one half of BludBol for the team and was promptly killed. By the crowd. The grand experiment has probably come to an end.
+Wow. Did free agency ever fuck up the Vanadium Hunters. Donat played one half of BludBol for the team and was promptly crippled. By the crowd. The grand experiment has probably come to an end.
 
 #t2750
 
 ## matchups
 
- The Carrion Pickers did their best against a Thorns team that really is good. Even with equalized team values they couldn't handle a superior, more efficient socring touch. 
+ The Carrion Pickers did their best against a Thorns team that really is good. Even with equalized team values they couldn't handle a superior, more efficient scoring touch. 
 
 
 ## standings
@@ -27,8 +27,8 @@ Wow. Did free agency ever fuck up the Vanadium Hunters. Donat played one half of
 
 ## player of the week standings
 
-| Player            | Team             | TDs  | Rush | Cp   | CpDist | Ctch | Int | Cas  | Blck | Sck | MVP | SPP  |
-|-------------------|------------------|------|------|------|----------|---------|---|---|--------|-------|------|------|
+| Player    | Team             | TDs  | Rush | Cp   | CpDist | Ctch | Int  | Cas  | Blck | Sck | MVP | SPP  |
+|-----------|------------------|------|------|------|--------|------|------|------|--------|-------|------|------|
 | Svjetlana | Warthogs         |    2 |   17 |    0 |      0 |    1 |    1 |    1 |    1 |    0 |    0 |   10 |
 | Tamara    | Thorns           |    3 |   36 |    1 |      6 |    5 |    0 |    0 |    1 |    0 |    0 |   10 |
 | Ella      | Raptors          |    3 |   35 |    0 |      0 |    1 |    0 |    0 |    0 |    0 |    0 |    9 |

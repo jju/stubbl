@@ -23,7 +23,7 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "story/vh-trades.md",
+                        "file": "players/donat.md",
                         "mode": "source",
                         "source": true
                       }
@@ -41,8 +41,7 @@
                       }
                     }
                   }
-                ],
-                "currentTab": 1
+                ]
               },
               {
                 "id": "da8a5cbaaca25629",
@@ -55,7 +54,7 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "teams/kickingmules.md",
+                        "file": "seasons/gcx/week15.md",
                         "mode": "source",
                         "source": true
                       }
@@ -94,7 +93,7 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "story/2755-donatinterview.md",
+                        "file": "story/2775-donatinterview.md",
                         "mode": "source",
                         "source": true
                       }
@@ -192,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "teams/kickingmules.md",
+                "file": "story/2775-donatinterview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,34 +218,34 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "4be3a52b611d4d6b",
+  "active": "e18ab1bcc216ccc1",
   "lastOpenFiles": [
-    "teams/orbitalmachine.md",
+    "timeline.md",
+    "teams/vanadiumhunters.md",
+    "story/2775-donatinterview.md",
+    "seasons/ogii/week01.md",
+    "teams/badgerclaws.md",
+    "prizes/teamdivision.md",
     "players/donat.md",
+    "prizes/bestmatch.md",
+    "seasons/gcx/week15.md",
+    "seasons/gcx/week16.md",
+    "seasons/gcx/week09.md",
+    "prizes/teamconference.md",
+    "prizes/team3rdplace.md",
+    "prizes/team2ndplace.md",
     "teams/kickingmules.md",
+    "prizes/index.md",
+    "prizes/team1stplace.md",
+    "seasons/gcviii/prizes.md",
+    "seasons/seasoncomps.md",
+    "story/vh-trades.md",
+    "teams/orbitalmachine.md",
     "teams/irregularcogs.md",
     "teams/ravenouseagles.md",
-    "story/2755-donatinterview.md",
     "positions/catcher.md",
     "positions/kicker.md",
     "story/2566-street.md",
-    "story/2683-gcv-veens.md",
-    "story/vh-trickery.md",
-    "story/rulesofthegame.md",
-    "story/re-funding.md",
-    "story/ft-parade.md",
-    "story/index.md",
-    "story/notes/01-stacks.md",
-    "story/notes/01-slacker.md",
-    "story/notes/01-roundup-b.md",
-    "story/2564-masselevatorarrival.md",
-    "story/2564-ZaacBugs.md",
-    "story/2565-diggingupstuff.md",
-    "story/2565-harebrainedscheme.md",
-    "story/2565-KnockingonDoors.md",
-    "story/2568-firstviewveens.md",
-    "story/2714-sabahsend.md",
-    "story/2772-gcxi-om.md",
     "positions",
     "seasons/gcxii",
     "seasons/ucv"
