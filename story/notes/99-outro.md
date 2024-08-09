@@ -1,6 +1,6 @@
 # on games
 
-Perhaps games exist that aren't some microcosm of the worlds they exist in.  Ones that are pure abstractionm removed from everything. The players would be perfectly isolated from the world, at least the top ones would. They would be a true escape. I picture those games with their clean edges determined by the demon spirits of mathematics.
+Perhaps games exist that aren't some microcosm of the worlds they exist in.  Ones that are pure abstraction removed from everything. The players would be perfectly isolated from the world, at least the top ones would. They would be a true escape. I picture those games with their clean edges determined by the demon spirits of mathematics.
 
 In my world we do things roughly. Less math, more statistics.
 
