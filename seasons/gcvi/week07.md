@@ -5,7 +5,9 @@ Gore Farmers L Carcosan Tatters 0 1
 Filthy Tide L Old Wyrms 3 4
 Irregular Cogs W Zensun Vagabonds 4 0
 
-This is the week [[yakup]] began to be the player we'd later know.
+This is the week [[yakup]] began to be the player we'd later know. 
+
+#t2578 
 
 ## standings
 

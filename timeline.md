@@ -24,8 +24,34 @@ Unless specified, we're dealing with the 1262 epoch.
 * GCIV 1262.163-652:653 (163.6)
 * GCV 1262.193-871:137 (193.8) Interrupted 
 * GCVI 1262.570-636:345 (570.6) -> 588-725:173 (588.8)
+	* Week 1 571.6
+	* Week 2 572.6
+	* Week 3 573.5
+	* Week 4 574.6
+	* Week 5 575.6
+	* Week 6 576.6 #t2577
+	* Week 7 577.7 #t2578 (Yakup 3 TDs - becoming amazeballs)
+	* Week 8 578.7
+	* Week 9 579.7 #t2580 (GCC06 Week 1)
+	* Week 10 580.8
+	* Week 11 581.8
 	* Week 12 582.8 #t2583 
+	* Week 13 583.9
+	* Week 14 585.0
+	* Week 15 (Quarterfinals) 586.4
+	* Week 16 (Semifinals) 587.6
+	* Week 17 (Green Cup) 588.8
 * GCC06 1262.578-665:147 (578.7) -> 588-665:208 (588.6)
+	* Week 1 579.7 #t2580 
+	* Week 2 580.6
+	* Week 3 581.6
+	* Week 4 582.6
+	* Week 5 583.5
+	* Week 6 584.5
+	* Week 7 585.4
+	* Week 8 586.3 (Quarterfinals)
+	* Week 9 587.4 (Semifinals)
+	* Week 10 588.6 (Green Cup)
 * GCVII 1262.606-843:983 (606.8)-> 622-753:488 (622.8)
 	* Week 3 610.0
 	* Week 4 611.0

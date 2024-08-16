@@ -16,5 +16,5 @@
 * gangsters muscling in to turn the bar into a gambling den like in the old days -> corporate crackdown and isn't this better than it used to be?
 * surveillance camera footage of the matches being upgraded
 * political messaging on the uniforms getting coopted
-* heartless corporate owners forcing play in toxic conditions -> this is what caused the massive strike that was the interruption
+* heartless corporate owners forcing play in toxic conditions -> this is what caused the massive strike that was the [[theinterruption]]
 * 

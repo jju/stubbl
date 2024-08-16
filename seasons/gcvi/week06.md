@@ -5,6 +5,9 @@ Glorious Hounds L Carcosan Tatters 1 2
 Ravenous Eagles W Irregular Cogs 2 1
 Old Wyrms D Zensun Vagabonds 3 3
 
+Yakup's first match. [[yakup]]
+
+#t2577 
 
 ## standings
 

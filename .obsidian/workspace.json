@@ -8,35 +8,73 @@
         "type": "split",
         "children": [
           {
-            "id": "cccecae38c03946d",
-            "type": "tabs",
+            "id": "d7a8e4f576798db9",
+            "type": "split",
             "dimension": 51.60051216389243,
             "children": [
               {
-                "id": "19fcccc25eb6a56c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "story/01-2563-intro.md",
-                    "mode": "source",
-                    "source": true
+                "id": "cccecae38c03946d",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "19fcccc25eb6a56c",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "story/01-2565-harebrainedscheme.md",
+                        "mode": "source",
+                        "source": true
+                      }
+                    }
+                  },
+                  {
+                    "id": "2610fb6cf22a8f28",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "story/notes/theinterruption.md",
+                        "mode": "source",
+                        "source": true
+                      }
+                    }
+                  },
+                  {
+                    "id": "e18ab1bcc216ccc1",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "matches/gcxi-15-omft.md",
+                        "mode": "source",
+                        "source": true
+                      }
+                    }
                   }
-                }
+                ],
+                "currentTab": 1
               },
               {
-                "id": "e18ab1bcc216ccc1",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "story/00-ratdream.md",
-                    "mode": "source",
-                    "source": true
+                "id": "b8e01ba33189fb93",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "56a7d54438e08bec",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "seasons/gcvi/week01.md",
+                        "mode": "source",
+                        "source": true
+                      }
+                    }
                   }
-                }
+                ]
               }
-            ]
+            ],
+            "direction": "horizontal"
           },
           {
             "id": "4ed04effd1af26db",
@@ -87,7 +125,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "interrup",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -124,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "story/01-2563-intro.md",
+                "file": "story/notes/theinterruption.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,34 +189,34 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "19fcccc25eb6a56c",
+  "active": "33dd74f32965b836",
   "lastOpenFiles": [
-    "story/notes/choicetree.md",
-    "story/notes/01-slacker.md",
-    "story/01-2563-intro.md",
-    "story/notes/01-roundup-b.md",
-    "story/notes/01-resist.md",
-    "story/notes/01-research.md",
-    "seasons/gcx/week15.md",
-    "players/donat.md",
-    "story/00-ratdream.md",
-    "story/notes/99-outro.md",
-    "story/06-vh-trickery.md",
-    "story/vh-trades.md",
-    "story/07-ft-parade.md",
-    "story/06-2775-donatinterview.md",
-    "story/06-2772-gcxi-re.md",
-    "story/06-2772-gcxi-om.md",
-    "story/04-2683-gcv-veens.md",
-    "story/05-2714-sabahsend.md",
-    "story/01-2568-firstviewveens.md",
+    "story/notes/xx-barhappenings.md",
+    "story/notes/theinterruption.md",
+    "story/01-2564-research.md",
+    "timeline.md",
+    "seasons/gcvi/week01.md",
+    "seasons/gcvi/week06.md",
+    "seasons/gcvi/week07.md",
+    "players/phemie.md",
+    "story/01-2565-harebrainedscheme.md",
+    "story/01-2563-resist.md",
     "story/01-2566-street.md",
     "story/01-2565-KnockingonDoors.md",
-    "story/01-2565-harebrainedscheme.md",
     "story/01-2565-diggingupstuff.md",
-    "story/01-2564-ZaacBugs.md",
+    "story/notes/people.md",
     "story/01-2564-masselevatorarrival.md",
-    "story/rulesofthegame.md",
+    "story/notes/99-outro.md",
+    "story/notes/choicetree.md",
+    "story/notes/philosophy of the game.md",
+    "story/notes/scraps.md",
+    "story/notes/xx-research.md",
+    "story/notes/o2-history.md",
+    "story/notes/01-research.md",
+    "story/notes/01-resist.md",
+    "story/01-2563-intro.md",
+    "story/01-2564-ZaacBugs.md",
+    "story/01-2570-game01.md",
     "positions",
     "seasons/gcxii",
     "seasons/ucv"

@@ -6,3 +6,5 @@
 
 born 1261.173-500:958
 passed the 1.5GSec mark between GCIX and GCV Memorial tournaments. This was a bit of a milestone for her and helps inflect the writing and depression in GCX
+
+Never going to be an insider. Arc goes: outside because doesn't give a shit, learning to give a shit, wanting to get inside and failing, thoughtful outside way
