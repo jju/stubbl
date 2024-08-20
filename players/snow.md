@@ -1,5 +1,5 @@
 # Snow
-[[cacklingfuries]][[heavy]][[oe-veteran]][[gcc06]][[gcvii]][[uci]][[gcviii]][[ucii]][[superstar]][[dead]]
+[[cacklingfuries]][[heavy]][[players/oe-veteran]][[gcc06]][[gcvii]][[uci]][[gcviii]][[ucii]][[superstar]][[dead]]
 
 Snow was brought back from the Green Cup IV season to give the Furies some durability in the modern era. He did a very good job of that until his death in the second UBBL Challenge.
 

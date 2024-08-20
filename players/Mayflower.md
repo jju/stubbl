@@ -1,2 +1,2 @@
-[[vanadiumhunters]][[line]][[oe-veteran]][[gciv]][[gcc06]][[gcvii]][[gcviii]][[ogi]][[ogii]][[ogiii]]
+[[vanadiumhunters]][[line]][[players/oe-veteran]][[gciv]][[gcc06]][[gcvii]][[gcviii]][[ogi]][[ogii]][[ogiii]]
 GP stats on stbblm are off. His first season was actually GCIV, so remove W-D-L 6-2-12 from his stats there. 

@@ -15,14 +15,14 @@ Everything she could discover on the wire though was about the Colonial Bludbol 
 What she pieced together from this mess (and tucked into her EDS):
 
 * 8 teams playing (names uncertain) 
-	* [[zensunvagabonds]]
-	* [[glorioushounds]]
-	* [[irregularcogs]]
-	* [[filthytide]]
-	* [[gorefarmers]]
-	* [[oldwyrms]]
-	* [[carcosantatters]]
-	* [[ravenouseagles]]
+	* [[zensunvagabonds]] - [[tradition]] history [[oe-veteran]] [[crime]] anti
+	* [[glorioushounds]] - [[beautifulgame]] passing [[hype]] 
+	* [[irregularcogs]] - [[ultrafans]] [[tradition]]
+	* [[filthytide]] - [[community]] outlands [[beautifulgame]] speed
+	* [[gorefarmers]] - [[community]] stacks [[crime]] [[oe-veteran]]
+	* [[oldwyrms]] - [[ultrafans]] [[hype]] 
+	* [[carcosantatters]] - [[hype]] [[oe-veteran]] [[beautifulgame]] ugliest
+	* [[ravenouseagles]] - [[crime]] using the game to benefit their people [[oe-veteran]] [[violence]]
 * All of them seem to be teams that played before but it's very difficult to find records from the old era.
 * No connection to any of the CBBL teams
 * basic rules

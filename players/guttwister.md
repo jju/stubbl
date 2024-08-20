@@ -1,6 +1,6 @@
 # Gut Twister
 
-[[gorefarmers]][[thrower]][[gcvi]][[oe-veteran]][[superstar]][[retired]]
+[[gorefarmers]][[thrower]][[gcvi]][[players/oe-veteran]][[superstar]][[retired]]
 
 Gut Twister was a mainstay for the Gore Farmers in the Old-Era when they were not very good at all, but he got to hold the fake Cup when the league returned. He felt forced out by management who didn't give him the chance to perform in the modern era, but retired peacably enough, even coming back for the GCV Memorial.
 

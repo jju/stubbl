@@ -1,6 +1,6 @@
 # Twig
 
-[[ravenouseagles]][[line]][[thrower]][[gcvi]][[gcvii]][[uci]][[oe-veteran]][[veteran]][[retired]]
+[[ravenouseagles]][[line]][[thrower]][[gcvi]][[gcvii]][[uci]][[players/oe-veteran]][[veteran]][[retired]]
 
 Twig was one of the few veterans of the Old-Era the Ossa ownership group managed to entice back for the modern reincarnation. His old-era stats wouldn't have been in Green Cup play so they aren't reproduced below. In the modern era he was a ball-carrier who ditched things off to others for TDs, which is a useful talent for a player with fairly limited talents.
 

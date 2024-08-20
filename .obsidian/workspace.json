@@ -17,25 +17,14 @@
                 "type": "tabs",
                 "children": [
                   {
-                    "id": "19fcccc25eb6a56c",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "story/01-2565-harebrainedscheme.md",
-                        "mode": "source",
-                        "source": true
-                      }
-                    }
-                  },
-                  {
                     "id": "2610fb6cf22a8f28",
                     "type": "leaf",
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "story/notes/theinterruption.md",
+                        "file": "story/notes/philosophy of the game.md",
                         "mode": "source",
+                        "backlinks": true,
                         "source": true
                       }
                     }
@@ -46,7 +35,19 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "matches/gcxi-15-omft.md",
+                        "file": "story/01-2564-research.md",
+                        "mode": "source",
+                        "source": true
+                      }
+                    }
+                  },
+                  {
+                    "id": "e1b23a63a18e348d",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "seasons/gcc06/week01.md",
                         "mode": "source",
                         "source": true
                       }
@@ -60,12 +61,96 @@
                 "type": "tabs",
                 "children": [
                   {
+                    "id": "1f9a53ab758d0002",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "story/notes/beautifulgame.md",
+                        "mode": "source",
+                        "source": true
+                      }
+                    }
+                  },
+                  {
+                    "id": "09cac603ca69944b",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "story/notes/community.md",
+                        "mode": "source",
+                        "source": true
+                      }
+                    }
+                  },
+                  {
+                    "id": "ee0256f334b4c06d",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "story/notes/crime.md",
+                        "mode": "source",
+                        "source": true
+                      }
+                    }
+                  },
+                  {
                     "id": "56a7d54438e08bec",
                     "type": "leaf",
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "seasons/gcvi/week01.md",
+                        "file": "story/notes/tradition.md",
+                        "mode": "source",
+                        "source": true
+                      }
+                    }
+                  },
+                  {
+                    "id": "2434126708f0d4d7",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "story/notes/index.md",
+                        "mode": "source",
+                        "source": true
+                      }
+                    }
+                  },
+                  {
+                    "id": "9abae250c3d84b60",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "story/notes/hype.md",
+                        "mode": "source",
+                        "source": true
+                      }
+                    }
+                  },
+                  {
+                    "id": "d9730bf1e5802e3f",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "story/notes/ultrafans.md",
+                        "mode": "source",
+                        "source": true
+                      }
+                    }
+                  },
+                  {
+                    "id": "e4469dea10b091ed",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "story/notes/violence.md",
                         "mode": "source",
                         "source": true
                       }
@@ -125,7 +210,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "interrup",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -162,7 +247,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "story/notes/theinterruption.md",
+                "file": "story/notes/beautifulgame.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,34 +274,34 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "33dd74f32965b836",
+  "active": "1f9a53ab758d0002",
   "lastOpenFiles": [
+    "story/notes/index.md",
+    "story/notes/labour.md",
+    "story/notes/violence.md",
+    "story/notes/ultrafans.md",
+    "story/notes/beautifulgame.md",
+    "story/01-2564-research.md",
+    "seasons/gcc06/week01.md",
+    "story/notes/hype.md",
+    "story/notes/tradition.md",
+    "story/notes/crime.md",
+    "story/notes/community.md",
+    "story/notes/philosophy of the game.md",
+    "story/notes/11-choicetree.md",
+    "seasons/gcvi/week01.md",
+    "story/notes/01-roundup-b.md",
+    "players/oe-veteran.md",
+    "story/01-2565-harebrainedscheme.md",
+    "story/notes/01-research.md",
+    "matches/gcxi-15-omft.md",
+    "story/notes/oe-veteran.md",
+    "players/hulud.md",
     "story/notes/xx-barhappenings.md",
     "story/notes/theinterruption.md",
-    "story/01-2564-research.md",
     "timeline.md",
-    "seasons/gcvi/week01.md",
     "seasons/gcvi/week06.md",
     "seasons/gcvi/week07.md",
-    "players/phemie.md",
-    "story/01-2565-harebrainedscheme.md",
-    "story/01-2563-resist.md",
-    "story/01-2566-street.md",
-    "story/01-2565-KnockingonDoors.md",
-    "story/01-2565-diggingupstuff.md",
-    "story/notes/people.md",
-    "story/01-2564-masselevatorarrival.md",
-    "story/notes/99-outro.md",
-    "story/notes/choicetree.md",
-    "story/notes/philosophy of the game.md",
-    "story/notes/scraps.md",
-    "story/notes/xx-research.md",
-    "story/notes/o2-history.md",
-    "story/notes/01-research.md",
-    "story/notes/01-resist.md",
-    "story/01-2563-intro.md",
-    "story/01-2564-ZaacBugs.md",
-    "story/01-2570-game01.md",
     "positions",
     "seasons/gcxii",
     "seasons/ucv"

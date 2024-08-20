@@ -1,6 +1,6 @@
 # Eloquence
 
-[[glorioushounds]][[blitzer]][[gcvi]][[gcvii]][[uci]][[uciv]][[oe-veteran]][[retired]]
+[[glorioushounds]][[blitzer]][[gcvi]][[gcvii]][[uci]][[uciv]][[players/oe-veteran]][[retired]]
 
 One of the few oldschool Hounds that Ozyman could entice back onto the pitch (the idea that the rest of them were too vain to show how their skills may have deteriorated is quite prevalent). She had been out of the game since the first UBBL Challenge, but Ozyman called her up again for the direct elimination portion of UBBL Challenge IV, where she played well. Her fairly basic skillset compared to many Hounds meant it hadn't gone rusty in the intervening years, and now she's "retired" with a pennant (although if they pay to bring her back for GCXI, she's made it clear she won't refuse).
 

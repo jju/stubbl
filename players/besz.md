@@ -1,6 +1,6 @@
 # Besz
 
-[[irregularcogs]][[runner]][[oe-veteran]][[gcvi]][[gcvii]][[uci]][[gcviii]][[ucii]][[gcix]][[legend]][[retired]]
+[[irregularcogs]][[runner]][[players/oe-veteran]][[gcvi]][[gcvii]][[uci]][[gcviii]][[ucii]][[gcix]][[legend]][[retired]]
 
 Besz is a veteran of the old UBBL, though she joined the Cogs as a replacement for [[Halfleg]] and didn't play with the legend. Her Games Played stat was for some time inflated beyond its true standing (she had 4 games in the Old-Era and the unofficial recorded GPs are 47).
 

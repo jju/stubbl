@@ -1,6 +1,6 @@
 # Adeno
 
-[[carcosantatters]][[oe-veteran]][[gcvi]][[star]][[blocker]][[retired]]
+[[carcosantatters]][[players/oe-veteran]][[gcvi]][[star]][[blocker]][[retired]]
 
 Adeno was a star in the old era of BludBol and when BSEncef was building a team for the renaissance Adeno joined right in. They were mostly a roadblock in GCVI before retiring and getting replaced by modern blockers, but the team was thankful for their service, which continued in the street-level GCV Memorial tournament.
 

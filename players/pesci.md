@@ -1,6 +1,6 @@
 # Pesci
 
-[[oldwyrms]][[oe-veteran]][[gcvi]][[catcher]][[star]][[retired]]
+[[oldwyrms]][[players/oe-veteran]][[gcvi]][[catcher]][[star]][[retired]]
 
 Pesci was a star old-era catcher brought in to help shore up the team for the initial presumably rough season. He wasn't as good as he used to be, and retired after a bad injury near the end of the GCVI season.
 

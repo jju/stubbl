@@ -1,6 +1,6 @@
 # Hulud
 
-[[zensunvagabonds]][[heavy]][[oe-veteran]][[gcvi]][[gcvii]][[uci]][[gcviii]][[superstar]][[retired]]
+[[zensunvagabonds]][[heavy]][[players/oe-veteran]][[gcvi]][[gcvii]][[uci]][[gcviii]][[superstar]][[retired]]
 
 Hulud is the (pre-GCXI) leader in UBBL games played. He was there from the beginning of the Zensun Vagabonds, and from current records it appears he never missed a match. 
 

@@ -1,6 +1,6 @@
 # Rickon
 
-[[cacklingfuries]][[catcher]][[oe-veteran]][[gcc06]][[gcvii]][[uci]][[gcviii]][[gcxi]][[active]][[superstar]]
+[[cacklingfuries]][[catcher]][[players/oe-veteran]][[gcc06]][[gcvii]][[uci]][[gcviii]][[gcxi]][[active]][[superstar]]
 
 Rickon played a couple of seasons in the old-era and remains on the active roster in GCXI, mostly as a backup if part of the fragile developing stars get hurt. He appreciates his role as the grizzled old vet and tells stories of [[snow]] whom he was buddies with back in the day.
 

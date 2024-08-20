@@ -1,6 +1,6 @@
 # Chomps
 
-[[filthytide]][[blitzer]][[oe-veteran]][[gcvi]][[gcvii]][[uci]][[gcviii]][[seasonedveteran]][[dead]]
+[[filthytide]][[blitzer]][[players/oe-veteran]][[gcvi]][[gcvii]][[uci]][[gcviii]][[seasonedveteran]][[dead]]
 
 Chomps was a veteran of the old era, where he was emerging as a star before the interruption. When he came back to the UBBL for the modern era he played more of a aupporting role for players like [[yakup]]. He inflicted the very first fatality in GCVI (taking out the Irregular Cogs' [[silas]]).
 

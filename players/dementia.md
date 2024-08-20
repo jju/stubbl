@@ -1,6 +1,6 @@
 # Dementia
 
-[[carcosantatters]][[oe-veteran]][[gcvi]][[gcvii]][[blitzer]][[superstar]][[dead]]
+[[carcosantatters]][[players/oe-veteran]][[gcvi]][[gcvii]][[blitzer]][[superstar]][[dead]]
 
 Dementia played for the Old-Era Carcosan Tatters and was a star back then. After the interruption they were an important experienced part of the team that gave some name recognition for fans but wasn't a dominant force. They were benched after GCVII and only returned to the field for the GCV Memorial season. They were killed in a 0-0 draw against the [Gore Farmers](../teams/gorefarmers), a game whose meaninglessness makes the whole thing seem suspect. But they wanted to play until they couldn't.
 

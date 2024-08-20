@@ -1,5 +1,5 @@
 # Sardines
-[[filthytide]][[catcher]][[oe-veteran]][[superstar]][[dead]]
+[[filthytide]][[catcher]][[players/oe-veteran]][[superstar]][[dead]]
 
 An original UBBL scorer so good he had the "Most TDs in a Season prize named after him."
 
