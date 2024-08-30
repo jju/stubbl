@@ -2,7 +2,13 @@
 
 In most ways, Jane's hab wasn't any different from any other 'Burger's. A few metres across in either direction, a little shorter than it was wide and long. The bunk flipped up into the wall to be replaced by a table or an entertainment lounger. The kitchen wall had the normal foodstock printers and recyclers. There was loads of soundproofing for effective neighbour isolation and the shower/toilet combo corner with a privacy shield. All very standard.
 
+What wasn't standard was the number of infosheets scattered around. Every surface was covered in heaps (where it didn't have an unrecycled foodbox) of the flimsy things. Most sheets only had a sentence fragment or two of typescript; some had Jane's scrawling commentary. Barely any were full.
 
+Jane didn't need to work this way. Her ~~[[EDS]]~~ was connected to the Wire where she'd been finding all of this information. She could have selected and highlighted and let the machine amalgamate things into nice and neat packages of condensed information. That would have been a lot tidier. Kayro Jane had never been known to be tidy.
+
+The mess wasn't the problem, though. The problem was that the information she needed wasn't in the mess. And it wasn't in the mess because it wasn't on the Wire.
+
+There was loads of information about bludbol on the Wire, true. Jane had all the basics about numbers of players
 
 #t2566
 

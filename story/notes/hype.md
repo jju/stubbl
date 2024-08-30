@@ -7,3 +7,5 @@ The #hype storyline in GCVI follows these teams:
 When GCC06 begins we add in:
 
 * [[eldritchfatality]] - pegged to be the most talented team in GCC06, they stole the playbook from the irregular cogs and are trying to ride coattails [[strategy]] subplot
+
+Following this story leads into #activist status.

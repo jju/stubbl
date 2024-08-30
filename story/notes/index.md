@@ -1,11 +1,11 @@
 # storylines
 
-* [[beautifulgame]]
-* [[community]]
-* [[crime]]
-* [[tradition]] 
-* [[ultrafans]]  
+* [[beautifulgame]] #aficionado
+* [[community]] #activist 
+* [[crime]] #investigator
+* [[tradition]] #historian 
+* [[ultrafans]]  #aficionado
 
 * [[hype]] 
 * [[violence]] #todo 
-* [[labour]] #todo 
+* [[labour]] #todo #activist 

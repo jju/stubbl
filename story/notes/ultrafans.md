@@ -6,3 +6,5 @@ The #ultrafans storyline in GCVI follows these teams:
 When GCC06 begins we add in:
 
 * [[darklingspectres]] - unconcerned with the product on the field
+
+Following this story leads into #aficionado status.

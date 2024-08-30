@@ -35,7 +35,7 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "story/01-2564-research.md",
+                        "file": "teams/gargantuanbrutes.md",
                         "mode": "source",
                         "source": true
                       }
@@ -156,7 +156,8 @@
                       }
                     }
                   }
-                ]
+                ],
+                "currentTab": 2
               }
             ],
             "direction": "horizontal"
@@ -247,7 +248,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "story/notes/beautifulgame.md",
+                "file": "story/notes/crime.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -274,19 +275,22 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "1f9a53ab758d0002",
+  "active": "ee0256f334b4c06d",
   "lastOpenFiles": [
-    "story/notes/index.md",
-    "story/notes/labour.md",
-    "story/notes/violence.md",
-    "story/notes/ultrafans.md",
-    "story/notes/beautifulgame.md",
+    "teams/gargantuanbrutes.md",
     "story/01-2564-research.md",
-    "seasons/gcc06/week01.md",
+    "story/notes/crime.md",
+    "story/notes/people.md",
+    "timeline.md",
+    "story/notes/index.md",
+    "story/notes/violence.md",
+    "story/notes/beautifulgame.md",
+    "story/notes/ultrafans.md",
     "story/notes/hype.md",
     "story/notes/tradition.md",
-    "story/notes/crime.md",
     "story/notes/community.md",
+    "story/notes/labour.md",
+    "seasons/gcc06/week01.md",
     "story/notes/philosophy of the game.md",
     "story/notes/11-choicetree.md",
     "seasons/gcvi/week01.md",
@@ -299,9 +303,6 @@
     "players/hulud.md",
     "story/notes/xx-barhappenings.md",
     "story/notes/theinterruption.md",
-    "timeline.md",
-    "seasons/gcvi/week06.md",
-    "seasons/gcvi/week07.md",
     "positions",
     "seasons/gcxii",
     "seasons/ucv"
