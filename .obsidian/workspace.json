@@ -26,7 +26,9 @@
                         "mode": "source",
                         "backlinks": true,
                         "source": true
-                      }
+                      },
+                      "icon": "lucide-file",
+                      "title": "philosophy of the game"
                     }
                   },
                   {
@@ -38,7 +40,9 @@
                         "file": "teams/gargantuanbrutes.md",
                         "mode": "source",
                         "source": true
-                      }
+                      },
+                      "icon": "lucide-file",
+                      "title": "gargantuanbrutes"
                     }
                   },
                   {
@@ -50,7 +54,9 @@
                         "file": "seasons/gcc06/week01.md",
                         "mode": "source",
                         "source": true
-                      }
+                      },
+                      "icon": "lucide-file",
+                      "title": "week01"
                     }
                   }
                 ],
@@ -69,7 +75,9 @@
                         "file": "story/notes/beautifulgame.md",
                         "mode": "source",
                         "source": true
-                      }
+                      },
+                      "icon": "lucide-file",
+                      "title": "beautifulgame"
                     }
                   },
                   {
@@ -81,7 +89,9 @@
                         "file": "story/notes/community.md",
                         "mode": "source",
                         "source": true
-                      }
+                      },
+                      "icon": "lucide-file",
+                      "title": "community"
                     }
                   },
                   {
@@ -90,10 +100,12 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "story/notes/crime.md",
+                        "file": "seasons/gcc06/week01.md",
                         "mode": "source",
                         "source": true
-                      }
+                      },
+                      "icon": "lucide-file",
+                      "title": "week01"
                     }
                   },
                   {
@@ -105,7 +117,9 @@
                         "file": "story/notes/tradition.md",
                         "mode": "source",
                         "source": true
-                      }
+                      },
+                      "icon": "lucide-file",
+                      "title": "tradition"
                     }
                   },
                   {
@@ -117,7 +131,9 @@
                         "file": "story/notes/index.md",
                         "mode": "source",
                         "source": true
-                      }
+                      },
+                      "icon": "lucide-file",
+                      "title": "index"
                     }
                   },
                   {
@@ -129,7 +145,9 @@
                         "file": "story/notes/hype.md",
                         "mode": "source",
                         "source": true
-                      }
+                      },
+                      "icon": "lucide-file",
+                      "title": "hype"
                     }
                   },
                   {
@@ -141,7 +159,9 @@
                         "file": "story/notes/ultrafans.md",
                         "mode": "source",
                         "source": true
-                      }
+                      },
+                      "icon": "lucide-file",
+                      "title": "ultrafans"
                     }
                   },
                   {
@@ -153,7 +173,9 @@
                         "file": "story/notes/violence.md",
                         "mode": "source",
                         "source": true
-                      }
+                      },
+                      "icon": "lucide-file",
+                      "title": "violence"
                     }
                   }
                 ],
@@ -176,7 +198,9 @@
                     "file": "timeline.md",
                     "mode": "source",
                     "source": true
-                  }
+                  },
+                  "icon": "lucide-file",
+                  "title": "timeline"
                 }
               }
             ]
@@ -201,8 +225,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -217,7 +244,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -225,7 +254,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -256,7 +287,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for crime"
             }
           }
         ]
@@ -268,6 +301,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -277,9 +311,12 @@
   },
   "active": "ee0256f334b4c06d",
   "lastOpenFiles": [
+    "seasons/gcvi/week01.md",
+    "teams/darklingspectres.md",
+    "teams/carcosantatters.md",
+    "story/notes/crime.md",
     "teams/gargantuanbrutes.md",
     "story/01-2564-research.md",
-    "story/notes/crime.md",
     "story/notes/people.md",
     "timeline.md",
     "story/notes/index.md",
@@ -293,7 +330,6 @@
     "seasons/gcc06/week01.md",
     "story/notes/philosophy of the game.md",
     "story/notes/11-choicetree.md",
-    "seasons/gcvi/week01.md",
     "story/notes/01-roundup-b.md",
     "players/oe-veteran.md",
     "story/01-2565-harebrainedscheme.md",
@@ -301,8 +337,6 @@
     "matches/gcxi-15-omft.md",
     "story/notes/oe-veteran.md",
     "players/hulud.md",
-    "story/notes/xx-barhappenings.md",
-    "story/notes/theinterruption.md",
     "positions",
     "seasons/gcxii",
     "seasons/ucv"
